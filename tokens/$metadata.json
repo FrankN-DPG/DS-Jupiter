@@ -1,6 +1,9 @@
 {
   "tokenSetOrder": [
-    "global",
-    "component/button"
+    "component/button",
+    "mode/light",
+    "brand/generic",
+    "alias/alias",
+    "core/core"
   ]
 }

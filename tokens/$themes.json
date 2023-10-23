@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "a8c5b2af70f92cad804c5aec857fb8c1b627a149",
+    "name": "generic",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component/button": "enabled",
+      "brand/generic": "enabled",
+      "alias/alias": "enabled",
+      "core/core": "source"
+    },
+    "group": "brand"
+  },
+  {
+    "id": "c7498735bb2ddec524d181b38efffd7c98f3d883",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "mode/light": "enabled"
+    },
+    "group": "mode"
+  }
+]
