@@ -1,5 +1,47 @@
 { "core": {
     "color": {
+        "green" {
+        {
+          "value": "rgba(233, 242, 245, 0)",
+          "type": "color"
+        },
+        {
+          "value": "rgba(222, 236, 240, 0)",
+          "type": "color"
+        },
+        {
+          "value": "rgba(186, 215, 225, 0)",
+          "type": "color"
+        },
+        {
+          "value": "rgba(32, 126, 158, 0)",
+          "type": "color"
+        },
+        {
+          "value": "rgba(29, 113, 142, 0)",
+          "type": "color"
+        },
+        {
+          "value": "rgba(26, 101, 126, 0)",
+          "type": "color"
+        },
+        {
+          "value": "rgba(24, 95, 119, 0)",
+          "type": "color"
+        },
+        {
+          "value": "rgba(19, 76, 95, 0)",
+          "type": "color"
+        },
+        {
+          "value": "rgba(14, 57, 71, 0)",
+          "type": "color"
+        },
+        {
+          "value": "rgba(11, 44, 55, 0)",
+          "type": "color"
+        }
+      },
       "neutral": {
         "100": {
           "value": "#ffffff",
