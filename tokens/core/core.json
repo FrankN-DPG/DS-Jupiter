@@ -1,4 +1,5 @@
-{ "core": {
+{
+  "core": {
     "color": {
       "neutral": {
         "100": {
@@ -495,6 +496,5 @@
         "type": "boxShadow"
       }
     }
-
   }
 }

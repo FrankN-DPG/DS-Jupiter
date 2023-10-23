@@ -1,1 +1,12 @@
-{}
+{
+  "alias": {
+    "action": {
+      "color": {
+        "default": {
+          "value": "{alias.action.color.default.light}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

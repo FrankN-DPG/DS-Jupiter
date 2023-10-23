@@ -1,1 +1,12 @@
-{}
+{
+  "alias": {
+    "font": {
+      "size": {
+        "body": {
+          "value": "{core.typography.fontSize.100}",
+          "type": "fontSizes"
+        }
+      }
+    }
+  }
+}

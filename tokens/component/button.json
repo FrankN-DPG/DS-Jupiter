@@ -2,61 +2,22 @@
   "button": {
     "color": {
       "background": {
-        "primary": {
-          "default": {
-            "value": "#207E9E",
-            "type": "color"
-          }
+        "default": {
+          "value": "{alias.action.color.default}",
+          "type": "color"
         }
       }
     },
-    "spacing": {
-      "vertical": {
-        "m": {
-          "value": "8px",
-          "type": "spacing"
-        }
-      },
-      "horizontal": {
-        "m": {
-          "value": "16px",
-          "type": "spacing"
-        }
-      },
-      "gap": {
-        "m": {
-          "value": "8px",
-          "type": "spacing"
-        }
-      }
-    },
-    "radius": {
-      "value": "0px",
-      "type": "borderRadius"
-    },
-    "border": {
-      "width": {
-        "primary": {
-          "default": {
-            "value": "0px",
-            "type": "borderWidth"
-          }
-        }
-      },
-      "color": {
-        "value": {
-          "width": "0px",
-          "style": "solid"
-        },
-        "type": "border"
-      }
-    },
-    "text": {
-      "color": {
-        "primary": {
-          "default": {
-            "value": "#fff",
-            "type": "color"
+    "label": {
+      "text": {
+        "size": {
+          "m": {
+            "value": "{alias.font.size.body}",
+            "type": "fontSizes"
+          },
+          "s": {
+            "value": "{alias.font.size.smallBody}",
+            "type": "fontSizes"
           }
         }
       }

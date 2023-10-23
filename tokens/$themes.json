@@ -7,7 +7,8 @@
       "component/button": "enabled",
       "brand/generic": "enabled",
       "alias/alias": "enabled",
-      "core/core": "source"
+      "core/core": "source",
+      "component/link": "enabled"
     },
     "group": "brand"
   },
@@ -16,7 +17,8 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled"
+      "mode/light": "enabled",
+      "component/link": "disabled"
     },
     "group": "mode"
   }
