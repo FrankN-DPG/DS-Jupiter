@@ -5,10 +5,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "component/button": "enabled",
-      "brand/generic": "enabled",
-      "alias/alias": "enabled",
       "core/core": "source",
-      "component/link": "enabled"
+      "component/link": "enabled",
+      "alias/jupiter": "enabled",
+      "core/jupiterCore": "source"
     },
     "group": "brand"
   },
@@ -17,8 +17,7 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled",
-      "component/link": "disabled"
+      "mode/light": "enabled"
     },
     "group": "mode"
   }

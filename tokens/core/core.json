@@ -372,6 +372,10 @@
     },
     "shape": {
       "radius": {
+        "0": {
+          "value": "0px",
+          "type": "borderRadius"
+        },
         "50": {
           "value": "2px",
           "type": "borderRadius"

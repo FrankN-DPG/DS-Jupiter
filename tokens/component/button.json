@@ -1,24 +1,36 @@
 {
   "button": {
-    "color": {
-      "background": {
-        "default": {
-          "value": "{alias.action.color.default}",
-          "type": "color"
+    "spacing": {
+      "gap": {
+        "md": {
+          "value": "{alias.button.spacing.gap.md}",
+          "type": "spacing"
+        }
+      },
+      "vertical": {
+        "md": {
+          "value": "{alias.button.spacing.vertical.md}",
+          "type": "spacing"
+        }
+      },
+      "horizontal": {
+        "md": {
+          "value": "{alias.button.spacing.horizontal.md}",
+          "type": "spacing"
         }
       }
     },
-    "label": {
-      "text": {
-        "size": {
-          "m": {
-            "value": "{alias.font.size.body}",
-            "type": "fontSizes"
-          },
-          "s": {
-            "value": "{alias.font.size.smallBody}",
-            "type": "fontSizes"
-          }
+    "radius": {
+      "value": "{alias.button.radius}",
+      "type": "borderRadius"
+    }
+  },
+  "alias": {
+    "button": {
+      "border": {
+        "width": {
+          "value": "{alias.button.border.width}",
+          "type": "borderWidth"
         }
       }
     }

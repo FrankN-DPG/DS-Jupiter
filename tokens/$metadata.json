@@ -3,8 +3,8 @@
     "component/button",
     "component/link",
     "mode/light",
-    "brand/generic",
-    "alias/alias",
+    "alias/jupiter",
+    "core/jupiterCore",
     "core/core"
   ]
 }
