@@ -42,6 +42,14 @@
           }
         }
       }
+    },
+    "action": {
+      "color": {
+        "default": {
+          "value": "{jupiterCore.color.blue.600}",
+          "type": "color"
+        }
+      }
     }
   }
 }

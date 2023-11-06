@@ -23,6 +23,24 @@
     "radius": {
       "value": "{alias.button.radius}",
       "type": "borderRadius"
+    },
+    "primary": {
+      "default": {
+        "background": {
+          "color": {
+            "value": "{alias.action.color.default}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "text": {
+      "font-family": {
+        "value": {
+          "fontFamily": "Proxima Nova"
+        },
+        "type": "typography"
+      }
     }
   },
   "alias": {
