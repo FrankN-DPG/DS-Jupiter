@@ -8,7 +8,22 @@
       "core/core": "source",
       "component/link": "enabled",
       "alias/jupiter": "enabled",
-      "core/jupiterCore": "source"
+      "core/jupiterCore": "source",
+      "alias/vtwonen": "disabled"
+    },
+    "group": "brand"
+  },
+  {
+    "id": "3aa804b84803a0a68ea1c52eb704062eb42dfea8",
+    "name": "vt",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component/button": "enabled",
+      "component/link": "enabled",
+      "mode/light": "enabled",
+      "core/core": "source",
+      "core/vtwonenCore": "source",
+      "alias/vtwonen": "enabled"
     },
     "group": "brand"
   },
@@ -17,7 +32,8 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled"
+      "mode/light": "enabled",
+      "alias/vtwonen": "disabled"
     },
     "group": "mode"
   }

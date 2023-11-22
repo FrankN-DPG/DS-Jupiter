@@ -4,7 +4,9 @@
     "component/link",
     "mode/light",
     "alias/jupiter",
+    "alias/vtwonen",
     "core/jupiterCore",
+    "core/vtwonenCore",
     "core/core"
   ]
 }

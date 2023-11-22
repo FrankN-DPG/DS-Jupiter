@@ -44,7 +44,7 @@
       },
       "text": {
         "color": {
-          "value": "#fff",
+          "value": "#000",
           "type": "color"
         }
       }
@@ -63,7 +63,7 @@
       "font-family": {
         "value": {
           "fontFamily": "Proxima Nova",
-          "fontWeight": "Bold"
+          "fontWeight": "Regular"
         },
         "type": "typography"
       }

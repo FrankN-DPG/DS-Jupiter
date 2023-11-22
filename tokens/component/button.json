@@ -35,12 +35,8 @@
       }
     },
     "text": {
-      "font-family": {
-        "value": {
-          "fontFamily": "Proxima Nova"
-        },
-        "type": "typography"
-      }
+      "value": "{button.text.font-family}",
+      "type": "typography"
     }
   },
   "alias": {
