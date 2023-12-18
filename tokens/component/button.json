@@ -36,6 +36,22 @@
           "value": "{alias.mode.primary.color}",
           "type": "color"
         }
+      },
+      "text": {
+        "fontSize": {
+          "value": "{alias.brand.text.fontSize.body}",
+          "type": "fontSizes"
+        }
+      }
+    },
+    "text": {
+      "fontFamily": {
+        "value": "{alias.brand.button.text.fontFamily}",
+        "type": "fontFamilies"
+      },
+      "fontWeight": {
+        "value": "{alias.brand.button.text.fontWeight}",
+        "type": "fontWeights"
       }
     }
   }

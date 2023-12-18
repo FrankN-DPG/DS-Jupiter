@@ -25,12 +25,30 @@
             "value": "{core.shape.borderWidth.0}",
             "type": "borderWidth"
           }
+        },
+        "text": {
+          "fontFamily": {
+            "value": "{font.primary}",
+            "type": "fontFamilies"
+          },
+          "fontWeight": {
+            "value": "{fontWeight.semiBold}",
+            "type": "fontWeights"
+          }
         }
       },
       "primary": {
         "color": {
           "value": "{jupiterCore.color.blue.600}",
           "type": "color"
+        }
+      },
+      "text": {
+        "fontSize": {
+          "body": {
+            "value": "{core.typography.fontSize.120}",
+            "type": "fontSizes"
+          }
         }
       }
     }

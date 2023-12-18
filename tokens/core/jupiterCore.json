@@ -86,5 +86,17 @@
         }
       }
     }
+  },
+  "font": {
+    "primary": {
+      "value": "Proxima Nova",
+      "type": "fontFamilies"
+    }
+  },
+  "fontWeight": {
+    "semiBold": {
+      "value": "Semibold",
+      "type": "fontWeights"
+    }
   }
 }
