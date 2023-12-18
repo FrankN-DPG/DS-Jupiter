@@ -1,12 +1,11 @@
 [
   {
     "id": "a8c5b2af70f92cad804c5aec857fb8c1b627a149",
-    "name": "generic",
+    "name": "wl",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "component/button": "enabled",
       "core/core": "source",
-      "component/link": "enabled",
       "alias/jupiter": "enabled",
       "core/jupiterCore": "source"
     },
@@ -18,7 +17,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "component/button": "enabled",
-      "component/link": "enabled",
       "mode/light": "enabled",
       "core/core": "source",
       "core/vtwonenCore": "source",

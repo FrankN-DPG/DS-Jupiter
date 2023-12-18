@@ -1,71 +1,37 @@
 {
   "alias": {
-    "button": {
-      "spacing": {
-        "gap": {
-          "md": {
+    "brand": {
+      "button": {
+        "spacing": {
+          "vertical": {
             "value": "{core.spacing.100}",
             "type": "spacing"
-          }
-        },
-        "vertical": {
-          "md": {
-            "value": "{core.spacing.100}",
-            "type": "spacing"
-          }
-        },
-        "horizontal": {
-          "md": {
+          },
+          "horizontal": {
             "value": "{core.spacing.200}",
             "type": "spacing"
+          },
+          "gap": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
           }
-        }
-      },
-      "radius": {
-        "value": "{core.shape.radius.100}",
-        "type": "borderRadius"
-      },
-      "border": {
-        "width": {
-          "value": "{core.shape.borderWidth.0}",
-          "type": "borderWidth"
+        },
+        "radius": {
+          "value": "{core.shape.radius.100}",
+          "type": "borderRadius"
+        },
+        "border": {
+          "width": {
+            "value": "{core.shape.borderWidth.0}",
+            "type": "borderWidth"
+          }
         }
       },
       "primary": {
-        "border": {
-          "color": {
-            "value": {
-              "color": "none",
-              "style": "solid"
-            },
-            "type": "border"
-          }
-        }
-      },
-      "text": {
         "color": {
-          "value": "#fff",
-          "type": "color"
-        }
-      }
-    },
-    "action": {
-      "color": {
-        "default": {
           "value": "{jupiterCore.color.blue.600}",
           "type": "color"
         }
-      }
-    }
-  },
-  "button": {
-    "text": {
-      "font-family": {
-        "value": {
-          "fontFamily": "Proxima Nova",
-          "fontWeight": "Bold"
-        },
-        "type": "typography"
       }
     }
   }

@@ -1,7 +1,6 @@
 {
   "tokenSetOrder": [
     "component/button",
-    "component/link",
     "mode/light",
     "alias/jupiter",
     "alias/vtwonen",

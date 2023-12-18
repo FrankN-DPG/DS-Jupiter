@@ -1,9 +1,9 @@
 {
   "alias": {
-    "action": {
-      "color": {
-        "default": {
-          "value": "{action.color.default.light}",
+    "mode": {
+      "primary": {
+        "color": {
+          "value": "{alias.brand.primary.color}",
           "type": "color"
         }
       }
