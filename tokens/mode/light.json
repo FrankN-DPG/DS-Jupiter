@@ -2,8 +2,12 @@
   "alias": {
     "mode": {
       "primary": {
-        "color": {
-          "value": "{alias.brand.primary.color}",
+        "value": "{alias.brand.primary}",
+        "type": "color"
+      },
+      "text": {
+        "inverted": {
+          "value": "{alias.brand.text.inverted}",
           "type": "color"
         }
       }

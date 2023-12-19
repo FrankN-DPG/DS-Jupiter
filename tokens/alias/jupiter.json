@@ -4,7 +4,7 @@
       "button": {
         "spacing": {
           "vertical": {
-            "value": "{core.spacing.100}",
+            "value": "{core.spacing.200}",
             "type": "spacing"
           },
           "horizontal": {
@@ -27,28 +27,24 @@
           }
         },
         "text": {
-          "fontFamily": {
-            "value": "{font.primary}",
-            "type": "fontFamilies"
+          "value": {
+            "fontFamily": "Proxima Nova",
+            "fontWeight": "Semibold",
+            "fontSize": "{core.typography.fontSize.120}",
+            "lineHeight": "{core.typography.lineHeight.100}",
+            "textDecoration": "{core.typography.textDecoration.default}"
           },
-          "fontWeight": {
-            "value": "{fontWeight.semiBold}",
-            "type": "fontWeights"
-          }
+          "type": "typography"
         }
       },
       "primary": {
-        "color": {
-          "value": "{jupiterCore.color.blue.600}",
-          "type": "color"
-        }
+        "value": "{jupiterCore.color.blue.600}",
+        "type": "color"
       },
       "text": {
-        "fontSize": {
-          "body": {
-            "value": "{core.typography.fontSize.120}",
-            "type": "fontSizes"
-          }
+        "inverted": {
+          "value": "{core.color.neutral.100}",
+          "type": "color"
         }
       }
     }

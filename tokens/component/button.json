@@ -26,32 +26,28 @@
         },
         "color": {
           "value": {
-            "color": "{alias.mode.primary.color}"
+            "color": "{alias.mode.primary}"
           },
           "type": "border"
         }
       },
       "background": {
         "color": {
-          "value": "{alias.mode.primary.color}",
+          "value": "{alias.mode.primary}",
           "type": "color"
         }
       },
       "text": {
-        "fontSize": {
-          "value": "{alias.brand.text.fontSize.body}",
-          "type": "fontSizes"
+        "color": {
+          "value": "{alias.brand.text.inverted}",
+          "type": "color"
         }
       }
     },
     "text": {
-      "fontFamily": {
-        "value": "{alias.brand.button.text.fontFamily}",
-        "type": "fontFamilies"
-      },
-      "fontWeight": {
-        "value": "{alias.brand.button.text.fontWeight}",
-        "type": "fontWeights"
+      "typography": {
+        "value": "{alias.brand.button.text}",
+        "type": "typography"
       }
     }
   }
