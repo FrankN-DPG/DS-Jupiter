@@ -46,6 +46,14 @@
           "value": "{core.color.neutral.100}",
           "type": "color"
         }
+      },
+      "icon": {
+        "size": {
+          "m": {
+            "value": "{core.sizing.200}",
+            "type": "sizing"
+          }
+        }
       }
     }
   }

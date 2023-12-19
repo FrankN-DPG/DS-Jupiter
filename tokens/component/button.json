@@ -1,10 +1,10 @@
 {
   "button": {
-    "default": {
-      "radius": {
-        "value": "{alias.brand.button.radius}",
-        "type": "borderRadius"
-      },
+    "radius": {
+      "value": "{alias.brand.button.radius}",
+      "type": "borderRadius"
+    },
+    "m": {
       "spacing": {
         "vertical": {
           "value": "{alias.brand.button.spacing.vertical}",
@@ -13,12 +13,16 @@
         "horizontal": {
           "value": "{alias.brand.button.spacing.horizontal}",
           "type": "spacing"
-        },
-        "gap": {
-          "value": "{alias.brand.button.spacing.gap}",
-          "type": "spacing"
         }
-      },
+      }
+    },
+    "spacing": {
+      "gap": {
+        "value": "{alias.brand.button.spacing.gap}",
+        "type": "spacing"
+      }
+    },
+    "primary": {
       "border": {
         "width": {
           "value": "{alias.brand.button.border.width}",
@@ -41,6 +45,18 @@
         "color": {
           "value": "{alias.brand.text.inverted}",
           "type": "color"
+        }
+      },
+      "icon": {
+        "color": {
+          "value": "{alias.mode.text.inverted}",
+          "type": "color"
+        },
+        "size": {
+          "m": {
+            "value": "{alias.brand.icon.size.m}",
+            "type": "sizing"
+          }
         }
       }
     },
