@@ -7,12 +7,36 @@
     "m": {
       "spacing": {
         "vertical": {
-          "value": "{alias.brand.button.spacing.vertical}",
+          "value": "{alias.brand.button.m.spacing.vertical}",
           "type": "spacing"
         },
         "horizontal": {
-          "value": "{alias.brand.button.spacing.horizontal}",
+          "value": "{alias.brand.button.m.spacing.horizontal}",
           "type": "spacing"
+        }
+      },
+      "text": {
+        "typography": {
+          "value": "{alias.brand.button.m.text}",
+          "type": "typography"
+        }
+      }
+    },
+    "s": {
+      "spacing": {
+        "vertical": {
+          "value": "{alias.brand.button.s.spacing.vertical}",
+          "type": "spacing"
+        },
+        "horizontal": {
+          "value": "{alias.brand.button.s.spacing.horizontal}",
+          "type": "spacing"
+        }
+      },
+      "text": {
+        "typography": {
+          "value": "{alias.brand.button.s.text}",
+          "type": "typography"
         }
       }
     },
@@ -58,12 +82,6 @@
             "type": "sizing"
           }
         }
-      }
-    },
-    "text": {
-      "typography": {
-        "value": "{alias.brand.button.text}",
-        "type": "typography"
       }
     }
   }

@@ -2,23 +2,37 @@
   "alias": {
     "brand": {
       "button": {
-        "spacing": {
-          "vertical": {
-            "value": "{core.spacing.200}",
-            "type": "spacing"
+        "m": {
+          "spacing": {
+            "vertical": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            },
+            "horizontal": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            }
           },
-          "horizontal": {
-            "value": "{core.spacing.200}",
-            "type": "spacing"
-          },
-          "gap": {
-            "value": "{core.spacing.100}",
-            "type": "spacing"
+          "text": {
+            "value": {
+              "fontFamily": "Proxima Nova",
+              "fontWeight": "Semibold",
+              "fontSize": "{core.typography.fontSize.120}",
+              "lineHeight": "{core.typography.lineHeight.100}",
+              "textDecoration": "{core.typography.textDecoration.default}"
+            },
+            "type": "typography"
           }
         },
         "radius": {
           "value": "{core.shape.radius.100}",
           "type": "borderRadius"
+        },
+        "spacing": {
+          "gap": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          }
         },
         "border": {
           "width": {
@@ -26,15 +40,27 @@
             "type": "borderWidth"
           }
         },
-        "text": {
-          "value": {
-            "fontFamily": "Proxima Nova",
-            "fontWeight": "Semibold",
-            "fontSize": "{core.typography.fontSize.120}",
-            "lineHeight": "{core.typography.lineHeight.100}",
-            "textDecoration": "{core.typography.textDecoration.default}"
+        "s": {
+          "text": {
+            "value": {
+              "fontFamily": "Proxima Nova",
+              "fontWeight": "Semibold",
+              "fontSize": "{core.typography.fontSize.80}",
+              "lineHeight": "{core.typography.lineHeight.100}",
+              "textDecoration": "{core.typography.textDecoration.default}"
+            },
+            "type": "typography"
           },
-          "type": "typography"
+          "spacing": {
+            "vertical": {
+              "value": "{core.spacing.100}",
+              "type": "spacing"
+            },
+            "horizontal": {
+              "value": "{core.spacing.100}",
+              "type": "spacing"
+            }
+          }
         }
       },
       "primary": {
