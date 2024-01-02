@@ -2,12 +2,26 @@
   "alias": {
     "mode": {
       "primary": {
-        "value": "{alias.brand.primary}",
+        "value": "{jupiterCore.color.blue.600}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{jupiterCore.color.blue.800}",
         "type": "color"
       },
       "text": {
         "inverted": {
-          "value": "{alias.brand.text.inverted}",
+          "value": "{core.color.neutral.100}",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "background": {
+          "value": "{core.color.neutral.400}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.color.neutral.500}",
           "type": "color"
         }
       }

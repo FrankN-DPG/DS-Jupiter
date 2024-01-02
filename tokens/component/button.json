@@ -61,20 +61,42 @@
       },
       "background": {
         "color": {
-          "value": "{alias.mode.primary}",
-          "type": "color"
+          "default": {
+            "value": "{alias.mode.primary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{alias.mode.hover}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{alias.mode.disabled.background}",
+            "type": "color"
+          }
         }
       },
       "text": {
         "color": {
-          "value": "{alias.brand.text.inverted}",
-          "type": "color"
+          "default": {
+            "value": "{alias.mode.text.inverted}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{alias.mode.text.inverted}",
+            "type": "color"
+          }
         }
       },
       "icon": {
         "color": {
-          "value": "{alias.mode.text.inverted}",
-          "type": "color"
+          "default": {
+            "value": "{alias.mode.text.inverted}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{alias.mode.text.inverted}",
+            "type": "color"
+          }
         },
         "size": {
           "m": {
