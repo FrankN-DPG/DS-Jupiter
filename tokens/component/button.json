@@ -47,26 +47,14 @@
       }
     },
     "primary": {
-      "border": {
-        "width": {
-          "value": "{alias.brand.button.border.width}",
-          "type": "borderWidth"
-        },
-        "color": {
-          "value": {
-            "color": "{alias.mode.primary}"
-          },
-          "type": "border"
-        }
-      },
       "background": {
         "color": {
           "default": {
-            "value": "{alias.mode.primary}",
+            "value": "{alias.mode.button.primary.default}",
             "type": "color"
           },
           "hover": {
-            "value": "{alias.mode.hover}",
+            "value": "{alias.mode.button.primary.hover}",
             "type": "color"
           },
           "disabled": {
@@ -84,6 +72,10 @@
           "hover": {
             "value": "{alias.mode.text.inverted}",
             "type": "color"
+          },
+          "disabled": {
+            "value": "{alias.mode.disabled.text}",
+            "type": "color"
           }
         }
       },
@@ -96,6 +88,10 @@
           "hover": {
             "value": "{alias.mode.text.inverted}",
             "type": "color"
+          },
+          "disabled": {
+            "value": "{alias.mode.disabled.text}",
+            "type": "color"
           }
         },
         "size": {
@@ -103,6 +99,128 @@
             "value": "{alias.brand.icon.size.m}",
             "type": "sizing"
           }
+        }
+      }
+    },
+    "secondary": {
+      "background": {
+        "color": {
+          "default": {
+            "value": "{alias.mode.secondary.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{alias.mode.secondary.hover}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{alias.mode.disabled.background}",
+            "type": "color"
+          }
+        }
+      },
+      "text": {
+        "color": {
+          "default": {
+            "value": "{alias.mode.text.inverted}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{alias.mode.text.inverted}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{alias.mode.disabled.text}",
+            "type": "color"
+          }
+        }
+      },
+      "icon": {
+        "color": {
+          "default": {
+            "value": "{alias.mode.text.inverted}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{alias.mode.text.inverted}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{alias.mode.disabled.text}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "tertiary": {
+      "background": {
+        "color": {
+          "default": {
+            "value": "{alias.mode.tertiary.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{alias.mode.tertiary.hover}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{alias.mode.disabled.background}",
+            "type": "color"
+          }
+        }
+      },
+      "text": {
+        "color": {
+          "default": {
+            "value": "{alias.mode.button.primary.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{alias.mode.text.inverted}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{alias.mode.disabled.text}",
+            "type": "color"
+          }
+        }
+      },
+      "icon": {
+        "color": {
+          "default": {
+            "value": "{alias.mode.button.primary.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{alias.mode.text.inverted}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{alias.mode.disabled.text}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "border": {
+      "width": {
+        "none": {
+          "value": "{alias.brand.button.border.width.0}",
+          "type": "borderWidth"
+        },
+        "default": {
+          "value": "{alias.brand.button.border.width.200}",
+          "type": "borderWidth"
+        }
+      },
+      "color": {
+        "default": {
+          "value": "{alias.mode.border.default}",
+          "type": "border"
+        },
+        "none": {
+          "value": "{alias.mode.border.none}",
+          "type": "border"
         }
       }
     }
