@@ -156,6 +156,56 @@
             }
           }
         }
+      },
+      "ghost": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{brand.button.ghost.background.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{brand.button.ghost.background.color.hover}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{brand.button.ghost.background.color.disabled}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{brand.button.ghost.text.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{brand.button.ghost.text.color.hover}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{brand.button.ghost.text.color.disabled}",
+              "type": "color"
+            }
+          }
+        },
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{brand.button.ghost.icon.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{brand.button.ghost.icon.color.hover}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{brand.button.ghost.icon.color.disabled}",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "border": {
