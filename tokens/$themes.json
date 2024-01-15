@@ -1,19 +1,20 @@
 [
   {
     "id": "a8c5b2af70f92cad804c5aec857fb8c1b627a149",
-    "name": "wl",
+    "name": "jupiter",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "component/button": "enabled",
       "core/core": "source",
       "alias/jupiter": "enabled",
-      "core/jupiterCore": "source"
+      "core/jupiterCore": "source",
+      "mode/light": "enabled"
     },
     "group": "brand"
   },
   {
     "id": "3aa804b84803a0a68ea1c52eb704062eb42dfea8",
-    "name": "vt",
+    "name": "vtwonen",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "component/button": "enabled",

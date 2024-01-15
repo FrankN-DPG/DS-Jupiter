@@ -15,8 +15,8 @@
           },
           "text": {
             "value": {
-              "fontFamily": "Proxima Nova",
-              "fontWeight": "Semibold",
+              "fontFamily": "{font.primary}",
+              "fontWeight": "{fontWeight.semiBold}",
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.default}"
@@ -37,8 +37,8 @@
         "s": {
           "text": {
             "value": {
-              "fontFamily": "Proxima Nova",
-              "fontWeight": "Semibold",
+              "fontFamily": "{font.primary}",
+              "fontWeight": "{fontWeight.semiBold}",
               "fontSize": "{core.typography.fontSize.80}",
               "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.default}"
