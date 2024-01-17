@@ -6,6 +6,7 @@
     "alias/vtwonen",
     "core/jupiterCore",
     "core/vtwonenCore",
+    "core/oudervannuCore",
     "core/core"
   ]
 }

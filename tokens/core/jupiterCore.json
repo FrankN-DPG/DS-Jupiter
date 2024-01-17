@@ -1,7 +1,7 @@
 {
   "jupiterCore": {
     "color": {
-      "blue": {
+      "matisse": {
         "100": {
           "value": "#e9f2f5",
           "type": "color"
@@ -43,7 +43,7 @@
           "type": "color"
         }
       },
-      "red": {
+      "stiletto": {
         "100": {
           "value": "#f5eaed",
           "type": "color"

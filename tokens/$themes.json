@@ -8,7 +8,9 @@
       "core/core": "source",
       "alias/jupiter": "enabled",
       "core/jupiterCore": "source",
-      "mode/light": "enabled"
+      "mode/light": "enabled",
+      "core/oudervannuCore": "disabled",
+      "alias/vtwonen": "disabled"
     },
     "group": "brand"
   },
@@ -30,7 +32,9 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled"
+      "mode/light": "enabled",
+      "core/oudervannuCore": "disabled",
+      "alias/vtwonen": "disabled"
     },
     "group": "mode"
   }
