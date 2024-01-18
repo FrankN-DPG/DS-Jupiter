@@ -85,11 +85,11 @@
         "background": {
           "color": {
             "default": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{deondernemerCore.color.cinnabar.600}",
               "type": "color"
             },
             "hover": {
-              "value": "{oudersvannuCore.color.burntOrange.600}",
+              "value": "{deondernemerCore.color.cinnabar.800}",
               "type": "color"
             },
             "disabled": {
@@ -141,11 +141,11 @@
         "background": {
           "color": {
             "default": {
-              "value": "{core.color.neutral.100}",
+              "value": "{deondernemerCore.color.blueDianne.600}",
               "type": "color"
             },
             "hover": {
-              "value": "{oudersvannuCore.color.burntOrange.100}",
+              "value": "{deondernemerCore.color.blueDianne.800}",
               "type": "color"
             },
             "disabled": {
@@ -157,11 +157,11 @@
         "text": {
           "color": {
             "default": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{core.color.neutral.100}",
               "type": "color"
             },
             "hover": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{core.color.neutral.100}",
               "type": "color"
             },
             "disabled": {
@@ -173,11 +173,11 @@
         "icon": {
           "color": {
             "default": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{core.color.neutral.100}",
               "type": "color"
             },
             "hover": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{core.color.neutral.100}",
               "type": "color"
             },
             "disabled": {
@@ -207,11 +207,11 @@
         "text": {
           "color": {
             "default": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{deondernemerCore.color.blueDianne.600}",
               "type": "color"
             },
             "hover": {
-              "value": "{oudersvannuCore.color.burntOrange.600}",
+              "value": "{deondernemerCore.color.blueDianne.800}",
               "type": "color"
             },
             "disabled": {
@@ -223,11 +223,11 @@
         "icon": {
           "color": {
             "default": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{deondernemerCore.color.blueDianne.600}",
               "type": "color"
             },
             "hover": {
-              "value": "{oudersvannuCore.color.burntOrange.600}",
+              "value": "{deondernemerCore.color.blueDianne.800}",
               "type": "color"
             },
             "disabled": {
@@ -245,7 +245,7 @@
               "type": "color"
             },
             "hover": {
-              "value": "{oudersvannuCore.color.patina.100}",
+              "value": "{deondernemerCore.color.blueDianne.100}",
               "type": "color"
             },
             "disabled": {
@@ -257,11 +257,11 @@
         "text": {
           "color": {
             "default": {
-              "value": "{oudersvannuCore.color.patina.800}",
+              "value": "{deondernemerCore.color.blueDianne.600}",
               "type": "color"
             },
             "hover": {
-              "value": "{oudersvannuCore.color.patina.800}",
+              "value": "{deondernemerCore.color.cinnabar.600}",
               "type": "color"
             },
             "disabled": {
@@ -273,11 +273,11 @@
         "icon": {
           "color": {
             "default": {
-              "value": "{oudersvannuCore.color.patina.800}",
+              "value": "{deondernemerCore.color.blueDianne.600}",
               "type": "color"
             },
             "hover": {
-              "value": "{oudersvannuCore.color.patina.800}",
+              "value": "{deondernemerCore.color.cinnabar.600}",
               "type": "color"
             },
             "disabled": {
@@ -291,13 +291,13 @@
     "border": {
       "default": {
         "value": {
-          "color": "{oudersvannuCore.color.burntOrange.700}"
+          "color": "{deondernemerCore.color.blueDianne.600}"
         },
         "type": "border"
       },
       "hover": {
         "value": {
-          "color": "{oudersvannuCore.color.burntOrange.600}"
+          "color": "{deondernemerCore.color.blueDianne.800}"
         },
         "type": "border"
       },

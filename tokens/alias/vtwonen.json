@@ -291,7 +291,13 @@
     "border": {
       "default": {
         "value": {
-          "color": "{vtwonenCore.color.saffronMango.600}"
+          "color": "{vtwonenCore.color.saffronMango.800}"
+        },
+        "type": "border"
+      },
+      "hover": {
+        "value": {
+          "color": "{vtwonenCore.color.saffronMango.800}"
         },
         "type": "border"
       },

@@ -32,9 +32,9 @@
     "selectedTokenSets": {
       "component/button": "enabled",
       "mode/light": "enabled",
-      "core/oudervannuCore": "source",
       "core/core": "source",
-      "alias/oudersvannu": "enabled"
+      "alias/oudersvannu": "enabled",
+      "core/oudersvannuCore": "source"
     },
     "group": "brand"
   },
@@ -46,5 +46,18 @@
       "mode/light": "enabled"
     },
     "group": "mode"
+  },
+  {
+    "id": "040757937cd7ae91815c777ee8b25bdd38f6f430",
+    "name": "deondernemer",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component/button": "enabled",
+      "mode/light": "enabled",
+      "alias/deondernemer": "enabled",
+      "core/deondernemerCore": "source",
+      "core/core": "source"
+    },
+    "group": "brand"
   }
 ]
