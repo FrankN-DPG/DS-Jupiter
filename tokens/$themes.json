@@ -8,8 +8,7 @@
       "core/core": "source",
       "alias/jupiter": "enabled",
       "core/jupiterCore": "source",
-      "mode/light": "enabled",
-      "alias/oudersvannu": "disabled"
+      "mode/light": "enabled"
     },
     "group": "brand"
   },
@@ -22,8 +21,7 @@
       "mode/light": "enabled",
       "core/core": "source",
       "core/vtwonenCore": "source",
-      "alias/vtwonen": "enabled",
-      "alias/oudersvannu": "disabled"
+      "alias/vtwonen": "enabled"
     },
     "group": "brand"
   },
@@ -45,8 +43,7 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled",
-      "alias/oudersvannu": "disabled"
+      "mode/light": "enabled"
     },
     "group": "mode"
   }

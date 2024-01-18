@@ -85,11 +85,11 @@
         "background": {
           "color": {
             "default": {
-              "value": "{vtwonenCore.color.saffronMango.600}",
+              "value": "{oudervannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "hover": {
-              "value": "{vtwonenCore.color.saffronMango.800}",
+              "value": "{oudervannuCore.color.burntOrange.600}",
               "type": "color"
             },
             "disabled": {
@@ -141,11 +141,11 @@
         "background": {
           "color": {
             "default": {
-              "value": "{vtwonenCore.color.saffronMango.600}",
+              "value": "{core.color.neutral.100}",
               "type": "color"
             },
             "hover": {
-              "value": "{vtwonenCore.color.saffronMango.800}",
+              "value": "{oudervannuCore.color.burntOrange.100}",
               "type": "color"
             },
             "disabled": {
@@ -157,11 +157,11 @@
         "text": {
           "color": {
             "default": {
-              "value": "{core.color.neutral.100}",
+              "value": "{oudervannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "hover": {
-              "value": "{core.color.neutral.100}",
+              "value": "{oudervannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "disabled": {
@@ -173,11 +173,11 @@
         "icon": {
           "color": {
             "default": {
-              "value": "{core.color.neutral.100}",
+              "value": "{oudervannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "hover": {
-              "value": "{core.color.neutral.100}",
+              "value": "{oudervannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "disabled": {
@@ -195,7 +195,7 @@
               "type": "color"
             },
             "hover": {
-              "value": "{vtwonenCore.color.saffronMango.100}",
+              "value": "none",
               "type": "color"
             },
             "disabled": {
@@ -207,11 +207,11 @@
         "text": {
           "color": {
             "default": {
-              "value": "{vtwonenCore.color.saffronMango.800}",
+              "value": "{oudervannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "hover": {
-              "value": "{vtwonenCore.color.saffronMango.800}",
+              "value": "{oudervannuCore.color.burntOrange.600}",
               "type": "color"
             },
             "disabled": {
@@ -223,11 +223,11 @@
         "icon": {
           "color": {
             "default": {
-              "value": "{vtwonenCore.color.saffronMango.800}",
+              "value": "{oudervannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "hover": {
-              "value": "{vtwonenCore.color.saffronMango.800}",
+              "value": "{oudervannuCore.color.burntOrange.600}",
               "type": "color"
             },
             "disabled": {
@@ -245,7 +245,7 @@
               "type": "color"
             },
             "hover": {
-              "value": "{vtwonenCore.color.saffronMango.100}",
+              "value": "{oudervannuCore.color.patina.100}",
               "type": "color"
             },
             "disabled": {
@@ -257,11 +257,11 @@
         "text": {
           "color": {
             "default": {
-              "value": "{vtwonenCore.color.redRibbon.600}",
+              "value": "{oudervannuCore.color.patina.800}",
               "type": "color"
             },
             "hover": {
-              "value": "{vtwonenCore.color.redRibbon.800}",
+              "value": "{oudervannuCore.color.patina.800}",
               "type": "color"
             },
             "disabled": {
@@ -273,11 +273,11 @@
         "icon": {
           "color": {
             "default": {
-              "value": "{vtwonenCore.color.redRibbon.600}",
+              "value": "{oudervannuCore.color.patina.800}",
               "type": "color"
             },
             "hover": {
-              "value": "{vtwonenCore.color.redRibbon.800}",
+              "value": "{oudervannuCore.color.patina.800}",
               "type": "color"
             },
             "disabled": {
@@ -291,7 +291,13 @@
     "border": {
       "default": {
         "value": {
-          "color": "{vtwonenCore.color.saffronMango.600}"
+          "color": "{oudervannuCore.color.burntOrange.700}"
+        },
+        "type": "border"
+      },
+      "hover": {
+        "value": {
+          "color": "{oudervannuCore.color.burntOrange.600}"
         },
         "type": "border"
       },
