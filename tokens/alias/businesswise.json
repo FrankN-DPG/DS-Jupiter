@@ -1,0 +1,312 @@
+{
+  "alias": {
+    "brand": {
+      "button": {
+        "m": {
+          "spacing": {
+            "vertical": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            },
+            "horizontal": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            }
+          },
+          "text": {
+            "value": {
+              "fontFamily": "{font.primary}",
+              "fontWeight": "{fontWeight.regular}",
+              "fontSize": "{core.typography.fontSize.120}",
+              "lineHeight": "{core.typography.lineHeight.100}",
+              "textDecoration": "{core.typography.textDecoration.default}"
+            },
+            "type": "typography"
+          }
+        },
+        "radius": {
+          "value": "{core.shape.radius.100}",
+          "type": "borderRadius"
+        },
+        "spacing": {
+          "gap": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          }
+        },
+        "s": {
+          "text": {
+            "value": {
+              "fontFamily": "{font.primary}",
+              "fontWeight": "{fontWeight.regular}",
+              "fontSize": "{core.typography.fontSize.80}",
+              "lineHeight": "{core.typography.lineHeight.100}",
+              "textDecoration": "{core.typography.textDecoration.default}"
+            },
+            "type": "typography"
+          },
+          "spacing": {
+            "vertical": {
+              "value": "{core.spacing.100}",
+              "type": "spacing"
+            },
+            "horizontal": {
+              "value": "{core.spacing.100}",
+              "type": "spacing"
+            }
+          }
+        },
+        "border": {
+          "width": {
+            "0": {
+              "value": "{core.shape.borderWidth.0}",
+              "type": "borderWidth"
+            },
+            "200": {
+              "value": "{core.shape.borderWidth.200}",
+              "type": "borderWidth"
+            }
+          }
+        }
+      },
+      "icon": {
+        "size": {
+          "m": {
+            "value": "{core.sizing.200}",
+            "type": "sizing"
+          }
+        }
+      }
+    }
+  },
+  "brand": {
+    "button": {
+      "primary": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{businesswise.color.sunglowYellow.600}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{businesswise.color.sunglowYellow.800}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{core.color.neutral.400}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{businesswise.color.mineShaftGrey.600}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{businesswise.color.mineShaftGrey.600}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{core.color.neutral.500}",
+              "type": "color"
+            }
+          }
+        },
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{core.color.neutral.500}",
+              "type": "color"
+            }
+          },
+          "size": {
+            "m": {
+              "value": "{alias.brand.icon.size.m}",
+              "type": "sizing"
+            }
+          }
+        }
+      },
+      "secondary": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{businesswise.color.mineShaftGrey.600}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{businesswise.color.mineShaftGrey.500}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{core.color.neutral.400}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{core.color.neutral.500}",
+              "type": "color"
+            }
+          }
+        },
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{core.color.neutral.500}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "tertiary": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "none",
+              "type": "color"
+            },
+            "hover": {
+              "value": "none",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "none",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{businesswise.color.mineShaftGrey.600}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{businesswise.color.mineShaftGrey.500}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{core.color.neutral.500}",
+              "type": "color"
+            }
+          }
+        },
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{businesswise.color.mineShaftGrey.600}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{businesswise.color.mineShaftGrey.500}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{core.color.neutral.500}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "ghost": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "none",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{businesswise.color.tamarindPurple.100}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "none",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{businesswise.color.biscayBlue.600}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{businesswise.color.biscayBlue.600}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{core.color.neutral.500}",
+              "type": "color"
+            }
+          }
+        },
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{businesswise.color.biscayBlue.600}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{businesswise.color.biscayBlue.600}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{core.color.neutral.500}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    },
+    "border": {
+      "default": {
+        "value": {
+          "color": "{businesswise.color.mineShaftGrey.600}"
+        },
+        "type": "border"
+      },
+      "hover": {
+        "value": {
+          "color": "{businesswise.color.mineShaftGrey.600}"
+        },
+        "type": "border"
+      },
+      "none": {
+        "value": {
+          "color": "none"
+        },
+        "type": "border"
+      }
+    }
+  }
+}

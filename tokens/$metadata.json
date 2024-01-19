@@ -2,10 +2,12 @@
   "tokenSetOrder": [
     "component/button",
     "mode/light",
+    "alias/businesswise",
     "alias/deondernemer",
     "alias/jupiter",
     "alias/oudersvannu",
     "alias/vtwonen",
+    "core/businesswise",
     "core/deondernemerCore",
     "core/jupiterCore",
     "core/oudersvannuCore",
