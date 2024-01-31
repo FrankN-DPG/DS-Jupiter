@@ -309,6 +309,10 @@
         "value": "{brand.border.default}",
         "type": "border"
       },
+      "hover": {
+        "value": "{brand.border.hover}",
+        "type": "border"
+      },
       "focus": {
         "value": "{brand.border.focus}",
         "type": "border"

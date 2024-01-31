@@ -391,6 +391,12 @@
         },
         "type": "border"
       },
+      "hover": {
+        "value": {
+          "color": "{jupiterCore.color.matisse.800}"
+        },
+        "type": "border"
+      },
       "focus": {
         "value": {
           "color": "{core.color.semantic.focus}"
