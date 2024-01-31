@@ -57,6 +57,14 @@
             "value": "{mode.button.primary.background.color.hover}",
             "type": "color"
           },
+          "pressed": {
+            "value": "{mode.button.primary.background.color.pressed}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{mode.button.primary.background.color.focus}",
+            "type": "color"
+          },
           "disabled": {
             "value": "{mode.button.primary.background.color.disabled}",
             "type": "color"
@@ -73,6 +81,14 @@
             "value": "{mode.button.primary.text.color.hover}",
             "type": "color"
           },
+          "pressed": {
+            "value": "{mode.button.primary.text.color.pressed}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{mode.button.primary.text.color.focus}",
+            "type": "color"
+          },
           "disabled": {
             "value": "{mode.button.primary.text.color.disabled}",
             "type": "color"
@@ -87,6 +103,14 @@
           },
           "hover": {
             "value": "{mode.button.primary.icon.color.hover}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{mode.button.primary.icon.color.pressed}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{mode.button.primary.icon.color.focus}",
             "type": "color"
           },
           "disabled": {
@@ -113,6 +137,14 @@
             "value": "{mode.button.secondary.background.color.hover}",
             "type": "color"
           },
+          "pressed": {
+            "value": "{mode.button.secondary.background.color.pressed}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{mode.button.secondary.background.color.focus}",
+            "type": "color"
+          },
           "disabled": {
             "value": "{mode.button.secondary.background.color.disabled}",
             "type": "color"
@@ -129,6 +161,14 @@
             "value": "{mode.button.secondary.text.color.hover}",
             "type": "color"
           },
+          "pressed": {
+            "value": "{mode.button.secondary.text.color.pressed}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{mode.button.secondary.text.color.focus}",
+            "type": "color"
+          },
           "disabled": {
             "value": "{mode.button.secondary.text.color.disabled}",
             "type": "color"
@@ -143,6 +183,14 @@
           },
           "hover": {
             "value": "{mode.button.secondary.icon.color.hover}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{mode.button.secondary.icon.color.pressed}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{mode.button.secondary.icon.color.focus}",
             "type": "color"
           },
           "disabled": {
@@ -163,6 +211,14 @@
             "value": "{mode.button.tertiary.background.color.hover}",
             "type": "color"
           },
+          "pressed": {
+            "value": "{mode.button.tertiary.background.color.pressed}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{mode.button.tertiary.background.color.focus}",
+            "type": "color"
+          },
           "disabled": {
             "value": "{mode.button.tertiary.background.color.disabled}",
             "type": "color"
@@ -179,6 +235,14 @@
             "value": "{mode.button.tertiary.text.color.hover}",
             "type": "color"
           },
+          "pressed": {
+            "value": "{mode.button.tertiary.text.color.pressed}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{mode.button.tertiary.text.color.focus}",
+            "type": "color"
+          },
           "disabled": {
             "value": "{mode.button.tertiary.text.color.disabled}",
             "type": "color"
@@ -193,6 +257,14 @@
           },
           "hover": {
             "value": "{mode.button.tertiary.icon.color.hover}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{mode.button.tertiary.icon.color.pressed}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{mode.button.tertiary.icon.color.focus}",
             "type": "color"
           },
           "disabled": {
@@ -213,6 +285,14 @@
             "value": "{mode.button.ghost.background.color.hover}",
             "type": "color"
           },
+          "pressed": {
+            "value": "{mode.button.ghost.background.color.pressed}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{mode.button.ghost.background.color.focus}",
+            "type": "color"
+          },
           "disabled": {
             "value": "{mode.button.ghost.background.color.disabled}",
             "type": "color"
@@ -229,6 +309,14 @@
             "value": "{mode.button.ghost.text.color.hover}",
             "type": "color"
           },
+          "pressed": {
+            "value": "{mode.button.ghost.text.color.pressed}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{mode.button.ghost.text.color.focus}",
+            "type": "color"
+          },
           "disabled": {
             "value": "{mode.button.ghost.text.color.disabled}",
             "type": "color"
@@ -243,6 +331,14 @@
           },
           "hover": {
             "value": "{mode.button.ghost.icon.color.hover}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{mode.button.ghost.icon.color.pressed}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{mode.button.ghost.icon.color.focus}",
             "type": "color"
           },
           "disabled": {
@@ -266,6 +362,10 @@
       "color": {
         "default": {
           "value": "{mode.border.default}",
+          "type": "border"
+        },
+        "focus": {
+          "value": "{mode.border.focus}",
           "type": "border"
         },
         "none": {

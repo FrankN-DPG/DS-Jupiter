@@ -12,6 +12,14 @@
               "value": "{brand.button.primary.background.color.hover}",
               "type": "color"
             },
+            "pressed": {
+              "value": "{brand.button.primary.background.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{brand.button.primary.background.color.focus}",
+              "type": "color"
+            },
             "disabled": {
               "value": "{brand.button.primary.background.color.disabled}",
               "type": "color"
@@ -28,6 +36,14 @@
               "value": "{brand.button.primary.text.color.hover}",
               "type": "color"
             },
+            "pressed": {
+              "value": "{brand.button.primary.text.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{brand.button.primary.text.color.focus}",
+              "type": "color"
+            },
             "disabled": {
               "value": "{brand.button.primary.text.color.disabled}",
               "type": "color"
@@ -42,6 +58,14 @@
             },
             "hover": {
               "value": "{brand.button.primary.icon.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{brand.button.primary.icon.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{brand.button.primary.icon.color.focus}",
               "type": "color"
             },
             "disabled": {
@@ -68,6 +92,14 @@
               "value": "{brand.button.secondary.background.color.hover}",
               "type": "color"
             },
+            "pressed": {
+              "value": "{brand.button.secondary.background.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{brand.button.secondary.background.color.focus}",
+              "type": "color"
+            },
             "disabled": {
               "value": "{brand.button.secondary.background.color.disabled}",
               "type": "color"
@@ -84,6 +116,14 @@
               "value": "{brand.button.secondary.text.color.hover}",
               "type": "color"
             },
+            "pressed": {
+              "value": "{brand.button.secondary.text.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{brand.button.secondary.text.color.focus}",
+              "type": "color"
+            },
             "disabled": {
               "value": "{brand.button.secondary.text.color.disabled}",
               "type": "color"
@@ -98,6 +138,14 @@
             },
             "hover": {
               "value": "{brand.button.secondary.icon.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{brand.button.secondary.icon.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{brand.button.secondary.icon.color.focus}",
               "type": "color"
             },
             "disabled": {
@@ -118,6 +166,14 @@
               "value": "{brand.button.tertiary.background.color.hover}",
               "type": "color"
             },
+            "pressed": {
+              "value": "{brand.button.tertiary.background.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{brand.button.tertiary.background.color.focus}",
+              "type": "color"
+            },
             "disabled": {
               "value": "{brand.button.tertiary.background.color.disabled}",
               "type": "color"
@@ -134,6 +190,14 @@
               "value": "{brand.button.tertiary.text.color.hover}",
               "type": "color"
             },
+            "pressed": {
+              "value": "{brand.button.tertiary.text.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{brand.button.tertiary.text.color.focus}",
+              "type": "color"
+            },
             "disabled": {
               "value": "{brand.button.tertiary.text.color.disabled}",
               "type": "color"
@@ -148,6 +212,14 @@
             },
             "hover": {
               "value": "{brand.button.tertiary.icon.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{brand.button.tertiary.icon.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{brand.button.tertiary.icon.color.focus}",
               "type": "color"
             },
             "disabled": {
@@ -168,6 +240,14 @@
               "value": "{brand.button.ghost.background.color.hover}",
               "type": "color"
             },
+            "pressed": {
+              "value": "{brand.button.ghost.background.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{brand.button.ghost.background.color.focus}",
+              "type": "color"
+            },
             "disabled": {
               "value": "{brand.button.ghost.background.color.disabled}",
               "type": "color"
@@ -182,6 +262,14 @@
             },
             "hover": {
               "value": "{brand.button.ghost.text.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{brand.button.ghost.text.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{brand.button.ghost.text.color.focus}",
               "type": "color"
             },
             "disabled": {
@@ -200,6 +288,14 @@
               "value": "{brand.button.ghost.icon.color.hover}",
               "type": "color"
             },
+            "pressed": {
+              "value": "{brand.button.ghost.icon.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{brand.button.ghost.icon.color.focus}",
+              "type": "color"
+            },
             "disabled": {
               "value": "{brand.button.ghost.icon.color.disabled}",
               "type": "color"
@@ -211,6 +307,10 @@
     "border": {
       "default": {
         "value": "{brand.border.default}",
+        "type": "border"
+      },
+      "focus": {
+        "value": "{brand.border.focus}",
         "type": "border"
       },
       "none": {

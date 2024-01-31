@@ -42,6 +42,12 @@
           "value": "#000000",
           "type": "color"
         }
+      },
+      "semantic": {
+        "focus": {
+          "value": "#5E9ED6",
+          "type": "color"
+        }
       }
     },
     "typography": {
