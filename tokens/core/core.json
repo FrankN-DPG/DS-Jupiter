@@ -138,6 +138,10 @@
           "value": "100%",
           "type": "lineHeights"
         },
+        "105": {
+          "value": "105%",
+          "type": "lineHeights"
+        },
         "110": {
           "value": "110%",
           "type": "lineHeights"
@@ -158,12 +162,32 @@
           "value": "130%",
           "type": "lineHeights"
         },
+        "135": {
+          "value": "135%",
+          "type": "lineHeights"
+        },
         "140": {
           "value": "140%",
           "type": "lineHeights"
         },
+        "145": {
+          "value": "145%",
+          "type": "lineHeights"
+        },
         "150": {
           "value": "150%",
+          "type": "lineHeights"
+        },
+        "155": {
+          "value": "155%",
+          "type": "lineHeights"
+        },
+        "160": {
+          "value": "160%",
+          "type": "lineHeights"
+        },
+        "165": {
+          "value": "165%",
           "type": "lineHeights"
         }
       },
