@@ -8,8 +8,7 @@
       "core/core": "source",
       "alias/jupiter": "enabled",
       "core/jupiterCore": "source",
-      "mode/light": "enabled",
-      "component/toast": "disabled"
+      "mode/light": "enabled"
     },
     "group": "brand"
   },
@@ -22,8 +21,7 @@
       "mode/light": "enabled",
       "core/core": "source",
       "core/vtwonenCore": "source",
-      "alias/vtwonen": "enabled",
-      "component/toast": "disabled"
+      "alias/vtwonen": "enabled"
     },
     "group": "brand"
   },
@@ -36,8 +34,7 @@
       "mode/light": "enabled",
       "core/core": "source",
       "alias/oudersvannu": "enabled",
-      "core/oudersvannuCore": "source",
-      "component/toast": "disabled"
+      "core/oudersvannuCore": "source"
     },
     "group": "brand"
   },
@@ -46,8 +43,7 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled",
-      "component/toast": "disabled"
+      "mode/light": "enabled"
     },
     "group": "mode"
   },
@@ -60,8 +56,7 @@
       "mode/light": "enabled",
       "alias/deondernemer": "enabled",
       "core/deondernemerCore": "source",
-      "core/core": "source",
-      "component/toast": "disabled"
+      "core/core": "source"
     },
     "group": "brand"
   },
@@ -74,8 +69,7 @@
       "mode/light": "enabled",
       "core/core": "source",
       "core/businesswise": "source",
-      "alias/businesswise": "enabled",
-      "component/toast": "disabled"
+      "alias/businesswise": "enabled"
     },
     "group": "brand"
   }
