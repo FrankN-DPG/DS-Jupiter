@@ -1,0 +1,26 @@
+{
+  "toast": {
+    "spacing": {
+      "vertical": {
+        "value": "{alias.brand.m.spacing.vertical}",
+        "type": "spacing"
+      },
+      "horizontal": {
+        "value": "{alias.brand.m.spacing.horizontal}",
+        "type": "spacing"
+      }
+    },
+    "radius": {
+      "value": "{alias.brand.radius.200}",
+      "type": "borderRadius"
+    },
+    "success": {
+      "background": {
+        "color": {
+          "value": "{mode.toast.success.background.color}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

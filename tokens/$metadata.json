@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
     "component/button",
+    "component/toast",
     "mode/light",
     "alias/businesswise",
     "alias/deondernemer",

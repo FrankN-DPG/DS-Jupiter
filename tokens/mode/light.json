@@ -217,6 +217,16 @@
         "value": "{brand.border.none}",
         "type": "border"
       }
+    },
+    "toast": {
+      "success": {
+        "background": {
+          "color": {
+            "value": "{brand.toast.success.background.color}",
+            "type": "color"
+          }
+        }
+      }
     }
   }
 }

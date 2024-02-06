@@ -1,18 +1,20 @@
 {
   "alias": {
     "brand": {
+      "m": {
+        "spacing": {
+          "vertical": {
+            "value": "{core.spacing.200}",
+            "type": "spacing"
+          },
+          "horizontal": {
+            "value": "{core.spacing.200}",
+            "type": "spacing"
+          }
+        }
+      },
       "button": {
         "m": {
-          "spacing": {
-            "vertical": {
-              "value": "{core.spacing.200}",
-              "type": "spacing"
-            },
-            "horizontal": {
-              "value": "{core.spacing.200}",
-              "type": "spacing"
-            }
-          },
           "text": {
             "value": {
               "fontFamily": "{font.primary}",
