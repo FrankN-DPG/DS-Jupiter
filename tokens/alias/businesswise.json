@@ -1,18 +1,20 @@
 {
   "alias": {
     "brand": {
+      "m": {
+        "spacing": {
+          "vertical": {
+            "value": "{core.spacing.200}",
+            "type": "spacing"
+          },
+          "horizontal": {
+            "value": "{core.spacing.200}",
+            "type": "spacing"
+          }
+        }
+      },
       "button": {
         "m": {
-          "spacing": {
-            "vertical": {
-              "value": "{core.spacing.200}",
-              "type": "spacing"
-            },
-            "horizontal": {
-              "value": "{core.spacing.200}",
-              "type": "spacing"
-            }
-          },
           "text": {
             "value": {
               "fontFamily": "{font.primary}",
@@ -75,6 +77,12 @@
             "value": "{core.sizing.200}",
             "type": "sizing"
           }
+        }
+      },
+      "radius": {
+        "200": {
+          "value": "{core.shape.radius.200}",
+          "type": "borderRadius"
         }
       }
     }
@@ -408,6 +416,16 @@
           "color": "none"
         },
         "type": "border"
+      }
+    },
+    "toast": {
+      "success": {
+        "background": {
+          "color": {
+            "value": "{core.color.semantic.success}",
+            "type": "color"
+          }
+        }
       }
     }
   }

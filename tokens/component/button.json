@@ -7,11 +7,11 @@
     "m": {
       "spacing": {
         "vertical": {
-          "value": "{alias.brand.button.m.spacing.vertical}",
+          "value": "{alias.brand.m.spacing.vertical}",
           "type": "spacing"
         },
         "horizontal": {
-          "value": "{alias.brand.button.m.spacing.horizontal}",
+          "value": "{alias.brand.m.spacing.horizontal}",
           "type": "spacing"
         }
       },
