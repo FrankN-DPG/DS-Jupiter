@@ -100,6 +100,14 @@
               "value": "{businesswise.color.sunglowYellow.800}",
               "type": "color"
             },
+            "pressed": {
+              "value": "{businesswise.color.sunglowYellow.800}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{businesswise.color.sunglowYellow.600}",
+              "type": "color"
+            },
             "disabled": {
               "value": "{core.color.neutral.400}",
               "type": "color"
@@ -116,6 +124,14 @@
               "value": "{businesswise.color.mineShaftGrey.600}",
               "type": "color"
             },
+            "pressed": {
+              "value": "{businesswise.color.mineShaftGrey.600}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{businesswise.color.mineShaftGrey.600}",
+              "type": "color"
+            },
             "disabled": {
               "value": "{core.color.neutral.500}",
               "type": "color"
@@ -125,11 +141,19 @@
         "icon": {
           "color": {
             "default": {
-              "value": "{core.color.neutral.100}",
+              "value": "{businesswise.color.mineShaftGrey.600}",
               "type": "color"
             },
             "hover": {
-              "value": "{core.color.neutral.100}",
+              "value": "{businesswise.color.mineShaftGrey.600}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{businesswise.color.mineShaftGrey.600}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{businesswise.color.mineShaftGrey.600}",
               "type": "color"
             },
             "disabled": {
@@ -156,6 +180,14 @@
               "value": "{businesswise.color.mineShaftGrey.500}",
               "type": "color"
             },
+            "pressed": {
+              "value": "{businesswise.color.mineShaftGrey.500}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{businesswise.color.mineShaftGrey.600}",
+              "type": "color"
+            },
             "disabled": {
               "value": "{core.color.neutral.400}",
               "type": "color"
@@ -172,6 +204,14 @@
               "value": "{core.color.neutral.100}",
               "type": "color"
             },
+            "pressed": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            },
             "disabled": {
               "value": "{core.color.neutral.500}",
               "type": "color"
@@ -185,6 +225,14 @@
               "type": "color"
             },
             "hover": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            },
+            "focus": {
               "value": "{core.color.neutral.100}",
               "type": "color"
             },
@@ -206,6 +254,14 @@
               "value": "none",
               "type": "color"
             },
+            "pressed": {
+              "value": "none",
+              "type": "color"
+            },
+            "focus": {
+              "value": "none",
+              "type": "color"
+            },
             "disabled": {
               "value": "none",
               "type": "color"
@@ -222,6 +278,14 @@
               "value": "{businesswise.color.mineShaftGrey.500}",
               "type": "color"
             },
+            "pressed": {
+              "value": "{businesswise.color.mineShaftGrey.500}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{businesswise.color.mineShaftGrey.600}",
+              "type": "color"
+            },
             "disabled": {
               "value": "{core.color.neutral.500}",
               "type": "color"
@@ -236,6 +300,14 @@
             },
             "hover": {
               "value": "{businesswise.color.mineShaftGrey.500}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{businesswise.color.mineShaftGrey.500}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{businesswise.color.mineShaftGrey.600}",
               "type": "color"
             },
             "disabled": {
@@ -256,6 +328,14 @@
               "value": "{businesswise.color.tamarindPurple.100}",
               "type": "color"
             },
+            "pressed": {
+              "value": "{businesswise.color.tamarindPurple.100}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "none",
+              "type": "color"
+            },
             "disabled": {
               "value": "none",
               "type": "color"
@@ -272,6 +352,14 @@
               "value": "{businesswise.color.biscayBlue.600}",
               "type": "color"
             },
+            "pressed": {
+              "value": "{businesswise.color.biscayBlue.600}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{businesswise.color.biscayBlue.600}",
+              "type": "color"
+            },
             "disabled": {
               "value": "{core.color.neutral.500}",
               "type": "color"
@@ -285,6 +373,14 @@
               "type": "color"
             },
             "hover": {
+              "value": "{businesswise.color.biscayBlue.600}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{businesswise.color.biscayBlue.600}",
+              "type": "color"
+            },
+            "focus": {
               "value": "{businesswise.color.biscayBlue.600}",
               "type": "color"
             },
@@ -306,6 +402,12 @@
       "hover": {
         "value": {
           "color": "{businesswise.color.mineShaftGrey.600}"
+        },
+        "type": "border"
+      },
+      "focus": {
+        "value": {
+          "color": "{core.color.semantic.focus}"
         },
         "type": "border"
       },
