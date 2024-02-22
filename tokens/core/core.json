@@ -47,6 +47,7 @@
         "focus": {
           "value": "#5E9ED6",
           "type": "color"
+        },
         "success": {
           "value": "#4C8139",
           "type": "color"
