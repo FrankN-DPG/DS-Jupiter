@@ -51,6 +51,14 @@
         "success": {
           "value": "#4C8139",
           "type": "color"
+        },
+        "error": {
+          "value": "#BF291F",
+          "type": "color"
+        },
+        "info": {
+          "value": "#1E6684",
+          "type": "color"
         }
       }
     },

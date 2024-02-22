@@ -97,6 +97,10 @@
     "semiBold": {
       "value": "Semibold",
       "type": "fontWeights"
+    },
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
     }
   }
 }

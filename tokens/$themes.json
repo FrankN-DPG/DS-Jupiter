@@ -8,7 +8,8 @@
       "core/core": "source",
       "alias/jupiter": "enabled",
       "core/jupiterCore": "source",
-      "mode/light": "enabled"
+      "mode/light": "enabled",
+      "component/toast": "enabled"
     },
     "group": "brand"
   },

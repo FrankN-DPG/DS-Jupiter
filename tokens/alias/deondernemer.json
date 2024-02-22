@@ -71,6 +71,12 @@
           }
         }
       },
+      "toast": {
+        "radius": {
+          "value": "{core.shape.radius.200}",
+          "type": "borderRadius"
+        }
+      },
       "icon": {
         "size": {
           "m": {
@@ -410,6 +416,32 @@
           "color": "none"
         },
         "type": "border"
+      }
+    },
+    "toast": {
+      "success": {
+        "background": {
+          "color": {
+            "value": "{core.color.semantic.success}",
+            "type": "color"
+          }
+        }
+      },
+      "info": {
+        "background": {
+          "color": {
+            "value": "{core.color.semantic.info}",
+            "type": "color"
+          }
+        }
+      },
+      "error": {
+        "background": {
+          "color": {
+            "value": "{core.color.semantic.error}",
+            "type": "color"
+          }
+        }
       }
     }
   }
