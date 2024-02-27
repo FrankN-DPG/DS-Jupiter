@@ -13,6 +13,7 @@
     "core/deondernemerCore",
     "core/jupiterCore",
     "core/oudersvannuCore",
+    "core/storyCore",
     "core/vtwonenCore",
     "core/core"
   ]

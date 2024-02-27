@@ -386,11 +386,5 @@
       "value": "Figtree",
       "type": "fontFamilies"
     }
-  },
-  "fontWeight": {
-    "regular": {
-      "value": "Regular",
-      "type": "fontWeights"
-    }
   }
 }
