@@ -18,10 +18,10 @@
           "text": {
             "value": {
               "fontFamily": "{font.primary}",
-              "fontWeight": "{fontWeight.semiBold}",
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.100}",
-              "textDecoration": "{core.typography.textDecoration.default}"
+              "textDecoration": "{core.typography.textDecoration.default}",
+              "fontWeight": "{core.fontWeight.bold}"
             },
             "type": "typography"
           }
@@ -40,7 +40,7 @@
           "text": {
             "value": {
               "fontFamily": "{font.primary}",
-              "fontWeight": "{fontWeight.semiBold}",
+              "fontWeight": "{core.fontWeight.bold}",
               "fontSize": "{core.typography.fontSize.80}",
               "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.default}"

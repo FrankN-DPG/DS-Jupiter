@@ -92,11 +92,5 @@
       "value": "Proxima Nova",
       "type": "fontFamilies"
     }
-  },
-  "fontWeight": {
-    "regular": {
-      "value": "Regular",
-      "type": "fontWeights"
-    }
   }
 }
