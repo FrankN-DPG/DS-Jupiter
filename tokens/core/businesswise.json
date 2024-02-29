@@ -257,7 +257,11 @@
   },
   "font": {
     "primary": {
-      "value": "Figtree",
+      "value": "Mukta",
+      "type": "fontFamilies"
+    },
+    "accent": {
+      "value": "Mukta",
       "type": "fontFamilies"
     }
   }

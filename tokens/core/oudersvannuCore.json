@@ -385,6 +385,10 @@
     "primary": {
       "value": "Figtree",
       "type": "fontFamilies"
+    },
+    "accent": {
+      "value": "Recoleta",
+      "type": "fontFamilies"
     }
   }
 }
