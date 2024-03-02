@@ -141,7 +141,7 @@
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.underline}",
-              "fontWeight": "{core.fontWeight.semiBold}"
+              "fontWeight": "{core.fontWeight.bold}"
             },
             "type": "typography"
           }
