@@ -91,6 +91,10 @@
     "primary": {
       "value": "Proxima Nova",
       "type": "fontFamilies"
+    },
+    "accent": {
+      "value": "Playfair Display",
+      "type": "fontFamilies"
     }
   }
 }

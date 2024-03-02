@@ -134,7 +134,7 @@
       "value": "Roboto Flex",
       "type": "fontFamilies"
     },
-    "accent1": {
+    "accent": {
       "value": "Georgia",
       "type": "fontFamilies"
     }
