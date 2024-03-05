@@ -1,0 +1,18 @@
+{
+  "icon": {
+    "size": {
+      "s": {
+        "value": "{alias.brand.icon.size.s}",
+        "type": "sizing"
+      },
+      "m": {
+        "value": "{alias.brand.icon.size.m}",
+        "type": "sizing"
+      },
+      "l": {
+        "value": "{alias.brand.icon.size.l}",
+        "type": "sizing"
+      }
+    }
+  }
+}

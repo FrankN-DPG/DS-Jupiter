@@ -91,16 +91,12 @@
     "primary": {
       "value": "Proxima Nova",
       "type": "fontFamilies"
-    }
-  },
-  "fontWeight": {
-    "semiBold": {
-      "value": "Semibold",
-      "type": "fontWeights"
     },
-    "regular": {
-      "value": "Regular",
-      "type": "fontWeights"
+    "accent": {
+      "value": "Noto Serif",
+      "type": "fontFamilies"
+    }
+  }
     }
   }
 }

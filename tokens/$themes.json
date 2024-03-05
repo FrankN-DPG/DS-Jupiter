@@ -9,6 +9,7 @@
       "alias/jupiter": "enabled",
       "core/jupiterCore": "source",
       "mode/light": "enabled",
+      "component/icon": "enabled",
       "component/toast": "enabled"
     },
     "group": "brand"
@@ -22,7 +23,9 @@
       "mode/light": "enabled",
       "core/core": "source",
       "core/vtwonenCore": "source",
-      "alias/vtwonen": "enabled"
+      "alias/vtwonen": "enabled",
+      "component/icon": "enabled",
+      "component/toast": "enabled"
     },
     "group": "brand"
   },
@@ -35,7 +38,9 @@
       "mode/light": "enabled",
       "core/core": "source",
       "alias/oudersvannu": "enabled",
-      "core/oudersvannuCore": "source"
+      "core/oudersvannuCore": "source",
+      "component/icon": "enabled",
+      "component/toast": "enabled"
     },
     "group": "brand"
   },
@@ -57,7 +62,9 @@
       "mode/light": "enabled",
       "alias/deondernemer": "enabled",
       "core/deondernemerCore": "source",
-      "core/core": "source"
+      "core/core": "source",
+      "component/icon": "enabled",
+      "component/toast": "enabled"
     },
     "group": "brand"
   },
@@ -70,7 +77,9 @@
       "mode/light": "enabled",
       "core/core": "source",
       "core/businesswise": "source",
-      "alias/businesswise": "enabled"
+      "alias/businesswise": "enabled",
+      "component/icon": "enabled",
+      "component/toast": "enabled"
     },
     "group": "brand"
   }

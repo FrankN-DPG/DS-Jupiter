@@ -91,12 +91,10 @@
     "primary": {
       "value": "Proxima Nova",
       "type": "fontFamilies"
-    }
-  },
-  "fontWeight": {
-    "regular": {
-      "value": "Regular",
-      "type": "fontWeights"
+    },
+    "accent": {
+      "value": "Playfair Display",
+      "type": "fontFamilies"
     }
   }
 }

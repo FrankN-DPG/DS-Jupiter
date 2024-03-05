@@ -341,14 +341,12 @@
   },
   "font": {
     "primary": {
-      "value": "Figtree",
+      "value": "Oxygen",
       "type": "fontFamilies"
-    }
-  },
-  "fontWeight": {
-    "regular": {
-      "value": "Regular",
-      "type": "fontWeights"
+    },
+    "accent": {
+      "value": "Lora",
+      "type": "fontFamilies"
     }
   }
 }

@@ -205,7 +205,7 @@
       },
       "textCase": {
         "default": {
-          "value": "none",
+          "value": "default",
           "type": "textCase"
         },
         "uppercase": {
@@ -540,6 +540,32 @@
           "type": "dropShadow"
         },
         "type": "boxShadow"
+      }
+    },
+    "fontWeight": {
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "light": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
+      "medium": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "semiBold": {
+        "value": "SemiBold",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "italic": {
+        "value": "Italic",
+        "type": "fontWeights"
       }
     }
   }

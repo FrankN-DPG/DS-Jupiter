@@ -17,7 +17,7 @@
       },
       "text": {
         "typography": {
-          "value": "{alias.brand.button.m.text}",
+          "value": "{alias.brand.typography.button.fontFamily.m}",
           "type": "typography"
         }
       }
@@ -35,7 +35,7 @@
       },
       "text": {
         "typography": {
-          "value": "{alias.brand.button.s.text}",
+          "value": "{alias.brand.typography.button.fontFamily.s}",
           "type": "typography"
         }
       }
@@ -116,12 +116,6 @@
           "disabled": {
             "value": "{mode.button.primary.icon.color.disabled}",
             "type": "color"
-          }
-        },
-        "size": {
-          "m": {
-            "value": "{alias.brand.icon.size.m}",
-            "type": "sizing"
           }
         }
       }
