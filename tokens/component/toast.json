@@ -63,7 +63,7 @@
   },
   "text": {
     "typography": {
-      "value": "{alias.brand.toast.text}",
+      "value": "{alias.brand.typography.body.l}",
       "type": "typography"
     }
   }
