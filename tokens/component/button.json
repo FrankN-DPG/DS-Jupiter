@@ -17,7 +17,7 @@
       },
       "text": {
         "typography": {
-          "value": "{alias.brand.typography.button.fontFamily.m}",
+          "value": "{alias.brand.typography.button.l}",
           "type": "typography"
         }
       }
@@ -35,7 +35,7 @@
       },
       "text": {
         "typography": {
-          "value": "{alias.brand.typography.button.fontFamily.s}",
+          "value": "{alias.brand.typography.button.s}",
           "type": "typography"
         }
       }
