@@ -109,7 +109,7 @@
               "fontSize": "{core.typography.fontSize.180}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.regular}"
+              "fontWeight": "{core.fontWeight.medium}"
             },
             "type": "typography"
           },
@@ -119,7 +119,7 @@
               "fontSize": "{core.typography.fontSize.140}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.regular}"
+              "fontWeight": "{core.fontWeight.medium}"
             },
             "type": "typography"
           }
