@@ -289,40 +289,40 @@
           }
         }
       },
+      "spacing": {
+        "gap": {
+          "value": "{core.spacing.100}",
+          "type": "spacing"
+        }
+      },
+      "s": {
+        "spacing": {
+          "vertical": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          },
+          "horizontal": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          }
+        }
+      },
+      "m": {
+        "spacing": {
+          "vertical": {
+            "value": "{core.spacing.200}",
+            "type": "spacing"
+          },
+          "horizontal": {
+            "value": "{core.spacing.200}",
+            "type": "spacing"
+          }
+        }
+      },
       "button": {
         "radius": {
           "value": "{core.shape.radius.100}",
           "type": "borderRadius"
-        },
-        "spacing": {
-          "gap": {
-            "value": "{core.spacing.100}",
-            "type": "spacing"
-          }
-        },
-        "s": {
-          "spacing": {
-            "vertical": {
-              "value": "{core.spacing.100}",
-              "type": "spacing"
-            },
-            "horizontal": {
-              "value": "{core.spacing.100}",
-              "type": "spacing"
-            }
-          }
-        },
-        "m": {
-          "spacing": {
-            "vertical": {
-              "value": "{core.spacing.200}",
-              "type": "spacing"
-            },
-            "horizontal": {
-              "value": "{core.spacing.100}",
-              "type": "spacing"
-            }
-          }
         },
         "border": {
           "width": {
