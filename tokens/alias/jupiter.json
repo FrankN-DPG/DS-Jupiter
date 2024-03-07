@@ -1,18 +1,6 @@
 {
   "alias": {
     "brand": {
-      "m": {
-        "spacing": {
-          "vertical": {
-            "value": "{core.spacing.200}",
-            "type": "spacing"
-          },
-          "horizontal": {
-            "value": "{core.spacing.200}",
-            "type": "spacing"
-          }
-        }
-      },
       "typography": {
         "display": {
           "l": {
@@ -316,6 +304,18 @@
           "spacing": {
             "vertical": {
               "value": "{core.spacing.100}",
+              "type": "spacing"
+            },
+            "horizontal": {
+              "value": "{core.spacing.100}",
+              "type": "spacing"
+            }
+          }
+        },
+        "m": {
+          "spacing": {
+            "vertical": {
+              "value": "{core.spacing.200}",
               "type": "spacing"
             },
             "horizontal": {
