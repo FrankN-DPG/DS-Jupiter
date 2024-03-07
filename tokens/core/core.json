@@ -558,6 +558,10 @@
       "italic": {
         "value": "Italic",
         "type": "fontWeights"
+      },
+      "boldItalic": {
+        "value": "Bold Italic",
+        "type": "fontWeights"
       }
     }
   }

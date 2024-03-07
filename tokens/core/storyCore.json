@@ -131,11 +131,11 @@
   },
   "font": {
     "primary": {
-      "value": "Roboto Flex",
+      "value": "Georgia",
       "type": "fontFamilies"
     },
     "accent": {
-      "value": "Georgia",
+      "value": "Roboto Flex",
       "type": "fontFamilies"
     }
   }
