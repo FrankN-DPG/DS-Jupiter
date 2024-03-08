@@ -25,11 +25,11 @@
     "s": {
       "spacing": {
         "vertical": {
-          "value": "{alias.brand.button.s.spacing.vertical}",
+          "value": "{alias.brand.s.spacing.vertical}",
           "type": "spacing"
         },
         "horizontal": {
-          "value": "{alias.brand.button.s.spacing.horizontal}",
+          "value": "{alias.brand.s.spacing.horizontal}",
           "type": "spacing"
         }
       },
@@ -42,7 +42,7 @@
     },
     "spacing": {
       "gap": {
-        "value": "{alias.brand.button.spacing.gap}",
+        "value": "{alias.brand.spacing.gap}",
         "type": "spacing"
       }
     },

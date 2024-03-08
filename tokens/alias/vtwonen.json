@@ -1,6 +1,24 @@
 {
   "alias": {
     "brand": {
+      "spacing": {
+        "gap": {
+          "value": "{core.spacing.100}",
+          "type": "spacing"
+        }
+      },
+      "s": {
+        "spacing": {
+          "vertical": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          },
+          "horizontal": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          }
+        }
+      },
       "m": {
         "spacing": {
           "vertical": {
@@ -383,12 +401,6 @@
             "disabled": {
               "value": "{core.color.neutral.500}",
               "type": "color"
-            }
-          },
-          "size": {
-            "m": {
-              "value": "{alias.brand.icon.size.m}",
-              "type": "sizing"
             }
           }
         }
