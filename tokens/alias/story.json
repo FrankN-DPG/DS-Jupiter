@@ -677,6 +677,12 @@
         },
         "type": "border"
       },
+      "disabled": {
+        "value": {
+          "color": "{core.color.neutral.500}"
+        },
+        "type": "border"
+      },
       "none": {
         "value": {
           "color": "none"

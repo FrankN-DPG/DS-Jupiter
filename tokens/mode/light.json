@@ -317,6 +317,10 @@
         "value": "{brand.border.focus}",
         "type": "border"
       },
+      "disabled": {
+        "value": "{brand.border.disabled}",
+        "type": "border"
+      },
       "none": {
         "value": "{brand.border.none}",
         "type": "border"
