@@ -257,7 +257,7 @@
             "value": {
               "fontFamily": "{font.primary}",
               "fontSize": "{core.typography.fontSize.120}",
-              "lineHeight": "{core.typography.lineHeight.140}",
+              "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.underline}",
               "fontWeight": "{core.fontWeight.bold}"
             },
@@ -267,7 +267,7 @@
             "value": {
               "fontFamily": "{font.primary}",
               "fontSize": "{core.typography.fontSize.120}",
-              "lineHeight": "{core.typography.lineHeight.140}",
+              "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.underline}",
               "fontWeight": "{core.fontWeight.bold}"
             },
