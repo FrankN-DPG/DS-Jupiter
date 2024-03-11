@@ -19,6 +19,10 @@
         "typography": {
           "value": "{alias.brand.typography.button.l}",
           "type": "typography"
+        },
+        "typographyAlt": {
+          "value": "{alias.brand.typography.textLink.l}",
+          "type": "typography"
         }
       }
     },
@@ -36,6 +40,10 @@
       "text": {
         "typography": {
           "value": "{alias.brand.typography.button.s}",
+          "type": "typography"
+        },
+        "typographyAlt": {
+          "value": "{alias.brand.typography.textLink.s}",
           "type": "typography"
         }
       }
