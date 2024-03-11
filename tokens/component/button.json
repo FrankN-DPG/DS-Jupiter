@@ -21,7 +21,7 @@
           "type": "typography"
         },
         "typographyAlt": {
-          "value": "{alias.brand.typography.textLink.l}",
+          "value": "{alias.brand.typography.buttonAlt.l}",
           "type": "typography"
         }
       }
@@ -43,7 +43,7 @@
           "type": "typography"
         },
         "typographyAlt": {
-          "value": "{alias.brand.typography.textLink.s}",
+          "value": "{alias.brand.typography.buttonAlt.s}",
           "type": "typography"
         }
       }
