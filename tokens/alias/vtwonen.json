@@ -325,14 +325,14 @@
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.underline}",
-              "fontWeight": "{core.fontWeight.bold}"
+              "fontWeight": "{core.fontWeight.regular}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
               "fontFamily": "{font.primary}",
-              "fontWeight": "{core.fontWeight.bold}",
+              "fontWeight": "{core.fontWeight.regular}",
               "fontSize": "{core.typography.fontSize.80}",
               "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.underline}"
