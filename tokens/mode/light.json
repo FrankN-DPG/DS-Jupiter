@@ -333,6 +333,34 @@
             "value": "{brand.toast.success.background.color}",
             "type": "color"
           }
+        },
+        "text": {
+          "color": {
+            "value": "{brand.toast.success.text.color}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "color": {
+            "value": "{brand.toast.success.icon.color}",
+            "type": "color"
+          }
+        }
+      },
+      "error": {
+        "background": {
+          "color": {
+            "value": "{brand.toast.error.background.color}",
+            "type": "color"
+          }
+        }
+      },
+      "info": {
+        "background": {
+          "color": {
+            "value": "{brand.toast.info.background.color}",
+            "type": "color"
+          }
         }
       }
     }

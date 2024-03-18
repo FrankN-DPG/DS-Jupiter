@@ -8,10 +8,20 @@
       "horizontal": {
         "value": "{alias.brand.m.spacing.horizontal}",
         "type": "spacing"
+      },
+      "gap": {
+        "value": "{alias.brand.toast.spacing.gap}",
+        "type": "spacing"
+      },
+      "content": {
+        "gap": {
+          "value": "{alias.brand.toast.spacing.content.gap}",
+          "type": "spacing"
+        }
       }
     },
     "radius": {
-      "value": "{alias.brand.radius.200}",
+      "value": "{alias.brand.toast.radius}",
       "type": "borderRadius"
     },
     "success": {
@@ -20,7 +30,41 @@
           "value": "{mode.toast.success.background.color}",
           "type": "color"
         }
+      },
+      "text": {
+        "color": {
+          "value": "{brand.toast.success.text.color}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "color": {
+          "value": "{brand.toast.success.icon.color}",
+          "type": "color"
+        }
       }
+    },
+    "error": {
+      "background": {
+        "color": {
+          "value": "{mode.toast.error.background.color}",
+          "type": "color"
+        }
+      }
+    },
+    "info": {
+      "background": {
+        "color": {
+          "value": "{mode.toast.info.background.color}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "text": {
+    "typography": {
+      "value": "{alias.brand.typography.body.l}",
+      "type": "typography"
     }
   }
 }
