@@ -17,7 +17,11 @@
       },
       "text": {
         "typography": {
-          "value": "{alias.brand.typography.button.fontFamily.m}",
+          "value": "{alias.brand.typography.button.l}",
+          "type": "typography"
+        },
+        "typographyAlt": {
+          "value": "{alias.brand.typography.buttonAlt.l}",
           "type": "typography"
         }
       }
@@ -25,24 +29,28 @@
     "s": {
       "spacing": {
         "vertical": {
-          "value": "{alias.brand.button.s.spacing.vertical}",
+          "value": "{alias.brand.s.spacing.vertical}",
           "type": "spacing"
         },
         "horizontal": {
-          "value": "{alias.brand.button.s.spacing.horizontal}",
+          "value": "{alias.brand.s.spacing.horizontal}",
           "type": "spacing"
         }
       },
       "text": {
         "typography": {
-          "value": "{alias.brand.typography.button.fontFamily.s}",
+          "value": "{alias.brand.typography.button.s}",
+          "type": "typography"
+        },
+        "typographyAlt": {
+          "value": "{alias.brand.typography.buttonAlt.s}",
           "type": "typography"
         }
       }
     },
     "spacing": {
       "gap": {
-        "value": "{alias.brand.button.spacing.gap}",
+        "value": "{alias.brand.spacing.gap}",
         "type": "spacing"
       }
     },
@@ -360,6 +368,10 @@
         },
         "focus": {
           "value": "{mode.border.focus}",
+          "type": "border"
+        },
+        "disabled": {
+          "value": "{mode.border.disabled}",
           "type": "border"
         },
         "none": {

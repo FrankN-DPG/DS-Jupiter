@@ -1,5 +1,35 @@
 [
   {
+    "id": "7416fe9acf500ad45ad8c286e712828627e0e773",
+    "name": "businesswise",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component/button": "enabled",
+      "mode/light": "enabled",
+      "core/core": "source",
+      "core/businesswise": "source",
+      "alias/businesswise": "enabled",
+      "component/icon": "enabled",
+      "component/toast": "enabled"
+    },
+    "group": "brand"
+  },
+  {
+    "id": "040757937cd7ae91815c777ee8b25bdd38f6f430",
+    "name": "deondernemer",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component/button": "enabled",
+      "mode/light": "enabled",
+      "alias/deondernemer": "enabled",
+      "core/deondernemerCore": "source",
+      "core/core": "source",
+      "component/icon": "enabled",
+      "component/toast": "enabled"
+    },
+    "group": "brand"
+  },
+  {
     "id": "a8c5b2af70f92cad804c5aec857fb8c1b627a149",
     "name": "jupiter",
     "$figmaStyleReferences": {},
@@ -9,21 +39,6 @@
       "alias/jupiter": "enabled",
       "core/jupiterCore": "source",
       "mode/light": "enabled",
-      "component/icon": "enabled",
-      "component/toast": "enabled"
-    },
-    "group": "brand"
-  },
-  {
-    "id": "3aa804b84803a0a68ea1c52eb704062eb42dfea8",
-    "name": "vtwonen",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "component/button": "enabled",
-      "mode/light": "enabled",
-      "core/core": "source",
-      "core/vtwonenCore": "source",
-      "alias/vtwonen": "enabled",
       "component/icon": "enabled",
       "component/toast": "enabled"
     },
@@ -45,6 +60,36 @@
     "group": "brand"
   },
   {
+    "id": "69bc91387361c8500429f6c504d23f9e1e835388",
+    "name": "story",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component/button": "enabled",
+      "component/icon": "enabled",
+      "component/toast": "enabled",
+      "mode/light": "enabled",
+      "core/storyCore": "source",
+      "core/core": "source",
+      "alias/story": "enabled"
+    },
+    "group": "brand"
+  },
+  {
+    "id": "3aa804b84803a0a68ea1c52eb704062eb42dfea8",
+    "name": "vtwonen",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component/button": "enabled",
+      "mode/light": "enabled",
+      "core/core": "source",
+      "core/vtwonenCore": "source",
+      "alias/vtwonen": "enabled",
+      "component/icon": "enabled",
+      "component/toast": "enabled"
+    },
+    "group": "brand"
+  },
+  {
     "id": "c7498735bb2ddec524d181b38efffd7c98f3d883",
     "name": "light",
     "$figmaStyleReferences": {},
@@ -52,35 +97,5 @@
       "mode/light": "enabled"
     },
     "group": "mode"
-  },
-  {
-    "id": "040757937cd7ae91815c777ee8b25bdd38f6f430",
-    "name": "deondernemer",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "component/button": "enabled",
-      "mode/light": "enabled",
-      "alias/deondernemer": "enabled",
-      "core/deondernemerCore": "source",
-      "core/core": "source",
-      "component/icon": "enabled",
-      "component/toast": "enabled"
-    },
-    "group": "brand"
-  },
-  {
-    "id": "7416fe9acf500ad45ad8c286e712828627e0e773",
-    "name": "businesswise",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "component/button": "enabled",
-      "mode/light": "enabled",
-      "core/core": "source",
-      "core/businesswise": "source",
-      "alias/businesswise": "enabled",
-      "component/icon": "enabled",
-      "component/toast": "enabled"
-    },
-    "group": "brand"
   }
 ]
