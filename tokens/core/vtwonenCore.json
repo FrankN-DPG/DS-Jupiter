@@ -85,6 +85,24 @@
           "type": "color"
         }
       }
+    },
+    "fontWeight": {
+      "300": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
+      "400": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "500": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
     }
   },
   "font": {

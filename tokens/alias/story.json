@@ -97,7 +97,7 @@
               "fontSize": "{core.typography.fontSize.240}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.bold}"
+              "fontWeight": "{storyCore.fontWeight.700}"
             },
             "type": "typography"
           },
@@ -107,7 +107,7 @@
               "fontSize": "{core.typography.fontSize.220}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.bold}"
+              "fontWeight": "{storyCore.fontWeight.700}"
             },
             "type": "typography"
           }
@@ -119,7 +119,7 @@
               "fontSize": "{core.typography.fontSize.220}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.bold}"
+              "fontWeight": "{storyCore.fontWeight.700}"
             },
             "type": "typography"
           },
@@ -129,7 +129,7 @@
               "fontSize": "{core.typography.fontSize.180}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.bold}"
+              "fontWeight": "{storyCore.fontWeight.700}"
             },
             "type": "typography"
           }
@@ -141,7 +141,7 @@
               "fontSize": "{core.typography.fontSize.180}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.bold}"
+              "fontWeight": "{storyCore.fontWeight.700}"
             },
             "type": "typography"
           },
@@ -151,7 +151,7 @@
               "fontSize": "{core.typography.fontSize.140}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.bold}"
+              "fontWeight": "{storyCore.fontWeight.700}"
             },
             "type": "typography"
           }
@@ -163,7 +163,7 @@
               "fontSize": "{core.typography.fontSize.180}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.bold}"
+              "fontWeight": "{storyCore.fontWeight.700}"
             },
             "type": "typography"
           },
@@ -173,7 +173,7 @@
               "fontSize": "{core.typography.fontSize.140}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.bold}"
+              "fontWeight": "{storyCore.fontWeight.700}"
             },
             "type": "typography"
           }
@@ -185,7 +185,7 @@
               "fontSize": "{core.typography.fontSize.140}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.bold}"
+              "fontWeight": "{storyCore.fontWeight.700}"
             },
             "type": "typography"
           },
@@ -195,7 +195,7 @@
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.bold}"
+              "fontWeight": "{storyCore.fontWeight.700}"
             },
             "type": "typography"
           }
@@ -207,7 +207,7 @@
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.bold}"
+              "fontWeight": "{storyCore.fontWeight.700}"
             },
             "type": "typography"
           },
@@ -217,7 +217,7 @@
               "fontSize": "{core.typography.fontSize.100}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.bold}"
+              "fontWeight": "{storyCore.fontWeight.700}"
             },
             "type": "typography"
           }
@@ -229,7 +229,7 @@
               "fontSize": "{core.typography.fontSize.170}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.regular}"
+              "fontWeight": "{storyCore.fontWeight.400}"
             },
             "type": "typography"
           },
@@ -239,7 +239,7 @@
               "fontSize": "{core.typography.fontSize.140}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.regular}"
+              "fontWeight": "{storyCore.fontWeight.400}"
             },
             "type": "typography"
           }
@@ -251,7 +251,7 @@
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.regular}"
+              "fontWeight": "{storyCore.fontWeight.400}"
             },
             "type": "typography"
           },
@@ -261,7 +261,7 @@
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.regular}"
+              "fontWeight": "{storyCore.fontWeight.400}"
             },
             "type": "typography"
           }
@@ -273,7 +273,7 @@
               "fontSize": "{core.typography.fontSize.100}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.regular}"
+              "fontWeight": "{storyCore.fontWeight.400}"
             },
             "type": "typography"
           },
@@ -283,7 +283,7 @@
               "fontSize": "{core.typography.fontSize.100}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.regular}"
+              "fontWeight": "{storyCore.fontWeight.400}"
             },
             "type": "typography"
           }
@@ -295,7 +295,7 @@
               "fontSize": "{core.typography.fontSize.80}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.regular}"
+              "fontWeight": "{storyCore.fontWeight.400}"
             },
             "type": "typography"
           },
@@ -305,7 +305,7 @@
               "fontSize": "{core.typography.fontSize.80}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.regular}"
+              "fontWeight": "{storyCore.fontWeight.400}"
             },
             "type": "typography"
           }
@@ -317,7 +317,7 @@
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.underline}",
-              "fontWeight": "{core.fontWeight.bold}"
+              "fontWeight": "{storyCore.fontWeight.700}"
             },
             "type": "typography"
           },
@@ -327,7 +327,7 @@
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.underline}",
-              "fontWeight": "{core.fontWeight.bold}"
+              "fontWeight": "{storyCore.fontWeight.700}"
             },
             "type": "typography"
           }
@@ -339,7 +339,7 @@
               "fontSize": "{core.typography.fontSize.220}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.bold}"
+              "fontWeight": "{storyCore.fontWeight.700}"
             },
             "type": "typography"
           },
@@ -349,7 +349,7 @@
               "fontSize": "{core.typography.fontSize.180}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.bold}"
+              "fontWeight": "{storyCore.fontWeight.700}"
             },
             "type": "typography"
           }
@@ -361,14 +361,14 @@
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{core.fontWeight.boldItalic}"
+              "fontWeight": "{storyCore.fontWeight.700-italic}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
               "fontFamily": "{font.accent}",
-              "fontWeight": "{core.fontWeight.boldItalic}",
+              "fontWeight": "{storyCore.fontWeight.700-italic}",
               "fontSize": "{core.typography.fontSize.80}",
               "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.default}"
@@ -383,14 +383,14 @@
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.underline}",
-              "fontWeight": "{core.fontWeight.boldItalic}"
+              "fontWeight": "{storyCore.fontWeight.700-italic}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
               "fontFamily": "{font.accent}",
-              "fontWeight": "{core.fontWeight.boldItalic}",
+              "fontWeight": "{storyCore.fontWeight.700-italic}",
               "fontSize": "{core.typography.fontSize.80}",
               "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.underline}"

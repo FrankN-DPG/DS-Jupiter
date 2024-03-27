@@ -127,6 +127,20 @@
           "type": "color"
         }
       }
+    },
+    "fontWeight": {
+      "400": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "700-italic": {
+        "value": "Bold Italic",
+        "type": "fontWeights"
+      }
     }
   },
   "font": {

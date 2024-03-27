@@ -264,5 +264,21 @@
       "value": "Mukta",
       "type": "fontFamilies"
     }
+  },
+  "businesswiseCore": {
+    "fontWeight": {
+      "300": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
+      "400": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
+    }
   }
 }
