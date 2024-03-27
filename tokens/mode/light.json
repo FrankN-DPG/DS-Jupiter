@@ -72,12 +72,6 @@
               "value": "{brand.button.primary.icon.color.disabled}",
               "type": "color"
             }
-          },
-          "size": {
-            "m": {
-              "value": "{alias.brand.icon.size.m}",
-              "type": "sizing"
-            }
           }
         }
       },
