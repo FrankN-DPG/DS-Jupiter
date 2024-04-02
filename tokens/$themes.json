@@ -7,11 +7,11 @@
       "component/button": "enabled",
       "mode/light": "enabled",
       "core/core": "source",
-      "core/businesswise": "source",
       "alias/businesswise": "enabled",
       "component/icon": "enabled",
       "component/toast": "enabled",
-      "component/divider": "enabled"
+      "component/divider": "enabled",
+      "core/businesswiseCore": "source"
     },
     "group": "brand"
   },
@@ -27,7 +27,8 @@
       "core/core": "source",
       "component/icon": "enabled",
       "component/toast": "enabled",
-      "component/divider": "enabled"
+      "component/divider": "enabled",
+      "core/businesswiseCore": "disabled"
     },
     "group": "brand"
   },
@@ -43,7 +44,8 @@
       "mode/light": "enabled",
       "component/icon": "enabled",
       "component/toast": "enabled",
-      "component/divider": "enabled"
+      "component/divider": "enabled",
+      "core/businesswiseCore": "disabled"
     },
     "group": "brand"
   },
@@ -59,7 +61,8 @@
       "core/oudersvannuCore": "source",
       "component/icon": "enabled",
       "component/toast": "enabled",
-      "component/divider": "enabled"
+      "component/divider": "enabled",
+      "core/businesswiseCore": "disabled"
     },
     "group": "brand"
   },
@@ -75,7 +78,8 @@
       "core/storyCore": "source",
       "core/core": "source",
       "alias/story": "enabled",
-      "component/divider": "enabled"
+      "component/divider": "enabled",
+      "core/businesswiseCore": "disabled"
     },
     "group": "brand"
   },
@@ -91,7 +95,8 @@
       "alias/vtwonen": "enabled",
       "component/icon": "enabled",
       "component/toast": "enabled",
-      "component/divider": "enabled"
+      "component/divider": "enabled",
+      "core/businesswiseCore": "disabled"
     },
     "group": "brand"
   },
@@ -101,7 +106,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "mode/light": "enabled",
-      "component/divider": "disabled"
+      "core/businesswiseCore": "disabled"
     },
     "group": "mode"
   }

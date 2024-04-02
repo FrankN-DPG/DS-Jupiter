@@ -1,156 +1,158 @@
 {
-  "storyCore": {
-    "color": {
-      "cornflower": {
-        "100": {
-          "value": "#e6f3f9",
-          "type": "color"
+  "core": {
+    "storyCore": {
+      "color": {
+        "cornflower": {
+          "100": {
+            "value": "#e6f3f9",
+            "type": "color"
+          },
+          "200": {
+            "value": "#b3d9ec",
+            "type": "color"
+          },
+          "300": {
+            "value": "#8ec7e3",
+            "type": "color"
+          },
+          "400": {
+            "value": "#5aadd7",
+            "type": "color"
+          },
+          "500": {
+            "value": "#3a9dcf",
+            "type": "color"
+          },
+          "600": {
+            "value": "#0985c3",
+            "type": "color"
+          },
+          "700": {
+            "value": "#0879b1",
+            "type": "color"
+          },
+          "800": {
+            "value": "#065e8a",
+            "type": "color"
+          },
+          "900": {
+            "value": "#043852",
+            "type": "color"
+          },
+          "1000": {
+            "value": "#0d3542",
+            "type": "color"
+          }
         },
-        "200": {
-          "value": "#b3d9ec",
-          "type": "color"
+        "turbo": {
+          "100": {
+            "value": "#fffde6",
+            "type": "color"
+          },
+          "200": {
+            "value": "#fff8b0",
+            "type": "color"
+          },
+          "300": {
+            "value": "#fff48a",
+            "type": "color"
+          },
+          "400": {
+            "value": "#ffef54",
+            "type": "color"
+          },
+          "500": {
+            "value": "#ffec33",
+            "type": "color"
+          },
+          "600": {
+            "value": "#ffe700",
+            "type": "color"
+          },
+          "700": {
+            "value": "#e8d200",
+            "type": "color"
+          },
+          "800": {
+            "value": "#b5a400",
+            "type": "color"
+          },
+          "900": {
+            "value": "#8c7f00",
+            "type": "color"
+          },
+          "1000": {
+            "value": "#6b6100",
+            "type": "color"
+          }
         },
-        "300": {
-          "value": "#8ec7e3",
-          "type": "color"
-        },
-        "400": {
-          "value": "#5aadd7",
-          "type": "color"
-        },
-        "500": {
-          "value": "#3a9dcf",
-          "type": "color"
-        },
-        "600": {
-          "value": "#0985c3",
-          "type": "color"
-        },
-        "700": {
-          "value": "#0879b1",
-          "type": "color"
-        },
-        "800": {
-          "value": "#065e8a",
-          "type": "color"
-        },
-        "900": {
-          "value": "#043852",
-          "type": "color"
-        },
-        "1000": {
-          "value": "#0d3542",
-          "type": "color"
+        "alizarinCrimson": {
+          "100": {
+            "value": "#fbe9ea",
+            "type": "color"
+          },
+          "200": {
+            "value": "#f3babd",
+            "type": "color"
+          },
+          "300": {
+            "value": "#ee999d",
+            "type": "color"
+          },
+          "400": {
+            "value": "#e66b70",
+            "type": "color"
+          },
+          "500": {
+            "value": "#e14e55",
+            "type": "color"
+          },
+          "600": {
+            "value": "#d9222a",
+            "type": "color"
+          },
+          "700": {
+            "value": "#c51f26",
+            "type": "color"
+          },
+          "800": {
+            "value": "#9a181e",
+            "type": "color"
+          },
+          "900": {
+            "value": "#771317",
+            "type": "color"
+          },
+          "1000": {
+            "value": "#5b0e12",
+            "type": "color"
+          }
         }
       },
-      "turbo": {
-        "100": {
-          "value": "#fffde6",
-          "type": "color"
-        },
-        "200": {
-          "value": "#fff8b0",
-          "type": "color"
-        },
-        "300": {
-          "value": "#fff48a",
-          "type": "color"
-        },
+      "fontWeight": {
         "400": {
-          "value": "#ffef54",
-          "type": "color"
-        },
-        "500": {
-          "value": "#ffec33",
-          "type": "color"
-        },
-        "600": {
-          "value": "#ffe700",
-          "type": "color"
+          "value": "Regular",
+          "type": "fontWeights"
         },
         "700": {
-          "value": "#e8d200",
-          "type": "color"
+          "value": "Bold",
+          "type": "fontWeights"
         },
-        "800": {
-          "value": "#b5a400",
-          "type": "color"
-        },
-        "900": {
-          "value": "#8c7f00",
-          "type": "color"
-        },
-        "1000": {
-          "value": "#6b6100",
-          "type": "color"
+        "700-italic": {
+          "value": "Bold Italic",
+          "type": "fontWeights"
         }
       },
-      "alizarinCrimson": {
-        "100": {
-          "value": "#fbe9ea",
-          "type": "color"
+      "font": {
+        "primary": {
+          "value": "Georgia",
+          "type": "fontFamilies"
         },
-        "200": {
-          "value": "#f3babd",
-          "type": "color"
-        },
-        "300": {
-          "value": "#ee999d",
-          "type": "color"
-        },
-        "400": {
-          "value": "#e66b70",
-          "type": "color"
-        },
-        "500": {
-          "value": "#e14e55",
-          "type": "color"
-        },
-        "600": {
-          "value": "#d9222a",
-          "type": "color"
-        },
-        "700": {
-          "value": "#c51f26",
-          "type": "color"
-        },
-        "800": {
-          "value": "#9a181e",
-          "type": "color"
-        },
-        "900": {
-          "value": "#771317",
-          "type": "color"
-        },
-        "1000": {
-          "value": "#5b0e12",
-          "type": "color"
+        "accent": {
+          "value": "Roboto Flex",
+          "type": "fontFamilies"
         }
       }
-    },
-    "fontWeight": {
-      "400": {
-        "value": "Regular",
-        "type": "fontWeights"
-      },
-      "700": {
-        "value": "Bold",
-        "type": "fontWeights"
-      },
-      "700-italic": {
-        "value": "Bold Italic",
-        "type": "fontWeights"
-      }
-    }
-  },
-  "font": {
-    "primary": {
-      "value": "Georgia",
-      "type": "fontFamilies"
-    },
-    "accent": {
-      "value": "Roboto Flex",
-      "type": "fontFamilies"
     }
   }
 }

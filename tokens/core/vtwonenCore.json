@@ -1,118 +1,120 @@
 {
-  "vtwonenCore": {
-    "color": {
-      "saffronMango": {
-        "100": {
-          "value": "#fefaef",
-          "type": "color"
+  "core": {
+    "vtwonenCore": {
+      "color": {
+        "saffronMango": {
+          "100": {
+            "value": "#fefaef",
+            "type": "color"
+          },
+          "200": {
+            "value": "#fdeecd",
+            "type": "color"
+          },
+          "300": {
+            "value": "#fce6b4",
+            "type": "color"
+          },
+          "400": {
+            "value": "#fada92",
+            "type": "color"
+          },
+          "500": {
+            "value": "#f9d37d",
+            "type": "color"
+          },
+          "600": {
+            "value": "#f8c85d",
+            "type": "color"
+          },
+          "700": {
+            "value": "#e2b655",
+            "type": "color"
+          },
+          "800": {
+            "value": "#b08e42",
+            "type": "color"
+          },
+          "900": {
+            "value": "#886e33",
+            "type": "color"
+          },
+          "1000": {
+            "value": "#685427",
+            "type": "color"
+          }
         },
-        "200": {
-          "value": "#fdeecd",
-          "type": "color"
-        },
-        "300": {
-          "value": "#fce6b4",
-          "type": "color"
-        },
-        "400": {
-          "value": "#fada92",
-          "type": "color"
-        },
-        "500": {
-          "value": "#f9d37d",
-          "type": "color"
-        },
-        "600": {
-          "value": "#f8c85d",
-          "type": "color"
-        },
-        "700": {
-          "value": "#e2b655",
-          "type": "color"
-        },
-        "800": {
-          "value": "#b08e42",
-          "type": "color"
-        },
-        "900": {
-          "value": "#886e33",
-          "type": "color"
-        },
-        "1000": {
-          "value": "#685427",
-          "type": "color"
+        "redRibbon": {
+          "100": {
+            "value": "#fce6ed",
+            "type": "color"
+          },
+          "200": {
+            "value": "#f7b0c6",
+            "type": "color"
+          },
+          "300": {
+            "value": "#f38aaa",
+            "type": "color"
+          },
+          "400": {
+            "value": "#ed5484",
+            "type": "color"
+          },
+          "500": {
+            "value": "#e9336c",
+            "type": "color"
+          },
+          "600": {
+            "value": "#e40047",
+            "type": "color"
+          },
+          "700": {
+            "value": "#cf0041",
+            "type": "color"
+          },
+          "800": {
+            "value": "#a20032",
+            "type": "color"
+          },
+          "900": {
+            "value": "#7d0027",
+            "type": "color"
+          },
+          "1000": {
+            "value": "#60001e",
+            "type": "color"
+          }
         }
       },
-      "redRibbon": {
-        "100": {
-          "value": "#fce6ed",
-          "type": "color"
-        },
-        "200": {
-          "value": "#f7b0c6",
-          "type": "color"
-        },
+      "fontWeight": {
         "300": {
-          "value": "#f38aaa",
-          "type": "color"
+          "value": "Light",
+          "type": "fontWeights"
         },
         "400": {
-          "value": "#ed5484",
-          "type": "color"
+          "value": "Regular",
+          "type": "fontWeights"
         },
         "500": {
-          "value": "#e9336c",
-          "type": "color"
-        },
-        "600": {
-          "value": "#e40047",
-          "type": "color"
+          "value": "Medium",
+          "type": "fontWeights"
         },
         "700": {
-          "value": "#cf0041",
-          "type": "color"
+          "value": "Bold",
+          "type": "fontWeights"
+        }
+      },
+      "font": {
+        "primary": {
+          "value": "Proxima Nova",
+          "type": "fontFamilies"
         },
-        "800": {
-          "value": "#a20032",
-          "type": "color"
-        },
-        "900": {
-          "value": "#7d0027",
-          "type": "color"
-        },
-        "1000": {
-          "value": "#60001e",
-          "type": "color"
+        "accent": {
+          "value": "Playfair Display",
+          "type": "fontFamilies"
         }
       }
-    },
-    "fontWeight": {
-      "300": {
-        "value": "Light",
-        "type": "fontWeights"
-      },
-      "400": {
-        "value": "Regular",
-        "type": "fontWeights"
-      },
-      "500": {
-        "value": "Medium",
-        "type": "fontWeights"
-      },
-      "700": {
-        "value": "Bold",
-        "type": "fontWeights"
-      }
-    }
-  },
-  "font": {
-    "primary": {
-      "value": "Proxima Nova",
-      "type": "fontFamilies"
-    },
-    "accent": {
-      "value": "Playfair Display",
-      "type": "fontFamilies"
     }
   }
 }

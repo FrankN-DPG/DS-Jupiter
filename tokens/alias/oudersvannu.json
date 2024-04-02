@@ -87,21 +87,21 @@
         "display": {
           "l": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.jupiterCore.font.accent}",
               "fontSize": "{core.typography.fontSize.240}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.500}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.500}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.jupiterCore.font.accent}",
               "fontSize": "{core.typography.fontSize.220}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.500}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.500}"
             },
             "type": "typography"
           }
@@ -109,21 +109,21 @@
         "heading1": {
           "l": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.jupiterCore.font.accent}",
               "fontSize": "{core.typography.fontSize.220}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.500}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.500}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.jupiterCore.font.accent}",
               "fontSize": "{core.typography.fontSize.180}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.500}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.500}"
             },
             "type": "typography"
           }
@@ -131,21 +131,21 @@
         "heading2": {
           "l": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.jupiterCore.font.accent}",
               "fontSize": "{core.typography.fontSize.180}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.500}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.500}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.jupiterCore.font.accent}",
               "fontSize": "{core.typography.fontSize.140}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.500}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.500}"
             },
             "type": "typography"
           }
@@ -153,21 +153,21 @@
         "heading2Alt": {
           "l": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.jupiterCore.font.primary}",
               "fontSize": "{core.typography.fontSize.180}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.400}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.400}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.jupiterCore.font.primary}",
               "fontSize": "{core.typography.fontSize.140}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.400}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.400}"
             },
             "type": "typography"
           }
@@ -175,21 +175,21 @@
         "heading3": {
           "l": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.jupiterCore.font.accent}",
               "fontSize": "{core.typography.fontSize.140}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.500}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.500}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.jupiterCore.font.accent}",
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.500}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.500}"
             },
             "type": "typography"
           }
@@ -197,21 +197,21 @@
         "heading4": {
           "l": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.jupiterCore.font.accent}",
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.500}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.500}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.jupiterCore.font.accent}",
               "fontSize": "{core.typography.fontSize.100}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.500}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.500}"
             },
             "type": "typography"
           }
@@ -219,21 +219,21 @@
         "intro": {
           "l": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.jupiterCore.font.primary}",
               "fontSize": "{core.typography.fontSize.170}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.300}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.300}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.jupiterCore.font.primary}",
               "fontSize": "{core.typography.fontSize.140}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.300}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.300}"
             },
             "type": "typography"
           }
@@ -241,21 +241,21 @@
         "body": {
           "l": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.jupiterCore.font.primary}",
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.400}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.400}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.jupiterCore.font.primary}",
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.400}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.400}"
             },
             "type": "typography"
           }
@@ -263,21 +263,21 @@
         "bodySmall": {
           "l": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.jupiterCore.font.primary}",
               "fontSize": "{core.typography.fontSize.100}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.400}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.400}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.jupiterCore.font.primary}",
               "fontSize": "{core.typography.fontSize.100}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.400}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.400}"
             },
             "type": "typography"
           }
@@ -285,21 +285,21 @@
         "caption": {
           "l": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.jupiterCore.font.primary}",
               "fontSize": "{core.typography.fontSize.80}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.400}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.400}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.jupiterCore.font.primary}",
               "fontSize": "{core.typography.fontSize.80}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.400}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.400}"
             },
             "type": "typography"
           }
@@ -307,21 +307,21 @@
         "textLink": {
           "l": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.jupiterCore.font.primary}",
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.underline}",
-              "fontWeight": "{oudersvannuCore.fontWeight.700}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.700}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.jupiterCore.font.primary}",
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.underline}",
-              "fontWeight": "{oudersvannuCore.fontWeight.700}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.700}"
             },
             "type": "typography"
           }
@@ -329,21 +329,21 @@
         "quote": {
           "l": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.jupiterCore.font.accent}",
               "fontSize": "{core.typography.fontSize.220}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.700}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.700}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.jupiterCore.font.accent}",
               "fontSize": "{core.typography.fontSize.180}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.700}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.700}"
             },
             "type": "typography"
           }
@@ -351,18 +351,18 @@
         "button": {
           "l": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.jupiterCore.font.primary}",
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{oudersvannuCore.fontWeight.400}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.400}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.primary}",
-              "fontWeight": "{oudersvannuCore.fontWeight.400}",
+              "fontFamily": "{core.jupiterCore.font.primary}",
+              "fontWeight": "{core.oudersvannuCore.fontWeight.400}",
               "fontSize": "{core.typography.fontSize.80}",
               "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.default}"
@@ -373,18 +373,18 @@
         "buttonAlt": {
           "l": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.jupiterCore.font.primary}",
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.underline}",
-              "fontWeight": "{oudersvannuCore.fontWeight.400}"
+              "fontWeight": "{core.oudersvannuCore.fontWeight.400}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.primary}",
-              "fontWeight": "{oudersvannuCore.fontWeight.400}",
+              "fontFamily": "{core.jupiterCore.font.primary}",
+              "fontWeight": "{core.oudersvannuCore.fontWeight.400}",
               "fontSize": "{core.typography.fontSize.80}",
               "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.underline}"
@@ -401,19 +401,19 @@
         "background": {
           "color": {
             "default": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{core.oudersvannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "hover": {
-              "value": "{oudersvannuCore.color.burntOrange.600}",
+              "value": "{core.oudersvannuCore.color.burntOrange.600}",
               "type": "color"
             },
             "pressed": {
-              "value": "{oudersvannuCore.color.burntOrange.600}",
+              "value": "{core.oudersvannuCore.color.burntOrange.600}",
               "type": "color"
             },
             "focus": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{core.oudersvannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "disabled": {
@@ -479,11 +479,11 @@
               "type": "color"
             },
             "hover": {
-              "value": "{oudersvannuCore.color.burntOrange.100}",
+              "value": "{core.oudersvannuCore.color.burntOrange.100}",
               "type": "color"
             },
             "pressed": {
-              "value": "{oudersvannuCore.color.burntOrange.100}",
+              "value": "{core.oudersvannuCore.color.burntOrange.100}",
               "type": "color"
             },
             "focus": {
@@ -499,19 +499,19 @@
         "text": {
           "color": {
             "default": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{core.oudersvannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "hover": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{core.oudersvannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "pressed": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{core.oudersvannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "focus": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{core.oudersvannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "disabled": {
@@ -523,19 +523,19 @@
         "icon": {
           "color": {
             "default": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{core.oudersvannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "hover": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{core.oudersvannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "pressed": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{core.oudersvannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "focus": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{core.oudersvannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "disabled": {
@@ -573,19 +573,19 @@
         "text": {
           "color": {
             "default": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{core.oudersvannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "hover": {
-              "value": "{oudersvannuCore.color.burntOrange.600}",
+              "value": "{core.oudersvannuCore.color.burntOrange.600}",
               "type": "color"
             },
             "pressed": {
-              "value": "{oudersvannuCore.color.burntOrange.600}",
+              "value": "{core.oudersvannuCore.color.burntOrange.600}",
               "type": "color"
             },
             "focus": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{core.oudersvannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "disabled": {
@@ -597,19 +597,19 @@
         "icon": {
           "color": {
             "default": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{core.oudersvannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "hover": {
-              "value": "{oudersvannuCore.color.burntOrange.600}",
+              "value": "{core.oudersvannuCore.color.burntOrange.600}",
               "type": "color"
             },
             "pressed": {
-              "value": "{oudersvannuCore.color.burntOrange.600}",
+              "value": "{core.oudersvannuCore.color.burntOrange.600}",
               "type": "color"
             },
             "focus": {
-              "value": "{oudersvannuCore.color.burntOrange.700}",
+              "value": "{core.oudersvannuCore.color.burntOrange.700}",
               "type": "color"
             },
             "disabled": {
@@ -627,11 +627,11 @@
               "type": "color"
             },
             "hover": {
-              "value": "{oudersvannuCore.color.patina.100}",
+              "value": "{core.oudersvannuCore.color.patina.100}",
               "type": "color"
             },
             "pressed": {
-              "value": "{oudersvannuCore.color.patina.100}",
+              "value": "{core.oudersvannuCore.color.patina.100}",
               "type": "color"
             },
             "focus": {
@@ -647,19 +647,19 @@
         "text": {
           "color": {
             "default": {
-              "value": "{oudersvannuCore.color.patina.800}",
+              "value": "{core.oudersvannuCore.color.patina.800}",
               "type": "color"
             },
             "hover": {
-              "value": "{oudersvannuCore.color.patina.800}",
+              "value": "{core.oudersvannuCore.color.patina.800}",
               "type": "color"
             },
             "pressed": {
-              "value": "{oudersvannuCore.color.patina.800}",
+              "value": "{core.oudersvannuCore.color.patina.800}",
               "type": "color"
             },
             "focus": {
-              "value": "{oudersvannuCore.color.patina.800}",
+              "value": "{core.oudersvannuCore.color.patina.800}",
               "type": "color"
             },
             "disabled": {
@@ -671,19 +671,19 @@
         "icon": {
           "color": {
             "default": {
-              "value": "{oudersvannuCore.color.patina.800}",
+              "value": "{core.oudersvannuCore.color.patina.800}",
               "type": "color"
             },
             "hover": {
-              "value": "{oudersvannuCore.color.patina.800}",
+              "value": "{core.oudersvannuCore.color.patina.800}",
               "type": "color"
             },
             "pressed": {
-              "value": "{oudersvannuCore.color.patina.800}",
+              "value": "{core.oudersvannuCore.color.patina.800}",
               "type": "color"
             },
             "focus": {
-              "value": "{oudersvannuCore.color.patina.800}",
+              "value": "{core.oudersvannuCore.color.patina.800}",
               "type": "color"
             },
             "disabled": {
@@ -697,13 +697,13 @@
     "border": {
       "default": {
         "value": {
-          "color": "{oudersvannuCore.color.burntOrange.700}"
+          "color": "{core.oudersvannuCore.color.burntOrange.700}"
         },
         "type": "border"
       },
       "hover": {
         "value": {
-          "color": "{oudersvannuCore.color.burntOrange.600}"
+          "color": "{core.oudersvannuCore.color.burntOrange.600}"
         },
         "type": "border"
       },
