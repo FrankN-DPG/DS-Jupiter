@@ -27,7 +27,7 @@
     "success": {
       "background": {
         "color": {
-          "value": "{mode.toast.success.background.color}",
+          "value": "{alias.mode.toast.success.background.color}",
           "type": "color"
         }
       },
@@ -47,7 +47,7 @@
     "error": {
       "background": {
         "color": {
-          "value": "{mode.toast.error.background.color}",
+          "value": "{alias.mode.toast.error.background.color}",
           "type": "color"
         }
       }
@@ -55,7 +55,7 @@
     "info": {
       "background": {
         "color": {
-          "value": "{mode.toast.info.background.color}",
+          "value": "{alias.mode.toast.info.background.color}",
           "type": "color"
         }
       }
