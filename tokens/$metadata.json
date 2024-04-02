@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
     "component/button",
+    "component/divider",
     "component/icon",
     "component/toast",
     "mode/light",

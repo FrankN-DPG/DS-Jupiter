@@ -358,5 +358,17 @@
         }
       }
     }
+  },
+  "alias": {
+    "mode": {
+      "divider": {
+        "color": {
+          "default": {
+            "value": "{alias.brand.divider.color.default}",
+            "type": "color"
+          }
+        }
+      }
+    }
   }
 }
