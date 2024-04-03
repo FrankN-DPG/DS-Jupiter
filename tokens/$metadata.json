@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
     "component/button",
+    "component/divider",
     "component/icon",
     "component/toast",
     "mode/light",
@@ -10,7 +11,7 @@
     "alias/oudersvannu",
     "alias/story",
     "alias/vtwonen",
-    "core/businesswise",
+    "core/businesswiseCore",
     "core/deondernemerCore",
     "core/jupiterCore",
     "core/oudersvannuCore",

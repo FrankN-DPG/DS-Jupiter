@@ -1,0 +1,26 @@
+{
+  "divider": {
+    "horizontal": {
+      "size": {
+        "1-x": {
+          "value": "{core.sizing.10}",
+          "type": "sizing"
+        }
+      }
+    },
+    "vertical": {
+      "size": {
+        "1-x": {
+          "value": "{core.sizing.10}",
+          "type": "sizing"
+        }
+      }
+    },
+    "color": {
+      "default": {
+        "value": "{alias.mode.divider.color.default}",
+        "type": "color"
+      }
+    }
+  }
+}

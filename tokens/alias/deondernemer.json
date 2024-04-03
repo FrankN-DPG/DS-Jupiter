@@ -47,6 +47,302 @@
               "type": "borderWidth"
             }
           }
+        },
+        "primary": {
+          "background": {
+            "color": {
+              "default": {
+                "value": "{core.deondernemerCore.color.cinnabar.600}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.deondernemerCore.color.cinnabar.800}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{core.deondernemerCore.color.cinnabar.800}",
+                "type": "color"
+              },
+              "focus": {
+                "value": "{core.deondernemerCore.color.cinnabar.600}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.color.neutral.400}",
+                "type": "color"
+              }
+            }
+          },
+          "text": {
+            "color": {
+              "default": {
+                "value": "{core.color.neutral.100}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.color.neutral.100}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{core.color.neutral.100}",
+                "type": "color"
+              },
+              "focus": {
+                "value": "{core.color.neutral.100}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.color.neutral.500}",
+                "type": "color"
+              }
+            }
+          },
+          "icon": {
+            "color": {
+              "default": {
+                "value": "{core.color.neutral.100}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.color.neutral.100}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{core.color.neutral.100}",
+                "type": "color"
+              },
+              "focus": {
+                "value": "{core.color.neutral.100}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.color.neutral.500}",
+                "type": "color"
+              }
+            }
+          }
+        },
+        "secondary": {
+          "background": {
+            "color": {
+              "default": {
+                "value": "{core.deondernemerCore.color.blueDianne.600}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.deondernemerCore.color.blueDianne.800}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{core.deondernemerCore.color.blueDianne.800}",
+                "type": "color"
+              },
+              "focus": {
+                "value": "{core.deondernemerCore.color.blueDianne.600}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.color.neutral.400}",
+                "type": "color"
+              }
+            }
+          },
+          "text": {
+            "color": {
+              "default": {
+                "value": "{core.color.neutral.100}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.color.neutral.100}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{core.color.neutral.100}",
+                "type": "color"
+              },
+              "focus": {
+                "value": "{core.color.neutral.100}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.color.neutral.500}",
+                "type": "color"
+              }
+            }
+          },
+          "icon": {
+            "color": {
+              "default": {
+                "value": "{core.color.neutral.100}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.color.neutral.100}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{core.color.neutral.100}",
+                "type": "color"
+              },
+              "focus": {
+                "value": "{core.color.neutral.100}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.color.neutral.500}",
+                "type": "color"
+              }
+            }
+          }
+        },
+        "tertiary": {
+          "background": {
+            "color": {
+              "default": {
+                "value": "none",
+                "type": "color"
+              },
+              "hover": {
+                "value": "none",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "none",
+                "type": "color"
+              },
+              "focus": {
+                "value": "none",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "none",
+                "type": "color"
+              }
+            }
+          },
+          "text": {
+            "color": {
+              "default": {
+                "value": "{core.deondernemerCore.color.blueDianne.600}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.deondernemerCore.color.blueDianne.800}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{core.deondernemerCore.color.blueDianne.800}",
+                "type": "color"
+              },
+              "focus": {
+                "value": "{core.deondernemerCore.color.blueDianne.600}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.color.neutral.500}",
+                "type": "color"
+              }
+            }
+          },
+          "icon": {
+            "color": {
+              "default": {
+                "value": "{core.deondernemerCore.color.blueDianne.600}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.deondernemerCore.color.blueDianne.800}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{core.deondernemerCore.color.blueDianne.800}",
+                "type": "color"
+              },
+              "focus": {
+                "value": "{core.deondernemerCore.color.blueDianne.600}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.color.neutral.500}",
+                "type": "color"
+              }
+            }
+          }
+        },
+        "ghost": {
+          "background": {
+            "color": {
+              "default": {
+                "value": "none",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.deondernemerCore.color.blueDianne.100}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{core.deondernemerCore.color.blueDianne.100}",
+                "type": "color"
+              },
+              "focus": {
+                "value": "none",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "none",
+                "type": "color"
+              }
+            }
+          },
+          "text": {
+            "color": {
+              "default": {
+                "value": "{core.deondernemerCore.color.blueDianne.600}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.deondernemerCore.color.cinnabar.600}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{core.deondernemerCore.color.cinnabar.600}",
+                "type": "color"
+              },
+              "focus": {
+                "value": "{core.deondernemerCore.color.cinnabar.600}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.color.neutral.500}",
+                "type": "color"
+              }
+            }
+          },
+          "icon": {
+            "color": {
+              "default": {
+                "value": "{core.deondernemerCore.color.blueDianne.600}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.deondernemerCore.color.cinnabar.600}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{core.deondernemerCore.color.cinnabar.600}",
+                "type": "color"
+              },
+              "focus": {
+                "value": "{core.deondernemerCore.color.cinnabar.600}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.color.neutral.500}",
+                "type": "color"
+              }
+            }
+          }
         }
       },
       "toast": {
@@ -63,6 +359,66 @@
             "gap": {
               "value": "{core.spacing.100}",
               "type": "spacing"
+            }
+          }
+        },
+        "success": {
+          "background": {
+            "color": {
+              "value": "{core.color.semantic.success}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "color": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            }
+          },
+          "icon": {
+            "color": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            }
+          }
+        },
+        "info": {
+          "background": {
+            "color": {
+              "value": "{core.color.semantic.info}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "color": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            }
+          },
+          "icon": {
+            "color": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            }
+          }
+        },
+        "error": {
+          "background": {
+            "color": {
+              "value": "{core.color.semantic.error}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "color": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            }
+          },
+          "icon": {
+            "color": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
             }
           }
         }
@@ -87,21 +443,21 @@
         "display": {
           "l": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.deondernemerCore.font.accent}",
               "fontSize": "{core.typography.fontSize.240}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.700}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.700}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.deondernemerCore.font.accent}",
               "fontSize": "{core.typography.fontSize.220}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.700}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.700}"
             },
             "type": "typography"
           }
@@ -109,21 +465,21 @@
         "heading1": {
           "l": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.deondernemerCore.font.accent}",
               "fontSize": "{core.typography.fontSize.220}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.700}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.700}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.deondernemerCore.font.accent}",
               "fontSize": "{core.typography.fontSize.180}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.700}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.700}"
             },
             "type": "typography"
           }
@@ -131,21 +487,21 @@
         "heading2": {
           "l": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.deondernemerCore.font.accent}",
               "fontSize": "{core.typography.fontSize.180}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.700}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.700}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.deondernemerCore.font.accent}",
               "fontSize": "{core.typography.fontSize.140}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.700}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.700}"
             },
             "type": "typography"
           }
@@ -153,21 +509,21 @@
         "heading2Alt": {
           "l": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.deondernemerCore.font.primary}",
               "fontSize": "{core.typography.fontSize.180}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.400}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.400}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.deondernemerCore.font.primary}",
               "fontSize": "{core.typography.fontSize.140}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.400}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.400}"
             },
             "type": "typography"
           }
@@ -175,21 +531,21 @@
         "heading3": {
           "l": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.deondernemerCore.font.accent}",
               "fontSize": "{core.typography.fontSize.140}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.700}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.700}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.deondernemerCore.font.accent}",
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.700}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.700}"
             },
             "type": "typography"
           }
@@ -197,21 +553,21 @@
         "heading4": {
           "l": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.deondernemerCore.font.accent}",
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.700}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.700}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.deondernemerCore.font.accent}",
               "fontSize": "{core.typography.fontSize.100}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.700}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.700}"
             },
             "type": "typography"
           }
@@ -219,21 +575,21 @@
         "intro": {
           "l": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.deondernemerCore.font.primary}",
               "fontSize": "{core.typography.fontSize.170}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.300}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.300}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.deondernemerCore.font.primary}",
               "fontSize": "{core.typography.fontSize.140}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.300}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.300}"
             },
             "type": "typography"
           }
@@ -241,21 +597,21 @@
         "body": {
           "l": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.deondernemerCore.font.primary}",
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.400}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.400}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.deondernemerCore.font.primary}",
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.400}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.400}"
             },
             "type": "typography"
           }
@@ -263,21 +619,21 @@
         "bodySmall": {
           "l": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.deondernemerCore.font.primary}",
               "fontSize": "{core.typography.fontSize.100}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.400}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.400}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.deondernemerCore.font.primary}",
               "fontSize": "{core.typography.fontSize.100}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.400}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.400}"
             },
             "type": "typography"
           }
@@ -285,21 +641,21 @@
         "caption": {
           "l": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.deondernemerCore.font.primary}",
               "fontSize": "{core.typography.fontSize.80}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.400}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.400}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.deondernemerCore.font.primary}",
               "fontSize": "{core.typography.fontSize.80}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.400}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.400}"
             },
             "type": "typography"
           }
@@ -307,21 +663,21 @@
         "textLink": {
           "l": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.deondernemerCore.font.primary}",
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.underline}",
-              "fontWeight": "{deondernemerCore.fontWeight.700}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.700}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.deondernemerCore.font.primary}",
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.underline}",
-              "fontWeight": "{deondernemerCore.fontWeight.700}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.700}"
             },
             "type": "typography"
           }
@@ -329,21 +685,21 @@
         "quote": {
           "l": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.deondernemerCore.font.accent}",
               "fontSize": "{core.typography.fontSize.220}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.700}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.700}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.accent}",
+              "fontFamily": "{core.deondernemerCore.font.accent}",
               "fontSize": "{core.typography.fontSize.180}",
               "lineHeight": "{core.typography.lineHeight.140}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.700}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.700}"
             },
             "type": "typography"
           }
@@ -351,18 +707,18 @@
         "button": {
           "l": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.deondernemerCore.font.primary}",
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.default}",
-              "fontWeight": "{deondernemerCore.fontWeight.400}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.400}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.primary}",
-              "fontWeight": "{deondernemerCore.fontWeight.400}",
+              "fontFamily": "{core.deondernemerCore.font.primary}",
+              "fontWeight": "{core.deondernemerCore.fontWeight.400}",
               "fontSize": "{core.typography.fontSize.80}",
               "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.default}"
@@ -373,18 +729,18 @@
         "buttonAlt": {
           "l": {
             "value": {
-              "fontFamily": "{font.primary}",
+              "fontFamily": "{core.deondernemerCore.font.primary}",
               "fontSize": "{core.typography.fontSize.120}",
               "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.underline}",
-              "fontWeight": "{deondernemerCore.fontWeight.400}"
+              "fontWeight": "{core.deondernemerCore.fontWeight.400}"
             },
             "type": "typography"
           },
           "s": {
             "value": {
-              "fontFamily": "{font.primary}",
-              "fontWeight": "{deondernemerCore.fontWeight.400}",
+              "fontFamily": "{core.deondernemerCore.font.primary}",
+              "fontWeight": "{core.deondernemerCore.fontWeight.400}",
               "fontSize": "{core.typography.fontSize.80}",
               "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.underline}"
@@ -392,397 +748,43 @@
             "type": "typography"
           }
         }
-      }
-    }
-  },
-  "brand": {
-    "button": {
-      "primary": {
-        "background": {
-          "color": {
-            "default": {
-              "value": "{deondernemerCore.color.cinnabar.600}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{deondernemerCore.color.cinnabar.800}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{deondernemerCore.color.cinnabar.800}",
-              "type": "color"
-            },
-            "focus": {
-              "value": "{deondernemerCore.color.cinnabar.600}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.color.neutral.400}",
-              "type": "color"
-            }
-          }
+      },
+      "border": {
+        "default": {
+          "value": {
+            "color": "{core.deondernemerCore.color.blueDianne.600}"
+          },
+          "type": "border"
         },
-        "text": {
-          "color": {
-            "default": {
-              "value": "{core.color.neutral.100}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{core.color.neutral.100}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{core.color.neutral.100}",
-              "type": "color"
-            },
-            "focus": {
-              "value": "{core.color.neutral.100}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.color.neutral.500}",
-              "type": "color"
-            }
-          }
+        "hover": {
+          "value": {
+            "color": "{core.deondernemerCore.color.blueDianne.800}"
+          },
+          "type": "border"
         },
-        "icon": {
-          "color": {
-            "default": {
-              "value": "{core.color.neutral.100}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{core.color.neutral.100}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{core.color.neutral.100}",
-              "type": "color"
-            },
-            "focus": {
-              "value": "{core.color.neutral.100}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.color.neutral.500}",
-              "type": "color"
-            }
-          }
+        "focus": {
+          "value": {
+            "color": "{core.color.semantic.focus}"
+          },
+          "type": "border"
+        },
+        "disabled": {
+          "value": {
+            "color": "{core.color.neutral.500}"
+          },
+          "type": "border"
+        },
+        "none": {
+          "value": {
+            "color": "none"
+          },
+          "type": "border"
         }
       },
-      "secondary": {
-        "background": {
-          "color": {
-            "default": {
-              "value": "{deondernemerCore.color.blueDianne.600}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{deondernemerCore.color.blueDianne.800}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{deondernemerCore.color.blueDianne.800}",
-              "type": "color"
-            },
-            "focus": {
-              "value": "{deondernemerCore.color.blueDianne.600}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.color.neutral.400}",
-              "type": "color"
-            }
-          }
-        },
-        "text": {
-          "color": {
-            "default": {
-              "value": "{core.color.neutral.100}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{core.color.neutral.100}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{core.color.neutral.100}",
-              "type": "color"
-            },
-            "focus": {
-              "value": "{core.color.neutral.100}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.color.neutral.500}",
-              "type": "color"
-            }
-          }
-        },
-        "icon": {
-          "color": {
-            "default": {
-              "value": "{core.color.neutral.100}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{core.color.neutral.100}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{core.color.neutral.100}",
-              "type": "color"
-            },
-            "focus": {
-              "value": "{core.color.neutral.100}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.color.neutral.500}",
-              "type": "color"
-            }
-          }
-        }
-      },
-      "tertiary": {
-        "background": {
-          "color": {
-            "default": {
-              "value": "none",
-              "type": "color"
-            },
-            "hover": {
-              "value": "none",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "none",
-              "type": "color"
-            },
-            "focus": {
-              "value": "none",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "none",
-              "type": "color"
-            }
-          }
-        },
-        "text": {
-          "color": {
-            "default": {
-              "value": "{deondernemerCore.color.blueDianne.600}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{deondernemerCore.color.blueDianne.800}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{deondernemerCore.color.blueDianne.800}",
-              "type": "color"
-            },
-            "focus": {
-              "value": "{deondernemerCore.color.blueDianne.600}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.color.neutral.500}",
-              "type": "color"
-            }
-          }
-        },
-        "icon": {
-          "color": {
-            "default": {
-              "value": "{deondernemerCore.color.blueDianne.600}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{deondernemerCore.color.blueDianne.800}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{deondernemerCore.color.blueDianne.800}",
-              "type": "color"
-            },
-            "focus": {
-              "value": "{deondernemerCore.color.blueDianne.600}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.color.neutral.500}",
-              "type": "color"
-            }
-          }
-        }
-      },
-      "ghost": {
-        "background": {
-          "color": {
-            "default": {
-              "value": "none",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{deondernemerCore.color.blueDianne.100}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{deondernemerCore.color.blueDianne.100}",
-              "type": "color"
-            },
-            "focus": {
-              "value": "none",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "none",
-              "type": "color"
-            }
-          }
-        },
-        "text": {
-          "color": {
-            "default": {
-              "value": "{deondernemerCore.color.blueDianne.600}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{deondernemerCore.color.cinnabar.600}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{deondernemerCore.color.cinnabar.600}",
-              "type": "color"
-            },
-            "focus": {
-              "value": "{deondernemerCore.color.cinnabar.600}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.color.neutral.500}",
-              "type": "color"
-            }
-          }
-        },
-        "icon": {
-          "color": {
-            "default": {
-              "value": "{deondernemerCore.color.blueDianne.600}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{deondernemerCore.color.cinnabar.600}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{deondernemerCore.color.cinnabar.600}",
-              "type": "color"
-            },
-            "focus": {
-              "value": "{deondernemerCore.color.cinnabar.600}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.color.neutral.500}",
-              "type": "color"
-            }
-          }
-        }
-      }
-    },
-    "border": {
-      "default": {
-        "value": {
-          "color": "{deondernemerCore.color.blueDianne.600}"
-        },
-        "type": "border"
-      },
-      "hover": {
-        "value": {
-          "color": "{deondernemerCore.color.blueDianne.800}"
-        },
-        "type": "border"
-      },
-      "focus": {
-        "value": {
-          "color": "{core.color.semantic.focus}"
-        },
-        "type": "border"
-      },
-      "disabled": {
-        "value": {
-          "color": "{core.color.neutral.500}"
-        },
-        "type": "border"
-      },
-      "none": {
-        "value": {
-          "color": "none"
-        },
-        "type": "border"
-      }
-    },
-    "toast": {
-      "success": {
-        "background": {
-          "color": {
-            "value": "{core.color.semantic.success}",
-            "type": "color"
-          }
-        },
-        "text": {
-          "color": {
-            "value": "{core.color.neutral.100}",
-            "type": "color"
-          }
-        },
-        "icon": {
-          "color": {
-            "value": "{core.color.neutral.100}",
-            "type": "color"
-          }
-        }
-      },
-      "info": {
-        "background": {
-          "color": {
-            "value": "{core.color.semantic.info}",
-            "type": "color"
-          }
-        },
-        "text": {
-          "color": {
-            "value": "{core.color.neutral.100}",
-            "type": "color"
-          }
-        },
-        "icon": {
-          "color": {
-            "value": "{core.color.neutral.100}",
-            "type": "color"
-          }
-        }
-      },
-      "error": {
-        "background": {
-          "color": {
-            "value": "{core.color.semantic.error}",
-            "type": "color"
-          }
-        },
-        "text": {
-          "color": {
-            "value": "{core.color.neutral.100}",
-            "type": "color"
-          }
-        },
-        "icon": {
-          "color": {
-            "value": "{core.color.neutral.100}",
+      "divider": {
+        "color": {
+          "default": {
+            "value": "{core.color.neutral.500}",
             "type": "color"
           }
         }

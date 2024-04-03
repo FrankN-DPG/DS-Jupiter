@@ -27,19 +27,19 @@
     "success": {
       "background": {
         "color": {
-          "value": "{mode.toast.success.background.color}",
+          "value": "{alias.mode.toast.success.background.color}",
           "type": "color"
         }
       },
       "text": {
         "color": {
-          "value": "{brand.toast.success.text.color}",
+          "value": "{alias.brand.toast.success.text.color}",
           "type": "color"
         }
       },
       "icon": {
         "color": {
-          "value": "{brand.toast.success.icon.color}",
+          "value": "{alias.brand.toast.success.icon.color}",
           "type": "color"
         }
       }
@@ -47,7 +47,7 @@
     "error": {
       "background": {
         "color": {
-          "value": "{mode.toast.error.background.color}",
+          "value": "{alias.mode.toast.error.background.color}",
           "type": "color"
         }
       }
@@ -55,7 +55,7 @@
     "info": {
       "background": {
         "color": {
-          "value": "{mode.toast.info.background.color}",
+          "value": "{alias.mode.toast.info.background.color}",
           "type": "color"
         }
       }
