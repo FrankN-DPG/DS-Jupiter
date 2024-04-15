@@ -33,13 +33,13 @@
       },
       "text": {
         "color": {
-          "value": "{alias.brand.toast.success.text.color}",
+          "value": "{alias.mode.toast.success.text.color}",
           "type": "color"
         }
       },
       "icon": {
         "color": {
-          "value": "{alias.brand.toast.success.icon.color}",
+          "value": "{alias.mode.toast.success.icon.color}",
           "type": "color"
         }
       }
