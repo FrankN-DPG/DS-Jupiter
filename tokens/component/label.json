@@ -16,13 +16,13 @@
     },
     "background": {
       "color": {
-        "value": "{alias.brand.label.background.color}",
+        "value": "{alias.mode.label.background.color}",
         "type": "color"
       }
     },
     "text": {
       "color": {
-        "value": "{alias.brand.label.text.color}",
+        "value": "{alias.mode.label.text.color}",
         "type": "color"
       },
       "typography": {
