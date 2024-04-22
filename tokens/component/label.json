@@ -2,8 +2,32 @@
   "label": {
     "spacing": {
       "vertical": {
-        "value": "{alias.brand.labeltest",
-        "type": "sizing"
+        "value": "{alias.brand.label.spacing.vertical}",
+        "type": "spacing"
+      },
+      "horizontal": {
+        "value": "{alias.brand.label.spacing.horizontal}",
+        "type": "spacing"
+      }
+    },
+    "radius": {
+      "value": "{alias.brand.label.radius}",
+      "type": "borderRadius"
+    },
+    "background": {
+      "color": {
+        "value": "{alias.brand.label.background.color}",
+        "type": "color"
+      }
+    },
+    "text": {
+      "color": {
+        "value": "{alias.brand.label.text.color}",
+        "type": "color"
+      },
+      "typography": {
+        "value": "{alias.brand.typography.caption.s}",
+        "type": "typography"
       }
     }
   }
