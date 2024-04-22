@@ -2,11 +2,11 @@
   "toast": {
     "spacing": {
       "vertical": {
-        "value": "{alias.brand.m.spacing.vertical}",
+        "value": "{alias.brand.button.spacing.vertical.m}",
         "type": "spacing"
       },
       "horizontal": {
-        "value": "{alias.brand.m.spacing.horizontal}",
+        "value": "{alias.brand.button.spacing.horizontal.m}",
         "type": "spacing"
       },
       "gap": {

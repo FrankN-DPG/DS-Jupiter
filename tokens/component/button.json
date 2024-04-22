@@ -7,11 +7,11 @@
     "m": {
       "spacing": {
         "vertical": {
-          "value": "{alias.brand.m.spacing.vertical}",
+          "value": "{alias.brand.button.spacing.vertical.m}",
           "type": "spacing"
         },
         "horizontal": {
-          "value": "{alias.brand.m.spacing.horizontal}",
+          "value": "{alias.brand.button.spacing.horizontal.m}",
           "type": "spacing"
         }
       },
@@ -29,11 +29,11 @@
     "s": {
       "spacing": {
         "vertical": {
-          "value": "{alias.brand.s.spacing.vertical}",
+          "value": "{alias.brand.button.spacing.vertical.s}",
           "type": "spacing"
         },
         "horizontal": {
-          "value": "{alias.brand.s.spacing.horizontal}",
+          "value": "{alias.brand.button.spacing.horizontal.s}",
           "type": "spacing"
         }
       },
@@ -50,7 +50,7 @@
     },
     "spacing": {
       "gap": {
-        "value": "{alias.brand.spacing.gap}",
+        "value": "{alias.brand.button.spacing.gap}",
         "type": "spacing"
       }
     },
