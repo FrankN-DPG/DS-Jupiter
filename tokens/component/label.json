@@ -1,1 +1,10 @@
-{}
+{
+  "label": {
+    "spacing": {
+      "vertical": {
+        "value": "{alias.brand.labeltest",
+        "type": "sizing"
+      }
+    }
+  }
+}
