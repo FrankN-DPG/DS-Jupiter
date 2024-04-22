@@ -367,12 +367,12 @@
       },
       "label": {
         "radius": {
-          "value": "{core.shape.radius.0}",
+          "value": "{core.shape.radius.600}",
           "type": "borderRadius"
         },
         "background": {
           "color": {
-            "value": "{core.color.neutral.1000}",
+            "value": "{core.businesswiseCore.color.biscayBlue.600}",
             "type": "color"
           }
         },
@@ -388,7 +388,7 @@
             "type": "spacing"
           },
           "horizontal": {
-            "value": "{core.spacing.50}",
+            "value": "{alias.brand.button.spacing.gap}",
             "type": "spacing"
           }
         }
