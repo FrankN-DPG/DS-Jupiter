@@ -4,6 +4,7 @@
     "component/divider",
     "component/icon",
     "component/toast",
+    "component/label",
     "mode/light",
     "alias/businesswise",
     "alias/deondernemer",
