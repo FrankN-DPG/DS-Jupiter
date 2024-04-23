@@ -3,6 +3,7 @@
     "component/button",
     "component/divider",
     "component/icon",
+    "component/label",
     "component/toast",
     "mode/light",
     "alias/businesswise",

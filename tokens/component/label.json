@@ -1,0 +1,34 @@
+{
+  "label": {
+    "spacing": {
+      "vertical": {
+        "value": "{alias.brand.label.spacing.vertical}",
+        "type": "spacing"
+      },
+      "horizontal": {
+        "value": "{alias.brand.label.spacing.horizontal}",
+        "type": "spacing"
+      }
+    },
+    "radius": {
+      "value": "{alias.brand.label.radius}",
+      "type": "borderRadius"
+    },
+    "background": {
+      "color": {
+        "value": "{alias.mode.label.background.color}",
+        "type": "color"
+      }
+    },
+    "text": {
+      "color": {
+        "value": "{alias.mode.label.text.color}",
+        "type": "color"
+      },
+      "typography": {
+        "value": "{alias.brand.typography.caption.s}",
+        "type": "typography"
+      }
+    }
+  }
+}

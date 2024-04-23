@@ -366,6 +366,20 @@
             "type": "color"
           }
         }
+      },
+      "label": {
+        "background": {
+          "color": {
+            "value": "{alias.brand.label.background.color}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "color": {
+            "value": "{alias.brand.label.text.color}",
+            "type": "color"
+          }
+        }
       }
     }
   }
