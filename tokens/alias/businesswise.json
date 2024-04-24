@@ -724,6 +724,30 @@
             "type": "typography"
           }
         },
+        "captionAlt": {
+          "l": {
+            "value": {
+              "fontFamily": "{core.businesswiseCore.font.primary}",
+              "fontSize": "{core.typography.fontSize.80}",
+              "lineHeight": "{core.typography.lineHeight.140}",
+              "textDecoration": "{core.typography.textDecoration.default}",
+              "fontWeight": "{core.businesswiseCore.fontWeight.400}",
+              "textCase": "{core.typography.textCase.uppercase}"
+            },
+            "type": "typography"
+          },
+          "s": {
+            "value": {
+              "fontFamily": "{core.businesswiseCore.font.primary}",
+              "fontSize": "{core.typography.fontSize.80}",
+              "lineHeight": "{core.typography.lineHeight.140}",
+              "textDecoration": "{core.typography.textDecoration.default}",
+              "fontWeight": "{core.businesswiseCore.fontWeight.400}",
+              "textCase": "{core.typography.textCase.uppercase}"
+            },
+            "type": "typography"
+          }
+        },
         "textLink": {
           "l": {
             "value": {
@@ -808,6 +832,28 @@
               "fontSize": "{core.typography.fontSize.80}",
               "lineHeight": "{core.typography.lineHeight.100}",
               "textDecoration": "{core.typography.textDecoration.underline}"
+            },
+            "type": "typography"
+          }
+        },
+        "label": {
+          "l": {
+            "value": {
+              "fontFamily": "{core.businesswiseCore.font.primary}",
+              "fontSize": "{core.typography.fontSize.80}",
+              "lineHeight": "{core.typography.lineHeight.140}",
+              "textDecoration": "{core.typography.textDecoration.default}",
+              "fontWeight": "{core.businesswiseCore.fontWeight.700}"
+            },
+            "type": "typography"
+          },
+          "s": {
+            "value": {
+              "fontFamily": "{core.businesswiseCore.font.primary}",
+              "fontSize": "{core.typography.fontSize.80}",
+              "lineHeight": "{core.typography.lineHeight.140}",
+              "textDecoration": "{core.typography.textDecoration.default}",
+              "fontWeight": "{core.businesswiseCore.fontWeight.700}"
             },
             "type": "typography"
           }
