@@ -262,6 +262,68 @@
             "type": "color"
           }
         }
+      },
+      "inverted": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.mode.button.secondary.inverted.background.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.mode.button.secondary.inverted.background.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.mode.button.secondary.inverted.background.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.mode.button.secondary.inverted.background.color.focus}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.mode.button.secondary.inverted.text.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.mode.button.secondary.inverted.text.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.mode.button.secondary.inverted.text.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.mode.button.secondary.inverted.text.color.focus}",
+              "type": "color"
+            }
+          }
+        },
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{alias.mode.button.secondary.inverted.icon.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.mode.button.secondary.inverted.icon.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.mode.button.secondary.inverted.icon.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.mode.button.secondary.inverted.icon.color.focus}",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "tertiary": {
@@ -334,6 +396,68 @@
           "disabled": {
             "value": "{alias.mode.button.tertiary.icon.color.disabled}",
             "type": "color"
+          }
+        }
+      },
+      "inverted": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.mode.button.tertiary.inverted.background.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.mode.button.tertiary.inverted.background.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.mode.button.tertiary.inverted.background.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.mode.button.tertiary.inverted.background.color.focus}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.mode.button.tertiary.inverted.text.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.mode.button.tertiary.inverted.text.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.mode.button.tertiary.inverted.text.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.mode.button.tertiary.inverted.text.color.focus}",
+              "type": "color"
+            }
+          }
+        },
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{alias.mode.button.tertiary.inverted.icon.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.mode.button.tertiary.inverted.icon.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.mode.button.tertiary.inverted.icon.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.mode.button.tertiary.inverted.icon.color.focus}",
+              "type": "color"
+            }
           }
         }
       }
@@ -439,6 +563,68 @@
         "none": {
           "value": "{alias.mode.border.none}",
           "type": "border"
+        }
+      }
+    },
+    "inverted": {
+      "background": {
+        "color": {
+          "default": {
+            "value": "{alias.mode.button.ghost.inverted.background.color.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{alias.mode.button.ghost.inverted.background.color.hover}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{alias.mode.button.ghost.inverted.background.color.pressed}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{alias.mode.button.ghost.inverted.background.color.focus}",
+            "type": "color"
+          }
+        }
+      },
+      "text": {
+        "color": {
+          "default": {
+            "value": "{alias.mode.button.ghost.inverted.text.color.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{alias.mode.button.ghost.inverted.text.color.hover}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{alias.mode.button.ghost.inverted.text.color.pressed}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{alias.mode.button.ghost.inverted.text.color.focus}",
+            "type": "color"
+          }
+        }
+      },
+      "icon": {
+        "color": {
+          "default": {
+            "value": "{alias.mode.button.ghost.inverted.icon.color.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{alias.mode.button.ghost.inverted.icon.color.hover}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{alias.mode.button.ghost.inverted.icon.color.pressed}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{alias.mode.button.ghost.inverted.icon.color.focus}",
+            "type": "color"
+          }
         }
       }
     }

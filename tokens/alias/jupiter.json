@@ -33,35 +33,15 @@
           "type": "borderRadius"
         },
         "border": {
-          "default": {
-            "value": {
-              "color": "{core.jupiterCore.color.matisse.600}"
+          "width": {
+            "0": {
+              "value": "{core.shape.borderWidth.0}",
+              "type": "borderWidth"
             },
-            "type": "border"
-          },
-          "hover": {
-            "value": {
-              "color": "{core.jupiterCore.color.matisse.800}"
-            },
-            "type": "border"
-          },
-          "focus": {
-            "value": {
-              "color": "{core.color.semantic.focus}"
-            },
-            "type": "border"
-          },
-          "disabled": {
-            "value": {
-              "color": "{core.color.neutral.500}"
-            },
-            "type": "border"
-          },
-          "none": {
-            "value": {
-              "color": "none"
-            },
-            "type": "border"
+            "200": {
+              "value": "{core.shape.borderWidth.200}",
+              "type": "borderWidth"
+            }
           }
         },
         "primary": {
@@ -551,6 +531,38 @@
               "type": "color"
             }
           }
+        }
+      },
+      "border": {
+        "default": {
+          "value": {
+            "color": "{core.jupiterCore.color.matisse.600}"
+          },
+          "type": "border"
+        },
+        "hover": {
+          "value": {
+            "color": "{core.jupiterCore.color.matisse.800}"
+          },
+          "type": "border"
+        },
+        "focus": {
+          "value": {
+            "color": "{core.color.semantic.focus}"
+          },
+          "type": "border"
+        },
+        "disabled": {
+          "value": {
+            "color": "{core.color.neutral.500}"
+          },
+          "type": "border"
+        },
+        "none": {
+          "value": {
+            "color": "none"
+          },
+          "type": "border"
         }
       },
       "typography": {
