@@ -151,23 +151,19 @@
         "text": {
           "color": {
             "default": {
-              "value": "{alias.mode.button.primary.text.color.default}",
+              "value": "{alias.mode.button.primary.inverted.text.color.default}",
               "type": "color"
             },
             "hover": {
-              "value": "{alias.mode.button.primary.text.color.hover}",
+              "value": "{alias.mode.button.primary.inverted.text.color.hover}",
               "type": "color"
             },
             "pressed": {
-              "value": "{alias.mode.button.primary.text.color.pressed}",
+              "value": "{alias.mode.button.primary.inverted.text.color.pressed}",
               "type": "color"
             },
             "focus": {
-              "value": "{alias.mode.button.primary.text.color.focus}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{alias.mode.button.primary.text.color.disabled}",
+              "value": "{alias.mode.button.primary.inverted.text.color.focus}",
               "type": "color"
             }
           }
@@ -175,23 +171,19 @@
         "icon": {
           "color": {
             "default": {
-              "value": "{alias.mode.button.primary.icon.color.default}",
+              "value": "{alias.mode.button.primary.inverted.icon.color.default}",
               "type": "color"
             },
             "hover": {
-              "value": "{alias.mode.button.primary.icon.color.hover}",
+              "value": "{alias.mode.button.primary.inverted.icon.color.hover}",
               "type": "color"
             },
             "pressed": {
-              "value": "{alias.mode.button.primary.icon.color.pressed}",
+              "value": "{alias.mode.button.primary.inverted.icon.color.pressed}",
               "type": "color"
             },
             "focus": {
-              "value": "{alias.mode.button.primary.icon.color.focus}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{alias.mode.button.primary.icon.color.disabled}",
+              "value": "{alias.mode.button.primary.inverted.icon.color.focus}",
               "type": "color"
             }
           }
