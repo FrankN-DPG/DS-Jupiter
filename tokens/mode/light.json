@@ -74,6 +74,28 @@
                 "type": "color"
               }
             }
+          },
+          "inverted": {
+            "background": {
+              "color": {
+                "default": {
+                  "value": "{alias.brand.button.primary.inverted.background.color.default}",
+                  "type": "color"
+                },
+                "hover": {
+                  "value": "{alias.brand.button.primary.inverted.background.color.hover}",
+                  "type": "color"
+                },
+                "pressed": {
+                  "value": "{alias.brand.button.primary.inverted.background.color.pressed}",
+                  "type": "color"
+                },
+                "focus": {
+                  "value": "{alias.brand.button.primary.inverted.background.color.focus}",
+                  "type": "color"
+                }
+              }
+            }
           }
         },
         "secondary": {
