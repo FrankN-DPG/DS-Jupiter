@@ -125,11 +125,11 @@
                   "type": "color"
                 },
                 "hover": {
-                  "value": "{core.color.neutral.400}",
+                  "value": "{core.vtwonenCore.color.saffronMango.200}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{core.color.neutral.400}",
+                  "value": "{core.vtwonenCore.color.saffronMango.200}",
                   "type": "color"
                 },
                 "focus": {
@@ -261,11 +261,11 @@
                   "type": "color"
                 },
                 "hover": {
-                  "value": "{core.color.neutral.400}",
+                  "value": "{core.vtwonenCore.color.saffronMango.200}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{core.color.neutral.400}",
+                  "value": "{core.vtwonenCore.color.saffronMango.200}",
                   "type": "color"
                 },
                 "focus": {
