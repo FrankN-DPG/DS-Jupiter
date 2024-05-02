@@ -762,6 +762,12 @@
           },
           "type": "border"
         },
+        "inverted": {
+          "value": {
+            "color": "{core.color.neutral.100}"
+          },
+          "type": "border"
+        },
         "none": {
           "value": {
             "color": "none"
