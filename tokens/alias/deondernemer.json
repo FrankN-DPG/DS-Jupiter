@@ -125,11 +125,11 @@
                   "type": "color"
                 },
                 "hover": {
-                  "value": "{core.deondernemerCore.color.cinnabar.100}",
+                  "value": "{core.deondernemerCore.color.blueDianne.100}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{core.deondernemerCore.color.cinnabar.100}",
+                  "value": "{core.deondernemerCore.color.blueDianne.100}",
                   "type": "color"
                 },
                 "focus": {
@@ -261,11 +261,11 @@
                   "type": "color"
                 },
                 "hover": {
-                  "value": "{core.deondernemerCore.color.cinnabar.100}",
+                  "value": "{core.deondernemerCore.color.blueDianne.100}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{core.deondernemerCore.color.cinnabar.100}",
+                  "value": "{core.deondernemerCore.color.blueDianne.100}",
                   "type": "color"
                 },
                 "focus": {
@@ -393,7 +393,7 @@
             "background": {
               "color": {
                 "default": {
-                  "value": "{core.color.neutral.100}",
+                  "value": "none",
                   "type": "color"
                 },
                 "hover": {
@@ -423,7 +423,7 @@
                   }
                 },
                 "focus": {
-                  "value": "{core.color.neutral.100}",
+                  "value": "none",
                   "type": "color"
                 }
               }
@@ -547,7 +547,7 @@
             "background": {
               "color": {
                 "default": {
-                  "value": "{core.color.neutral.100}",
+                  "value": "none",
                   "type": "color"
                 },
                 "hover": {
@@ -577,7 +577,7 @@
                   }
                 },
                 "focus": {
-                  "value": "{core.color.neutral.100}",
+                  "value": "none",
                   "type": "color"
                 }
               }
