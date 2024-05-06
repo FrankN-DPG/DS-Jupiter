@@ -116,6 +116,68 @@
                 "type": "color"
               }
             }
+          },
+          "inverted": {
+            "background": {
+              "color": {
+                "default": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                },
+                "hover": {
+                  "value": "{core.storyCore.color.alizarinCrimson.100}",
+                  "type": "color"
+                },
+                "pressed": {
+                  "value": "{core.storyCore.color.alizarinCrimson.100}",
+                  "type": "color"
+                },
+                "focus": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                }
+              }
+            },
+            "text": {
+              "color": {
+                "default": {
+                  "value": "{core.storyCore.color.alizarinCrimson.600}",
+                  "type": "color"
+                },
+                "hover": {
+                  "value": "{core.storyCore.color.alizarinCrimson.600}",
+                  "type": "color"
+                },
+                "pressed": {
+                  "value": "{core.storyCore.color.alizarinCrimson.600}",
+                  "type": "color"
+                },
+                "focus": {
+                  "value": "{core.storyCore.color.alizarinCrimson.600}",
+                  "type": "color"
+                }
+              }
+            },
+            "icon": {
+              "color": {
+                "default": {
+                  "value": "{core.storyCore.color.alizarinCrimson.600}",
+                  "type": "color"
+                },
+                "hover": {
+                  "value": "{core.storyCore.color.alizarinCrimson.600}",
+                  "type": "color"
+                },
+                "pressed": {
+                  "value": "{core.storyCore.color.alizarinCrimson.600}",
+                  "type": "color"
+                },
+                "focus": {
+                  "value": "{core.storyCore.color.alizarinCrimson.600}",
+                  "type": "color"
+                }
+              }
+            }
           }
         },
         "secondary": {
@@ -188,6 +250,68 @@
               "disabled": {
                 "value": "{core.color.neutral.500}",
                 "type": "color"
+              }
+            }
+          },
+          "inverted": {
+            "background": {
+              "color": {
+                "default": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                },
+                "hover": {
+                  "value": "{core.storyCore.color.alizarinCrimson.100}",
+                  "type": "color"
+                },
+                "pressed": {
+                  "value": "{core.storyCore.color.alizarinCrimson.100}",
+                  "type": "color"
+                },
+                "focus": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                }
+              }
+            },
+            "text": {
+              "color": {
+                "default": {
+                  "value": "{core.storyCore.color.alizarinCrimson.600}",
+                  "type": "color"
+                },
+                "hover": {
+                  "value": "{core.storyCore.color.alizarinCrimson.600}",
+                  "type": "color"
+                },
+                "pressed": {
+                  "value": "{core.storyCore.color.alizarinCrimson.600}",
+                  "type": "color"
+                },
+                "focus": {
+                  "value": "{core.storyCore.color.alizarinCrimson.600}",
+                  "type": "color"
+                }
+              }
+            },
+            "icon": {
+              "color": {
+                "default": {
+                  "value": "{core.storyCore.color.alizarinCrimson.600}",
+                  "type": "color"
+                },
+                "hover": {
+                  "value": "{core.storyCore.color.alizarinCrimson.600}",
+                  "type": "color"
+                },
+                "pressed": {
+                  "value": "{core.storyCore.color.alizarinCrimson.600}",
+                  "type": "color"
+                },
+                "focus": {
+                  "value": "{core.storyCore.color.alizarinCrimson.600}",
+                  "type": "color"
+                }
               }
             }
           }
@@ -264,6 +388,86 @@
                 "type": "color"
               }
             }
+          },
+          "inverted": {
+            "background": {
+              "color": {
+                "default": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                },
+                "hover": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color",
+                  "$extensions": {
+                    "studio.tokens": {
+                      "modify": {
+                        "type": "alpha",
+                        "value": "0.15",
+                        "space": "hsl"
+                      }
+                    }
+                  }
+                },
+                "pressed": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color",
+                  "$extensions": {
+                    "studio.tokens": {
+                      "modify": {
+                        "type": "alpha",
+                        "value": "0.15",
+                        "space": "hsl"
+                      }
+                    }
+                  }
+                },
+                "focus": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                }
+              }
+            },
+            "text": {
+              "color": {
+                "default": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                },
+                "hover": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                },
+                "pressed": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                },
+                "focus": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                }
+              }
+            },
+            "icon": {
+              "color": {
+                "default": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                },
+                "hover": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                },
+                "pressed": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                },
+                "focus": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                }
+              }
+            }
           }
         },
         "ghost": {
@@ -336,6 +540,86 @@
               "disabled": {
                 "value": "{core.color.neutral.500}",
                 "type": "color"
+              }
+            }
+          },
+          "inverted": {
+            "background": {
+              "color": {
+                "default": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                },
+                "hover": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color",
+                  "$extensions": {
+                    "studio.tokens": {
+                      "modify": {
+                        "type": "alpha",
+                        "value": "0.15",
+                        "space": "hsl"
+                      }
+                    }
+                  }
+                },
+                "pressed": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color",
+                  "$extensions": {
+                    "studio.tokens": {
+                      "modify": {
+                        "type": "alpha",
+                        "value": "0.15",
+                        "space": "hsl"
+                      }
+                    }
+                  }
+                },
+                "focus": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                }
+              }
+            },
+            "text": {
+              "color": {
+                "default": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                },
+                "hover": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                },
+                "pressed": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                },
+                "focus": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                }
+              }
+            },
+            "icon": {
+              "color": {
+                "default": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                },
+                "hover": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                },
+                "pressed": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                },
+                "focus": {
+                  "value": "{core.color.neutral.100}",
+                  "type": "color"
+                }
               }
             }
           }
@@ -493,6 +777,12 @@
         "disabled": {
           "value": {
             "color": "{core.color.neutral.500}"
+          },
+          "type": "border"
+        },
+        "inverted": {
+          "value": {
+            "color": "{core.color.neutral.100}"
           },
           "type": "border"
         },
