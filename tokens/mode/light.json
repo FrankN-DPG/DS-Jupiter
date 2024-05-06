@@ -564,6 +564,10 @@
           "value": "{alias.brand.border.disabled}",
           "type": "border"
         },
+        "inverted": {
+          "value": "{alias.brand.border.inverted}",
+          "type": "border"
+        },
         "none": {
           "value": "{alias.brand.border.none}",
           "type": "border"

@@ -720,6 +720,10 @@
           "value": "{alias.mode.border.disabled}",
           "type": "border"
         },
+        "inverted": {
+          "value": "{alias.mode.border.inverted}",
+          "type": "border"
+        },
         "none": {
           "value": "{alias.mode.border.none}",
           "type": "border"
