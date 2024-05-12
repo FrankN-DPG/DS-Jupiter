@@ -380,6 +380,16 @@
             "type": "color"
           }
         }
+      },
+      "teaser": {
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.label.background.color}",
+              "type": "color"
+            }
+          }
+        }
       }
     }
   }
