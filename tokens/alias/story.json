@@ -393,6 +393,28 @@
           }
         }
       },
+      "teaser": {
+        "spacing": {
+          "gap": {
+            "value": "{core.spacing.200}",
+            "type": "spacing"
+          },
+          "content": {
+            "gap": {
+              "value": "{core.spacing.50}",
+              "type": "spacing"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            }
+          }
+        }
+      },
       "toast": {
         "radius": {
           "value": "{core.shape.radius.200}",

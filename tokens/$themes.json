@@ -112,8 +112,7 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled",
-      "component/teaser": "disabled"
+      "mode/light": "enabled"
     },
     "group": "mode"
   }

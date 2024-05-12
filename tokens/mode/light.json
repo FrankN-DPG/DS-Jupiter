@@ -385,7 +385,7 @@
         "text": {
           "color": {
             "default": {
-              "value": "{alias.brand.label.background.color}",
+              "value": "{alias.brand.teaser.text.color.default}",
               "type": "color"
             }
           }
