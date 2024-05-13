@@ -36,5 +36,25 @@
         }
       }
     }
+  },
+  "teaserList": {
+    "spacing": {
+      "gap": {
+        "vertical": {
+          "value": "{alias.brand.teaserList.spacing.gap.vertical}",
+          "type": "spacing"
+        },
+        "horizontal": {
+          "default": {
+            "value": "{alias.brand.teaserList.spacing.gap.horizontal.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.teaserList.spacing.gap.horizontal.md}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
   }
 }

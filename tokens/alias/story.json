@@ -461,6 +461,26 @@
           }
         }
       },
+      "teaserList": {
+        "spacing": {
+          "gap": {
+            "vertical": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            },
+            "horizontal": {
+              "default": {
+                "value": "15px",
+                "type": "spacing"
+              },
+              "md": {
+                "value": "{core.spacing.300}",
+                "type": "spacing"
+              }
+            }
+          }
+        }
+      },
       "toast": {
         "radius": {
           "value": "{core.shape.radius.200}",
