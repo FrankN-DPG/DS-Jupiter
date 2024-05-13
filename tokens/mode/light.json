@@ -9,6 +9,14 @@
               "type": "color"
             }
           }
+        },
+        "decoDivider": {
+          "background": {
+            "color": {
+              "value": "{alias.brand.blockHeader.decoDivider.background.color}",
+              "type": "color"
+            }
+          }
         }
       },
       "button": {

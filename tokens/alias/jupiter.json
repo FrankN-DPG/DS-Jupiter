@@ -9,6 +9,36 @@
               "type": "color"
             }
           }
+        },
+        "spacing": {
+          "gap": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          },
+          "content": {
+            "gap": {
+              "value": "{core.spacing.400}",
+              "type": "spacing"
+            }
+          },
+          "sliderNavigation": {
+            "gap": {
+              "value": "{core.spacing.100}",
+              "type": "spacing"
+            }
+          }
+        },
+        "decoDivider": {
+          "leading": {
+            "width": {
+              "value": "{core.sizing.200}",
+              "type": "sizing"
+            }
+          },
+          "height": {
+            "value": "{core.sizing.100}",
+            "type": "sizing"
+          }
         }
       },
       "button": {
@@ -888,6 +918,18 @@
               "fontWeight": "{core.jupiterCore.fontWeight.400}"
             },
             "type": "typography"
+          }
+        }
+      }
+    },
+    "mode": {
+      "blockHeader": {
+        "decoDivider": {
+          "background": {
+            "color": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            }
           }
         }
       }
