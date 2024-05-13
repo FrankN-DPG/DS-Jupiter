@@ -1,0 +1,22 @@
+{
+  "blockHeader": {
+    "text": {
+      "typography": {
+        "default": {
+          "value": "{alias.brand.typography.heading2Alt.l}",
+          "type": "typography"
+        },
+        "md": {
+          "value": "{alias.brand.typography.heading2.s}",
+          "type": "typography"
+        }
+      },
+      "color": {
+        "default": {
+          "value": "{alias.mode.blockHeader.text.color.default}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

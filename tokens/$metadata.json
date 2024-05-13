@@ -1,5 +1,6 @@
 {
   "tokenSetOrder": [
+    "component/blockHeader",
     "component/button",
     "component/divider",
     "component/icon",
