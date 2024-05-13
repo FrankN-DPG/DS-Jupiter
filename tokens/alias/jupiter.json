@@ -38,6 +38,12 @@
           "height": {
             "value": "{core.sizing.100}",
             "type": "sizing"
+          },
+          "background": {
+            "color": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            }
           }
         }
       },
@@ -918,18 +924,6 @@
               "fontWeight": "{core.jupiterCore.fontWeight.400}"
             },
             "type": "typography"
-          }
-        }
-      }
-    },
-    "mode": {
-      "blockHeader": {
-        "decoDivider": {
-          "background": {
-            "color": {
-              "value": "{core.color.neutral.1000}",
-              "type": "color"
-            }
           }
         }
       }

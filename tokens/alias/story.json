@@ -1,6 +1,52 @@
 {
   "alias": {
     "brand": {
+      "blockHeader": {
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            }
+          }
+        },
+        "spacing": {
+          "gap": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          },
+          "content": {
+            "gap": {
+              "value": "{core.spacing.400}",
+              "type": "spacing"
+            }
+          },
+          "sliderNavigation": {
+            "gap": {
+              "value": "{core.spacing.100}",
+              "type": "spacing"
+            }
+          }
+        },
+        "decoDivider": {
+          "leading": {
+            "width": {
+              "value": "{core.sizing.200}",
+              "type": "sizing"
+            }
+          },
+          "height": {
+            "value": "{core.sizing.100}",
+            "type": "sizing"
+          },
+          "background": {
+            "color": {
+              "value": "{core.storyCore.color.turbo.600}",
+              "type": "color"
+            }
+          }
+        }
+      },
       "button": {
         "spacing": {
           "gap": {
