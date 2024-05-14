@@ -56,5 +56,25 @@
         }
       }
     }
+  },
+  "teaserGrid": {
+    "spacing": {
+      "gap": {
+        "vertical": {
+          "value": "{alias.brand.teaserGrid.spacing.gap.vertical}",
+          "type": "spacing"
+        },
+        "horizontal": {
+          "default": {
+            "value": "{alias.brand.teaserGrid.spacing.gap.horizontal.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.teaserGrid.spacing.gap.horizontal.md}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
   }
 }
