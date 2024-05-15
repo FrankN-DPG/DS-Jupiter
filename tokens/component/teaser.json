@@ -76,5 +76,33 @@
         }
       }
     }
+  },
+  "teaserSingleFocus": {
+    "spacing": {
+      "gap": {
+        "value": "{alias.brand.teaserSingleFocus.spacing.gap}",
+        "type": "spacing"
+      },
+      "content": {
+        "gap": {
+          "default": {
+            "value": "{alias.brand.teaserSingleFocus.spacing.content.gap.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.teaserSingleFocus.spacing.content.gap.md}",
+            "type": "spacing"
+          }
+        }
+      },
+      "list": {
+        "gap": {
+          "default": {
+            "value": "{alias.brand.teaserSingleFocus.spacing.list.gap.default}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
   }
 }
