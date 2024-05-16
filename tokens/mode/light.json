@@ -349,6 +349,16 @@
           }
         }
       },
+      "teaserSlider": {
+        "fade": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.teaserSlider.fade.color.default}",
+              "type": "color"
+            }
+          }
+        }
+      },
       "toast": {
         "success": {
           "background": {

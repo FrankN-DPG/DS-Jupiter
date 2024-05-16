@@ -37,26 +37,6 @@
       }
     }
   },
-  "teaserList": {
-    "spacing": {
-      "gap": {
-        "vertical": {
-          "value": "{alias.brand.teaserList.spacing.gap.vertical}",
-          "type": "spacing"
-        },
-        "horizontal": {
-          "default": {
-            "value": "{alias.brand.teaserList.spacing.gap.horizontal.default}",
-            "type": "spacing"
-          },
-          "md": {
-            "value": "{alias.brand.teaserList.spacing.gap.horizontal.md}",
-            "type": "spacing"
-          }
-        }
-      }
-    }
-  },
   "teaserGrid": {
     "spacing": {
       "gap": {
@@ -71,6 +51,26 @@
           },
           "md": {
             "value": "{alias.brand.teaserGrid.spacing.gap.horizontal.md}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  },
+  "teaserList": {
+    "spacing": {
+      "gap": {
+        "vertical": {
+          "value": "{alias.brand.teaserList.spacing.gap.vertical}",
+          "type": "spacing"
+        },
+        "horizontal": {
+          "default": {
+            "value": "{alias.brand.teaserList.spacing.gap.horizontal.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.teaserList.spacing.gap.horizontal.md}",
             "type": "spacing"
           }
         }
@@ -101,6 +101,34 @@
             "value": "{alias.brand.teaserSingleFocus.spacing.list.gap.default}",
             "type": "spacing"
           }
+        }
+      }
+    }
+  },
+  "teaserSlider": {
+    "spacing": {
+      "gap": {
+        "value": "{alias.brand.teaserSlider.spacing.gap}",
+        "type": "spacing"
+      },
+      "content": {
+        "gap": {
+          "default": {
+            "value": "{alias.brand.teaserSlider.spacing.content.gap.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.teaserSlider.spacing.content.gap.md}",
+            "type": "spacing"
+          }
+        }
+      }
+    },
+    "fade": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.teaserSlider.fade.color.default}",
+          "type": "color"
         }
       }
     }
