@@ -12,7 +12,9 @@
       "component/toast": "enabled",
       "component/divider": "enabled",
       "core/businesswiseCore": "source",
-      "component/label": "enabled"
+      "component/label": "enabled",
+      "component/teaser": "enabled",
+      "component/blockHeader": "enabled"
     },
     "group": "brand"
   },
@@ -29,7 +31,9 @@
       "component/icon": "enabled",
       "component/toast": "enabled",
       "component/divider": "enabled",
-      "component/label": "enabled"
+      "component/label": "enabled",
+      "component/teaser": "enabled",
+      "component/blockHeader": "enabled"
     },
     "group": "brand"
   },
@@ -46,7 +50,9 @@
       "component/icon": "enabled",
       "component/toast": "enabled",
       "component/divider": "enabled",
-      "component/label": "enabled"
+      "component/label": "enabled",
+      "component/teaser": "enabled",
+      "component/blockHeader": "enabled"
     },
     "group": "brand"
   },
@@ -63,7 +69,9 @@
       "component/icon": "enabled",
       "component/toast": "enabled",
       "component/divider": "enabled",
-      "component/label": "enabled"
+      "component/label": "enabled",
+      "component/teaser": "enabled",
+      "component/blockHeader": "enabled"
     },
     "group": "brand"
   },
@@ -80,7 +88,9 @@
       "core/core": "source",
       "alias/story": "enabled",
       "component/divider": "enabled",
-      "component/label": "enabled"
+      "component/label": "enabled",
+      "component/teaser": "enabled",
+      "component/blockHeader": "enabled"
     },
     "group": "brand"
   },
@@ -97,7 +107,9 @@
       "component/icon": "enabled",
       "component/toast": "enabled",
       "component/divider": "enabled",
-      "component/label": "enabled"
+      "component/label": "enabled",
+      "component/teaser": "enabled",
+      "component/blockHeader": "enabled"
     },
     "group": "brand"
   },
