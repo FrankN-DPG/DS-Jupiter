@@ -77,6 +77,22 @@
       }
     }
   },
+  "teaserMinimalList": {
+    "spacing": {
+      "gap": {
+        "value": "{alias.brand.teaserMinimalList.spacing.gap}",
+        "type": "spacing"
+      },
+      "content": {
+        "gap": {
+          "default": {
+            "value": "{alias.brand.teaserMinimalList.spacing.content.gap.default}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  },
   "teaserSingleFocus": {
     "spacing": {
       "gap": {

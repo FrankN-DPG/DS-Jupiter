@@ -501,6 +501,22 @@
           }
         }
       },
+      "teaserMinimalList": {
+        "spacing": {
+          "gap": {
+            "value": "{core.spacing.200}",
+            "type": "spacing"
+          },
+          "content": {
+            "gap": {
+              "default": {
+                "value": "{core.spacing.200}",
+                "type": "spacing"
+              }
+            }
+          }
+        }
+      },
       "teaserSingleFocus": {
         "spacing": {
           "gap": {
