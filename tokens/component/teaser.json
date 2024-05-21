@@ -93,6 +93,26 @@
       }
     }
   },
+  "teaserSelection": {
+    "spacing": {
+      "gap": {
+        "value": "{alias.brand.teaserSelection.spacing.gap}",
+        "type": "spacing"
+      },
+      "content": {
+        "gap": {
+          "default": {
+            "value": "{alias.brand.teaserSelection.spacing.content.gap.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.teaserSelection.spacing.content.gap.md}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  },
   "teaserSingleFocus": {
     "spacing": {
       "gap": {
