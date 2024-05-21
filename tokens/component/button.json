@@ -126,6 +126,68 @@
             "type": "color"
           }
         }
+      },
+      "inverted": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.mode.button.primary.inverted.background.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.mode.button.primary.inverted.background.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.mode.button.primary.inverted.background.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.mode.button.primary.inverted.background.color.focus}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.mode.button.primary.inverted.text.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.mode.button.primary.inverted.text.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.mode.button.primary.inverted.text.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.mode.button.primary.inverted.text.color.focus}",
+              "type": "color"
+            }
+          }
+        },
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{alias.mode.button.primary.inverted.icon.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.mode.button.primary.inverted.icon.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.mode.button.primary.inverted.icon.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.mode.button.primary.inverted.icon.color.focus}",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "secondary": {
@@ -198,6 +260,68 @@
           "disabled": {
             "value": "{alias.mode.button.secondary.icon.color.disabled}",
             "type": "color"
+          }
+        }
+      },
+      "inverted": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.mode.button.secondary.inverted.background.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.mode.button.secondary.inverted.background.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.mode.button.secondary.inverted.background.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.mode.button.secondary.inverted.background.color.focus}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.mode.button.secondary.inverted.text.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.mode.button.secondary.inverted.text.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.mode.button.secondary.inverted.text.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.mode.button.secondary.inverted.text.color.focus}",
+              "type": "color"
+            }
+          }
+        },
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{alias.mode.button.secondary.inverted.icon.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.mode.button.secondary.inverted.icon.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.mode.button.secondary.inverted.icon.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.mode.button.secondary.inverted.icon.color.focus}",
+              "type": "color"
+            }
           }
         }
       }
@@ -274,6 +398,68 @@
             "type": "color"
           }
         }
+      },
+      "inverted": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.mode.button.tertiary.inverted.background.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.mode.button.tertiary.inverted.background.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.mode.button.tertiary.inverted.background.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.mode.button.tertiary.inverted.background.color.focus}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.mode.button.tertiary.inverted.text.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.mode.button.tertiary.inverted.text.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.mode.button.tertiary.inverted.text.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.mode.button.tertiary.inverted.text.color.focus}",
+              "type": "color"
+            }
+          }
+        },
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{alias.mode.button.tertiary.inverted.icon.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.mode.button.tertiary.inverted.icon.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.mode.button.tertiary.inverted.icon.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.mode.button.tertiary.inverted.icon.color.focus}",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "ghost": {
@@ -345,7 +531,167 @@
           },
           "disabled": {
             "value": "{alias.mode.button.ghost.icon.color.disabled}",
-            "type": "color"
+            "type": "color",
+            "inverted": {
+              "background": {
+                "color": {
+                  "default": {
+                    "value": "{alias.mode.button.ghost.inverted.background.color.default}",
+                    "type": "color",
+                    "$extensions": {
+                      "id": "b89f1c6a-d9ce-42be-bf69-3afae20d5e6f"
+                    }
+                  },
+                  "hover": {
+                    "value": "{alias.mode.button.ghost.inverted.background.color.hover}",
+                    "type": "color",
+                    "$extensions": {
+                      "id": "7a26d1ac-b87e-473e-a296-6831f633df61"
+                    }
+                  },
+                  "pressed": {
+                    "value": "{alias.mode.button.ghost.inverted.background.color.pressed}",
+                    "type": "color",
+                    "$extensions": {
+                      "id": "45ee3d80-0386-416d-abc8-c60de3a45d96"
+                    }
+                  },
+                  "focus": {
+                    "value": "{alias.mode.button.ghost.inverted.background.color.focus}",
+                    "type": "color",
+                    "$extensions": {
+                      "id": "f767252a-d512-47a5-b159-4c84abad660c"
+                    }
+                  }
+                }
+              },
+              "text": {
+                "color": {
+                  "default": {
+                    "value": "{alias.mode.button.ghost.inverted.text.color.default}",
+                    "type": "color",
+                    "$extensions": {
+                      "id": "57cb2079-dd2e-419f-9412-4ba7a02ceb23"
+                    }
+                  },
+                  "hover": {
+                    "value": "{alias.mode.button.ghost.inverted.text.color.hover}",
+                    "type": "color",
+                    "$extensions": {
+                      "id": "c234df17-2e4d-4d22-835f-8b379f45d523"
+                    }
+                  },
+                  "pressed": {
+                    "value": "{alias.mode.button.ghost.inverted.text.color.pressed}",
+                    "type": "color",
+                    "$extensions": {
+                      "id": "6f768966-0f0e-4b85-a479-5dbec3b58c99"
+                    }
+                  },
+                  "focus": {
+                    "value": "{alias.mode.button.ghost.inverted.text.color.focus}",
+                    "type": "color",
+                    "$extensions": {
+                      "id": "9d814be0-f095-4c4a-81e2-813596df9379"
+                    }
+                  }
+                }
+              },
+              "icon": {
+                "color": {
+                  "default": {
+                    "value": "{alias.mode.button.ghost.inverted.icon.color.default}",
+                    "type": "color",
+                    "$extensions": {
+                      "id": "2339d3f7-1586-4cb3-9dfe-3b2da8178354"
+                    }
+                  },
+                  "hover": {
+                    "value": "{alias.mode.button.ghost.inverted.icon.color.hover}",
+                    "type": "color",
+                    "$extensions": {
+                      "id": "f69c285c-2c85-46d8-b59e-476c3c864348"
+                    }
+                  },
+                  "pressed": {
+                    "value": "{alias.mode.button.ghost.inverted.icon.color.pressed}",
+                    "type": "color",
+                    "$extensions": {
+                      "id": "1c9541b9-2534-4e92-86b7-d46254f56561"
+                    }
+                  },
+                  "focus": {
+                    "value": "{alias.mode.button.ghost.inverted.icon.color.focus}",
+                    "type": "color",
+                    "$extensions": {
+                      "id": "29e85db1-d5d0-4d8e-81e8-4b2e9851c72e"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "inverted": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.mode.button.ghost.inverted.background.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.mode.button.ghost.inverted.background.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.mode.button.ghost.inverted.background.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.mode.button.ghost.inverted.background.color.focus}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.mode.button.ghost.inverted.text.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.mode.button.ghost.inverted.text.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.mode.button.ghost.inverted.text.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.mode.button.ghost.inverted.text.color.focus}",
+              "type": "color"
+            }
+          }
+        },
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{alias.mode.button.ghost.inverted.icon.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.mode.button.ghost.inverted.icon.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.mode.button.ghost.inverted.icon.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.mode.button.ghost.inverted.icon.color.focus}",
+              "type": "color"
+            }
           }
         }
       }
@@ -372,6 +718,10 @@
         },
         "disabled": {
           "value": "{alias.mode.border.disabled}",
+          "type": "border"
+        },
+        "inverted": {
+          "value": "{alias.mode.border.inverted}",
           "type": "border"
         },
         "none": {
