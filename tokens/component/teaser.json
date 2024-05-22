@@ -16,15 +16,15 @@
       "typography": {
         "title": {
           "default": {
-            "value": "{alias.brand.typography.heading4.s}",
+            "value": "{alias.brand.typography.component.teaser.default}",
             "type": "typography"
           },
           "md": {
-            "value": "{alias.brand.typography.heading4.l}",
+            "value": "{alias.brand.typography.component.teaser.md}",
             "type": "typography"
           },
           "category": {
-            "value": "{alias.brand.typography.captionAlt.s}",
+            "value": "{alias.brand.typography.textStyles.caption.s}",
             "type": "typography"
           }
         }

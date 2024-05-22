@@ -17,11 +17,11 @@
       },
       "text": {
         "typography": {
-          "value": "{alias.brand.typography.button.l}",
+          "value": "{alias.brand.typography.textStyles.button.l}",
           "type": "typography"
         },
         "typographyAlt": {
-          "value": "{alias.brand.typography.buttonAlt.l}",
+          "value": "{alias.brand.typography.textStyles.buttonAlt.l}",
           "type": "typography"
         }
       }
@@ -39,11 +39,11 @@
       },
       "text": {
         "typography": {
-          "value": "{alias.brand.typography.button.s}",
+          "value": "{alias.brand.typography.textStyles.button.s}",
           "type": "typography"
         },
         "typographyAlt": {
-          "value": "{alias.brand.typography.buttonAlt.s}",
+          "value": "{alias.brand.typography.textStyles.buttonAlt.s}",
           "type": "typography"
         }
       }

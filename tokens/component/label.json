@@ -26,7 +26,7 @@
         "type": "color"
       },
       "typography": {
-        "value": "{alias.brand.typography.label.s}",
+        "value": "{alias.brand.typography.textStyles.label.s}",
         "type": "typography"
       }
     }

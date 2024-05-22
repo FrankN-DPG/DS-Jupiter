@@ -63,7 +63,7 @@
   },
   "text": {
     "typography": {
-      "value": "{alias.brand.typography.body.l}",
+      "value": "{alias.brand.typography.textStyles.body.l}",
       "type": "typography"
     }
   }

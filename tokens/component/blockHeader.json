@@ -3,11 +3,11 @@
     "text": {
       "typography": {
         "default": {
-          "value": "{alias.brand.typography.heading2Alt.s}",
+          "value": "{alias.brand.typography.textStyles.heading2Alt.s}",
           "type": "typography"
         },
         "md": {
-          "value": "{alias.brand.typography.heading2Alt.l}",
+          "value": "{alias.brand.typography.textStyles.heading2Alt.l}",
           "type": "typography"
         }
       },
