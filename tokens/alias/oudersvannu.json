@@ -506,8 +506,17 @@
                 "type": "color"
               },
               "hover": {
-                "value": "{core.oudersvannuCore.color.patina.100}",
-                "type": "color"
+                "value": "{core.oudersvannuCore.color.patina.500}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "alpha",
+                      "value": "0.15",
+                      "space": "lch"
+                    }
+                  }
+                }
               },
               "pressed": {
                 "value": "{core.oudersvannuCore.color.patina.100}",

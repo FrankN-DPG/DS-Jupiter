@@ -524,8 +524,17 @@
                 "type": "color"
               },
               "hover": {
-                "value": "{core.jupiterCore.color.matisse.100}",
-                "type": "color"
+                "value": "{core.jupiterCore.color.matisse.500}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "alpha",
+                      "value": "0.15",
+                      "space": "lch"
+                    }
+                  }
+                }
               },
               "pressed": {
                 "value": "{core.jupiterCore.color.matisse.100}",
