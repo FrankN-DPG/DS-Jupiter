@@ -5,6 +5,7 @@
     "component/divider",
     "component/icon",
     "component/label",
+    "component/overlay",
     "component/teaser",
     "component/toast",
     "mode/light",

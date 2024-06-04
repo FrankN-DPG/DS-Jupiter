@@ -670,6 +670,14 @@
           "value": "{alias.brand.border.none}",
           "type": "border"
         }
+      },
+      "overlay": {
+        "color": {
+          "default": {
+            "value": "{alias.brand.overlay.color.default}",
+            "type": "color"
+          }
+        }
       }
     }
   }

@@ -1,0 +1,16 @@
+{
+  "overlay": {
+    "color": {
+      "default": {
+        "value": "{alias.mode.overlay.color.default}",
+        "type": "color"
+      }
+    },
+    "opacity": {
+      "default": {
+        "value": "{alias.brand.overlay.opacity.default}",
+        "type": "opacity"
+      }
+    }
+  }
+}

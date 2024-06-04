@@ -14,7 +14,8 @@
       "core/businesswiseCore": "source",
       "component/label": "enabled",
       "component/teaser": "enabled",
-      "component/blockHeader": "enabled"
+      "component/blockHeader": "enabled",
+      "component/overlay": "disabled"
     },
     "group": "brand"
   },
@@ -33,7 +34,8 @@
       "component/divider": "enabled",
       "component/label": "enabled",
       "component/teaser": "enabled",
-      "component/blockHeader": "enabled"
+      "component/blockHeader": "enabled",
+      "component/overlay": "disabled"
     },
     "group": "brand"
   },
@@ -52,7 +54,8 @@
       "component/divider": "enabled",
       "component/label": "enabled",
       "component/teaser": "enabled",
-      "component/blockHeader": "enabled"
+      "component/blockHeader": "enabled",
+      "component/overlay": "disabled"
     },
     "group": "brand"
   },
@@ -71,7 +74,8 @@
       "component/divider": "enabled",
       "component/label": "enabled",
       "component/teaser": "enabled",
-      "component/blockHeader": "enabled"
+      "component/blockHeader": "enabled",
+      "component/overlay": "disabled"
     },
     "group": "brand"
   },
@@ -90,7 +94,8 @@
       "component/divider": "enabled",
       "component/label": "enabled",
       "component/teaser": "enabled",
-      "component/blockHeader": "enabled"
+      "component/blockHeader": "enabled",
+      "component/overlay": "disabled"
     },
     "group": "brand"
   },
@@ -109,7 +114,8 @@
       "component/divider": "enabled",
       "component/label": "enabled",
       "component/teaser": "enabled",
-      "component/blockHeader": "enabled"
+      "component/blockHeader": "enabled",
+      "component/overlay": "disabled"
     },
     "group": "brand"
   },
@@ -118,7 +124,8 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled"
+      "mode/light": "enabled",
+      "component/overlay": "disabled"
     },
     "group": "mode"
   }
