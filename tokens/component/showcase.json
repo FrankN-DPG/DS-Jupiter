@@ -1,0 +1,58 @@
+{
+  "showcaseContentBlock": {
+    "spacing": {
+      "vertical": {
+        "default": {
+          "value": "{alias.brand.showcaseContentBlock.spacing.vertical.default}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{alias.brand.showcaseContentBlock.spacing.vertical.md}",
+          "type": "spacing"
+        }
+      },
+      "horizontal": {
+        "default": {
+          "value": "{alias.brand.showcaseContentBlock.spacing.horizontal.default}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{alias.brand.showcaseContentBlock.spacing.horizontal.md}",
+          "type": "spacing"
+        }
+      },
+      "gap": {
+        "value": "{alias.brand.showcaseContentBlock.spacing.gap}",
+        "type": "spacing"
+      },
+      "content": {
+        "gap": {
+          "value": "{alias.brand.showcaseContentBlock.spacing.content.gap}",
+          "type": "spacing"
+        }
+      }
+    },
+    "text": {
+      "typography": {
+        "title": {
+          "default": {
+            "value": "{alias.brand.typography.textStyles.heading1.s}",
+            "type": "typography"
+          },
+          "md": {
+            "value": "{alias.brand.typography.textStyles.heading1.l}",
+            "type": "typography"
+          }
+        },
+        "category": {
+          "value": "{alias.brand.typography.textStyles.captionAlt.s}",
+          "type": "typography"
+        },
+        "body": {
+          "value": "{alias.brand.typography.textStyles.body.s}",
+          "type": "typography"
+        }
+      }
+    }
+  }
+}

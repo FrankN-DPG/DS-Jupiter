@@ -1371,6 +1371,40 @@
             }
           }
         }
+      },
+      "showcaseContentBlock": {
+        "spacing": {
+          "vertical": {
+            "default": {
+              "value": "{core.spacing.600}",
+              "type": "spacing"
+            },
+            "md": {
+              "value": "{core.spacing.1500}",
+              "type": "spacing"
+            }
+          },
+          "horizontal": {
+            "default": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            },
+            "md": {
+              "value": "{core.spacing.500}",
+              "type": "spacing"
+            }
+          },
+          "gap": {
+            "value": "{core.spacing.500}",
+            "type": "spacing"
+          },
+          "content": {
+            "gap": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            }
+          }
+        }
       }
     }
   }
