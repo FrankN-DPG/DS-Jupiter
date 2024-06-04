@@ -15,7 +15,8 @@
       "component/label": "enabled",
       "component/teaser": "enabled",
       "component/blockHeader": "enabled",
-      "component/overlay": "disabled"
+      "component/logo": "enabled",
+      "component/overlay": "enabled"
     },
     "group": "brand"
   },
@@ -35,7 +36,8 @@
       "component/label": "enabled",
       "component/teaser": "enabled",
       "component/blockHeader": "enabled",
-      "component/overlay": "disabled"
+      "component/logo": "enabled",
+      "component/overlay": "enabled"
     },
     "group": "brand"
   },
@@ -55,7 +57,8 @@
       "component/label": "enabled",
       "component/teaser": "enabled",
       "component/blockHeader": "enabled",
-      "component/overlay": "disabled"
+      "component/logo": "enabled",
+      "component/overlay": "enabled"
     },
     "group": "brand"
   },
@@ -75,7 +78,8 @@
       "component/label": "enabled",
       "component/teaser": "enabled",
       "component/blockHeader": "enabled",
-      "component/overlay": "disabled"
+      "component/overlay": "enabled",
+      "component/logo": "enabled"
     },
     "group": "brand"
   },
@@ -95,7 +99,8 @@
       "component/label": "enabled",
       "component/teaser": "enabled",
       "component/blockHeader": "enabled",
-      "component/overlay": "disabled"
+      "component/logo": "enabled",
+      "component/overlay": "enabled"
     },
     "group": "brand"
   },
@@ -115,7 +120,8 @@
       "component/label": "enabled",
       "component/teaser": "enabled",
       "component/blockHeader": "enabled",
-      "component/overlay": "disabled"
+      "component/logo": "enabled",
+      "component/overlay": "enabled"
     },
     "group": "brand"
   },
@@ -124,8 +130,7 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled",
-      "component/overlay": "disabled"
+      "mode/light": "enabled"
     },
     "group": "mode"
   }
