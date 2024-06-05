@@ -1445,6 +1445,26 @@
             }
           }
         }
+      },
+      "showcaseList": {
+        "spacing": {
+          "list": {
+            "gap": {
+              "default": {
+                "value": "{core.spacing.200}",
+                "type": "spacing"
+              },
+              "md": {
+                "value": "{core.spacing.300}",
+                "type": "spacing"
+              }
+            }
+          },
+          "gap": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          }
+        }
       }
     }
   }

@@ -102,5 +102,25 @@
         "type": "typography"
       }
     }
+  },
+  "showcaseList": {
+    "spacing": {
+      "list": {
+        "gap": {
+          "default": {
+            "value": "{alias.brand.showcaseList.spacing.list.gap.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.showcaseList.spacing.list.gap.md}",
+            "type": "spacing"
+          }
+        }
+      },
+      "gap": {
+        "value": "{alias.brand.showcaseList.spacing.gap}",
+        "type": "spacing"
+      }
+    }
   }
 }
