@@ -671,13 +671,11 @@
           "type": "border"
         }
       },
-      "singleCard": {
-        "text": {
-          "color": {
-            "default": {
-              "value": "{alias.brand.singleCard.text.color.default}",
-              "type": "color"
-            }
+      "overlay": {
+        "color": {
+          "default": {
+            "value": "{alias.brand.overlay.color.default}",
+            "type": "color"
           }
         }
       }
