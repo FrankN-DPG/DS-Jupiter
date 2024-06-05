@@ -1,0 +1,106 @@
+{
+  "showcaseContentBlock": {
+    "spacing": {
+      "vertical": {
+        "default": {
+          "value": "{alias.brand.showcaseContentBlock.spacing.vertical.default}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{alias.brand.showcaseContentBlock.spacing.vertical.md}",
+          "type": "spacing"
+        }
+      },
+      "horizontal": {
+        "default": {
+          "value": "{alias.brand.showcaseContentBlock.spacing.horizontal.default}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{alias.brand.showcaseContentBlock.spacing.horizontal.md}",
+          "type": "spacing"
+        }
+      },
+      "gap": {
+        "value": "{alias.brand.showcaseContentBlock.spacing.gap}",
+        "type": "spacing"
+      },
+      "content": {
+        "gap": {
+          "value": "{alias.brand.showcaseContentBlock.spacing.content.gap}",
+          "type": "spacing"
+        }
+      },
+      "serie": {
+        "gap": {
+          "value": "{alias.brand.showcaseContentBlock.spacing.serie.gap}",
+          "type": "spacing"
+        }
+      }
+    },
+    "text": {
+      "typography": {
+        "title": {
+          "default": {
+            "value": "{alias.brand.typography.textStyles.heading1.s}",
+            "type": "typography"
+          },
+          "md": {
+            "value": "{alias.brand.typography.textStyles.heading1.l}",
+            "type": "typography"
+          }
+        },
+        "category": {
+          "value": "{alias.brand.typography.textStyles.captionAlt.s}",
+          "type": "typography"
+        },
+        "body": {
+          "value": "{alias.brand.typography.textStyles.body.s}",
+          "type": "typography"
+        }
+      }
+    }
+  },
+  "singleShowcase": {
+    "textOnly": {
+      "spacing": {
+        "vertical": {
+          "value": "{alias.brand.singleShowcase.textOnly.spacing.vertical}",
+          "type": "spacing"
+        },
+        "horizontal": {
+          "value": "{alias.brand.singleShowcase.textOnly.spacing.horizontal}",
+          "type": "spacing"
+        }
+      }
+    }
+  },
+  "singleCard": {
+    "spacing": {
+      "vertical": {
+        "value": "{alias.brand.singleCard.spacing.vertical}",
+        "type": "spacing"
+      },
+      "horizontal": {
+        "value": "{alias.brand.singleCard.spacing.horizontal}",
+        "type": "spacing"
+      }
+    },
+    "text": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.singleCard.text.color.default}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "single_card": {
+    "text": {
+      "typography": {
+        "value": "{alias.brand.typography.textStyles.body.s}",
+        "type": "typography"
+      }
+    }
+  }
+}

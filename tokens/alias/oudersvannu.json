@@ -714,44 +714,6 @@
           }
         }
       },
-      "logo": {
-        "size": {
-          "xs": {
-            "value": "{core.sizing.300}",
-            "type": "sizing"
-          },
-          "s": {
-            "value": "{core.sizing.400}",
-            "type": "sizing"
-          },
-          "m": {
-            "value": "{core.sizing.500}",
-            "type": "sizing"
-          },
-          "l": {
-            "value": "{core.sizing.600}",
-            "type": "sizing"
-          },
-          "xl": {
-            "value": "{core.sizing.700}",
-            "type": "sizing"
-          }
-        }
-      },
-      "overlay": {
-        "color": {
-          "default": {
-            "value": "{core.color.neutral.1000}",
-            "type": "color"
-          }
-        },
-        "opacity": {
-          "default": {
-            "value": "{core.overlay.40}",
-            "type": "opacity"
-          }
-        }
-      },
       "teaser": {
         "spacing": {
           "gap": {
