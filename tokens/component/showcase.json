@@ -122,5 +122,33 @@
         "type": "spacing"
       }
     }
+  },
+  "showcaseSlider": {
+    "spacing": {
+      "gap": {
+        "value": "{alias.brand.showcaseSlider.spacing.gap}",
+        "type": "spacing"
+      },
+      "list": {
+        "gap": {
+          "default": {
+            "value": "{alias.brand.showcaseSlider.spacing.list.gap.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.showcaseSlider.spacing.list.gap.md}",
+            "type": "spacing"
+          }
+        }
+      }
+    },
+    "fade": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.showcaseSlider.fade.color.default}",
+          "type": "color"
+        }
+      }
+    }
   }
 }

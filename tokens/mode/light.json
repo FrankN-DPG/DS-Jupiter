@@ -680,6 +680,16 @@
             }
           }
         }
+      },
+      "showcaseSlider": {
+        "fade": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.showcaseSlider.fade.color.default}",
+              "type": "color"
+            }
+          }
+        }
       }
     }
   }

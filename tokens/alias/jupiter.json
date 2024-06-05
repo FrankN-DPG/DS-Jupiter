@@ -886,6 +886,34 @@
           }
         }
       },
+      "showcaseSlider": {
+        "fade": {
+          "color": {
+            "default": {
+              "value": "linear-gradient (90deg, rgba( {core.color.neutral.100} , 0.0) 0%, rgba( {core.color.neutral.100} , 1) 100%)",
+              "type": "color"
+            }
+          }
+        },
+        "spacing": {
+          "gap": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          },
+          "list": {
+            "gap": {
+              "default": {
+                "value": "{core.spacing.200}",
+                "type": "spacing"
+              },
+              "md": {
+                "value": "{core.spacing.300}",
+                "type": "spacing"
+              }
+            }
+          }
+        }
+      },
       "toast": {
         "radius": {
           "value": "{core.shape.radius.200}",
