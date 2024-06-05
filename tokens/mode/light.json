@@ -605,6 +605,14 @@
               "type": "color"
             }
           }
+        },
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.singleCard.background.color.default}",
+              "type": "color"
+            }
+          }
         }
       },
       "singleShoppingCard": {

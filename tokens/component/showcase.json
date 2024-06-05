@@ -171,6 +171,14 @@
         "value": "{alias.brand.typography.textStyles.body.s}",
         "type": "typography"
       }
+    },
+    "background": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.singleCard.background.color.default}",
+          "type": "color"
+        }
+      }
     }
   },
   "singleShoppingCard": {

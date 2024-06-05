@@ -878,6 +878,14 @@
               "type": "color"
             }
           }
+        },
+        "background": {
+          "color": {
+            "default": {
+              "value": "{core.jupiterCore.color.matisse.100}",
+              "type": "color"
+            }
+          }
         }
       },
       "singleShoppingCard": {
