@@ -732,6 +732,178 @@
           }
         }
       },
+      "showcaseContentBlock": {
+        "spacing": {
+          "vertical": {
+            "default": {
+              "value": "{core.spacing.600}",
+              "type": "spacing"
+            },
+            "md": {
+              "value": "{core.spacing.1500}",
+              "type": "spacing"
+            }
+          },
+          "horizontal": {
+            "default": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            },
+            "md": {
+              "value": "{core.spacing.500}",
+              "type": "spacing"
+            }
+          },
+          "gap": {
+            "value": "{core.spacing.500}",
+            "type": "spacing"
+          },
+          "content": {
+            "gap": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            }
+          },
+          "serie": {
+            "gap": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            }
+          }
+        }
+      },
+      "showcaseList": {
+        "spacing": {
+          "list": {
+            "gap": {
+              "default": {
+                "value": "{core.spacing.200}",
+                "type": "spacing"
+              },
+              "md": {
+                "value": "{core.spacing.300}",
+                "type": "spacing"
+              }
+            }
+          },
+          "gap": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          }
+        }
+      },
+      "showcaseShoppingList": {
+        "spacing": {
+          "gap": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          },
+          "list": {
+            "vertical": {
+              "default": {
+                "value": "{core.spacing.100}",
+                "type": "spacing"
+              },
+              "md": {
+                "value": "{core.spacing.200}",
+                "type": "spacing"
+              }
+            },
+            "horizontal": {
+              "md": {
+                "value": "{core.spacing.300}",
+                "type": "spacing"
+              }
+            }
+          }
+        }
+      },
+      "singleShowcase": {
+        "textOnly": {
+          "spacing": {
+            "vertical": {
+              "value": "{core.spacing.500}",
+              "type": "spacing"
+            },
+            "horizontal": {
+              "value": "{core.spacing.500}",
+              "type": "spacing"
+            }
+          }
+        }
+      },
+      "showcaseSlider": {
+        "fade": {
+          "color": {
+            "default": {
+              "value": "linear-gradient (90deg, rgba( {core.color.neutral.100} , 0.0) 0%, rgba( {core.color.neutral.100} , 1) 100%)",
+              "type": "color"
+            }
+          }
+        },
+        "spacing": {
+          "gap": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          },
+          "list": {
+            "gap": {
+              "default": {
+                "value": "{core.spacing.200}",
+                "type": "spacing"
+              },
+              "md": {
+                "value": "{core.spacing.300}",
+                "type": "spacing"
+              }
+            }
+          }
+        }
+      },
+      "singleCard": {
+        "spacing": {
+          "vertical": {
+            "value": "{core.spacing.200}",
+            "type": "spacing"
+          },
+          "horizontal": {
+            "value": "{core.spacing.200}",
+            "type": "spacing"
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "singleShoppingCard": {
+        "spacing": {
+          "vertical": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          },
+          "horizontal": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          },
+          "gap": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            }
+          }
+        }
+      },
       "teaser": {
         "spacing": {
           "gap": {

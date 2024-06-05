@@ -61,48 +61,6 @@
       }
     }
   },
-  "singleShowcase": {
-    "textOnly": {
-      "spacing": {
-        "vertical": {
-          "value": "{alias.brand.singleShowcase.textOnly.spacing.vertical}",
-          "type": "spacing"
-        },
-        "horizontal": {
-          "value": "{alias.brand.singleShowcase.textOnly.spacing.horizontal}",
-          "type": "spacing"
-        }
-      }
-    }
-  },
-  "singleCard": {
-    "spacing": {
-      "vertical": {
-        "value": "{alias.brand.singleCard.spacing.vertical}",
-        "type": "spacing"
-      },
-      "horizontal": {
-        "value": "{alias.brand.singleCard.spacing.horizontal}",
-        "type": "spacing"
-      }
-    },
-    "text": {
-      "color": {
-        "default": {
-          "value": "{alias.mode.singleCard.text.color.default}",
-          "type": "color"
-        }
-      }
-    }
-  },
-  "single_card": {
-    "text": {
-      "typography": {
-        "value": "{alias.brand.typography.textStyles.body.s}",
-        "type": "typography"
-      }
-    }
-  },
   "showcaseList": {
     "spacing": {
       "list": {
@@ -120,6 +78,32 @@
       "gap": {
         "value": "{alias.brand.showcaseList.spacing.gap}",
         "type": "spacing"
+      }
+    }
+  },
+  "showcaseShoppingList": {
+    "spacing": {
+      "gap": {
+        "value": "{alias.brand.showcaseShoppingList.spacing.gap}",
+        "type": "spacing"
+      },
+      "list": {
+        "vertical": {
+          "default": {
+            "value": "{alias.brand.showcaseShoppingList.spacing.list.vertical.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.showcaseShoppingList.spacing.list.vertical.md}",
+            "type": "spacing"
+          }
+        },
+        "horizontal": {
+          "md": {
+            "value": "{alias.brand.showcaseShoppingList.spacing.list.horizontal.md}",
+            "type": "spacing"
+          }
+        }
       }
     }
   },
@@ -151,6 +135,44 @@
       }
     }
   },
+  "singleShowcase": {
+    "textOnly": {
+      "spacing": {
+        "vertical": {
+          "value": "{alias.brand.singleShowcase.textOnly.spacing.vertical}",
+          "type": "spacing"
+        },
+        "horizontal": {
+          "value": "{alias.brand.singleShowcase.textOnly.spacing.horizontal}",
+          "type": "spacing"
+        }
+      }
+    }
+  },
+  "singleCard": {
+    "spacing": {
+      "vertical": {
+        "value": "{alias.brand.singleCard.spacing.vertical}",
+        "type": "spacing"
+      },
+      "horizontal": {
+        "value": "{alias.brand.singleCard.spacing.horizontal}",
+        "type": "spacing"
+      }
+    },
+    "text": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.singleCard.text.color.default}",
+          "type": "color"
+        }
+      },
+      "typography": {
+        "value": "{alias.brand.typography.textStyles.body.s}",
+        "type": "typography"
+      }
+    }
+  },
   "singleShoppingCard": {
     "spacing": {
       "vertical": {
@@ -175,32 +197,6 @@
         "default": {
           "value": "{alias.mode.singleShoppingCard.text.color.default}",
           "type": "color"
-        }
-      }
-    }
-  },
-  "showcaseShoppingList": {
-    "spacing": {
-      "gap": {
-        "value": "{alias.brand.showcaseShoppingList.spacing.gap}",
-        "type": "spacing"
-      },
-      "list": {
-        "vertical": {
-          "default": {
-            "value": "{alias.brand.showcaseShoppingList.spacing.list.vertical.default}",
-            "type": "spacing"
-          },
-          "md": {
-            "value": "{alias.brand.showcaseShoppingList.spacing.list.vertical.md}",
-            "type": "spacing"
-          }
-        },
-        "horizontal": {
-          "md": {
-            "value": "{alias.brand.showcaseShoppingList.spacing.list.horizontal.md}",
-            "type": "spacing"
-          }
         }
       }
     }
