@@ -670,6 +670,16 @@
           "value": "{alias.brand.border.none}",
           "type": "border"
         }
+      },
+      "singleCard": {
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.singleCard.text.color.default}",
+              "type": "color"
+            }
+          }
+        }
       }
     }
   }

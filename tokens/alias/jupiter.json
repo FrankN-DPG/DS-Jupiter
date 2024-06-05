@@ -1403,6 +1403,46 @@
               "value": "{core.spacing.200}",
               "type": "spacing"
             }
+          },
+          "serie": {
+            "gap": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            }
+          }
+        }
+      },
+      "singleShowcase": {
+        "textOnly": {
+          "spacing": {
+            "vertical": {
+              "value": "{core.spacing.500}",
+              "type": "spacing"
+            },
+            "horizontal": {
+              "value": "{core.spacing.500}",
+              "type": "spacing"
+            }
+          }
+        }
+      },
+      "singleCard": {
+        "spacing": {
+          "vertical": {
+            "value": "{core.spacing.200}",
+            "type": "spacing"
+          },
+          "horizontal": {
+            "value": "{core.spacing.200}",
+            "type": "spacing"
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            }
           }
         }
       }
