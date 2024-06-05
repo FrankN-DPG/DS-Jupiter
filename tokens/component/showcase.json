@@ -178,5 +178,31 @@
         }
       }
     }
+  },
+  "showcaseShoppingList": {
+    "spacing": {
+      "gap": {
+        "value": "{alias.brand.showcaseShoppingList.spacing.gap}",
+        "type": "spacing"
+      },
+      "list": {
+        "vertical": {
+          "default": {
+            "value": "{alias.brand.showcaseShoppingList.spacing.list.vertical.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.showcaseShoppingList.spacing.list.vertical.md}",
+            "type": "spacing"
+          }
+        },
+        "horizontal": {
+          "md": {
+            "value": "{alias.brand.showcaseShoppingList.spacing.list.horizontal.md}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
   }
 }
