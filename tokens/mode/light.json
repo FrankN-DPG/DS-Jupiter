@@ -690,6 +690,16 @@
             }
           }
         }
+      },
+      "singleShoppingCard": {
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.singleShoppingCard.text.color.default}",
+              "type": "color"
+            }
+          }
+        }
       }
     }
   }

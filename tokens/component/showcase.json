@@ -150,5 +150,33 @@
         }
       }
     }
+  },
+  "singleShoppingCard": {
+    "spacing": {
+      "vertical": {
+        "value": "{alias.brand.singleShoppingCard.spacing.vertical}",
+        "type": "spacing"
+      },
+      "horizontal": {
+        "value": "{alias.brand.singleShoppingCard.spacing.horizontal}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{alias.brand.singleShoppingCard.spacing.gap}",
+        "type": "spacing"
+      }
+    },
+    "text": {
+      "typography": {
+        "value": "{alias.brand.typography.textStyles.body.s}",
+        "type": "typography"
+      },
+      "color": {
+        "default": {
+          "value": "{alias.mode.singleShoppingCard.text.color.default}",
+          "type": "color"
+        }
+      }
+    }
   }
 }

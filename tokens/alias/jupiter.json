@@ -1493,6 +1493,30 @@
             "type": "spacing"
           }
         }
+      },
+      "singleShoppingCard": {
+        "spacing": {
+          "vertical": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          },
+          "horizontal": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          },
+          "gap": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            }
+          }
+        }
       }
     }
   }
