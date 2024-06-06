@@ -623,6 +623,14 @@
               "type": "color"
             }
           }
+        },
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.singleShoppingCard.background.color.default}",
+              "type": "color"
+            }
+          }
         }
       },
       "teaser": {

@@ -916,6 +916,14 @@
               "type": "color"
             }
           }
+        },
+        "background": {
+          "color": {
+            "default": {
+              "value": "{core.deondernemerCore.color.blueDianne.200}",
+              "type": "color"
+            }
+          }
         }
       },
       "teaser": {

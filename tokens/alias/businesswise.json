@@ -916,6 +916,14 @@
               "type": "color"
             }
           }
+        },
+        "background": {
+          "color": {
+            "default": {
+              "value": "None",
+              "type": "color"
+            }
+          }
         }
       },
       "teaser": {

@@ -916,6 +916,14 @@
               "type": "color"
             }
           }
+        },
+        "background": {
+          "color": {
+            "default": {
+              "value": "{core.vtwonenCore.color.background.9}",
+              "type": "color"
+            }
+          }
         }
       },
       "teaser": {
