@@ -587,6 +587,20 @@
           }
         }
       },
+      "showcaseSingle": {
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.showcaseSingle.text.color.default}",
+              "type": "color"
+            },
+            "inverted": {
+              "value": "{alias.brand.showcaseSingle.text.color.inverted}",
+              "type": "color"
+            }
+          }
+        }
+      },
       "showcaseSlider": {
         "fade": {
           "color": {

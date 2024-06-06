@@ -107,6 +107,32 @@
       }
     }
   },
+  "showcaseSingle": {
+    "textOnly": {
+      "spacing": {
+        "vertical": {
+          "value": "{alias.brand.showcaseSingle.textOnly.spacing.vertical}",
+          "type": "spacing"
+        },
+        "horizontal": {
+          "value": "{alias.brand.showcaseSingle.textOnly.spacing.horizontal}",
+          "type": "spacing"
+        }
+      }
+    },
+    "text": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.showcaseSingle.text.color.default}",
+          "type": "color"
+        },
+        "default-copy": {
+          "value": "{alias.mode.showcaseSingle.text.color.inverted}",
+          "type": "color"
+        }
+      }
+    }
+  },
   "showcaseSlider": {
     "spacing": {
       "gap": {
@@ -131,20 +157,6 @@
         "default": {
           "value": "{alias.mode.showcaseSlider.fade.color.default}",
           "type": "color"
-        }
-      }
-    }
-  },
-  "singleShowcase": {
-    "textOnly": {
-      "spacing": {
-        "vertical": {
-          "value": "{alias.brand.singleShowcase.textOnly.spacing.vertical}",
-          "type": "spacing"
-        },
-        "horizontal": {
-          "value": "{alias.brand.singleShowcase.textOnly.spacing.horizontal}",
-          "type": "spacing"
         }
       }
     }
