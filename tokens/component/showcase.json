@@ -179,6 +179,16 @@
           "type": "color"
         }
       }
+    },
+    "image": {
+      "border": {
+        "value": "{alias.brand.border.singleCard.image.color}",
+        "type": "borderWidth",
+        "color": {
+          "value": "{alias.mode.border.singleCard.image.border.color}",
+          "type": "border"
+        }
+      }
     }
   },
   "singleShoppingCard": {

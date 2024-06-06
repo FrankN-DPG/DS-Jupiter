@@ -684,29 +684,41 @@
         }
       },
       "border": {
-        "default": {
-          "value": "{alias.brand.border.default}",
-          "type": "border"
+        "button": {
+          "default": {
+            "value": "{alias.brand.border.button.default}",
+            "type": "border"
+          },
+          "hover": {
+            "value": "{alias.brand.border.button.hover}",
+            "type": "border"
+          },
+          "focus": {
+            "value": "{alias.brand.border.button.focus}",
+            "type": "border"
+          },
+          "disabled": {
+            "value": "{alias.brand.border.button.disabled}",
+            "type": "border"
+          },
+          "inverted": {
+            "value": "{alias.brand.border.button.inverted}",
+            "type": "border"
+          },
+          "none": {
+            "value": "{alias.brand.border.button.none}",
+            "type": "border"
+          }
         },
-        "hover": {
-          "value": "{alias.brand.border.hover}",
-          "type": "border"
-        },
-        "focus": {
-          "value": "{alias.brand.border.focus}",
-          "type": "border"
-        },
-        "disabled": {
-          "value": "{alias.brand.border.disabled}",
-          "type": "border"
-        },
-        "inverted": {
-          "value": "{alias.brand.border.inverted}",
-          "type": "border"
-        },
-        "none": {
-          "value": "{alias.brand.border.none}",
-          "type": "border"
+        "singleCard": {
+          "image": {
+            "border": {
+              "color": {
+                "value": "{alias.brand.border.singleCard.image.color}",
+                "type": "border"
+              }
+            }
+          }
         }
       }
     }

@@ -864,9 +864,15 @@
         "background": {
           "color": {
             "default": {
-              "value": "{core.jupiterCore.color.matisse.100}",
+              "value": "{core.oudersvannuCore.color.patina.200}",
               "type": "color"
             }
+          }
+        },
+        "image": {
+          "border": {
+            "value": "{core.shape.borderWidth.0}",
+            "type": "borderWidth"
           }
         }
       },
@@ -1127,41 +1133,51 @@
         }
       },
       "border": {
-        "default": {
-          "value": {
-            "color": "{core.oudersvannuCore.color.burntOrange.700}"
+        "button": {
+          "default": {
+            "value": {
+              "color": "{core.jupiterCore.color.matisse.600}"
+            },
+            "type": "border"
           },
-          "type": "border"
+          "hover": {
+            "value": {
+              "color": "{core.jupiterCore.color.matisse.800}"
+            },
+            "type": "border"
+          },
+          "focus": {
+            "value": {
+              "color": "{core.color.semantic.focus}"
+            },
+            "type": "border"
+          },
+          "disabled": {
+            "value": {
+              "color": "{core.color.neutral.500}"
+            },
+            "type": "border"
+          },
+          "inverted": {
+            "value": {
+              "color": "{core.color.neutral.100}"
+            },
+            "type": "border"
+          },
+          "none": {
+            "value": {
+              "color": "none"
+            },
+            "type": "border"
+          }
         },
-        "hover": {
-          "value": {
-            "color": "{core.oudersvannuCore.color.burntOrange.600}"
-          },
-          "type": "border"
-        },
-        "focus": {
-          "value": {
-            "color": "{core.color.semantic.focus}"
-          },
-          "type": "border"
-        },
-        "disabled": {
-          "value": {
-            "color": "{core.color.neutral.500}"
-          },
-          "type": "border"
-        },
-        "inverted": {
-          "value": {
-            "color": "{core.color.neutral.100}"
-          },
-          "type": "border"
-        },
-        "none": {
-          "value": {
-            "color": "none"
-          },
-          "type": "border"
+        "singleCard": {
+          "image": {
+            "color": {
+              "value": "none",
+              "type": "border"
+            }
+          }
         }
       },
       "typography": {
