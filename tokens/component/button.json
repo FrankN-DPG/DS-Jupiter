@@ -712,6 +712,10 @@
           "value": "{alias.mode.border.button.default}",
           "type": "border"
         },
+        "hover": {
+          "value": "{alias.mode.border.button.hover}",
+          "type": "border"
+        },
         "focus": {
           "value": "{alias.mode.border.button.focus}",
           "type": "border"

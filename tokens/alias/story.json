@@ -1180,13 +1180,13 @@
         "button": {
           "default": {
             "value": {
-              "color": "{core.jupiterCore.color.matisse.600}"
+              "color": "{core.storyCore.color.alizarinCrimson.600}"
             },
             "type": "border"
           },
           "hover": {
             "value": {
-              "color": "{core.jupiterCore.color.matisse.800}"
+              "color": "{core.storyCore.color.alizarinCrimson.800}"
             },
             "type": "border"
           },
