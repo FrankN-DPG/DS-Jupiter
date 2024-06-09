@@ -59,6 +59,16 @@
           "type": "typography"
         }
       }
+    },
+    "content": {
+      "border": {
+        "value": "{alias.brand.showcaseContentBlock.content.border}",
+        "type": "borderWidth",
+        "color": {
+          "value": "{alias.mode.border.showcaseContentBlock.content.color}",
+          "type": "border"
+        }
+      }
     }
   },
   "showcaseList": {

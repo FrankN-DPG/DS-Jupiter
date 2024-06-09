@@ -741,6 +741,14 @@
               }
             }
           }
+        },
+        "showcaseContentBlock": {
+          "content": {
+            "color": {
+              "value": "{alias.brand.border.showcaseContentBlock.content.color}",
+              "type": "border"
+            }
+          }
         }
       }
     }

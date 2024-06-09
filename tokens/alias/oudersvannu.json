@@ -752,6 +752,12 @@
               "type": "spacing"
             }
           }
+        },
+        "content": {
+          "border": {
+            "value": "{core.shape.borderWidth.0}",
+            "type": "borderWidth"
+          }
         }
       },
       "showcaseList": {
@@ -1193,6 +1199,14 @@
         },
         "singleCard": {
           "image": {
+            "color": {
+              "value": "none",
+              "type": "border"
+            }
+          }
+        },
+        "showcaseContentBlock": {
+          "content": {
             "color": {
               "value": "none",
               "type": "border"
