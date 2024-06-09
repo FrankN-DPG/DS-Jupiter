@@ -63,11 +63,11 @@
     "content": {
       "border": {
         "value": "{alias.brand.showcaseContentBlock.content.border}",
-        "type": "borderWidth",
-        "color": {
-          "value": "{alias.mode.border.showcaseContentBlock.content.color}",
-          "type": "border"
-        }
+        "type": "borderWidth"
+      },
+      "color": {
+        "value": "{alias.mode.border.showcaseContentBlock.content.color}",
+        "type": "border"
       }
     }
   },
@@ -205,11 +205,11 @@
     "image": {
       "border": {
         "value": "{alias.brand.singleCard.image.border}",
-        "type": "borderWidth",
-        "color": {
-          "value": "{alias.mode.border.singleCard.image.border.color}",
-          "type": "border"
-        }
+        "type": "borderWidth"
+      },
+      "color": {
+        "value": "{alias.mode.border.singleCard.image.border.color}",
+        "type": "border"
       }
     }
   },
