@@ -1226,7 +1226,7 @@
         "showcaseContentBlock": {
           "content": {
             "color": {
-              "value": "{core.storyCore.color.turbo.600}",
+              "value": "{core.storyCore.color.cornflower.800}",
               "type": "border"
             }
           }
