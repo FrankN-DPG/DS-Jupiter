@@ -15,7 +15,7 @@
       "component/label": "enabled",
       "component/teaser": "enabled",
       "component/blockHeader": "enabled",
-      "component/showcase": "enabled"
+      "component/showcase": "enabled",
       "component/logo": "enabled",
       "component/overlay": "enabled"
     },
