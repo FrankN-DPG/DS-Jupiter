@@ -647,6 +647,14 @@
           }
         }
       },
+      "overlay": {
+        "color": {
+          "default": {
+            "value": "{alias.brand.overlay.color.default}",
+            "type": "color"
+          }
+        }
+      },
       "teaser": {
         "text": {
           "color": {

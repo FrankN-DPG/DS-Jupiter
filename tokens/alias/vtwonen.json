@@ -940,7 +940,21 @@
             "default": {
               "value": "{core.vtwonenCore.color.background.9}",
               "type": "color"
-            }
+           }
+                    }
+                }
+            },
+      "overlay": {
+        "color": {
+          "default": {
+            "value": "{core.color.neutral.1000}",
+            "type": "color"
+          }
+        },
+        "opacity": {
+          "default": {
+            "value": "{core.overlay.40}",
+            "type": "opacity"
           }
         }
       },

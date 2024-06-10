@@ -16,6 +16,8 @@
       "component/teaser": "enabled",
       "component/blockHeader": "enabled",
       "component/showcase": "enabled"
+      "component/logo": "enabled",
+      "component/overlay": "enabled"
     },
     "group": "brand"
   },
@@ -36,6 +38,8 @@
       "component/teaser": "enabled",
       "component/blockHeader": "enabled",
       "component/showcase": "enabled"
+      "component/logo": "enabled",
+      "component/overlay": "enabled"
     },
     "group": "brand"
   },
@@ -56,6 +60,8 @@
       "component/teaser": "enabled",
       "component/blockHeader": "enabled",
       "component/showcase": "enabled"
+      "component/logo": "enabled",
+      "component/overlay": "enabled"
     },
     "group": "brand"
   },
@@ -76,6 +82,8 @@
       "component/teaser": "enabled",
       "component/blockHeader": "enabled",
       "component/showcase": "enabled"
+      "component/overlay": "enabled",
+      "component/logo": "enabled"
     },
     "group": "brand"
   },
@@ -96,6 +104,8 @@
       "component/teaser": "enabled",
       "component/blockHeader": "enabled",
       "component/showcase": "enabled"
+      "component/logo": "enabled",
+      "component/overlay": "enabled"
     },
     "group": "brand"
   },
@@ -116,6 +126,8 @@
       "component/teaser": "enabled",
       "component/blockHeader": "enabled",
       "component/showcase": "enabled"
+      "component/logo": "enabled",
+      "component/overlay": "enabled"
     },
     "group": "brand"
   },

@@ -6,6 +6,8 @@
     "component/icon",
     "component/label",
     "component/showcase",
+    "component/logo",
+    "component/overlay",
     "component/teaser",
     "component/toast",
     "mode/light",
