@@ -1,0 +1,252 @@
+{
+  "showcaseContentBlock": {
+    "spacing": {
+      "vertical": {
+        "default": {
+          "value": "{alias.brand.showcaseContentBlock.spacing.vertical.default}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{alias.brand.showcaseContentBlock.spacing.vertical.md}",
+          "type": "spacing"
+        }
+      },
+      "horizontal": {
+        "default": {
+          "value": "{alias.brand.showcaseContentBlock.spacing.horizontal.default}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{alias.brand.showcaseContentBlock.spacing.horizontal.md}",
+          "type": "spacing"
+        }
+      },
+      "gap": {
+        "value": "{alias.brand.showcaseContentBlock.spacing.gap}",
+        "type": "spacing"
+      },
+      "content": {
+        "gap": {
+          "value": "{alias.brand.showcaseContentBlock.spacing.content.gap}",
+          "type": "spacing"
+        }
+      },
+      "serie": {
+        "gap": {
+          "value": "{alias.brand.showcaseContentBlock.spacing.serie.gap}",
+          "type": "spacing"
+        }
+      }
+    },
+    "text": {
+      "typography": {
+        "title": {
+          "default": {
+            "value": "{alias.brand.typography.textStyles.heading1.s}",
+            "type": "typography"
+          },
+          "md": {
+            "value": "{alias.brand.typography.textStyles.heading1.l}",
+            "type": "typography"
+          }
+        },
+        "category": {
+          "value": "{alias.brand.typography.textStyles.captionAlt.s}",
+          "type": "typography"
+        },
+        "body": {
+          "value": "{alias.brand.typography.textStyles.body.s}",
+          "type": "typography"
+        }
+      }
+    },
+    "content": {
+      "border": {
+        "value": "{alias.brand.showcaseContentBlock.content.border}",
+        "type": "borderWidth"
+      },
+      "color": {
+        "value": "{alias.mode.border.showcaseContentBlock.content.color}",
+        "type": "border"
+      }
+    }
+  },
+  "showcaseList": {
+    "spacing": {
+      "list": {
+        "gap": {
+          "default": {
+            "value": "{alias.brand.showcaseList.spacing.list.gap.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.showcaseList.spacing.list.gap.md}",
+            "type": "spacing"
+          }
+        }
+      },
+      "gap": {
+        "value": "{alias.brand.showcaseList.spacing.gap}",
+        "type": "spacing"
+      }
+    }
+  },
+  "showcaseShoppingList": {
+    "spacing": {
+      "gap": {
+        "value": "{alias.brand.showcaseShoppingList.spacing.gap}",
+        "type": "spacing"
+      },
+      "list": {
+        "vertical": {
+          "default": {
+            "value": "{alias.brand.showcaseShoppingList.spacing.list.vertical.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.showcaseShoppingList.spacing.list.vertical.md}",
+            "type": "spacing"
+          }
+        },
+        "horizontal": {
+          "md": {
+            "value": "{alias.brand.showcaseShoppingList.spacing.list.horizontal.md}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  },
+  "showcaseSingle": {
+    "textOnly": {
+      "spacing": {
+        "vertical": {
+          "value": "{alias.brand.showcaseSingle.textOnly.spacing.vertical}",
+          "type": "spacing"
+        },
+        "horizontal": {
+          "value": "{alias.brand.showcaseSingle.textOnly.spacing.horizontal}",
+          "type": "spacing"
+        }
+      }
+    },
+    "text": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.showcaseSingle.text.color.default}",
+          "type": "color"
+        },
+        "default-copy": {
+          "value": "{alias.mode.showcaseSingle.text.color.inverted}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "showcaseSlider": {
+    "spacing": {
+      "gap": {
+        "value": "{alias.brand.showcaseSlider.spacing.gap}",
+        "type": "spacing"
+      },
+      "list": {
+        "gap": {
+          "default": {
+            "value": "{alias.brand.showcaseSlider.spacing.list.gap.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.showcaseSlider.spacing.list.gap.md}",
+            "type": "spacing"
+          }
+        }
+      }
+    },
+    "fade": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.showcaseSlider.fade.color.default}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "singleCard": {
+    "spacing": {
+      "vertical": {
+        "value": "{alias.brand.singleCard.spacing.vertical}",
+        "type": "spacing"
+      },
+      "horizontal": {
+        "value": "{alias.brand.singleCard.spacing.horizontal}",
+        "type": "spacing"
+      }
+    },
+    "text": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.singleCard.text.color.default}",
+          "type": "color"
+        }
+      },
+      "typography": {
+        "value": "{alias.brand.typography.textStyles.body.s}",
+        "type": "typography"
+      }
+    },
+    "background": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.singleCard.background.color.default}",
+          "type": "color"
+        }
+      }
+    },
+    "image": {
+      "border": {
+        "value": "{alias.brand.singleCard.image.border}",
+        "type": "borderWidth"
+      },
+      "color": {
+        "value": "{alias.mode.border.singleCard.image.border.color}",
+        "type": "border"
+      }
+    }
+  },
+  "singleShoppingCard": {
+    "spacing": {
+      "vertical": {
+        "value": "{alias.brand.singleShoppingCard.spacing.vertical}",
+        "type": "spacing"
+      },
+      "horizontal": {
+        "value": "{alias.brand.singleShoppingCard.spacing.horizontal}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{alias.brand.singleShoppingCard.spacing.gap}",
+        "type": "spacing"
+      }
+    },
+    "text": {
+      "typography": {
+        "value": "{alias.brand.typography.textStyles.body.s}",
+        "type": "typography"
+      },
+      "color": {
+        "default": {
+          "value": "{alias.mode.singleShoppingCard.text.color.default}",
+          "type": "color"
+        }
+      }
+    },
+    "background": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.singleShoppingCard.background.color.default}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

@@ -379,6 +379,48 @@
             "value": "#423f32",
             "type": "color"
           }
+        },
+        "background": {
+          "1": {
+            "value": "#ececec",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f8eab9",
+            "type": "color"
+          },
+          "3": {
+            "value": "#F1CBB3",
+            "type": "color"
+          },
+          "4": {
+            "value": "#EFCDD1",
+            "type": "color"
+          },
+          "5": {
+            "value": "#E4CADB",
+            "type": "color"
+          },
+          "6": {
+            "value": "#CECBE1",
+            "type": "color"
+          },
+          "7": {
+            "value": "#bccee0",
+            "type": "color"
+          },
+          "8": {
+            "value": "#c8dddb",
+            "type": "color"
+          },
+          "9": {
+            "value": "#D9DACE",
+            "type": "color"
+          },
+          "10": {
+            "value": "#EBDFD5",
+            "type": "color"
+          }
         }
       },
       "fontWeight": {

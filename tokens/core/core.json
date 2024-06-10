@@ -324,6 +324,10 @@
       "1200": {
         "value": "96px",
         "type": "spacing"
+      },
+      "1500": {
+        "value": "120px",
+        "type": "spacing"
       }
     },
     "sizing": {

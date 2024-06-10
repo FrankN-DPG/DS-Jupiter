@@ -85,6 +85,80 @@
             "value": "#60001e",
             "type": "color"
           }
+        },
+        "background": {
+          "1": {
+            "value": "#ececec",
+            "type": "color"
+          },
+          "2": {
+            "value": "#c3c4c5",
+            "type": "color"
+          },
+          "3": {
+            "value": "#c7d2d8",
+            "type": "color"
+          },
+          "4": {
+            "value": "#ebf0f5",
+            "type": "color"
+          },
+          "5": {
+            "value": "#ebf5f1",
+            "type": "color"
+          },
+          "6": {
+            "value": "#c7d8d4",
+            "type": "color"
+          },
+          "7": {
+            "value": "#f2f5eb",
+            "type": "color"
+          },
+          "8": {
+            "value": "#d4d8c7",
+            "type": "color"
+          },
+          "9": {
+            "value": "#f5f2eb",
+            "type": "color"
+          },
+          "10": {
+            "value": "#d0cbb8",
+            "type": "color"
+          },
+          "11": {
+            "value": "#f5f0eb",
+            "type": "color"
+          },
+          "12": {
+            "value": "#d8d1c7",
+            "type": "color"
+          },
+          "13": {
+            "value": "#f4ebeb",
+            "type": "color"
+          },
+          "14": {
+            "value": "#d8c7c8",
+            "type": "color"
+          },
+          "15": {
+            "value": "#354D5C",
+            "type": "color"
+          },
+          "16": {
+            "value": "#685427",
+            "type": "color"
+          },
+          "17": {
+            "value": "#5B3537",
+            "type": "color"
+          },
+          "18": {
+            "value": "#4D5355",
+            "type": "color"
+          }
         }
       },
       "fontWeight": {
