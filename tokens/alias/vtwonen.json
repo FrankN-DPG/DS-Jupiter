@@ -1194,13 +1194,13 @@
         "button": {
           "default": {
             "value": {
-              "color": "{core.jupiterCore.color.matisse.600}"
+              "color": "{core.vtwonenCore.color.saffronMango.800}"
             },
             "type": "border"
           },
           "hover": {
             "value": {
-              "color": "{core.jupiterCore.color.matisse.800}"
+              "color": "{core.vtwonenCore.color.saffronMango.800}"
             },
             "type": "border"
           },
