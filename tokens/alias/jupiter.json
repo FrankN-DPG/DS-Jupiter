@@ -940,10 +940,10 @@
             "default": {
               "value": "{core.jupiterCore.color.matisse.100}",
               "type": "color"
-           }
-                    }
-                }
-            },
+            }
+          }
+        }
+      },
       "overlay": {
         "color": {
           "default": {

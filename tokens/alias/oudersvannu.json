@@ -923,9 +923,9 @@
               "value": "{core.oudersvannuCore.color.patina.200}",
               "type": "color"
             }
-                    }
-                }
-            },
+          }
+        }
+      },
       "overlay": {
         "color": {
           "default": {

@@ -941,9 +941,9 @@
               "value": "{core.deondernemerCore.color.blueDianne.200}",
               "type": "color"
             }
-                    }
-                }
-            },
+          }
+        }
+      },
       "overlay": {
         "color": {
           "default": {
@@ -955,9 +955,9 @@
           "default": {
             "value": "{core.overlay.40}",
             "type": "opacity"
-  }
-                }
-            },
+          }
+        }
+      },
       "teaser": {
         "spacing": {
           "gap": {
