@@ -940,10 +940,10 @@
             "default": {
               "value": "{core.color.neutral.100}",
               "type": "color"
-           }
-                    }
-                }
-            },
+            }
+          }
+        }
+      },
       "overlay": {
         "color": {
           "default": {

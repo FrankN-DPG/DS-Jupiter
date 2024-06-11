@@ -941,9 +941,9 @@
               "value": "{core.deondernemerCore.color.blueDianne.200}",
               "type": "color"
             }
-                    }
-                }
-            },
+          }
+        }
+      },
       "overlay": {
         "color": {
           "default": {
@@ -955,9 +955,9 @@
           "default": {
             "value": "{core.overlay.40}",
             "type": "opacity"
-  }
-                }
-            },
+          }
+        }
+      },
       "teaser": {
         "spacing": {
           "gap": {
@@ -1194,13 +1194,13 @@
         "button": {
           "default": {
             "value": {
-              "color": "{core.jupiterCore.color.matisse.600}"
+              "color": "{core.deondernemerCore.color.blueDianne.600}"
             },
             "type": "border"
           },
           "hover": {
             "value": {
-              "color": "{core.jupiterCore.color.matisse.800}"
+              "color": "{core.deondernemerCore.color.blueDianne.600}"
             },
             "type": "border"
           },
