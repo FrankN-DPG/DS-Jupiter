@@ -1562,7 +1562,7 @@
             "s": {
               "value": {
                 "fontFamily": "{core.storyCore.font.accent}",
-                "fontWeight": "{core.storyCore.fontWeight.300}",
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}",
                 "fontSize": "{core.typography.fontSize.80}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.default}"
@@ -1577,14 +1577,14 @@
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.underline}",
-                "fontWeight": "{core.storyCore.fontWeight.300}"
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
                 "fontFamily": "{core.storyCore.font.accent}",
-                "fontWeight": "{core.storyCore.fontWeight.300}",
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}",
                 "fontSize": "{core.typography.fontSize.80}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.underline}"
