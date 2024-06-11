@@ -17,7 +17,8 @@
       "component/blockHeader": "enabled",
       "component/showcase": "enabled",
       "component/logo": "enabled",
-      "component/overlay": "enabled"
+      "component/overlay": "enabled",
+      "alias/kidsweek": "disabled"
     },
     "group": "brand"
   },
@@ -39,7 +40,8 @@
       "component/blockHeader": "enabled",
       "component/showcase": "enabled",
       "component/logo": "enabled",
-      "component/overlay": "enabled"
+      "component/overlay": "enabled",
+      "alias/kidsweek": "disabled"
     },
     "group": "brand"
   },
@@ -61,7 +63,30 @@
       "component/blockHeader": "enabled",
       "component/showcase": "enabled",
       "component/logo": "enabled",
-      "component/overlay": "enabled"
+      "component/overlay": "enabled",
+      "alias/kidsweek": "disabled"
+    },
+    "group": "brand"
+  },
+  {
+    "id": "fdb2387857da92adea0b447d1f594bddcbdada07",
+    "name": "kidsweek",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component/blockHeader": "enabled",
+      "component/button": "enabled",
+      "component/divider": "enabled",
+      "component/icon": "enabled",
+      "component/label": "enabled",
+      "component/showcase": "enabled",
+      "component/logo": "enabled",
+      "component/overlay": "enabled",
+      "component/teaser": "enabled",
+      "component/toast": "enabled",
+      "mode/light": "enabled",
+      "core/kidsweekCore": "source",
+      "core/core": "source",
+      "alias/kidsweek": "enabled"
     },
     "group": "brand"
   },
@@ -83,7 +108,8 @@
       "component/blockHeader": "enabled",
       "component/showcase": "enabled",
       "component/overlay": "enabled",
-      "component/logo": "enabled"
+      "component/logo": "enabled",
+      "alias/kidsweek": "disabled"
     },
     "group": "brand"
   },
@@ -105,7 +131,8 @@
       "component/blockHeader": "enabled",
       "component/showcase": "enabled",
       "component/logo": "enabled",
-      "component/overlay": "enabled"
+      "component/overlay": "enabled",
+      "alias/kidsweek": "disabled"
     },
     "group": "brand"
   },
@@ -127,7 +154,8 @@
       "component/blockHeader": "enabled",
       "component/showcase": "enabled",
       "component/logo": "enabled",
-      "component/overlay": "enabled"
+      "component/overlay": "enabled",
+      "alias/kidsweek": "disabled"
     },
     "group": "brand"
   },
@@ -136,7 +164,8 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled"
+      "mode/light": "enabled",
+      "alias/kidsweek": "disabled"
     },
     "group": "mode"
   }
