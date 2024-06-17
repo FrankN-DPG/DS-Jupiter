@@ -848,6 +848,10 @@
               "type": "spacing"
             }
           }
+        },
+        "borderRadius": {
+          "value": "{core.shape.radius.0}",
+          "type": "borderRadius"
         }
       },
       "showcaseSlider": {
@@ -910,6 +914,10 @@
             "value": "{core.shape.borderWidth.0}",
             "type": "borderWidth"
           }
+        },
+        "borderRadius": {
+          "value": "{core.shape.radius.0}",
+          "type": "borderRadius"
         }
       },
       "singleShoppingCard": {
@@ -942,6 +950,10 @@
               "type": "color"
             }
           }
+        },
+        "borderRadius": {
+          "value": "{core.shape.radius.0}",
+          "type": "borderRadius"
         }
       },
       "overlay": {

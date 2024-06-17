@@ -848,6 +848,10 @@
               "type": "spacing"
             }
           }
+        },
+        "borderRadius": {
+          "value": "{core.shape.radius.0}",
+          "type": "borderRadius"
         }
       },
       "showcaseSlider": {
@@ -910,6 +914,11 @@
             "value": "{core.shape.borderWidth.0}",
             "type": "borderWidth"
           }
+        },
+        "borderRadius": {
+          "value": "16px 8px 16px 8px",
+          "type": "borderRadius",
+          "description": "Four values: This will apply top-left | top-right | bottom-right | bottom-left"
         }
       },
       "singleShoppingCard": {
@@ -942,6 +951,10 @@
               "type": "color"
             }
           }
+        },
+        "borderRadius": {
+          "value": "{core.shape.radius.0}",
+          "type": "borderRadius"
         }
       },
       "overlay": {
