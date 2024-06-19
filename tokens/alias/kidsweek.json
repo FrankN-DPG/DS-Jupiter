@@ -75,7 +75,7 @@
           }
         },
         "radius": {
-          "value": "{core.shape.radius.100}",
+          "value": "4px 8px 4px 8px",
           "type": "borderRadius"
         },
         "border": {
@@ -904,7 +904,7 @@
         "background": {
           "color": {
             "default": {
-              "value": "{core.jupiterCore.color.matisse.100}",
+              "value": "{core.storyCore.color.apple.600}",
               "type": "color"
             }
           }
@@ -1207,13 +1207,13 @@
         "button": {
           "default": {
             "value": {
-              "color": "{core.jupiterCore.color.matisse.600}"
+              "color": "{core.storyCore.color.redRibbon.600}"
             },
             "type": "border"
           },
           "hover": {
             "value": {
-              "color": "{core.jupiterCore.color.matisse.800}"
+              "color": "{core.storyCore.color.redRibbon.800}"
             },
             "type": "border"
           },
