@@ -1386,21 +1386,21 @@
           "heading4": {
             "l": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontFamily": "{core.kidsweekCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.400}"
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontFamily": "{core.kidsweekCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.400}"
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
               },
               "type": "typography"
             }
