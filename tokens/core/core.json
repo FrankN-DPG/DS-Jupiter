@@ -205,7 +205,7 @@
       },
       "textCase": {
         "default": {
-          "value": "default",
+          "value": "none",
           "type": "textCase"
         },
         "uppercase": {

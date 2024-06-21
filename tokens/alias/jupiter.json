@@ -1269,6 +1269,16 @@
               "value": "{alias.brand.typography.textStyles.heading4.l}",
               "type": "typography"
             }
+          },
+          "showcaseSingle": {
+            "default": {
+              "value": "{alias.brand.typography.textStyles.heading1.s}",
+              "type": "typography"
+            },
+            "md": {
+              "value": "{alias.brand.typography.textStyles.heading1.l}",
+              "type": "typography"
+            }
           }
         },
         "textStyles": {
@@ -1301,7 +1311,8 @@
                 "fontSize": "{core.typography.fontSize.220}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.jupiterCore.fontWeight.600}"
+                "fontWeight": "{core.jupiterCore.fontWeight.600}",
+                "textCase": "{core.typography.textCase.default}"
               },
               "type": "typography"
             },
@@ -1311,7 +1322,8 @@
                 "fontSize": "{core.typography.fontSize.180}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.jupiterCore.fontWeight.600}"
+                "fontWeight": "{core.jupiterCore.fontWeight.600}",
+                "textCase": "{core.typography.textCase.default}"
               },
               "type": "typography"
             }
