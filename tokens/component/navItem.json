@@ -1,0 +1,10 @@
+{
+  "navItem": {
+    "spacing": {
+      "gap": {
+        "value": "{alias.brand.navItem.spacing.gap}",
+        "type": "spacing"
+      }
+    }
+  }
+}
