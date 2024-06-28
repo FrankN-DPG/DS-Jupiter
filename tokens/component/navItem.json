@@ -12,6 +12,28 @@
           "value": "{alias.brand.typography.component.navItem.default}",
           "type": "typography"
         }
+      },
+      "color": {
+        "default": {
+          "value": "{alias.mode.navItem.text.color.default}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{alias.mode.navItem.text.color.hover}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{alias.mode.navItem.text.color.pressed}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{alias.mode.navItem.text.color.active}",
+          "type": "color"
+        },
+        "subdued": {
+          "value": "{alias.mode.navItem.text.color.subdued}",
+          "type": "color"
+        }
       }
     },
     "textDecoration": {

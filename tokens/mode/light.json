@@ -758,6 +758,16 @@
             }
           }
         }
+      },
+      "navItem": {
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.navItem.text.color.default}",
+              "type": "color"
+            }
+          }
+        }
       }
     }
   }
