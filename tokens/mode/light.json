@@ -765,6 +765,22 @@
             "default": {
               "value": "{alias.brand.navItem.text.color.default}",
               "type": "color"
+            },
+            "hover": {
+              "value": "{alias.brand.navItem.text.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.brand.navItem.text.color.pressed}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{alias.brand.navItem.text.color.active}",
+              "type": "color"
+            },
+            "subdued": {
+              "value": "{alias.brand.navItem.text.color.subdued}",
+              "type": "color"
             }
           }
         }
