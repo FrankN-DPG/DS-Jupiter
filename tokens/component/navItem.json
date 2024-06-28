@@ -5,6 +5,24 @@
         "value": "{alias.brand.navItem.spacing.gap}",
         "type": "spacing"
       }
+    },
+    "text": {
+      "typography": {
+        "default": {
+          "value": "{alias.brand.typography.component.navItem.default}",
+          "type": "typography"
+        }
+      }
+    },
+    "textDecoration": {
+      "default": {
+        "value": "{core.typography.textDecoration.default}",
+        "type": "textDecoration"
+      },
+      "underline": {
+        "value": "{core.typography.textDecoration.underline}",
+        "type": "textDecoration"
+      }
     }
   }
 }

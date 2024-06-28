@@ -17,8 +17,7 @@
       "component/blockHeader": "enabled",
       "component/showcase": "enabled",
       "component/logo": "enabled",
-      "component/overlay": "enabled",
-      "component/navItem": "disabled"
+      "component/overlay": "enabled"
     },
     "group": "brand"
   },
@@ -40,8 +39,7 @@
       "component/blockHeader": "enabled",
       "component/showcase": "enabled",
       "component/logo": "enabled",
-      "component/overlay": "enabled",
-      "component/navItem": "disabled"
+      "component/overlay": "enabled"
     },
     "group": "brand"
   },
@@ -86,8 +84,7 @@
       "mode/light": "enabled",
       "core/kidsweekCore": "source",
       "core/core": "source",
-      "alias/kidsweek": "enabled",
-      "component/navItem": "disabled"
+      "alias/kidsweek": "enabled"
     },
     "group": "brand"
   },
@@ -109,8 +106,7 @@
       "component/blockHeader": "enabled",
       "component/showcase": "enabled",
       "component/overlay": "enabled",
-      "component/logo": "enabled",
-      "component/navItem": "disabled"
+      "component/logo": "enabled"
     },
     "group": "brand"
   },
@@ -132,8 +128,7 @@
       "component/blockHeader": "enabled",
       "component/showcase": "enabled",
       "component/logo": "enabled",
-      "component/overlay": "enabled",
-      "component/navItem": "disabled"
+      "component/overlay": "enabled"
     },
     "group": "brand"
   },
@@ -155,8 +150,7 @@
       "component/blockHeader": "enabled",
       "component/showcase": "enabled",
       "component/logo": "enabled",
-      "component/overlay": "enabled",
-      "component/navItem": "disabled"
+      "component/overlay": "enabled"
     },
     "group": "brand"
   },
@@ -165,8 +159,7 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled",
-      "component/navItem": "disabled"
+      "mode/light": "enabled"
     },
     "group": "mode"
   }

@@ -1279,6 +1279,12 @@
               "value": "{alias.brand.typography.textStyles.heading1.l}",
               "type": "typography"
             }
+          },
+          "navItem": {
+            "default": {
+              "value": "{alias.brand.typography.textStyles.body.s}",
+              "type": "typography"
+            }
           }
         },
         "textStyles": {
