@@ -11,6 +11,14 @@
         "default": {
           "value": "{alias.brand.typography.component.navItem.default}",
           "type": "typography"
+        },
+        "underline": {
+          "value": "{alias.brand.typography.component.navItem.underline}",
+          "type": "typography"
+        },
+        "bold": {
+          "value": "{alias.brand.typography.component.navItem.bold}",
+          "type": "typography"
         }
       },
       "color": {
@@ -34,16 +42,6 @@
           "value": "{alias.mode.navItem.text.color.subdued}",
           "type": "color"
         }
-      }
-    },
-    "textDecoration": {
-      "default": {
-        "value": "{core.typography.textDecoration.default}",
-        "type": "textDecoration"
-      },
-      "underline": {
-        "value": "{core.typography.textDecoration.underline}",
-        "type": "textDecoration"
       }
     }
   }

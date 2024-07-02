@@ -96,13 +96,21 @@
           "value": "Regular",
           "type": "fontWeights"
         },
-        "600": {
-          "value": "SemiBold",
-          "type": "fontWeights"
-        },
         "700": {
           "value": "Bold",
           "type": "fontWeights"
+        },
+        "primary": {
+          "600": {
+            "value": "Semibold",
+            "type": "fontWeights"
+          }
+        },
+        "accent": {
+          "600": {
+            "value": "SemiBold",
+            "type": "fontWeights"
+          }
         }
       },
       "font": {

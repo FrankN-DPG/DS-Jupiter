@@ -1282,7 +1282,33 @@
           },
           "navItem": {
             "default": {
-              "value": "{alias.brand.typography.textStyles.body.s}",
+              "value": {
+                "fontFamily": "{core.jupiterCore.font.primary}",
+                "fontSize": "{core.typography.fontSize.120}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.jupiterCore.fontWeight.400}"
+              },
+              "type": "typography"
+            },
+            "underline": {
+              "value": {
+                "fontFamily": "{core.jupiterCore.font.primary}",
+                "fontSize": "{core.typography.fontSize.120}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.underline}",
+                "fontWeight": "{core.jupiterCore.fontWeight.400}"
+              },
+              "type": "typography"
+            },
+            "bold": {
+              "value": {
+                "fontFamily": "{core.jupiterCore.font.primary}",
+                "fontSize": "{core.typography.fontSize.120}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.jupiterCore.fontWeight.primary.600}"
+              },
               "type": "typography"
             }
           }
@@ -1295,7 +1321,7 @@
                 "fontSize": "{core.typography.fontSize.240}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.jupiterCore.fontWeight.600}"
+                "fontWeight": "{core.jupiterCore.fontWeight.accent.600}"
               },
               "type": "typography"
             },
@@ -1305,7 +1331,7 @@
                 "fontSize": "{core.typography.fontSize.220}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.jupiterCore.fontWeight.600}"
+                "fontWeight": "{core.jupiterCore.fontWeight.accent.600}"
               },
               "type": "typography"
             }
@@ -1317,7 +1343,7 @@
                 "fontSize": "{core.typography.fontSize.220}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.jupiterCore.fontWeight.600}",
+                "fontWeight": "{core.jupiterCore.fontWeight.accent.600}",
                 "textCase": "{core.typography.textCase.default}"
               },
               "type": "typography"
@@ -1328,7 +1354,7 @@
                 "fontSize": "{core.typography.fontSize.180}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.jupiterCore.fontWeight.600}",
+                "fontWeight": "{core.jupiterCore.fontWeight.accent.600}",
                 "textCase": "{core.typography.textCase.default}"
               },
               "type": "typography"
@@ -1385,7 +1411,7 @@
                 "fontSize": "{core.typography.fontSize.140}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.jupiterCore.fontWeight.600}"
+                "fontWeight": "{core.jupiterCore.fontWeight.accent.600}"
               },
               "type": "typography"
             },
@@ -1395,7 +1421,7 @@
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.jupiterCore.fontWeight.600}"
+                "fontWeight": "{core.jupiterCore.fontWeight.accent.600}"
               },
               "type": "typography"
             }
@@ -1407,7 +1433,7 @@
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.jupiterCore.fontWeight.600}"
+                "fontWeight": "{core.jupiterCore.fontWeight.accent.600}"
               },
               "type": "typography"
             },
@@ -1417,7 +1443,7 @@
                 "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.jupiterCore.fontWeight.600}"
+                "fontWeight": "{core.jupiterCore.fontWeight.accent.600}"
               },
               "type": "typography"
             }
