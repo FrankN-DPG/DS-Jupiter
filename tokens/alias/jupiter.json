@@ -1256,6 +1256,16 @@
               "type": "border"
             }
           }
+        },
+        "navItem": {
+          "none": {
+            "value": "none",
+            "type": "border"
+          },
+          "focus": {
+            "value": "{core.color.semantic.focus}",
+            "type": "border"
+          }
         }
       },
       "typography": {
@@ -1710,11 +1720,11 @@
               "type": "color"
             },
             "hover": {
-              "value": "{core.jupiterCore.color.matisse.500}",
+              "value": "{core.jupiterCore.color.matisse.700}",
               "type": "color"
             },
             "pressed": {
-              "value": "{core.jupiterCore.color.matisse.500}",
+              "value": "{core.jupiterCore.color.matisse.700}",
               "type": "color"
             },
             "active": {
@@ -1726,6 +1736,14 @@
               "type": "color"
             }
           }
+        },
+        "border": {
+          "value": "{core.shape.borderWidth.200}",
+          "type": "borderWidth"
+        },
+        "none": {
+          "value": "{core.shape.borderWidth.0}",
+          "type": "borderWidth"
         }
       }
     }

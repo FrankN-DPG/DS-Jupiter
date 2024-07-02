@@ -757,6 +757,16 @@
               "type": "border"
             }
           }
+        },
+        "navItem": {
+          "none": {
+            "value": "{alias.brand.border.navItem.none}",
+            "type": "border"
+          },
+          "focus": {
+            "value": "{alias.brand.border.navItem.focus}",
+            "type": "border"
+          }
         }
       },
       "navItem": {

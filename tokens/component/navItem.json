@@ -43,6 +43,28 @@
           "type": "color"
         }
       }
+    },
+    "border": {
+      "color": {
+        "none": {
+          "value": "{alias.mode.border.navItem.none}",
+          "type": "border"
+        },
+        "focus": {
+          "value": "{alias.mode.border.navItem.focus}",
+          "type": "border"
+        }
+      },
+      "width": {
+        "none": {
+          "value": "{alias.brand.navItem.none}",
+          "type": "borderWidth"
+        },
+        "default": {
+          "value": "{alias.brand.navItem.border}",
+          "type": "borderWidth"
+        }
+      }
     }
   }
 }
