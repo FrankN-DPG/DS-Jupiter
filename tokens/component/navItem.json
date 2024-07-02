@@ -49,6 +49,10 @@
         "default": {
           "value": "{alias.mode.navItem.icon.color.default}",
           "type": "color"
+        },
+        "subdued": {
+          "value": "{alias.mode.navItem.icon.color.subdued}",
+          "type": "color"
         }
       }
     },

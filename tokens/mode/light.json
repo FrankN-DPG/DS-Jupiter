@@ -799,6 +799,10 @@
             "default": {
               "value": "{alias.brand.navItem.icon.color.default}",
               "type": "color"
+            },
+            "subdued": {
+              "value": "{alias.brand.navItem.icon.color.subdued}",
+              "type": "color"
             }
           }
         }
