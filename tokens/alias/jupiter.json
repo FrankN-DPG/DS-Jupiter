@@ -1728,7 +1728,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.jupiterCore.color.matisse.500}",
+              "value": "{core.jupiterCore.color.matisse.600}",
               "type": "color"
             },
             "subdued": {
@@ -1744,6 +1744,14 @@
         "none": {
           "value": "{core.shape.borderWidth.0}",
           "type": "borderWidth"
+        },
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{core.jupiterCore.color.matisse.600}",
+              "type": "color"
+            }
+          }
         }
       }
     }

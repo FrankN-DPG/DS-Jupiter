@@ -44,6 +44,14 @@
         }
       }
     },
+    "icon": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.navItem.icon.color.default}",
+          "type": "color"
+        }
+      }
+    },
     "border": {
       "color": {
         "none": {

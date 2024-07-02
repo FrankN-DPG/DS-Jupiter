@@ -793,6 +793,14 @@
               "type": "color"
             }
           }
+        },
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.navItem.icon.color.default}",
+              "type": "color"
+            }
+          }
         }
       }
     }
