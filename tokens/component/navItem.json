@@ -77,6 +77,10 @@
           "type": "borderWidth"
         }
       }
+    },
+    "radius": {
+      "value": "{alias.brand.navItem.radius}",
+      "type": "borderRadius"
     }
   }
 }

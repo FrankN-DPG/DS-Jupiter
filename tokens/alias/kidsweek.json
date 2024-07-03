@@ -1760,6 +1760,10 @@
               "type": "color"
             }
           }
+        },
+        "radius": {
+          "value": "{core.shape.radius.100}",
+          "type": "borderRadius"
         }
       }
     }
