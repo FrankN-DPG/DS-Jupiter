@@ -168,5 +168,13 @@
         }
       }
     }
+  },
+  "singleCard": {
+    "image": {
+      "border": {
+        "value": "{alias.brand.teaser.singleCard.image.border}",
+        "type": "borderWidth"
+      }
+    }
   }
 }

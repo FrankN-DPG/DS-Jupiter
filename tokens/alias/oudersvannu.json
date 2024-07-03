@@ -996,6 +996,14 @@
               "type": "color"
             }
           }
+        },
+        "singleCard": {
+          "image": {
+            "border": {
+              "value": "{core.shape.borderWidth.0}",
+              "type": "borderWidth"
+            }
+          }
         }
       },
       "teaserGrid": {
