@@ -230,19 +230,19 @@
           "background": {
             "color": {
               "default": {
-                "value": "{core.kidsweekCore.color.redRibbon.600}",
+                "value": "{core.jupiterCore.color.stiletto.600}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.kidsweekCore.color.redRibbon.800}",
+                "value": "{core.jupiterCore.color.stiletto.800}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.kidsweekCore.color.redRibbon.600}",
+                "value": "{core.jupiterCore.color.stiletto.800}",
                 "type": "color"
               },
               "focus": {
-                "value": "{core.kidsweekCore.color.redRibbon.600}",
+                "value": "{core.jupiterCore.color.stiletto.600}",
                 "type": "color"
               },
               "disabled": {
@@ -307,11 +307,11 @@
                   "type": "color"
                 },
                 "hover": {
-                  "value": "{core.kidsweekCore.color.redRibbon.100}",
+                  "value": "{core.jupiterCore.color.matisse.100}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{core.color.neutral.100}",
+                  "value": "{core.jupiterCore.color.matisse.100}",
                   "type": "color"
                 },
                 "focus": {
@@ -323,19 +323,19 @@
             "text": {
               "color": {
                 "default": {
-                  "value": "{core.kidsweekCore.color.redRibbon.600}",
+                  "value": "{core.jupiterCore.color.stiletto.600}",
                   "type": "color"
                 },
                 "hover": {
-                  "value": "{core.kidsweekCore.color.redRibbon.800}",
+                  "value": "{core.jupiterCore.color.stiletto.800}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{core.kidsweekCore.color.redRibbon.600}",
+                  "value": "{core.jupiterCore.color.stiletto.800}",
                   "type": "color"
                 },
                 "focus": {
-                  "value": "{core.kidsweekCore.color.redRibbon.600}",
+                  "value": "{core.jupiterCore.color.stiletto.600}",
                   "type": "color"
                 }
               }
@@ -343,19 +343,19 @@
             "icon": {
               "color": {
                 "default": {
-                  "value": "{core.kidsweekCore.color.redRibbon.600}",
+                  "value": "{core.jupiterCore.color.stiletto.600}",
                   "type": "color"
                 },
                 "hover": {
-                  "value": "{core.kidsweekCore.color.redRibbon.800}",
+                  "value": "{core.jupiterCore.color.stiletto.800}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{core.kidsweekCore.color.redRibbon.600}",
+                  "value": "{core.jupiterCore.color.stiletto.800}",
                   "type": "color"
                 },
                 "focus": {
-                  "value": "{core.kidsweekCore.color.redRibbon.600}",
+                  "value": "{core.jupiterCore.color.stiletto.600}",
                   "type": "color"
                 }
               }
@@ -370,11 +370,11 @@
                 "type": "color"
               },
               "hover": {
-                "value": "none",
+                "value": "{core.jupiterCore.color.matisse.100}",
                 "type": "color"
               },
               "pressed": {
-                "value": "none",
+                "value": "{core.jupiterCore.color.matisse.100}",
                 "type": "color"
               },
               "focus": {
@@ -390,19 +390,19 @@
           "text": {
             "color": {
               "default": {
-                "value": "{core.kidsweekCore.color.redRibbon.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.kidsweekCore.color.redRibbon.800}",
+                "value": "{core.jupiterCore.color.matisse.800}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.kidsweekCore.color.redRibbon.600}",
+                "value": "{core.jupiterCore.color.matisse.800}",
                 "type": "color"
               },
               "focus": {
-                "value": "{core.kidsweekCore.color.redRibbon.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "disabled": {
@@ -414,19 +414,19 @@
           "icon": {
             "color": {
               "default": {
-                "value": "{core.kidsweekCore.color.redRibbon.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.kidsweekCore.color.redRibbon.800}",
+                "value": "{core.jupiterCore.color.matisse.800}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.kidsweekCore.color.redRibbon.600}",
+                "value": "{core.jupiterCore.color.matisse.800}",
                 "type": "color"
               },
               "focus": {
-                "value": "{core.kidsweekCore.color.redRibbon.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "disabled": {
@@ -524,7 +524,7 @@
                 "type": "color"
               },
               "hover": {
-                "value": "{core.kidsweekCore.color.redRibbon.600}",
+                "value": "{core.jupiterCore.color.matisse.500}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -537,17 +537,8 @@
                 }
               },
               "pressed": {
-                "value": "{core.kidsweekCore.color.redRibbon.600}",
-                "type": "color",
-                "$extensions": {
-                  "studio.tokens": {
-                    "modify": {
-                      "type": "alpha",
-                      "value": "0.15",
-                      "space": "lch"
-                    }
-                  }
-                }
+                "value": "{core.jupiterCore.color.matisse.100}",
+                "type": "color"
               },
               "focus": {
                 "value": "none",
@@ -562,19 +553,19 @@
           "text": {
             "color": {
               "default": {
-                "value": "{core.color.neutral.1000}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.kidsweekCore.color.redRibbon.600}",
+                "value": "{core.jupiterCore.color.matisse.800}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.kidsweekCore.color.redRibbon.800}",
+                "value": "{core.jupiterCore.color.matisse.800}",
                 "type": "color"
               },
               "focus": {
-                "value": "{core.kidsweekCore.color.redRibbon.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "disabled": {
@@ -586,19 +577,19 @@
           "icon": {
             "color": {
               "default": {
-                "value": "{core.color.neutral.1000}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.kidsweekCore.color.redRibbon.600}",
+                "value": "{core.jupiterCore.color.matisse.800}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.kidsweekCore.color.redRibbon.800}",
+                "value": "{core.jupiterCore.color.matisse.800}",
                 "type": "color"
               },
               "focus": {
-                "value": "{core.kidsweekCore.color.redRibbon.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "disabled": {
@@ -1295,21 +1286,21 @@
           "display": {
             "l": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontFamily": "{core.kidsweekCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.240}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.400}"
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontFamily": "{core.kidsweekCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.220}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.400}"
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
               },
               "type": "typography"
             }
@@ -1317,22 +1308,22 @@
           "heading1": {
             "l": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontFamily": "{core.kidsweekCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.220}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.400}",
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}",
                 "textCase": "{core.typography.textCase.default}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontFamily": "{core.kidsweekCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.180}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.400}",
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}",
                 "textCase": "{core.typography.textCase.default}"
               },
               "type": "typography"
@@ -1341,21 +1332,21 @@
           "heading2": {
             "l": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontFamily": "{core.kidsweekCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.180}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.400}"
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontFamily": "{core.kidsweekCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.140}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.400}"
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
               },
               "type": "typography"
             }
@@ -1363,21 +1354,21 @@
           "heading2Alt": {
             "l": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.primary}",
+                "fontFamily": "{core.kidsweekCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.180}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
+                "fontWeight": "{core.kidsweekCore.fontWeight.400}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.primary}",
+                "fontFamily": "{core.kidsweekCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.140}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
+                "fontWeight": "{core.kidsweekCore.fontWeight.400}"
               },
               "type": "typography"
             }
@@ -1385,21 +1376,21 @@
           "heading3": {
             "l": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontFamily": "{core.kidsweekCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.140}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.400}"
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontFamily": "{core.kidsweekCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.400}"
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
               },
               "type": "typography"
             }
