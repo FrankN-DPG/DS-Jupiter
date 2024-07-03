@@ -767,6 +767,16 @@
             "value": "{alias.brand.border.navItem.focus}",
             "type": "border"
           }
+        },
+        "teaser": {
+          "singleCard": {
+            "image": {
+              "color": {
+                "value": "{alias.brand.border.teaser.singleCard.image.color}",
+                "type": "border"
+              }
+            }
+          }
         }
       },
       "navItem": {

@@ -1288,6 +1288,16 @@
               "type": "border"
             }
           }
+        },
+        "teaser": {
+          "singleCard": {
+            "image": {
+              "color": {
+                "value": "none",
+                "type": "border"
+              }
+            }
+          }
         }
       },
       "typography": {

@@ -35,6 +35,18 @@
           "type": "color"
         }
       }
+    },
+    "singleCard": {
+      "image": {
+        "border": {
+          "value": "{alias.brand.teaser.singleCard.image.border}",
+          "type": "borderWidth"
+        },
+        "color": {
+          "value": "{alias.mode.border.teaser.singleCard.image.color}",
+          "type": "border"
+        }
+      }
     }
   },
   "teaserGrid": {
@@ -166,14 +178,6 @@
           "value": "{alias.mode.teaserSlider.fade.color.default}",
           "type": "color"
         }
-      }
-    }
-  },
-  "singleCard": {
-    "image": {
-      "border": {
-        "value": "{alias.brand.teaser.singleCard.image.border}",
-        "type": "borderWidth"
       }
     }
   }

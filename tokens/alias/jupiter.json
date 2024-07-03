@@ -1298,6 +1298,16 @@
             "value": "{core.color.semantic.focus}",
             "type": "border"
           }
+        },
+        "teaser": {
+          "singleCard": {
+            "image": {
+              "color": {
+                "value": "none",
+                "type": "border"
+              }
+            }
+          }
         }
       },
       "typography": {
