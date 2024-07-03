@@ -436,6 +436,10 @@
           "value": "Medium",
           "type": "fontWeights"
         },
+        "600": {
+          "value": "SemiBold",
+          "type": "fontWeights"
+        },
         "700": {
           "value": "Bold",
           "type": "fontWeights"
