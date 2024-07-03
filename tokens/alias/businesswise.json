@@ -1256,6 +1256,16 @@
               "type": "border"
             }
           }
+        },
+        "navItem": {
+          "none": {
+            "value": "none",
+            "type": "border"
+          },
+          "focus": {
+            "value": "{core.color.semantic.focus}",
+            "type": "border"
+          }
         }
       },
       "typography": {
@@ -1277,6 +1287,38 @@
             },
             "md": {
               "value": "{alias.brand.typography.textStyles.heading1.l}",
+              "type": "typography"
+            }
+          },
+          "navItem": {
+            "default": {
+              "value": {
+                "fontFamily": "{core.businesswiseCore.font.primary}",
+                "fontSize": "{core.typography.fontSize.120}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.businesswiseCore.fontWeight.400}"
+              },
+              "type": "typography"
+            },
+            "underline": {
+              "value": {
+                "fontFamily": "{core.businesswiseCore.font.accent}",
+                "fontSize": "{core.typography.fontSize.120}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.underline}",
+                "fontWeight": "{core.businesswiseCore.fontWeight.400}"
+              },
+              "type": "typography"
+            },
+            "bold": {
+              "value": {
+                "fontFamily": "{core.businesswiseCore.font.primary}",
+                "fontSize": "{core.typography.fontSize.120}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.businesswiseCore.fontWeight.700}"
+              },
               "type": "typography"
             }
           }
@@ -1636,6 +1678,58 @@
                 "fontWeight": "{core.businesswiseCore.fontWeight.700}"
               },
               "type": "typography"
+            }
+          }
+        }
+      },
+      "navItem": {
+        "spacing": {
+          "gap": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.businesswiseCore.color.biscayBlue.800}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{core.businesswiseCore.color.biscayBlue.800}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.businesswiseCore.color.biscayBlue.800}",
+              "type": "color"
+            },
+            "subdued": {
+              "value": "{core.color.neutral.600}",
+              "type": "color"
+            }
+          }
+        },
+        "border": {
+          "value": "{core.shape.borderWidth.200}",
+          "type": "borderWidth"
+        },
+        "none": {
+          "value": "{core.shape.borderWidth.0}",
+          "type": "borderWidth"
+        },
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{core.businesswiseCore.color.biscayBlue.800}",
+              "type": "color"
+            },
+            "subdued": {
+              "value": "{core.color.neutral.600}",
+              "type": "color"
             }
           }
         }
