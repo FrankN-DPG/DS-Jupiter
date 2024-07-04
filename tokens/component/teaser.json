@@ -16,6 +16,10 @@
           "vertical": {
             "value": "{alias.brand.teaser.spacing.categoryLabel.gap.vertical}",
             "type": "spacing"
+          },
+          "horizontal": {
+            "value": "{alias.brand.teaser.spacing.categoryLabel.gap.horizontal}",
+            "type": "spacing"
           }
         }
       }
@@ -186,6 +190,22 @@
           "value": "{alias.mode.teaserSlider.fade.color.default}",
           "type": "color"
         }
+      }
+    }
+  },
+  "categoryLabel": {
+    "borderRadius": {
+      "value": "{alias.brand.teaser.categoryLabel.borderRadius}",
+      "type": "borderRadius"
+    },
+    "rotation": {
+      "even": {
+        "value": "{alias.brand.teaser.categoryLabel.rotation.even}",
+        "type": "number"
+      },
+      "oneven": {
+        "value": "{alias.brand.teaser.categoryLabel.rotation.oneven}",
+        "type": "number"
       }
     }
   }

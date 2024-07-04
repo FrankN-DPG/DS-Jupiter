@@ -1034,6 +1034,22 @@
               "type": "borderWidth"
             }
           }
+        },
+        "categoryLabel": {
+          "borderRadius": {
+            "value": "0px",
+            "type": "borderRadius"
+          },
+          "rotation": {
+            "even": {
+              "value": "0deg",
+              "type": "number"
+            },
+            "oneven": {
+              "value": "0deg",
+              "type": "number"
+            }
+          }
         }
       },
       "teaserGrid": {
