@@ -1005,6 +1005,14 @@
               "value": "{core.spacing.50}",
               "type": "spacing"
             }
+          },
+          "categoryLabel": {
+            "gap": {
+              "vertical": {
+                "value": "{core.spacing.0}",
+                "type": "spacing"
+              }
+            }
           }
         },
         "text": {
@@ -1309,6 +1317,10 @@
             },
             "md": {
               "value": "{alias.brand.typography.textStyles.heading4.l}",
+              "type": "typography"
+            },
+            "category": {
+              "value": "{alias.brand.typography.textStyles.captionAlt.s}",
               "type": "typography"
             }
           },

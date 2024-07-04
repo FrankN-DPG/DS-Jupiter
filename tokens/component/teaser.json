@@ -10,6 +10,14 @@
           "value": "{alias.brand.teaser.spacing.content.gap}",
           "type": "spacing"
         }
+      },
+      "categoryLabel": {
+        "gap": {
+          "vertical": {
+            "value": "{alias.brand.teaser.spacing.categoryLabel.gap.vertical}",
+            "type": "spacing"
+          }
+        }
       }
     },
     "text": {
@@ -24,7 +32,7 @@
             "type": "typography"
           },
           "category": {
-            "value": "{alias.brand.typography.textStyles.caption.s}",
+            "value": "{alias.brand.typography.component.teaser.category}",
             "type": "typography"
           }
         }
