@@ -1012,6 +1012,10 @@
               "vertical": {
                 "value": "{core.spacing.50}",
                 "type": "spacing"
+              },
+              "horizontal": {
+                "value": "{core.spacing.100}",
+                "type": "spacing"
               }
             }
           }

@@ -993,6 +993,10 @@
               "vertical": {
                 "value": "{core.spacing.0}",
                 "type": "spacing"
+              },
+              "horizontal": {
+                "value": "{core.spacing.0}",
+                "type": "spacing"
               }
             }
           }
