@@ -7,7 +7,6 @@
     "component/label",
     "component/showcase",
     "component/logo",
-    "component/navItem",
     "component/overlay",
     "component/teaser",
     "component/toast",

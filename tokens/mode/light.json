@@ -758,16 +758,6 @@
             }
           }
         },
-        "navItem": {
-          "none": {
-            "value": "{alias.brand.border.navItem.none}",
-            "type": "border"
-          },
-          "focus": {
-            "value": "{alias.brand.border.navItem.focus}",
-            "type": "border"
-          }
-        },
         "teaser": {
           "singleCard": {
             "image": {
@@ -775,44 +765,6 @@
                 "value": "{alias.brand.border.teaser.singleCard.image.color}",
                 "type": "border"
               }
-            }
-          }
-        }
-      },
-      "navItem": {
-        "text": {
-          "color": {
-            "default": {
-              "value": "{alias.brand.navItem.text.color.default}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{alias.brand.navItem.text.color.hover}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{alias.brand.navItem.text.color.pressed}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{alias.brand.navItem.text.color.active}",
-              "type": "color"
-            },
-            "subdued": {
-              "value": "{alias.brand.navItem.text.color.subdued}",
-              "type": "color"
-            }
-          }
-        },
-        "icon": {
-          "color": {
-            "default": {
-              "value": "{alias.brand.navItem.icon.color.default}",
-              "type": "color"
-            },
-            "subdued": {
-              "value": "{alias.brand.navItem.icon.color.subdued}",
-              "type": "color"
             }
           }
         }

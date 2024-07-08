@@ -61,8 +61,7 @@
       "component/blockHeader": "enabled",
       "component/showcase": "enabled",
       "component/logo": "enabled",
-      "component/overlay": "enabled",
-      "component/navItem": "enabled"
+      "component/overlay": "enabled"
     },
     "group": "brand"
   },
