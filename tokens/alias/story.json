@@ -1317,14 +1317,24 @@
             }
           }
         },
-        "teaser": {
+"teaser": {
           "singleCard": {
             "image": {
               "color": {
-                "value": "#000000",
+                "value": "none",
                 "type": "border"
               }
             }
+          }
+        },
+        "navItem": {
+          "none": {
+            "value": "none",
+            "type": "border"
+          },
+          "focus": {
+            "value": "{core.color.semantic.focus}",
+            "type": "border"
           }
         }
       },
@@ -1361,6 +1371,41 @@
                 "fontSize": "{core.typography.fontSize.220}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "fontWeight": "{core.storyCore.fontWeight.700}",
+                "textCase": "{core.typography.textCase.uppercase}"
+              },
+              "type": "typography"
+            }
+          },
+          "navItem": {
+            "default": {
+              "value": {
+                "fontFamily": "{core.storyCore.font.accent}",
+                "fontSize": "{core.typography.fontSize.120}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}",
+                "textCase": "{core.typography.textCase.uppercase}"
+              },
+              "type": "typography"
+            },
+            "underline": {
+              "value": {
+                "fontFamily": "{core.storyCore.font.accent}",
+                "fontSize": "{core.typography.fontSize.120}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.underline}",
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}",
+                "textCase": "{core.typography.textCase.uppercase}"
+              },
+              "type": "typography"
+            },
+            "bold": {
+              "value": {
+                "fontFamily": "{core.storyCore.font.accent}",
+                "fontSize": "{core.typography.fontSize.120}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}",
                 "textCase": "{core.typography.textCase.uppercase}"
               },
               "type": "typography"
@@ -1726,6 +1771,62 @@
               "type": "typography"
             }
           }
+        }
+      },
+      "navItem": {
+        "spacing": {
+          "gap": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.brand.blockHeader.decoDivider.background.color}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.brand.blockHeader.decoDivider.background.color}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{alias.brand.blockHeader.decoDivider.background.color}",
+              "type": "color"
+            },
+            "subdued": {
+              "value": "{core.color.neutral.600}",
+              "type": "color"
+            }
+          }
+        },
+        "border": {
+          "value": "{core.shape.borderWidth.200}",
+          "type": "borderWidth"
+        },
+        "none": {
+          "value": "{core.shape.borderWidth.0}",
+          "type": "borderWidth"
+        },
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.blockHeader.decoDivider.background.color}",
+              "type": "color"
+            },
+            "subdued": {
+              "value": "{core.color.neutral.600}",
+              "type": "color"
+            }
+          }
+        },
+        "radius": {
+          "value": "{core.shape.radius.100}",
+          "type": "borderRadius"
         }
       }
     }

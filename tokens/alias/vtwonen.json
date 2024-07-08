@@ -1314,10 +1314,10 @@
             "color": {
               "value": "none",
               "type": "border"
-            }
+             }
           }
         },
-        "teaser": {
+"teaser": {
           "singleCard": {
             "image": {
               "color": {
@@ -1325,6 +1325,16 @@
                 "type": "border"
               }
             }
+          }
+        },
+        "navItem": {
+          "none": {
+            "value": "none",
+            "type": "border"
+          },
+          "focus": {
+            "value": "{core.color.semantic.focus}",
+            "type": "border"
           }
         }
       },
@@ -1351,6 +1361,41 @@
             },
             "md": {
               "value": "{alias.brand.typography.textStyles.heading1.l}",
+              "type": "typography"
+            }
+          },
+          "navItem": {
+            "default": {
+              "value": {
+                "fontFamily": "{core.vtwonenCore.font.primary}",
+                "fontSize": "{core.typography.fontSize.120}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.vtwonenCore.fontWeight.400}",
+                "textCase": "{core.typography.textCase.default}"
+              },
+              "type": "typography"
+            },
+            "underline": {
+              "value": {
+                "fontFamily": "{core.vtwonenCore.font.primary}",
+                "fontSize": "{core.typography.fontSize.120}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.underline}",
+                "fontWeight": "{core.vtwonenCore.fontWeight.400}",
+                "textCase": "{core.typography.textCase.default}"
+              },
+              "type": "typography"
+            },
+            "bold": {
+              "value": {
+                "fontSize": "{core.typography.fontSize.120}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.vtwonenCore.fontWeight.600}",
+                "fontFamily": "{core.vtwonenCore.font.primary}",
+                "textCase": "{core.typography.textCase.default}"
+              },
               "type": "typography"
             }
           }
@@ -1712,6 +1757,62 @@
               "type": "typography"
             }
           }
+        }
+      },
+      "navItem": {
+        "spacing": {
+          "gap": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.vtwonenCore.color.redRibbon.800}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{core.vtwonenCore.color.redRibbon.800}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.vtwonenCore.color.redRibbon.800}",
+              "type": "color"
+            },
+            "subdued": {
+              "value": "{core.color.neutral.600}",
+              "type": "color"
+            }
+          }
+        },
+        "border": {
+          "value": "{core.shape.borderWidth.200}",
+          "type": "borderWidth"
+        },
+        "none": {
+          "value": "{core.shape.borderWidth.0}",
+          "type": "borderWidth"
+        },
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{core.vtwonenCore.color.redRibbon.800}",
+              "type": "color"
+            },
+            "subdued": {
+              "value": "{core.color.neutral.600}",
+              "type": "color"
+            }
+          }
+        },
+        "radius": {
+          "value": "{core.shape.radius.0}",
+          "type": "borderRadius"
         }
       }
     }
