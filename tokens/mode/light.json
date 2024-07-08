@@ -758,6 +758,18 @@
             }
           }
         },
+
+        "teaser": {
+          "singleCard": {
+            "image": {
+              "color": {
+                "value": "{alias.brand.border.teaser.singleCard.image.color}",
+                "type": "border"
+              }
+    }
+  }
+},
+
         "navItem": {
           "none": {
             "value": "{alias.brand.border.navItem.none}",
@@ -803,6 +815,7 @@
             "subdued": {
               "value": "{alias.brand.navItem.icon.color.subdued}",
               "type": "color"
+
             }
           }
         }

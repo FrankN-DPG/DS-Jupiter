@@ -10,6 +10,18 @@
           "value": "{alias.brand.teaser.spacing.content.gap}",
           "type": "spacing"
         }
+      },
+      "categoryLabel": {
+        "gap": {
+          "vertical": {
+            "value": "{alias.brand.teaser.spacing.categoryLabel.gap.vertical}",
+            "type": "spacing"
+          },
+          "horizontal": {
+            "value": "{alias.brand.teaser.spacing.categoryLabel.gap.horizontal}",
+            "type": "spacing"
+          }
+        }
       }
     },
     "text": {
@@ -24,7 +36,7 @@
             "type": "typography"
           },
           "category": {
-            "value": "{alias.brand.typography.textStyles.caption.s}",
+            "value": "{alias.brand.typography.component.teaser.category}",
             "type": "typography"
           }
         }
@@ -33,6 +45,18 @@
         "default": {
           "value": "{alias.mode.teaser.text.color.default}",
           "type": "color"
+        }
+      }
+    },
+    "singleCard": {
+      "image": {
+        "border": {
+          "value": "{alias.brand.teaser.singleCard.image.border}",
+          "type": "borderWidth"
+        },
+        "color": {
+          "value": "{alias.mode.border.teaser.singleCard.image.color}",
+          "type": "border"
         }
       }
     }
@@ -166,6 +190,22 @@
           "value": "{alias.mode.teaserSlider.fade.color.default}",
           "type": "color"
         }
+      }
+    }
+  },
+  "categoryLabel": {
+    "borderRadius": {
+      "value": "{alias.brand.teaser.categoryLabel.borderRadius}",
+      "type": "borderRadius"
+    },
+    "rotation": {
+      "even": {
+        "value": "{alias.brand.teaser.categoryLabel.rotation.even}",
+        "type": "number"
+      },
+      "oneven": {
+        "value": "{alias.brand.teaser.categoryLabel.rotation.oneven}",
+        "type": "number"
       }
     }
   }

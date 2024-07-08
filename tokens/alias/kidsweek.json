@@ -732,6 +732,30 @@
           }
         }
       },
+      "logo": {
+        "size": {
+          "xs": {
+            "value": "{core.sizing.300}",
+            "type": "sizing"
+          },
+          "s": {
+            "value": "{core.sizing.400}",
+            "type": "sizing"
+          },
+          "m": {
+            "value": "{core.sizing.500}",
+            "type": "sizing"
+          },
+          "l": {
+            "value": "{core.sizing.600}",
+            "type": "sizing"
+          },
+          "xl": {
+            "value": "{core.sizing.700}",
+            "type": "sizing"
+          }
+        }
+      },
       "showcaseContentBlock": {
         "spacing": {
           "vertical": {
@@ -982,6 +1006,18 @@
               "value": "{core.spacing.50}",
               "type": "spacing"
             }
+          },
+          "categoryLabel": {
+            "gap": {
+              "vertical": {
+                "value": "{core.spacing.50}",
+                "type": "spacing"
+              },
+              "horizontal": {
+                "value": "{core.spacing.100}",
+                "type": "spacing"
+              }
+            }
           }
         },
         "text": {
@@ -989,6 +1025,30 @@
             "default": {
               "value": "{core.color.neutral.1000}",
               "type": "color"
+            }
+          }
+        },
+        "singleCard": {
+          "image": {
+            "border": {
+              "value": "{core.shape.borderWidth.0}",
+              "type": "borderWidth"
+            }
+          }
+        },
+        "categoryLabel": {
+          "borderRadius": {
+            "value": "4px 8px 4px 8px",
+            "type": "borderRadius"
+          },
+          "rotation": {
+            "even": {
+              "value": "-2deg",
+              "type": "number"
+            },
+            "oneven": {
+              "value": "2deg",
+              "type": "number"
             }
           }
         }
@@ -1258,6 +1318,16 @@
             }
           }
         },
+"teaser": {
+          "singleCard": {
+            "image": {
+              "color": {
+                "value": "none",
+                "type": "border"
+              }
+            }
+          }
+        },
         "navItem": {
           "none": {
             "value": "none",
@@ -1273,11 +1343,22 @@
         "component": {
           "teaser": {
             "default": {
-              "value": "{alias.brand.typography.textStyles.heading4.s}",
+              "value": "{alias.brand.typography.textStyles.heading3.s}",
               "type": "typography"
             },
             "md": {
-              "value": "{alias.brand.typography.textStyles.heading4.l}",
+              "value": "{alias.brand.typography.textStyles.heading3.l}",
+              "type": "typography"
+            },
+            "category": {
+              "value": {
+                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontSize": "{core.typography.fontSize.80}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.kidsweekCore.fontWeight.400}",
+                "textCase": "{core.typography.textCase.uppercase}"
+              },
               "type": "typography"
             }
           },
@@ -1331,21 +1412,21 @@
           "display": {
             "l": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontFamily": "{core.kidsweekCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.240}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.400}"
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontFamily": "{core.kidsweekCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.220}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.400}"
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
               },
               "type": "typography"
             }
@@ -1353,22 +1434,22 @@
           "heading1": {
             "l": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontFamily": "{core.kidsweekCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.220}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.400}",
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}",
                 "textCase": "{core.typography.textCase.default}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontFamily": "{core.kidsweekCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.180}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.400}",
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}",
                 "textCase": "{core.typography.textCase.default}"
               },
               "type": "typography"
@@ -1377,21 +1458,21 @@
           "heading2": {
             "l": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontFamily": "{core.kidsweekCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.180}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.400}"
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontFamily": "{core.kidsweekCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.140}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.400}"
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
               },
               "type": "typography"
             }
@@ -1399,21 +1480,21 @@
           "heading2Alt": {
             "l": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.primary}",
+                "fontFamily": "{core.kidsweekCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.180}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
+                "fontWeight": "{core.kidsweekCore.fontWeight.400}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.primary}",
+                "fontFamily": "{core.kidsweekCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.140}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
+                "fontWeight": "{core.kidsweekCore.fontWeight.400}"
               },
               "type": "typography"
             }
@@ -1421,21 +1502,21 @@
           "heading3": {
             "l": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontFamily": "{core.kidsweekCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.140}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.400}"
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontFamily": "{core.kidsweekCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.kidsweekCore.fontWeight.400}"
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
               },
               "type": "typography"
             }
@@ -1682,31 +1763,7 @@
                 "fontWeight": "{core.kidsweekCore.fontWeight.400}"
               },
               "type": "typography"
-            }
           }
-        }
-      },
-      "logo": {
-        "size": {
-          "xs": {
-            "value": "{core.sizing.300}",
-            "type": "sizing"
-          },
-          "s": {
-            "value": "{core.sizing.400}",
-            "type": "sizing"
-          },
-          "m": {
-            "value": "{core.sizing.500}",
-            "type": "sizing"
-          },
-          "l": {
-            "value": "{core.sizing.600}",
-            "type": "sizing"
-          },
-          "xl": {
-            "value": "{core.sizing.700}",
-            "type": "sizing"
           }
         }
       },
