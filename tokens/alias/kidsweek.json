@@ -1318,7 +1318,7 @@
             }
           }
         },
-"teaser": {
+        "teaser": {
           "singleCard": {
             "image": {
               "color": {
@@ -1763,7 +1763,7 @@
                 "fontWeight": "{core.kidsweekCore.fontWeight.400}"
               },
               "type": "typography"
-          }
+            }
           }
         }
       },

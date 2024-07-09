@@ -1296,10 +1296,10 @@
             "color": {
               "value": "none",
               "type": "border"
-             }
+            }
           }
         },
-"teaser": {
+        "teaser": {
           "singleCard": {
             "image": {
               "color": {
