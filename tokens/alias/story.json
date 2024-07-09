@@ -1430,7 +1430,7 @@
                 "fontSize": "{core.typography.fontSize.220}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.storyCore.fontWeight.700}"
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}"
               },
               "type": "typography"
             }
@@ -1441,7 +1441,7 @@
                 "fontFamily": "{core.storyCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.220}",
                 "lineHeight": "{core.typography.lineHeight.140}",
-                "fontWeight": "{core.storyCore.fontWeight.700}",
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "textCase": "{core.typography.textCase.default}"
               },
@@ -1452,7 +1452,7 @@
                 "fontFamily": "{core.storyCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.180}",
                 "lineHeight": "{core.typography.lineHeight.140}",
-                "fontWeight": "{core.storyCore.fontWeight.700}",
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "textCase": "{core.typography.textCase.default}"
               },
@@ -1466,7 +1466,7 @@
                 "fontSize": "{core.typography.fontSize.180}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.storyCore.fontWeight.700}"
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}"
               },
               "type": "typography"
             },
@@ -1476,7 +1476,7 @@
                 "fontSize": "{core.typography.fontSize.140}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.storyCore.fontWeight.700}"
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}"
               },
               "type": "typography"
             }
@@ -1488,7 +1488,7 @@
                 "fontSize": "{core.typography.fontSize.180}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.storyCore.fontWeight.700}"
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}"
               },
               "type": "typography"
             },
@@ -1498,7 +1498,7 @@
                 "fontSize": "{core.typography.fontSize.140}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.storyCore.fontWeight.700}"
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}"
               },
               "type": "typography"
             }
@@ -1510,7 +1510,7 @@
                 "fontSize": "{core.typography.fontSize.140}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.storyCore.fontWeight.700}"
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}"
               },
               "type": "typography"
             },
@@ -1520,7 +1520,7 @@
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.storyCore.fontWeight.700}"
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}"
               },
               "type": "typography"
             }
@@ -1532,7 +1532,7 @@
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.storyCore.fontWeight.700}"
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}"
               },
               "type": "typography"
             },
@@ -1542,7 +1542,7 @@
                 "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.storyCore.fontWeight.700}"
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}"
               },
               "type": "typography"
             }
@@ -1666,7 +1666,7 @@
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.underline}",
-                "fontWeight": "{core.storyCore.fontWeight.700}"
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}"
               },
               "type": "typography"
             },
@@ -1676,7 +1676,7 @@
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.underline}",
-                "fontWeight": "{core.storyCore.fontWeight.700}"
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}"
               },
               "type": "typography"
             }
@@ -1688,7 +1688,7 @@
                 "fontSize": "{core.typography.fontSize.220}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.storyCore.fontWeight.700}"
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}"
               },
               "type": "typography"
             },
@@ -1698,7 +1698,7 @@
                 "fontSize": "{core.typography.fontSize.180}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.storyCore.fontWeight.700}"
+                "fontWeight": "{core.storyCore.fontWeight.700-italic}"
               },
               "type": "typography"
             }
