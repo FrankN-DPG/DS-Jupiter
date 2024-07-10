@@ -683,7 +683,7 @@
       "divider": {
         "color": {
           "default": {
-            "value": "{core.color.neutral.500}",
+            "value": "{core.color.neutral.700}",
             "type": "color"
           }
         }

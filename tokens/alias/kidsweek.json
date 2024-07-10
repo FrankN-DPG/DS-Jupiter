@@ -230,19 +230,19 @@
           "background": {
             "color": {
               "default": {
-                "value": "{core.jupiterCore.color.stiletto.600}",
+                "value": "{core.kidsweekCore.color.redRibbon.600}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.jupiterCore.color.stiletto.800}",
+                "value": "{core.kidsweekCore.color.redRibbon.800}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.jupiterCore.color.stiletto.800}",
+                "value": "{core.kidsweekCore.color.redRibbon.600}",
                 "type": "color"
               },
               "focus": {
-                "value": "{core.jupiterCore.color.stiletto.600}",
+                "value": "{core.kidsweekCore.color.redRibbon.600}",
                 "type": "color"
               },
               "disabled": {
@@ -307,11 +307,11 @@
                   "type": "color"
                 },
                 "hover": {
-                  "value": "{core.jupiterCore.color.matisse.100}",
+                  "value": "{core.kidsweekCore.color.redRibbon.100}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{core.jupiterCore.color.matisse.100}",
+                  "value": "{core.color.neutral.100}",
                   "type": "color"
                 },
                 "focus": {
@@ -323,19 +323,19 @@
             "text": {
               "color": {
                 "default": {
-                  "value": "{core.jupiterCore.color.stiletto.600}",
+                  "value": "{core.kidsweekCore.color.redRibbon.600}",
                   "type": "color"
                 },
                 "hover": {
-                  "value": "{core.jupiterCore.color.stiletto.800}",
+                  "value": "{core.kidsweekCore.color.redRibbon.800}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{core.jupiterCore.color.stiletto.800}",
+                  "value": "{core.kidsweekCore.color.redRibbon.600}",
                   "type": "color"
                 },
                 "focus": {
-                  "value": "{core.jupiterCore.color.stiletto.600}",
+                  "value": "{core.kidsweekCore.color.redRibbon.600}",
                   "type": "color"
                 }
               }
@@ -343,19 +343,19 @@
             "icon": {
               "color": {
                 "default": {
-                  "value": "{core.jupiterCore.color.stiletto.600}",
+                  "value": "{core.kidsweekCore.color.redRibbon.600}",
                   "type": "color"
                 },
                 "hover": {
-                  "value": "{core.jupiterCore.color.stiletto.800}",
+                  "value": "{core.kidsweekCore.color.redRibbon.800}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{core.jupiterCore.color.stiletto.800}",
+                  "value": "{core.kidsweekCore.color.redRibbon.600}",
                   "type": "color"
                 },
                 "focus": {
-                  "value": "{core.jupiterCore.color.stiletto.600}",
+                  "value": "{core.kidsweekCore.color.redRibbon.600}",
                   "type": "color"
                 }
               }
@@ -370,11 +370,11 @@
                 "type": "color"
               },
               "hover": {
-                "value": "{core.jupiterCore.color.matisse.100}",
+                "value": "none",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.jupiterCore.color.matisse.100}",
+                "value": "none",
                 "type": "color"
               },
               "focus": {
@@ -390,19 +390,19 @@
           "text": {
             "color": {
               "default": {
-                "value": "{core.jupiterCore.color.matisse.600}",
+                "value": "{core.kidsweekCore.color.redRibbon.600}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.jupiterCore.color.matisse.800}",
+                "value": "{core.kidsweekCore.color.redRibbon.800}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.jupiterCore.color.matisse.800}",
+                "value": "{core.kidsweekCore.color.redRibbon.600}",
                 "type": "color"
               },
               "focus": {
-                "value": "{core.jupiterCore.color.matisse.600}",
+                "value": "{core.kidsweekCore.color.redRibbon.600}",
                 "type": "color"
               },
               "disabled": {
@@ -414,19 +414,19 @@
           "icon": {
             "color": {
               "default": {
-                "value": "{core.jupiterCore.color.matisse.600}",
+                "value": "{core.kidsweekCore.color.redRibbon.600}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.jupiterCore.color.matisse.800}",
+                "value": "{core.kidsweekCore.color.redRibbon.800}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.jupiterCore.color.matisse.800}",
+                "value": "{core.kidsweekCore.color.redRibbon.600}",
                 "type": "color"
               },
               "focus": {
-                "value": "{core.jupiterCore.color.matisse.600}",
+                "value": "{core.kidsweekCore.color.redRibbon.600}",
                 "type": "color"
               },
               "disabled": {
@@ -524,7 +524,7 @@
                 "type": "color"
               },
               "hover": {
-                "value": "{core.jupiterCore.color.matisse.500}",
+                "value": "{core.kidsweekCore.color.redRibbon.600}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -537,8 +537,17 @@
                 }
               },
               "pressed": {
-                "value": "{core.jupiterCore.color.matisse.100}",
-                "type": "color"
+                "value": "{core.kidsweekCore.color.redRibbon.600}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "alpha",
+                      "value": "0.15",
+                      "space": "lch"
+                    }
+                  }
+                }
               },
               "focus": {
                 "value": "none",
@@ -553,19 +562,19 @@
           "text": {
             "color": {
               "default": {
-                "value": "{core.jupiterCore.color.matisse.600}",
+                "value": "{core.color.neutral.1000}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.jupiterCore.color.matisse.800}",
+                "value": "{core.kidsweekCore.color.redRibbon.600}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.jupiterCore.color.matisse.800}",
+                "value": "{core.kidsweekCore.color.redRibbon.800}",
                 "type": "color"
               },
               "focus": {
-                "value": "{core.jupiterCore.color.matisse.600}",
+                "value": "{core.kidsweekCore.color.redRibbon.600}",
                 "type": "color"
               },
               "disabled": {
@@ -577,19 +586,19 @@
           "icon": {
             "color": {
               "default": {
-                "value": "{core.jupiterCore.color.matisse.600}",
+                "value": "{core.color.neutral.1000}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.jupiterCore.color.matisse.800}",
+                "value": "{core.kidsweekCore.color.redRibbon.600}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.jupiterCore.color.matisse.800}",
+                "value": "{core.kidsweekCore.color.redRibbon.800}",
                 "type": "color"
               },
               "focus": {
-                "value": "{core.jupiterCore.color.matisse.600}",
+                "value": "{core.kidsweekCore.color.redRibbon.600}",
                 "type": "color"
               },
               "disabled": {
