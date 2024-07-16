@@ -756,6 +756,62 @@
           }
         }
       },
+      "navItem": {
+        "spacing": {
+          "gap": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.jupiterCore.color.matisse.700}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{core.jupiterCore.color.matisse.700}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.jupiterCore.color.matisse.600}",
+              "type": "color"
+            },
+            "subdued": {
+              "value": "{core.color.neutral.600}",
+              "type": "color"
+            }
+          }
+        },
+        "border": {
+          "value": "{core.shape.borderWidth.200}",
+          "type": "borderWidth"
+        },
+        "none": {
+          "value": "{core.shape.borderWidth.0}",
+          "type": "borderWidth"
+        },
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{core.jupiterCore.color.matisse.600}",
+              "type": "color"
+            },
+            "subdued": {
+              "value": "{core.color.neutral.600}",
+              "type": "color"
+            }
+          }
+        },
+        "radius": {
+          "value": "{core.shape.radius.100}",
+          "type": "borderRadius"
+        }
+      },
       "showcaseContentBlock": {
         "spacing": {
           "vertical": {
@@ -991,6 +1047,24 @@
           "default": {
             "value": "{core.overlay.40}",
             "type": "opacity"
+          }
+        }
+      },
+      "tabItem": {
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.jupiterCore.color.matisse.500}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.jupiterCore.color.matisse.500}",
+              "type": "color"
+            }
           }
         }
       },
@@ -1755,80 +1829,6 @@
                 "fontWeight": "{core.jupiterCore.fontWeight.400}"
               },
               "type": "typography"
-            }
-          }
-        }
-      },
-      "navItem": {
-        "spacing": {
-          "gap": {
-            "value": "{core.spacing.100}",
-            "type": "spacing"
-          }
-        },
-        "text": {
-          "color": {
-            "default": {
-              "value": "{core.color.neutral.1000}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{core.jupiterCore.color.matisse.700}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{core.jupiterCore.color.matisse.700}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.jupiterCore.color.matisse.600}",
-              "type": "color"
-            },
-            "subdued": {
-              "value": "{core.color.neutral.600}",
-              "type": "color"
-            }
-          }
-        },
-        "border": {
-          "value": "{core.shape.borderWidth.200}",
-          "type": "borderWidth"
-        },
-        "none": {
-          "value": "{core.shape.borderWidth.0}",
-          "type": "borderWidth"
-        },
-        "icon": {
-          "color": {
-            "default": {
-              "value": "{core.jupiterCore.color.matisse.600}",
-              "type": "color"
-            },
-            "subdued": {
-              "value": "{core.color.neutral.600}",
-              "type": "color"
-            }
-          }
-        },
-        "radius": {
-          "value": "{core.shape.radius.100}",
-          "type": "borderRadius"
-        }
-      },
-      "tabItem": {
-        "text": {
-          "color": {
-            "default": {
-              "value": "{core.color.neutral.1000}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{core.jupiterCore.color.matisse.500}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.jupiterCore.color.matisse.500}",
-              "type": "color"
             }
           }
         }
