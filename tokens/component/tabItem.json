@@ -1,0 +1,20 @@
+{
+  "tabItem": {
+    "text": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.tabItem.text.color.default}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{alias.mode.tabItem.text.color.hover}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{alias.mode.tabItem.text.color.active}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

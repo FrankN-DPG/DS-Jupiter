@@ -816,6 +816,24 @@
             }
           }
         }
+      },
+      "tabItem": {
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.tabItem.text.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.brand.tabItem.text.color.hover}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{alias.brand.tabItem.text.color.active}",
+              "type": "color"
+            }
+          }
+        }
       }
     }
   }

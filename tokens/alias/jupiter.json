@@ -1814,6 +1814,24 @@
           "value": "{core.shape.radius.100}",
           "type": "borderRadius"
         }
+      },
+      "tabItem": {
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.jupiterCore.color.matisse.500}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.jupiterCore.color.matisse.500}",
+              "type": "color"
+            }
+          }
+        }
       }
     }
   }

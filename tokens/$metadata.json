@@ -9,6 +9,7 @@
     "component/logo",
     "component/navItem",
     "component/overlay",
+    "component/tabItem",
     "component/teaser",
     "component/toast",
     "mode/light",

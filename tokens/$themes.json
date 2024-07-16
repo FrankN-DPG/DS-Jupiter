@@ -18,7 +18,8 @@
       "component/showcase": "enabled",
       "component/logo": "enabled",
       "component/overlay": "enabled",
-      "component/navItem": "enabled"
+      "component/navItem": "enabled",
+      "component/tabItem": "enabled"
     },
     "group": "brand"
   },
@@ -41,7 +42,8 @@
       "component/showcase": "enabled",
       "component/logo": "enabled",
       "component/overlay": "enabled",
-      "component/navItem": "enabled"
+      "component/navItem": "enabled",
+      "component/tabItem": "enabled"
     },
     "group": "brand"
   },
@@ -64,7 +66,8 @@
       "component/showcase": "enabled",
       "component/logo": "enabled",
       "component/overlay": "enabled",
-      "component/navItem": "enabled"
+      "component/navItem": "enabled",
+      "component/tabItem": "enabled"
     },
     "group": "brand"
   },
@@ -87,7 +90,8 @@
       "core/kidsweekCore": "source",
       "core/core": "source",
       "alias/kidsweek": "enabled",
-      "component/navItem": "enabled"
+      "component/navItem": "enabled",
+      "component/tabItem": "enabled"
     },
     "group": "brand"
   },
@@ -110,7 +114,8 @@
       "component/showcase": "enabled",
       "component/overlay": "enabled",
       "component/logo": "enabled",
-      "component/navItem": "enabled"
+      "component/navItem": "enabled",
+      "component/tabItem": "enabled"
     },
     "group": "brand"
   },
@@ -133,7 +138,8 @@
       "component/showcase": "enabled",
       "component/logo": "enabled",
       "component/overlay": "enabled",
-      "component/navItem": "enabled"
+      "component/navItem": "enabled",
+      "component/tabItem": "enabled"
     },
     "group": "brand"
   },
@@ -156,7 +162,8 @@
       "component/showcase": "enabled",
       "component/logo": "enabled",
       "component/overlay": "enabled",
-      "component/navItem": "enabled"
+      "component/navItem": "enabled",
+      "component/tabItem": "enabled"
     },
     "group": "brand"
   },
@@ -165,7 +172,8 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled"
+      "mode/light": "enabled",
+      "component/tabItem": "disabled"
     },
     "group": "mode"
   }
