@@ -812,6 +812,20 @@
           "type": "borderRadius"
         }
       },
+      "overlay": {
+        "color": {
+          "default": {
+            "value": "{core.color.neutral.1000}",
+            "type": "color"
+          }
+        },
+        "opacity": {
+          "default": {
+            "value": "{core.overlay.40}",
+            "type": "opacity"
+          }
+        }
+      },
       "showcaseContentBlock": {
         "spacing": {
           "vertical": {
@@ -1036,17 +1050,21 @@
           "type": "borderRadius"
         }
       },
-      "overlay": {
-        "color": {
-          "default": {
-            "value": "{core.color.neutral.1000}",
-            "type": "color"
-          }
-        },
-        "opacity": {
-          "default": {
-            "value": "{core.overlay.40}",
-            "type": "opacity"
+      "tabItem": {
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.businesswiseCore.color.biscayBlue.600}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.businesswiseCore.color.biscayBlue.600}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.businesswiseCore.color.biscayBlue.600}",
+              "type": "color"
+            }
           }
         }
       },
