@@ -14,6 +14,20 @@
           "value": "{alias.mode.tabItem.text.color.active}",
           "type": "color"
         }
+      },
+      "typography": {
+        "default": {
+          "value": "{alias.brand.typography.component.tabItem.default}",
+          "type": "typography"
+        },
+        "hover": {
+          "value": "{alias.brand.typography.component.tabItem.hover}",
+          "type": "typography"
+        },
+        "active": {
+          "value": "{alias.brand.typography.component.tabItem.active}",
+          "type": "typography"
+        }
       }
     }
   }
