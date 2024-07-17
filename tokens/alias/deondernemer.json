@@ -1052,6 +1052,16 @@
       },
       "tabItem": {
         "bottomBorder": {
+          "color": {
+            "default": {
+              "value": "{core.deondernemerCore.color.cinnabar.600}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.deondernemerCore.color.cinnabar.600}",
+              "type": "color"
+            }
+          },
           "size": {
             "default": {
               "value": "{core.shape.borderWidth.200}",

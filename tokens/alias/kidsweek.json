@@ -1062,6 +1062,16 @@
       },
       "tabItem": {
         "bottomBorder": {
+          "color": {
+            "default": {
+              "value": "{core.kidsweekCore.color.redRibbon.600}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.kidsweekCore.color.redRibbon.600}",
+              "type": "color"
+            }
+          },
           "size": {
             "default": {
               "value": "{core.shape.borderWidth.200}",

@@ -1034,6 +1034,16 @@
       },
       "tabItem": {
         "bottomBorder": {
+          "color": {
+            "default": {
+              "value": "{core.oudersvannuCore.color.patina.800}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.oudersvannuCore.color.patina.800}",
+              "type": "color"
+            }
+          },
           "size": {
             "default": {
               "value": "{core.shape.borderWidth.200}",

@@ -1,5 +1,35 @@
 {
   "tabItem": {
+    "bottomBorder": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.tabItem.bottomBorder.color.default}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{alias.mode.tabItem.bottomBorder.color.active}",
+          "type": "color"
+        },
+        "none": {
+          "value": "none",
+          "type": "color"
+        }
+      },
+      "size": {
+        "none": {
+          "value": "None",
+          "type": "borderWidth"
+        },
+        "default": {
+          "value": "{alias.brand.tabItem.bottomBorder.size.default}",
+          "type": "borderWidth"
+        },
+        "active": {
+          "value": "{alias.brand.tabItem.bottomBorder.size.active}",
+          "type": "borderWidth"
+        }
+      }
+    },
     "text": {
       "color": {
         "default": {
@@ -34,22 +64,6 @@
       "gap": {
         "value": "{alias.brand.tabItem.spacing.gap}",
         "type": "spacing"
-      }
-    },
-    "bottomBorder": {
-      "size": {
-        "none": {
-          "value": "None",
-          "type": "borderWidth"
-        },
-        "default": {
-          "value": "{alias.brand.tabItem.bottomBorder.size.default}",
-          "type": "borderWidth"
-        },
-        "active": {
-          "value": "{alias.brand.tabItem.bottomBorder.size.active}",
-          "type": "borderWidth"
-        }
       }
     }
   }

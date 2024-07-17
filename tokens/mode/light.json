@@ -2,18 +2,18 @@
   "alias": {
     "mode": {
       "blockHeader": {
-        "text": {
-          "color": {
-            "default": {
-              "value": "{alias.brand.blockHeader.text.color.default}",
-              "type": "color"
-            }
-          }
-        },
         "decoDivider": {
           "background": {
             "color": {
               "value": "{alias.brand.blockHeader.decoDivider.background.color}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.blockHeader.text.color.default}",
               "type": "color"
             }
           }
@@ -587,6 +587,52 @@
           }
         }
       },
+      "navItem": {
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.navItem.icon.color.default}",
+              "type": "color"
+            },
+            "subdued": {
+              "value": "{alias.brand.navItem.icon.color.subdued}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.navItem.text.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.brand.navItem.text.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.brand.navItem.text.color.pressed}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{alias.brand.navItem.text.color.active}",
+              "type": "color"
+            },
+            "subdued": {
+              "value": "{alias.brand.navItem.text.color.subdued}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "overlay": {
+        "color": {
+          "default": {
+            "value": "{alias.brand.overlay.color.default}",
+            "type": "color"
+          }
+        }
+      },
       "showcaseSingle": {
         "text": {
           "color": {
@@ -612,14 +658,6 @@
         }
       },
       "singleCard": {
-        "text": {
-          "color": {
-            "default": {
-              "value": "{alias.brand.singleCard.text.color.default}",
-              "type": "color"
-            }
-          }
-        },
         "background": {
           "color": {
             "default": {
@@ -627,17 +665,17 @@
               "type": "color"
             }
           }
-        }
-      },
-      "singleShoppingCard": {
+        },
         "text": {
           "color": {
             "default": {
-              "value": "{alias.brand.singleShoppingCard.text.color.default}",
+              "value": "{alias.brand.singleCard.text.color.default}",
               "type": "color"
             }
           }
-        },
+        }
+      },
+      "singleShoppingCard": {
         "background": {
           "color": {
             "default": {
@@ -645,13 +683,43 @@
               "type": "color"
             }
           }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.singleShoppingCard.text.color.default}",
+              "type": "color"
+            }
+          }
         }
       },
-      "overlay": {
-        "color": {
-          "default": {
-            "value": "{alias.brand.overlay.color.default}",
-            "type": "color"
+      "tabItem": {
+        "bottomBorder": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.tabItem.bottomBorder.color.default}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{alias.brand.tabItem.bottomBorder.color.active}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.tabItem.text.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.brand.tabItem.text.color.hover}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{alias.brand.tabItem.text.color.active}",
+              "type": "color"
+            }
           }
         }
       },
@@ -740,6 +808,16 @@
             "type": "border"
           }
         },
+        "navItem": {
+          "none": {
+            "value": "{alias.brand.border.navItem.none}",
+            "type": "border"
+          },
+          "focus": {
+            "value": "{alias.brand.border.navItem.focus}",
+            "type": "border"
+          }
+        },
         "singleCard": {
           "image": {
             "border": {
@@ -765,72 +843,6 @@
                 "value": "{alias.brand.border.teaser.singleCard.image.color}",
                 "type": "border"
               }
-            }
-          }
-        },
-        "navItem": {
-          "none": {
-            "value": "{alias.brand.border.navItem.none}",
-            "type": "border"
-          },
-          "focus": {
-            "value": "{alias.brand.border.navItem.focus}",
-            "type": "border"
-          }
-        }
-      },
-      "navItem": {
-        "text": {
-          "color": {
-            "default": {
-              "value": "{alias.brand.navItem.text.color.default}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{alias.brand.navItem.text.color.hover}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{alias.brand.navItem.text.color.pressed}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{alias.brand.navItem.text.color.active}",
-              "type": "color"
-            },
-            "subdued": {
-              "value": "{alias.brand.navItem.text.color.subdued}",
-              "type": "color"
-            }
-          }
-        },
-        "icon": {
-          "color": {
-            "default": {
-              "value": "{alias.brand.navItem.icon.color.default}",
-              "type": "color"
-            },
-            "subdued": {
-              "value": "{alias.brand.navItem.icon.color.subdued}",
-              "type": "color"
-            }
-          }
-        }
-      },
-      "tabItem": {
-        "text": {
-          "color": {
-            "default": {
-              "value": "{alias.brand.tabItem.text.color.default}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{alias.brand.tabItem.text.color.hover}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{alias.brand.tabItem.text.color.active}",
-              "type": "color"
             }
           }
         }
