@@ -1414,42 +1414,6 @@
       },
       "typography": {
         "component": {
-          "teaser": {
-            "default": {
-              "value": "{alias.brand.typography.textStyles.heading4.s}",
-              "type": "typography"
-            },
-            "md": {
-              "value": "{alias.brand.typography.textStyles.heading4.l}",
-              "type": "typography"
-            },
-            "category": {
-              "value": "{alias.brand.typography.textStyles.captionAlt.s}",
-              "type": "typography"
-            }
-          },
-          "showcaseSingle": {
-            "default": {
-              "value": {
-                "fontFamily": "{core.storyCore.font.accent}",
-                "fontSize": "{core.typography.fontSize.180}",
-                "lineHeight": "{core.typography.lineHeight.140}",
-                "fontWeight": "{core.storyCore.fontWeight.700}",
-                "textCase": "{core.typography.textCase.uppercase}"
-              },
-              "type": "typography"
-            },
-            "md": {
-              "value": {
-                "fontFamily": "{core.storyCore.font.accent}",
-                "fontSize": "{core.typography.fontSize.220}",
-                "lineHeight": "{core.typography.lineHeight.140}",
-                "fontWeight": "{core.storyCore.fontWeight.700}",
-                "textCase": "{core.typography.textCase.uppercase}"
-              },
-              "type": "typography"
-            }
-          },
           "navItem": {
             "default": {
               "value": {
@@ -1482,6 +1446,77 @@
                 "fontWeight": "{core.storyCore.fontWeight.700-italic}",
                 "textCase": "{core.typography.textCase.uppercase}"
               },
+              "type": "typography"
+            }
+          },
+          "showcaseSingle": {
+            "default": {
+              "value": {
+                "fontFamily": "{core.storyCore.font.accent}",
+                "fontSize": "{core.typography.fontSize.180}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "fontWeight": "{core.storyCore.fontWeight.700}",
+                "textCase": "{core.typography.textCase.uppercase}"
+              },
+              "type": "typography"
+            },
+            "md": {
+              "value": {
+                "fontFamily": "{core.storyCore.font.accent}",
+                "fontSize": "{core.typography.fontSize.220}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "fontWeight": "{core.storyCore.fontWeight.700}",
+                "textCase": "{core.typography.textCase.uppercase}"
+              },
+              "type": "typography"
+            }
+          },
+          "tabItem": {
+            "default": {
+              "value": {
+                "fontFamily": "{core.storyCore.font.accent}",
+                "fontSize": "{core.typography.fontSize.100}",
+                "lineHeight": "{core.typography.lineHeight.100}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.storyCore.fontWeight.400}",
+                "textCase": "{core.typography.textCase.uppercase}"
+              },
+              "type": "typography"
+            },
+            "hover": {
+              "value": {
+                "fontFamily": "{core.storyCore.font.accent}",
+                "fontSize": "{core.typography.fontSize.100}",
+                "lineHeight": "{core.typography.lineHeight.100}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.storyCore.fontWeight.400}",
+                "textCase": "{core.typography.textCase.uppercase}"
+              },
+              "type": "typography"
+            },
+            "active": {
+              "value": {
+                "fontFamily": "{core.storyCore.font.accent}",
+                "fontSize": "{core.typography.fontSize.100}",
+                "lineHeight": "{core.typography.lineHeight.100}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.storyCore.fontWeight.700}",
+                "textCase": "{core.typography.textCase.uppercase}"
+              },
+              "type": "typography"
+            }
+          },
+          "teaser": {
+            "default": {
+              "value": "{alias.brand.typography.textStyles.heading4.s}",
+              "type": "typography"
+            },
+            "md": {
+              "value": "{alias.brand.typography.textStyles.heading4.l}",
+              "type": "typography"
+            },
+            "category": {
+              "value": "{alias.brand.typography.textStyles.captionAlt.s}",
               "type": "typography"
             }
           }

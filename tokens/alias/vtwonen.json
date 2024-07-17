@@ -1414,30 +1414,6 @@
       },
       "typography": {
         "component": {
-          "teaser": {
-            "default": {
-              "value": "{alias.brand.typography.textStyles.heading4.s}",
-              "type": "typography"
-            },
-            "md": {
-              "value": "{alias.brand.typography.textStyles.heading4.l}",
-              "type": "typography"
-            },
-            "category": {
-              "value": "{alias.brand.typography.textStyles.captionAlt.s}",
-              "type": "typography"
-            }
-          },
-          "showcaseSingle": {
-            "default": {
-              "value": "{alias.brand.typography.textStyles.heading1.s}",
-              "type": "typography"
-            },
-            "md": {
-              "value": "{alias.brand.typography.textStyles.heading1.l}",
-              "type": "typography"
-            }
-          },
           "navItem": {
             "default": {
               "value": {
@@ -1470,6 +1446,65 @@
                 "fontFamily": "{core.vtwonenCore.font.primary}",
                 "textCase": "{core.typography.textCase.default}"
               },
+              "type": "typography"
+            }
+          },
+          "showcaseSingle": {
+            "default": {
+              "value": "{alias.brand.typography.textStyles.heading1.s}",
+              "type": "typography"
+            },
+            "md": {
+              "value": "{alias.brand.typography.textStyles.heading1.l}",
+              "type": "typography"
+            }
+          },
+          "tabItem": {
+            "default": {
+              "value": {
+                "fontFamily": "{core.vtwonenCore.font.primary}",
+                "fontSize": "{core.typography.fontSize.100}",
+                "lineHeight": "{core.typography.lineHeight.100}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.vtwonenCore.fontWeight.400}",
+                "textCase": "{core.typography.textCase.uppercase}"
+              },
+              "type": "typography"
+            },
+            "hover": {
+              "value": {
+                "fontFamily": "{core.vtwonenCore.font.primary}",
+                "fontSize": "{core.typography.fontSize.100}",
+                "lineHeight": "{core.typography.lineHeight.100}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.vtwonenCore.fontWeight.400}",
+                "textCase": "{core.typography.textCase.uppercase}"
+              },
+              "type": "typography"
+            },
+            "active": {
+              "value": {
+                "fontFamily": "{core.vtwonenCore.font.primary}",
+                "fontSize": "{core.typography.fontSize.100}",
+                "lineHeight": "{core.typography.lineHeight.100}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.vtwonenCore.fontWeight.600}",
+                "textCase": "{core.typography.textCase.uppercase}"
+              },
+              "type": "typography"
+            }
+          },
+          "teaser": {
+            "default": {
+              "value": "{alias.brand.typography.textStyles.heading4.s}",
+              "type": "typography"
+            },
+            "md": {
+              "value": "{alias.brand.typography.textStyles.heading4.l}",
+              "type": "typography"
+            },
+            "category": {
+              "value": "{alias.brand.typography.textStyles.captionAlt.s}",
               "type": "typography"
             }
           }
