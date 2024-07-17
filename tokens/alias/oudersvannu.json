@@ -1033,6 +1033,18 @@
         }
       },
       "tabItem": {
+        "bottomBorder": {
+          "size": {
+            "default": {
+              "value": "{core.shape.borderWidth.200}",
+              "type": "borderWidth"
+            },
+            "active": {
+              "value": "{core.shape.borderWidth.200}",
+              "type": "borderWidth"
+            }
+          }
+        },
         "spacing": {
           "gap": {
             "value": "{core.spacing.100}",

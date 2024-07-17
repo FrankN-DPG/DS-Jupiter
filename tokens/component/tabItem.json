@@ -35,6 +35,22 @@
         "value": "{alias.brand.tabItem.spacing.gap}",
         "type": "spacing"
       }
+    },
+    "bottomBorder": {
+      "size": {
+        "none": {
+          "value": "None",
+          "type": "borderWidth"
+        },
+        "default": {
+          "value": "{alias.brand.tabItem.bottomBorder.size.default}",
+          "type": "borderWidth"
+        },
+        "active": {
+          "value": "{alias.brand.tabItem.bottomBorder.size.active}",
+          "type": "borderWidth"
+        }
+      }
     }
   }
 }
