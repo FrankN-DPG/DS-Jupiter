@@ -29,6 +29,12 @@
           "type": "typography"
         }
       }
+    },
+    "spacing": {
+      "gap": {
+        "value": "{alias.brand.tabItem.spacing.gap}",
+        "type": "spacing"
+      }
     }
   }
 }

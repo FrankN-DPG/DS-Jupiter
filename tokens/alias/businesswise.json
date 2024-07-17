@@ -1051,6 +1051,12 @@
         }
       },
       "tabItem": {
+        "spacing": {
+          "gap": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          }
+        },
         "text": {
           "color": {
             "default": {
