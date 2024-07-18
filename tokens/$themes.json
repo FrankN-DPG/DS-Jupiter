@@ -19,7 +19,8 @@
       "component/logo": "enabled",
       "component/overlay": "enabled",
       "component/navItem": "enabled",
-      "component/tabItem": "enabled"
+      "component/tabItem": "enabled",
+      "component/subNav": "enabled"
     },
     "group": "brand"
   },
@@ -43,7 +44,8 @@
       "component/logo": "enabled",
       "component/overlay": "enabled",
       "component/navItem": "enabled",
-      "component/tabItem": "enabled"
+      "component/tabItem": "enabled",
+      "component/subNav": "enabled"
     },
     "group": "brand"
   },
@@ -67,7 +69,8 @@
       "component/logo": "enabled",
       "component/overlay": "enabled",
       "component/navItem": "enabled",
-      "component/tabItem": "enabled"
+      "component/tabItem": "enabled",
+      "component/subNav": "enabled"
     },
     "group": "brand"
   },
@@ -91,7 +94,8 @@
       "core/core": "source",
       "alias/kidsweek": "enabled",
       "component/navItem": "enabled",
-      "component/tabItem": "enabled"
+      "component/tabItem": "enabled",
+      "component/subNav": "enabled"
     },
     "group": "brand"
   },
@@ -115,7 +119,8 @@
       "component/overlay": "enabled",
       "component/logo": "enabled",
       "component/navItem": "enabled",
-      "component/tabItem": "enabled"
+      "component/tabItem": "enabled",
+      "component/subNav": "enabled"
     },
     "group": "brand"
   },
@@ -139,7 +144,8 @@
       "component/logo": "enabled",
       "component/overlay": "enabled",
       "component/navItem": "enabled",
-      "component/tabItem": "enabled"
+      "component/tabItem": "enabled",
+      "component/subNav": "enabled"
     },
     "group": "brand"
   },
@@ -163,7 +169,8 @@
       "component/logo": "enabled",
       "component/overlay": "enabled",
       "component/navItem": "enabled",
-      "component/tabItem": "enabled"
+      "component/tabItem": "enabled",
+      "component/subNav": "enabled"
     },
     "group": "brand"
   },

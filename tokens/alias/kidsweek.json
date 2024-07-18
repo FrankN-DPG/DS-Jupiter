@@ -1060,6 +1060,14 @@
           "type": "borderRadius"
         }
       },
+      "subNav": {
+        "spacing": {
+          "gap": {
+            "value": "{core.spacing.200}",
+            "type": "spacing"
+          }
+        }
+      },
       "tabItem": {
         "bottomBorder": {
           "color": {

@@ -9,6 +9,7 @@
     "component/navItem",
     "component/overlay",
     "component/showcase",
+    "component/subNav",
     "component/tabItem",
     "component/teaser",
     "component/toast",
