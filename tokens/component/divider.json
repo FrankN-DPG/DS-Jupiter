@@ -5,6 +5,10 @@
         "1-x": {
           "value": "{core.sizing.10}",
           "type": "sizing"
+        },
+        "2-x": {
+          "value": "{core.sizing.25}",
+          "type": "sizing"
         }
       }
     },
@@ -12,6 +16,10 @@
       "size": {
         "1-x": {
           "value": "{core.sizing.10}",
+          "type": "sizing"
+        },
+        "2-x": {
+          "value": "{core.sizing.25}",
           "type": "sizing"
         }
       }

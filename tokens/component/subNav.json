@@ -1,0 +1,10 @@
+{
+  "subNav": {
+    "spacing": {
+      "gap": {
+        "value": "{alias.brand.subNav.spacing.gap}",
+        "type": "spacing"
+      }
+    }
+  }
+}

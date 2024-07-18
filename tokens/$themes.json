@@ -18,7 +18,9 @@
       "component/showcase": "enabled",
       "component/logo": "enabled",
       "component/overlay": "enabled",
-      "component/navItem": "enabled"
+      "component/navItem": "enabled",
+      "component/tabItem": "enabled",
+      "component/subNav": "enabled"
     },
     "group": "brand"
   },
@@ -41,7 +43,9 @@
       "component/showcase": "enabled",
       "component/logo": "enabled",
       "component/overlay": "enabled",
-      "component/navItem": "enabled"
+      "component/navItem": "enabled",
+      "component/tabItem": "enabled",
+      "component/subNav": "enabled"
     },
     "group": "brand"
   },
@@ -64,7 +68,9 @@
       "component/showcase": "enabled",
       "component/logo": "enabled",
       "component/overlay": "enabled",
-      "component/navItem": "enabled"
+      "component/navItem": "enabled",
+      "component/tabItem": "enabled",
+      "component/subNav": "enabled"
     },
     "group": "brand"
   },
@@ -87,7 +93,9 @@
       "core/kidsweekCore": "source",
       "core/core": "source",
       "alias/kidsweek": "enabled",
-      "component/navItem": "enabled"
+      "component/navItem": "enabled",
+      "component/tabItem": "enabled",
+      "component/subNav": "enabled"
     },
     "group": "brand"
   },
@@ -110,7 +118,9 @@
       "component/showcase": "enabled",
       "component/overlay": "enabled",
       "component/logo": "enabled",
-      "component/navItem": "enabled"
+      "component/navItem": "enabled",
+      "component/tabItem": "enabled",
+      "component/subNav": "enabled"
     },
     "group": "brand"
   },
@@ -133,7 +143,9 @@
       "component/showcase": "enabled",
       "component/logo": "enabled",
       "component/overlay": "enabled",
-      "component/navItem": "enabled"
+      "component/navItem": "enabled",
+      "component/tabItem": "enabled",
+      "component/subNav": "enabled"
     },
     "group": "brand"
   },
@@ -156,7 +168,9 @@
       "component/showcase": "enabled",
       "component/logo": "enabled",
       "component/overlay": "enabled",
-      "component/navItem": "enabled"
+      "component/navItem": "enabled",
+      "component/tabItem": "enabled",
+      "component/subNav": "enabled"
     },
     "group": "brand"
   },
