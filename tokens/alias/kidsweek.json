@@ -1165,7 +1165,7 @@
               "value": "-2deg",
               "type": "number"
             },
-            "oneven": {
+            "odd": {
               "value": "2deg",
               "type": "number"
             }

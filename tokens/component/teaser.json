@@ -203,8 +203,8 @@
         "value": "{alias.brand.teaser.categoryLabel.rotation.even}",
         "type": "number"
       },
-      "oneven": {
-        "value": "{alias.brand.teaser.categoryLabel.rotation.oneven}",
+      "odd": {
+        "value": "{alias.brand.teaser.categoryLabel.rotation.odd}",
         "type": "number"
       }
     }
