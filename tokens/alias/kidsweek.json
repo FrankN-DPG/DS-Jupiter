@@ -562,7 +562,7 @@
           "text": {
             "color": {
               "default": {
-                "value": "{core.color.neutral.1000}",
+                "value": "{core.kidsweekCore.color.redRibbon.600}",
                 "type": "color"
               },
               "hover": {
@@ -586,7 +586,7 @@
           "icon": {
             "color": {
               "default": {
-                "value": "{core.color.neutral.1000}",
+                "value": "{core.kidsweekCore.color.redRibbon.600}",
                 "type": "color"
               },
               "hover": {
