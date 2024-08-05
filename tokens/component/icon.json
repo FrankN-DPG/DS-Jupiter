@@ -12,6 +12,10 @@
       "l": {
         "value": "{alias.brand.icon.size.l}",
         "type": "sizing"
+      },
+      "xl": {
+        "value": "{alias.brand.icon.size.xl}",
+        "type": "sizing"
       }
     }
   }

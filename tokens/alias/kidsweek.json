@@ -710,6 +710,10 @@
           "l": {
             "value": "{core.sizing.300}",
             "type": "sizing"
+          },
+          "xl": {
+            "value": "{core.sizing.400}",
+            "type": "sizing"
           }
         }
       },
