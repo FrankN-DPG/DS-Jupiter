@@ -1180,7 +1180,7 @@
         "spacing": {
           "gap": {
             "vertical": {
-              "value": "{core.spacing.100}",
+              "value": "{core.spacing.200}",
               "type": "spacing"
             },
             "horizontal": {
@@ -1200,7 +1200,7 @@
         "spacing": {
           "gap": {
             "vertical": {
-              "value": "{core.spacing.100}",
+              "value": "{core.spacing.200}",
               "type": "spacing"
             },
             "horizontal": {
