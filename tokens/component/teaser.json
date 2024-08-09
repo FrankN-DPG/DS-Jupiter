@@ -208,5 +208,11 @@
         "type": "number"
       }
     }
+  },
+  "image": {
+    "borderRadius": {
+      "value": "{alias.brand.teaser.image.borderRadius}",
+      "type": "borderRadius"
+    }
   }
 }

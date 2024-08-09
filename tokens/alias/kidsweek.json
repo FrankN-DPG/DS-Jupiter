@@ -1174,6 +1174,12 @@
               "type": "number"
             }
           }
+        },
+        "image": {
+          "borderRadius": {
+            "value": "{core.shape.radius.100}",
+            "type": "borderRadius"
+          }
         }
       },
       "teaserGrid": {
