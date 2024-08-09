@@ -957,8 +957,9 @@
           }
         },
         "borderRadius": {
-          "value": "{core.shape.radius.0}",
-          "type": "borderRadius"
+          "value": "16px 8px 16px 8px",
+          "type": "borderRadius",
+          "description": "Four values: This will apply top-left | top-right | bottom-right | bottom-left"
         }
       },
       "showcaseSlider": {
