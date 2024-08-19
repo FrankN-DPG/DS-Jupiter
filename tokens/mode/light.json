@@ -588,6 +588,98 @@
         }
       },
       "navItem": {
+        "text": {
+          "color": {
+            "navBar": {
+              "default": {
+                "value": "{alias.brand.navItem.text.color.navBar.default}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{alias.brand.navItem.text.color.navBar.hover}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{alias.brand.navItem.text.color.navBar.pressed}",
+                "type": "color"
+              },
+              "active": {
+                "value": "{alias.brand.navItem.text.color.navBar.active}",
+                "type": "color"
+              },
+              "subdued": {
+                "value": "{alias.brand.navItem.text.color.navBar.subdued}",
+                "type": "color"
+              }
+            },
+            "firstLevel": {
+              "default": {
+                "value": "{alias.brand.navItem.text.color.firstLevel.default}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{alias.brand.navItem.text.color.firstLevel.hover}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{alias.brand.navItem.text.color.firstLevel.pressed}",
+                "type": "color"
+              },
+              "active": {
+                "value": "{alias.brand.navItem.text.color.firstLevel.active}",
+                "type": "color"
+              },
+              "subdued": {
+                "value": "{alias.brand.navItem.text.color.firstLevel.subdued}",
+                "type": "color"
+              }
+            },
+            "secondLevel": {
+              "default": {
+                "value": "{alias.brand.navItem.text.color.secondLevel.default}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{alias.brand.navItem.text.color.secondLevel.hover}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{alias.brand.navItem.text.color.secondLevel.pressed}",
+                "type": "color"
+              },
+              "active": {
+                "value": "{alias.brand.navItem.text.color.secondLevel.active}",
+                "type": "color"
+              },
+              "subdued": {
+                "value": "{alias.brand.navItem.text.color.secondLevel.subdued}",
+                "type": "color"
+              }
+            },
+            "footer": {
+              "default": {
+                "value": "{alias.brand.navItem.text.color.footer.default}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{alias.brand.navItem.text.color.footer.hover}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{alias.brand.navItem.text.color.footer.pressed}",
+                "type": "color"
+              },
+              "active": {
+                "value": "{alias.brand.navItem.text.color.footer.active}",
+                "type": "color"
+              },
+              "subdued": {
+                "value": "{alias.brand.navItem.text.color.footer.subdued}",
+                "type": "color"
+              }
+            }
+          }
+        },
         "icon": {
           "color": {
             "default": {
@@ -596,30 +688,6 @@
             },
             "subdued": {
               "value": "{alias.brand.navItem.icon.color.subdued}",
-              "type": "color"
-            }
-          }
-        },
-        "text": {
-          "color": {
-            "default": {
-              "value": "{alias.brand.navItem.text.color.default}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{alias.brand.navItem.text.color.hover}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{alias.brand.navItem.text.color.pressed}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{alias.brand.navItem.text.color.active}",
-              "type": "color"
-            },
-            "subdued": {
-              "value": "{alias.brand.navItem.text.color.subdued}",
               "type": "color"
             }
           }
