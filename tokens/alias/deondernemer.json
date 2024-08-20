@@ -769,25 +769,93 @@
         },
         "text": {
           "color": {
-            "default": {
-              "value": "{core.color.neutral.1000}",
-              "type": "color"
+            "navBar": {
+              "default": {
+                "value": "{core.color.neutral.1000}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.deondernemerCore.color.cinnabar.800}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{core.deondernemerCore.color.cinnabar.800}",
+                "type": "color"
+              },
+              "active": {
+                "value": "{core.deondernemerCore.color.cinnabar.800}",
+                "type": "color"
+              },
+              "subdued": {
+                "value": "{core.color.neutral.600}",
+                "type": "color"
+              }
             },
-            "hover": {
-              "value": "{core.deondernemerCore.color.cinnabar.800}",
-              "type": "color"
+            "firstLevel": {
+              "default": {
+                "value": "{core.color.neutral.1000}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.deondernemerCore.color.cinnabar.800}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{core.deondernemerCore.color.cinnabar.800}",
+                "type": "color"
+              },
+              "active": {
+                "value": "{core.deondernemerCore.color.cinnabar.800}",
+                "type": "color"
+              },
+              "subdued": {
+                "value": "{core.color.neutral.600}",
+                "type": "color"
+              }
             },
-            "pressed": {
-              "value": "{core.deondernemerCore.color.cinnabar.800}",
-              "type": "color"
+            "secondLevel": {
+              "default": {
+                "value": "{core.color.neutral.1000}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.deondernemerCore.color.cinnabar.800}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{core.deondernemerCore.color.cinnabar.800}",
+                "type": "color"
+              },
+              "active": {
+                "value": "{core.deondernemerCore.color.cinnabar.800}",
+                "type": "color"
+              },
+              "subdued": {
+                "value": "{core.color.neutral.600}",
+                "type": "color"
+              }
             },
-            "active": {
-              "value": "{core.deondernemerCore.color.cinnabar.800}",
-              "type": "color"
-            },
-            "subdued": {
-              "value": "{core.color.neutral.600}",
-              "type": "color"
+            "footer": {
+              "default": {
+                "value": "{core.color.neutral.1000}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.deondernemerCore.color.cinnabar.800}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{core.deondernemerCore.color.cinnabar.800}",
+                "type": "color"
+              },
+              "active": {
+                "value": "{core.deondernemerCore.color.cinnabar.800}",
+                "type": "color"
+              },
+              "subdued": {
+                "value": "{core.color.neutral.600}",
+                "type": "color"
+              }
             }
           }
         },

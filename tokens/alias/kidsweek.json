@@ -778,25 +778,93 @@
         },
         "text": {
           "color": {
-            "default": {
-              "value": "{core.color.neutral.1000}",
-              "type": "color"
+            "navBar": {
+              "default": {
+                "value": "{core.color.neutral.1000}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.kidsweekCore.color.redRibbon.700}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{core.kidsweekCore.color.redRibbon.700}",
+                "type": "color"
+              },
+              "active": {
+                "value": "{core.kidsweekCore.color.redRibbon.700}",
+                "type": "color"
+              },
+              "subdued": {
+                "value": "{core.color.neutral.600}",
+                "type": "color"
+              }
             },
-            "hover": {
-              "value": "{core.kidsweekCore.color.redRibbon.700}",
-              "type": "color"
+            "firstLevel": {
+              "default": {
+                "value": "{core.color.neutral.1000}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.kidsweekCore.color.redRibbon.700}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{core.kidsweekCore.color.redRibbon.700}",
+                "type": "color"
+              },
+              "active": {
+                "value": "{core.kidsweekCore.color.redRibbon.700}",
+                "type": "color"
+              },
+              "subdued": {
+                "value": "{core.color.neutral.600}",
+                "type": "color"
+              }
             },
-            "pressed": {
-              "value": "{core.kidsweekCore.color.redRibbon.700}",
-              "type": "color"
+            "secondLevel": {
+              "default": {
+                "value": "{core.color.neutral.1000}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.kidsweekCore.color.redRibbon.700}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{core.kidsweekCore.color.redRibbon.700}",
+                "type": "color"
+              },
+              "active": {
+                "value": "{core.kidsweekCore.color.redRibbon.700}",
+                "type": "color"
+              },
+              "subdued": {
+                "value": "{core.color.neutral.600}",
+                "type": "color"
+              }
             },
-            "active": {
-              "value": "{core.kidsweekCore.color.redRibbon.700}",
-              "type": "color"
-            },
-            "subdued": {
-              "value": "{core.color.neutral.600}",
-              "type": "color"
+            "footer": {
+              "default": {
+                "value": "{core.color.neutral.1000}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.kidsweekCore.color.redRibbon.700}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{core.kidsweekCore.color.redRibbon.700}",
+                "type": "color"
+              },
+              "active": {
+                "value": "{core.kidsweekCore.color.redRibbon.700}",
+                "type": "color"
+              },
+              "subdued": {
+                "value": "{core.color.neutral.600}",
+                "type": "color"
+              }
             }
           }
         },
