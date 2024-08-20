@@ -192,67 +192,67 @@
         },
         "firstLevel": {
           "default": {
-            "value": "{alias.mode.navItem.text.color.navBar.default}",
+            "value": "{alias.mode.navItem.text.color.firstLevel.default}",
             "type": "color"
           },
           "hover": {
-            "value": "{alias.mode.navItem.text.color.navBar.hover}",
+            "value": "{alias.mode.navItem.text.color.firstLevel.hover}",
             "type": "color"
           },
           "pressed": {
-            "value": "{alias.mode.navItem.text.color.navBar.pressed}",
+            "value": "{alias.mode.navItem.text.color.firstLevel.pressed}",
             "type": "color"
           },
           "active": {
-            "value": "{alias.mode.navItem.text.color.navBar.active}",
+            "value": "{alias.mode.navItem.text.color.firstLevel.active}",
             "type": "color"
           },
           "subdued": {
-            "value": "{alias.mode.navItem.text.color.navBar.subdued}",
+            "value": "{alias.mode.navItem.text.color.firstLevel.subdued}",
             "type": "color"
           }
         },
         "secondLevel": {
           "default": {
-            "value": "{alias.mode.navItem.text.color.navBar.default}",
+            "value": "{alias.mode.navItem.text.color.secondLevel.default}",
             "type": "color"
           },
           "hover": {
-            "value": "{alias.mode.navItem.text.color.navBar.hover}",
+            "value": "{alias.mode.navItem.text.color.secondLevel.hover}",
             "type": "color"
           },
           "pressed": {
-            "value": "{alias.mode.navItem.text.color.navBar.pressed}",
+            "value": "{alias.mode.navItem.text.color.secondLevel.pressed}",
             "type": "color"
           },
           "active": {
-            "value": "{alias.mode.navItem.text.color.navBar.active}",
+            "value": "{alias.mode.navItem.text.color.secondLevel.active}",
             "type": "color"
           },
           "subdued": {
-            "value": "{alias.mode.navItem.text.color.navBar.subdued}",
+            "value": "{alias.mode.navItem.text.color.secondLevel.subdued}",
             "type": "color"
           }
         },
         "footer": {
           "default": {
-            "value": "{alias.mode.navItem.text.color.navBar.default}",
+            "value": "{alias.mode.navItem.text.color.footer.default}",
             "type": "color"
           },
           "hover": {
-            "value": "{alias.mode.navItem.text.color.navBar.hover}",
+            "value": "{alias.mode.navItem.text.color.footer.hover}",
             "type": "color"
           },
           "pressed": {
-            "value": "{alias.mode.navItem.text.color.navBar.pressed}",
+            "value": "{alias.mode.navItem.text.color.footer.pressed}",
             "type": "color"
           },
           "active": {
-            "value": "{alias.mode.navItem.text.color.navBar.active}",
+            "value": "{alias.mode.navItem.text.color.footer.active}",
             "type": "color"
           },
           "subdued": {
-            "value": "{alias.mode.navItem.text.color.navBar.subdued}",
+            "value": "{alias.mode.navItem.text.color.footer.subdued}",
             "type": "color"
           }
         }
