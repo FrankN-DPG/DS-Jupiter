@@ -1529,38 +1529,145 @@
       "typography": {
         "component": {
           "navItem": {
-            "default": {
-              "value": {
-                "fontFamily": "{core.storyCore.font.accent}",
-                "fontSize": "{core.typography.fontSize.120}",
-                "lineHeight": "{core.typography.lineHeight.140}",
-                "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.storyCore.fontWeight.700-italic}",
-                "textCase": "{core.typography.textCase.uppercase}"
+            "navBar": {
+              "default": {
+                "value": {
+                  "fontFamily": "{core.storyCore.font.accent}",
+                  "fontSize": "{core.typography.fontSize.120}",
+                  "lineHeight": "{core.typography.lineHeight.140}",
+                  "textDecoration": "{core.typography.textDecoration.default}",
+                  "fontWeight": "{core.storyCore.fontWeight.700-italic}",
+                  "textCase": "{core.typography.textCase.uppercase}"
+                },
+                "type": "typography"
               },
-              "type": "typography"
+              "underline": {
+                "value": {
+                  "fontFamily": "{core.storyCore.font.accent}",
+                  "fontSize": "{core.typography.fontSize.120}",
+                  "lineHeight": "{core.typography.lineHeight.140}",
+                  "textDecoration": "{core.typography.textDecoration.underline}",
+                  "fontWeight": "{core.storyCore.fontWeight.700-italic}",
+                  "textCase": "{core.typography.textCase.uppercase}"
+                },
+                "type": "typography"
+              },
+              "bold": {
+                "value": {
+                  "fontFamily": "{core.storyCore.font.accent}",
+                  "fontSize": "{core.typography.fontSize.120}",
+                  "lineHeight": "{core.typography.lineHeight.140}",
+                  "textDecoration": "{core.typography.textDecoration.default}",
+                  "fontWeight": "{core.storyCore.fontWeight.700-italic}",
+                  "textCase": "{core.typography.textCase.uppercase}"
+                },
+                "type": "typography"
+              }
             },
-            "underline": {
-              "value": {
-                "fontFamily": "{core.storyCore.font.accent}",
-                "fontSize": "{core.typography.fontSize.120}",
-                "lineHeight": "{core.typography.lineHeight.140}",
-                "textDecoration": "{core.typography.textDecoration.underline}",
-                "fontWeight": "{core.storyCore.fontWeight.700-italic}",
-                "textCase": "{core.typography.textCase.uppercase}"
+            "firstLevel": {
+              "default": {
+                "value": {
+                  "fontFamily": "{core.storyCore.font.accent}",
+                  "fontSize": "{core.typography.fontSize.120}",
+                  "lineHeight": "{core.typography.lineHeight.140}",
+                  "textDecoration": "{core.typography.textDecoration.default}",
+                  "fontWeight": "{core.storyCore.fontWeight.700-italic}",
+                  "textCase": "{core.typography.textCase.uppercase}"
+                },
+                "type": "typography"
               },
-              "type": "typography"
+              "underline": {
+                "value": {
+                  "fontFamily": "{core.storyCore.font.accent}",
+                  "fontSize": "{core.typography.fontSize.120}",
+                  "lineHeight": "{core.typography.lineHeight.140}",
+                  "textDecoration": "{core.typography.textDecoration.underline}",
+                  "fontWeight": "{core.storyCore.fontWeight.700-italic}",
+                  "textCase": "{core.typography.textCase.uppercase}"
+                },
+                "type": "typography"
+              },
+              "bold": {
+                "value": {
+                  "fontFamily": "{core.storyCore.font.accent}",
+                  "fontSize": "{core.typography.fontSize.120}",
+                  "lineHeight": "{core.typography.lineHeight.140}",
+                  "textDecoration": "{core.typography.textDecoration.default}",
+                  "fontWeight": "{core.storyCore.fontWeight.700-italic}",
+                  "textCase": "{core.typography.textCase.uppercase}"
+                },
+                "type": "typography"
+              }
             },
-            "bold": {
-              "value": {
-                "fontFamily": "{core.storyCore.font.accent}",
-                "fontSize": "{core.typography.fontSize.120}",
-                "lineHeight": "{core.typography.lineHeight.140}",
-                "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.storyCore.fontWeight.700-italic}",
-                "textCase": "{core.typography.textCase.uppercase}"
+            "secondLevel": {
+              "default": {
+                "value": {
+                  "fontFamily": "{core.storyCore.font.accent}",
+                  "fontSize": "{core.typography.fontSize.120}",
+                  "lineHeight": "{core.typography.lineHeight.140}",
+                  "textDecoration": "{core.typography.textDecoration.default}",
+                  "fontWeight": "{core.storyCore.fontWeight.700-italic}",
+                  "textCase": "{core.typography.textCase.uppercase}"
+                },
+                "type": "typography"
               },
-              "type": "typography"
+              "underline": {
+                "value": {
+                  "fontFamily": "{core.storyCore.font.accent}",
+                  "fontSize": "{core.typography.fontSize.120}",
+                  "lineHeight": "{core.typography.lineHeight.140}",
+                  "textDecoration": "{core.typography.textDecoration.underline}",
+                  "fontWeight": "{core.storyCore.fontWeight.700-italic}",
+                  "textCase": "{core.typography.textCase.uppercase}"
+                },
+                "type": "typography"
+              },
+              "bold": {
+                "value": {
+                  "fontFamily": "{core.storyCore.font.accent}",
+                  "fontSize": "{core.typography.fontSize.120}",
+                  "lineHeight": "{core.typography.lineHeight.140}",
+                  "textDecoration": "{core.typography.textDecoration.default}",
+                  "fontWeight": "{core.storyCore.fontWeight.700-italic}",
+                  "textCase": "{core.typography.textCase.uppercase}"
+                },
+                "type": "typography"
+              }
+            },
+            "footer": {
+              "default": {
+                "value": {
+                  "fontFamily": "{core.storyCore.font.accent}",
+                  "fontSize": "{core.typography.fontSize.120}",
+                  "lineHeight": "{core.typography.lineHeight.140}",
+                  "textDecoration": "{core.typography.textDecoration.default}",
+                  "fontWeight": "{core.storyCore.fontWeight.700-italic}",
+                  "textCase": "{core.typography.textCase.uppercase}"
+                },
+                "type": "typography"
+              },
+              "underline": {
+                "value": {
+                  "fontFamily": "{core.storyCore.font.accent}",
+                  "fontSize": "{core.typography.fontSize.120}",
+                  "lineHeight": "{core.typography.lineHeight.140}",
+                  "textDecoration": "{core.typography.textDecoration.underline}",
+                  "fontWeight": "{core.storyCore.fontWeight.700-italic}",
+                  "textCase": "{core.typography.textCase.uppercase}"
+                },
+                "type": "typography"
+              },
+              "bold": {
+                "value": {
+                  "fontFamily": "{core.storyCore.font.accent}",
+                  "fontSize": "{core.typography.fontSize.120}",
+                  "lineHeight": "{core.typography.lineHeight.140}",
+                  "textDecoration": "{core.typography.textDecoration.default}",
+                  "fontWeight": "{core.storyCore.fontWeight.700-italic}",
+                  "textCase": "{core.typography.textCase.uppercase}"
+                },
+                "type": "typography"
+              }
             }
           },
           "showcaseSingle": {
