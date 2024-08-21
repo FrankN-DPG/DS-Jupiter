@@ -708,6 +708,68 @@
           }
         }
       },
+      "iconButton": {
+        "color": {
+          "default": {
+            "value": "{core.color.neutral.1000}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.jupiterCore.color.matisse.600}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{core.jupiterCore.color.matisse.600}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{core.color.neutral.1000}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.color.neutral.500}",
+            "type": "color"
+          },
+          "inverted": {
+            "default": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.jupiterCore.color.matisse.600}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{core.jupiterCore.color.matisse.600}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{core.color.neutral.500}",
+              "type": "color"
+            }
+          }
+        },
+        "radius": {
+          "value": "{core.shape.radius.100}",
+          "type": "borderRadius"
+        },
+        "border": {
+          "width": {
+            "none": {
+              "value": "{core.shape.borderWidth.0}",
+              "type": "borderWidth"
+            },
+            "default": {
+              "value": "{core.shape.borderWidth.200}",
+              "type": "borderWidth"
+            }
+          }
+        }
+      },
       "label": {
         "radius": {
           "value": "{core.shape.radius.0}",
@@ -1489,6 +1551,32 @@
             "type": "border"
           }
         },
+        "iconButton": {
+          "color": {
+            "none": {
+              "value": {
+                "color": "none"
+              },
+              "type": "border"
+            },
+            "focus": {
+              "value": {
+                "color": "{core.color.semantic.focus}"
+              },
+              "type": "border"
+            }
+          }
+        },
+        "navItem": {
+          "none": {
+            "value": "none",
+            "type": "border"
+          },
+          "focus": {
+            "value": "{core.color.semantic.focus}",
+            "type": "border"
+          }
+        },
         "singleCard": {
           "image": {
             "color": {
@@ -1513,16 +1601,6 @@
                 "type": "border"
               }
             }
-          }
-        },
-        "navItem": {
-          "none": {
-            "value": "none",
-            "type": "border"
-          },
-          "focus": {
-            "value": "{core.color.semantic.focus}",
-            "type": "border"
           }
         }
       },

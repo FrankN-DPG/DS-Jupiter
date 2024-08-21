@@ -4,6 +4,7 @@
     "component/button",
     "component/divider",
     "component/icon",
+    "component/iconButton",
     "component/label",
     "component/logo",
     "component/navItem",
