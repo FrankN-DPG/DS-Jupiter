@@ -922,6 +922,18 @@
             "type": "border"
           }
         },
+        "iconButton": {
+          "color": {
+            "none": {
+              "value": "{alias.brand.border.iconButton.color.none}",
+              "type": "border"
+            },
+            "focus": {
+              "value": "{alias.brand.border.iconButton.color.focus}",
+              "type": "border"
+            }
+          }
+        },
         "navItem": {
           "none": {
             "value": "{alias.brand.border.navItem.none}",
@@ -957,18 +969,6 @@
                 "value": "{alias.brand.border.teaser.singleCard.image.color}",
                 "type": "border"
               }
-            }
-          }
-        },
-        "iconButton": {
-          "color": {
-            "none": {
-              "value": "{alias.brand.border.iconButton.color.none}",
-              "type": "border"
-            },
-            "focus": {
-              "value": "{alias.brand.border.iconButton.color.focus}",
-              "type": "border"
             }
           }
         }
