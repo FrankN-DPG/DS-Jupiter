@@ -972,6 +972,16 @@
             }
           }
         }
+      },
+      "navBar": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.navBar.background.color.default}",
+              "type": "color"
+            }
+          }
+        }
       }
     }
   }
