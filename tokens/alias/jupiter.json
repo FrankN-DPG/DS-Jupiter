@@ -1560,9 +1560,7 @@
               "type": "border"
             },
             "focus": {
-              "value": {
-                "color": "{core.color.semantic.focus}"
-              },
+              "value": "{core.color.semantic.focus}",
               "type": "border"
             }
           }
