@@ -804,6 +804,54 @@
           }
         }
       },
+      "navBar": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            }
+          }
+        },
+        "spacing": {
+          "vertical": {
+            "default": {
+              "value": "{core.spacing.300}",
+              "type": "spacing"
+            },
+            "md": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            }
+          },
+          "horizontal": {
+            "default": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            },
+            "md": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            }
+          },
+          "icon": {
+            "gap": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            }
+          },
+          "content": {
+            "gap": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            }
+          },
+          "gap": {
+            "value": "{core.spacing.400}",
+            "type": "spacing"
+          }
+        }
+      },
       "navItem": {
         "spacing": {
           "gap": {
