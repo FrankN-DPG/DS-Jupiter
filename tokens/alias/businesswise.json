@@ -838,7 +838,7 @@
               "type": "spacing"
             },
             "md": {
-              "value": "{core.spacing.250}",
+              "value": "{core.spacing.300}",
               "type": "spacing"
             }
           },

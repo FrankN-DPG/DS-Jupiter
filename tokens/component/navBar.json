@@ -7,7 +7,7 @@
           "type": "spacing"
         },
         "md": {
-          "value": "{alias.brand.navBar.spacing.vertical.default}",
+          "value": "{alias.brand.navBar.spacing.vertical.md}",
           "type": "spacing"
         }
       },
@@ -17,7 +17,7 @@
           "type": "spacing"
         },
         "md": {
-          "value": "{alias.brand.navBar.spacing.horizontal.default}",
+          "value": "{alias.brand.navBar.spacing.horizontal.md}",
           "type": "spacing"
         }
       },

@@ -801,15 +801,15 @@
       "logo": {
         "size": {
           "xs": {
-            "value": "{core.sizing.300}",
+            "value": "{core.sizing.350}",
             "type": "sizing"
           },
           "s": {
-            "value": "{core.sizing.400}",
+            "value": "{core.sizing.450}",
             "type": "sizing"
           },
           "m": {
-            "value": "{core.sizing.500}",
+            "value": "{core.sizing.550}",
             "type": "sizing"
           },
           "l": {
@@ -817,7 +817,7 @@
             "type": "sizing"
           },
           "xl": {
-            "value": "{core.sizing.700}",
+            "value": "{core.sizing.800}",
             "type": "sizing"
           }
         }
