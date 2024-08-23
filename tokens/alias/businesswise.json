@@ -801,23 +801,23 @@
       "logo": {
         "size": {
           "xs": {
-            "value": "{core.sizing.300}",
+            "value": "{core.sizing.150}",
             "type": "sizing"
           },
           "s": {
-            "value": "{core.sizing.400}",
+            "value": "{core.sizing.250}",
             "type": "sizing"
           },
           "m": {
-            "value": "{core.sizing.500}",
+            "value": "{core.sizing.350}",
             "type": "sizing"
           },
           "l": {
-            "value": "{core.sizing.600}",
+            "value": "{core.sizing.450}",
             "type": "sizing"
           },
           "xl": {
-            "value": "{core.sizing.700}",
+            "value": "{core.sizing.550}",
             "type": "sizing"
           }
         }
@@ -834,11 +834,11 @@
         "spacing": {
           "vertical": {
             "default": {
-              "value": "{core.spacing.200}",
+              "value": "{core.spacing.250}",
               "type": "spacing"
             },
             "md": {
-              "value": "{core.spacing.200}",
+              "value": "{core.spacing.250}",
               "type": "spacing"
             }
           },
