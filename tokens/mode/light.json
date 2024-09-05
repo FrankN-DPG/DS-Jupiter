@@ -767,6 +767,16 @@
               }
             }
           }
+        },
+        "secondLevel": {
+          "background": {
+            "color": {
+              "default": {
+                "value": "{alias.brand.navMenu.secondLevel.background.color.default}",
+                "type": "color"
+              }
+            }
+          }
         }
       },
       "overlay": {

@@ -95,6 +95,22 @@
           }
         }
       }
+    },
+    "secondLevel": {
+      "spacing": {
+        "gap": {
+          "value": "{alias.brand.navMenu.secondLevel.spacing.gap}",
+          "type": "spacing"
+        }
+      },
+      "background": {
+        "color": {
+          "default": {
+            "value": "{alias.mode.navMenu.secondLevel.background.color.default}",
+            "type": "color"
+          }
+        }
+      }
     }
   }
 }

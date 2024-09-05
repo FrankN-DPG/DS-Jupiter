@@ -200,8 +200,7 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled",
-      "component/navMenu": "disabled"
+      "mode/light": "enabled"
     },
     "group": "mode"
   }

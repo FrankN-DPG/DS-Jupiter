@@ -1074,7 +1074,7 @@
         "language": {
           "spacing": {
             "gap": {
-              "value": "{core.spacing.400}",
+              "value": "{core.spacing.200}",
               "type": "spacing"
             },
             "content": {
@@ -1087,6 +1087,22 @@
               "default": {
                 "value": "{core.spacing.200}",
                 "type": "spacing"
+              }
+            }
+          }
+        },
+        "secondLevel": {
+          "spacing": {
+            "gap": {
+              "value": "{core.spacing.300}",
+              "type": "spacing"
+            }
+          },
+          "background": {
+            "color": {
+              "default": {
+                "value": "{core.jupiterCore.color.matisse.100}",
+                "type": "color"
               }
             }
           }
