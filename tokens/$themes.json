@@ -22,7 +22,8 @@
       "component/tabItem": "enabled",
       "component/subNav": "enabled",
       "component/iconButton": "enabled",
-      "component/navBar": "enabled"
+      "component/navBar": "enabled",
+      "component/navMenu": "enabled"
     },
     "group": "brand"
   },
@@ -49,7 +50,8 @@
       "component/tabItem": "enabled",
       "component/subNav": "enabled",
       "component/iconButton": "enabled",
-      "component/navBar": "enabled"
+      "component/navBar": "enabled",
+      "component/navMenu": "enabled"
     },
     "group": "brand"
   },
@@ -76,7 +78,8 @@
       "component/tabItem": "enabled",
       "component/subNav": "enabled",
       "component/iconButton": "enabled",
-      "component/navBar": "enabled"
+      "component/navBar": "enabled",
+      "component/navMenu": "enabled"
     },
     "group": "brand"
   },
@@ -103,7 +106,8 @@
       "component/tabItem": "enabled",
       "component/subNav": "enabled",
       "component/iconButton": "enabled",
-      "component/navBar": "enabled"
+      "component/navBar": "enabled",
+      "component/navMenu": "enabled"
     },
     "group": "brand"
   },
@@ -130,7 +134,8 @@
       "component/tabItem": "enabled",
       "component/subNav": "enabled",
       "component/iconButton": "enabled",
-      "component/navBar": "enabled"
+      "component/navBar": "enabled",
+      "component/navMenu": "enabled"
     },
     "group": "brand"
   },
@@ -157,7 +162,8 @@
       "component/tabItem": "enabled",
       "component/subNav": "enabled",
       "component/iconButton": "enabled",
-      "component/navBar": "enabled"
+      "component/navBar": "enabled",
+      "component/navMenu": "enabled"
     },
     "group": "brand"
   },
@@ -184,7 +190,8 @@
       "component/tabItem": "enabled",
       "component/subNav": "enabled",
       "component/iconButton": "enabled",
-      "component/navBar": "enabled"
+      "component/navBar": "enabled",
+      "component/navMenu": "enabled"
     },
     "group": "brand"
   },
@@ -193,7 +200,8 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled"
+      "mode/light": "enabled",
+      "component/navMenu": "disabled"
     },
     "group": "mode"
   }

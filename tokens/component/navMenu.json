@@ -1,0 +1,100 @@
+{
+  "navMenu": {
+    "spacing": {
+      "vertical": {
+        "default": {
+          "value": "{alias.brand.navMenu.spacing.vertical.default}",
+          "type": "spacing"
+        }
+      },
+      "horizontal": {
+        "default": {
+          "value": "{alias.brand.navMenu.spacing.horizontal.default}",
+          "type": "spacing"
+        }
+      },
+      "content": {
+        "gap": {
+          "value": "{alias.brand.navMenu.spacing.content.gap}",
+          "type": "spacing"
+        }
+      },
+      "gap": {
+        "value": "{alias.brand.navMenu.spacing.gap}",
+        "type": "spacing"
+      }
+    },
+    "background": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.navMenu.background.color.default}",
+          "type": "color"
+        }
+      }
+    },
+    "topBar": {
+      "spacing": {
+        "content": {
+          "gap": {
+            "default": {
+              "value": "{alias.brand.navMenu.topBar.spacing.content.gap.default}",
+              "type": "spacing"
+            },
+            "md": {
+              "value": "{alias.brand.navMenu.topBar.spacing.content.gap.md}",
+              "type": "spacing"
+            }
+          }
+        },
+        "vertical": {
+          "default": {
+            "value": "{alias.brand.navMenu.topBar.spacing.vertical.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.navMenu.topBar.spacing.vertical.md}",
+            "type": "spacing"
+          }
+        },
+        "horizontal": {
+          "default": {
+            "value": "{alias.brand.navMenu.topBar.spacing.horizontal.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.navMenu.topBar.spacing.horizontal.md}",
+            "type": "spacing"
+          }
+        }
+      },
+      "background": {
+        "color": {
+          "default": {
+            "value": "{alias.mode.navMenu.topBar.background.color.default}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "language": {
+      "spacing": {
+        "gap": {
+          "value": "{alias.brand.navMenu.language.spacing.gap}",
+          "type": "spacing"
+        },
+        "content": {
+          "gap": {
+            "value": "{alias.brand.navMenu.language.spacing.gap}",
+            "type": "spacing"
+          }
+        },
+        "vertical": {
+          "default": {
+            "value": "{alias.brand.navMenu.language.spacing.vertical.default}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  }
+}

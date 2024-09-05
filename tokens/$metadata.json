@@ -9,6 +9,7 @@
     "component/logo",
     "component/navBar",
     "component/navItem",
+    "component/navMenu",
     "component/overlay",
     "component/showcase",
     "component/subNav",
