@@ -1000,23 +1000,43 @@
             "default": {
               "value": "{core.spacing.400}",
               "type": "spacing"
+            },
+            "md": {
+              "value": "{core.spacing.400}",
+              "type": "spacing"
             }
           },
           "horizontal": {
             "default": {
               "value": "{core.spacing.200}",
               "type": "spacing"
+            },
+            "md": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
             }
           },
           "content": {
             "gap": {
-              "value": "{core.spacing.250}",
-              "type": "spacing"
+              "default": {
+                "value": "{core.spacing.250}",
+                "type": "spacing"
+              },
+              "md": {
+                "value": "{core.spacing.250}",
+                "type": "spacing"
+              }
             }
           },
           "gap": {
-            "value": "{core.spacing.400}",
-            "type": "spacing"
+            "default": {
+              "value": "{core.spacing.400}",
+              "type": "spacing"
+            },
+            "md": {
+              "value": "{core.spacing.400}",
+              "type": "spacing"
+            }
           }
         },
         "background": {
