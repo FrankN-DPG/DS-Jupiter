@@ -119,8 +119,14 @@
     "secondLevel": {
       "spacing": {
         "gap": {
-          "value": "{alias.brand.navMenu.secondLevel.spacing.gap}",
-          "type": "spacing"
+          "default": {
+            "value": "{alias.brand.navMenu.secondLevel.spacing.gap.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.navMenu.secondLevel.spacing.gap.md}",
+            "type": "spacing"
+          }
         }
       },
       "background": {

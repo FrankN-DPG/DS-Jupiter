@@ -1012,7 +1012,7 @@
               "type": "spacing"
             },
             "md": {
-              "value": "{core.spacing.200}",
+              "value": "{core.spacing.300}",
               "type": "spacing"
             }
           },
@@ -1114,8 +1114,14 @@
         "secondLevel": {
           "spacing": {
             "gap": {
-              "value": "{core.spacing.300}",
-              "type": "spacing"
+              "default": {
+                "value": "{core.spacing.300}",
+                "type": "spacing"
+              },
+              "md": {
+                "value": "{core.spacing.300}",
+                "type": "spacing"
+              }
             }
           },
           "background": {
