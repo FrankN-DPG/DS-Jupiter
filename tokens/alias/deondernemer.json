@@ -553,7 +553,7 @@
           "text": {
             "color": {
               "default": {
-                "value": "{core.deondernemerCore.color.blueDianne.600}",
+                "value": "{core.deondernemerCore.color.cinnabar.600}",
                 "type": "color"
               },
               "hover": {
@@ -577,7 +577,7 @@
           "icon": {
             "color": {
               "default": {
-                "value": "{core.deondernemerCore.color.blueDianne.600}",
+                "value": "{core.deondernemerCore.color.cinnabar.600}",
                 "type": "color"
               },
               "hover": {
@@ -1127,7 +1127,7 @@
           "background": {
             "color": {
               "default": {
-                "value": "{core.deondernemerCore.color.midnightBlue.100}",
+                "value": "{core.oudersvannuCore.color.background.1}",
                 "type": "color"
               }
             }

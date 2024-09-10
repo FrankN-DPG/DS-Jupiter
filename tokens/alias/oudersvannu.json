@@ -1109,7 +1109,7 @@
           "background": {
             "color": {
               "default": {
-                "value": "{core.oudersvannuCore.color.patina.100}",
+                "value": "{core.color.neutral.200}",
                 "type": "color"
               }
             }
