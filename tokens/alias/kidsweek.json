@@ -1142,7 +1142,7 @@
         "background": {
           "color": {
             "default": {
-              "value": "{core.kidsweekCore.color.apple.600}",
+              "value": "{core.kidsweekCore.color.apple.500}",
               "type": "color"
             }
           }
