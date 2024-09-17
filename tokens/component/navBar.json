@@ -1,0 +1,50 @@
+{
+  "navBar": {
+    "spacing": {
+      "vertical": {
+        "default": {
+          "value": "{alias.brand.navBar.spacing.vertical.default}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{alias.brand.navBar.spacing.vertical.md}",
+          "type": "spacing"
+        }
+      },
+      "horizontal": {
+        "default": {
+          "value": "{alias.brand.navBar.spacing.horizontal.default}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{alias.brand.navBar.spacing.horizontal.md}",
+          "type": "spacing"
+        }
+      },
+      "icon": {
+        "gap": {
+          "value": "{alias.brand.navBar.spacing.icon.gap}",
+          "type": "spacing"
+        }
+      },
+      "content": {
+        "gap": {
+          "value": "{alias.brand.navBar.spacing.content.gap}",
+          "type": "spacing"
+        }
+      },
+      "gap": {
+        "value": "{alias.brand.navBar.spacing.gap}",
+        "type": "spacing"
+      }
+    },
+    "background": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.navBar.background.color.default}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

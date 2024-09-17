@@ -633,6 +633,16 @@
           }
         }
       },
+      "navBar": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.navBar.background.color.default}",
+              "type": "color"
+            }
+          }
+        }
+      },
       "navItem": {
         "text": {
           "color": {
@@ -735,6 +745,36 @@
             "subdued": {
               "value": "{alias.brand.navItem.icon.color.subdued}",
               "type": "color"
+            }
+          }
+        }
+      },
+      "navMenu": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.navMenu.background.color.default}",
+              "type": "color"
+            }
+          }
+        },
+        "topBar": {
+          "background": {
+            "color": {
+              "default": {
+                "value": "{alias.brand.navMenu.topBar.background.color.default}",
+                "type": "color"
+              }
+            }
+          }
+        },
+        "secondLevel": {
+          "background": {
+            "color": {
+              "default": {
+                "value": "{alias.brand.navMenu.secondLevel.background.color.default}",
+                "type": "color"
+              }
             }
           }
         }

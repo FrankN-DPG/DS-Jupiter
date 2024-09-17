@@ -21,7 +21,9 @@
       "component/navItem": "enabled",
       "component/tabItem": "enabled",
       "component/subNav": "enabled",
-      "component/iconButton": "enabled"
+      "component/iconButton": "enabled",
+      "component/navBar": "enabled",
+      "component/navMenu": "enabled"
     },
     "group": "brand"
   },
@@ -47,7 +49,9 @@
       "component/navItem": "enabled",
       "component/tabItem": "enabled",
       "component/subNav": "enabled",
-      "component/iconButton": "enabled"
+      "component/iconButton": "enabled",
+      "component/navBar": "enabled",
+      "component/navMenu": "enabled"
     },
     "group": "brand"
   },
@@ -73,7 +77,9 @@
       "component/navItem": "enabled",
       "component/tabItem": "enabled",
       "component/subNav": "enabled",
-      "component/iconButton": "enabled"
+      "component/iconButton": "enabled",
+      "component/navBar": "enabled",
+      "component/navMenu": "enabled"
     },
     "group": "brand"
   },
@@ -99,7 +105,9 @@
       "component/navItem": "enabled",
       "component/tabItem": "enabled",
       "component/subNav": "enabled",
-      "component/iconButton": "enabled"
+      "component/iconButton": "enabled",
+      "component/navBar": "enabled",
+      "component/navMenu": "enabled"
     },
     "group": "brand"
   },
@@ -125,7 +133,9 @@
       "component/navItem": "enabled",
       "component/tabItem": "enabled",
       "component/subNav": "enabled",
-      "component/iconButton": "enabled"
+      "component/iconButton": "enabled",
+      "component/navBar": "enabled",
+      "component/navMenu": "enabled"
     },
     "group": "brand"
   },
@@ -151,7 +161,9 @@
       "component/navItem": "enabled",
       "component/tabItem": "enabled",
       "component/subNav": "enabled",
-      "component/iconButton": "enabled"
+      "component/iconButton": "enabled",
+      "component/navBar": "enabled",
+      "component/navMenu": "enabled"
     },
     "group": "brand"
   },
@@ -177,7 +189,9 @@
       "component/navItem": "enabled",
       "component/tabItem": "enabled",
       "component/subNav": "enabled",
-      "component/iconButton": "enabled"
+      "component/iconButton": "enabled",
+      "component/navBar": "enabled",
+      "component/navMenu": "enabled"
     },
     "group": "brand"
   },
