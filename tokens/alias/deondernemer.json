@@ -1127,7 +1127,7 @@
           "background": {
             "color": {
               "default": {
-                "value": "{core.oudersvannuCore.color.background.1}",
+                "value": "{core.businesswiseCore.color.biscayBlue.100}",
                 "type": "color"
               }
             }
