@@ -1127,7 +1127,7 @@
           "background": {
             "color": {
               "default": {
-                "value": "{core.businesswiseCore.color.biscayBlue.100}",
+                "value": "{core.deondernemerCore.color.blueDianne.100}",
                 "type": "color"
               }
             }
