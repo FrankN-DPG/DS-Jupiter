@@ -1,0 +1,62 @@
+{
+  "profileMenu": {
+    "spacing": {
+      "vertical": {
+        "default": {
+          "value": "{alias.brand.profileMenu.spacing.vertical.default}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{alias.brand.profileMenu.spacing.vertical.md}",
+          "type": "spacing"
+        }
+      },
+      "horizontal": {
+        "default": {
+          "value": "{alias.brand.profileMenu.spacing.horizontal.default}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{alias.brand.profileMenu.spacing.horizontal.md}",
+          "type": "spacing"
+        }
+      },
+      "content": {
+        "gap": {
+          "default": {
+            "value": "{alias.brand.profileMenu.spacing.content.gap.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.profileMenu.spacing.content.gap.md}",
+            "type": "spacing"
+          }
+        }
+      }
+    },
+    "background": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.profileMenu.background.color.default}",
+          "type": "color"
+        }
+      }
+    },
+    "text": {
+      "typography": {
+        "title": {
+          "default": {
+            "value": "{alias.brand.profileMenu.text.typography.title.default}",
+            "type": "typography"
+          }
+        },
+        "subtitle": {
+          "default": {
+            "value": "{alias.brand.profileMenu.text.typography.subtitle.default}",
+            "type": "typography"
+          }
+        }
+      }
+    }
+  }
+}

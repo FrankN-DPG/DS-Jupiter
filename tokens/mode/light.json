@@ -1012,6 +1012,16 @@
             }
           }
         }
+      },
+      "profileMenu": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.profileMenu.background.color.default}",
+              "type": "color"
+            }
+          }
+        }
       }
     }
   }
