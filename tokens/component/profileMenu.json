@@ -43,6 +43,20 @@
       }
     },
     "text": {
+      "color": {
+        "title": {
+          "default": {
+            "value": "{alias.mode.profileMenu.text.color.title.default}",
+            "type": "color"
+          }
+        },
+        "subtitle": {
+          "default": {
+            "value": "{alias.mode.profileMenu.text.color.subtitle.default}",
+            "type": "color"
+          }
+        }
+      },
       "typography": {
         "title": {
           "default": {

@@ -2422,6 +2422,20 @@
                 "type": "typography"
               }
             }
+          },
+          "color": {
+            "title": {
+              "default": {
+                "value": "{core.color.neutral.1000}",
+                "type": "color"
+              }
+            },
+            "subtitle": {
+              "default": {
+                "value": "{core.color.neutral.600}",
+                "type": "color"
+              }
+            }
           }
         }
       }

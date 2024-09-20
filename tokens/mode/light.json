@@ -1021,6 +1021,22 @@
               "type": "color"
             }
           }
+        },
+        "text": {
+          "color": {
+            "title": {
+              "default": {
+                "value": "{alias.brand.profileMenu.text.color.title.default}",
+                "type": "color"
+              }
+            },
+            "subtitle": {
+              "default": {
+                "value": "{alias.brand.profileMenu.text.color.subtitle.default}",
+                "type": "color"
+              }
+            }
+          }
         }
       }
     }
