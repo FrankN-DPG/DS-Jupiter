@@ -443,8 +443,17 @@
                   "type": "color"
                 },
                 "hover": {
-                  "value": "none",
-                  "type": "color"
+                  "value": "{core.color.neutral.100}",
+                  "type": "color",
+                  "$extensions": {
+                    "studio.tokens": {
+                      "modify": {
+                        "type": "alpha",
+                        "value": "0.15",
+                        "space": "hsl"
+                      }
+                    }
+                  }
                 },
                 "pressed": {
                   "value": "none",
