@@ -19,6 +19,84 @@
           }
         }
       },
+      "border": {
+        "button": {
+          "default": {
+            "value": "{alias.brand.border.button.default}",
+            "type": "border"
+          },
+          "hover": {
+            "value": "{alias.brand.border.button.hover}",
+            "type": "border"
+          },
+          "focus": {
+            "value": "{alias.brand.border.button.focus}",
+            "type": "border"
+          },
+          "disabled": {
+            "value": "{alias.brand.border.button.disabled}",
+            "type": "border"
+          },
+          "inverted": {
+            "value": "{alias.brand.border.button.inverted}",
+            "type": "border"
+          },
+          "none": {
+            "value": "{alias.brand.border.button.none}",
+            "type": "border"
+          }
+        },
+        "iconButton": {
+          "color": {
+            "none": {
+              "value": "{alias.brand.border.iconButton.color.none}",
+              "type": "border"
+            },
+            "focus": {
+              "value": "{alias.brand.border.iconButton.color.focus}",
+              "type": "border"
+            }
+          }
+        },
+        "navItem": {
+          "none": {
+            "value": "{alias.brand.border.navItem.none}",
+            "type": "border"
+          },
+          "focus": {
+            "value": "{alias.brand.border.navItem.focus}",
+            "type": "border"
+          }
+        },
+        "singleCard": {
+          "image": {
+            "border": {
+              "color": {
+                "value": "{alias.brand.border.singleCard.image.color}",
+                "type": "border"
+              }
+            }
+          }
+        },
+        "showcaseContentBlock": {
+          "content": {
+            "color": {
+              "value": "{alias.brand.border.showcaseContentBlock.content.color}",
+              "type": "border"
+            }
+          }
+        },
+        "teaser": {
+          "singleCard": {
+            "image": {
+              "color": {
+                "value": "{alias.brand.border.teaser.singleCard.image.color}",
+                "type": "border"
+              }
+            }
+          }
+        }
+      },
       "button": {
         "primary": {
           "background": {
@@ -787,6 +865,32 @@
           }
         }
       },
+      "profileMenu": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.profileMenu.background.color.default}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "title": {
+              "default": {
+                "value": "{alias.brand.profileMenu.text.color.title.default}",
+                "type": "color"
+              }
+            },
+            "subtitle": {
+              "default": {
+                "value": "{alias.brand.profileMenu.text.color.subtitle.default}",
+                "type": "color"
+              }
+            }
+          }
+        }
+      },
       "showcaseSingle": {
         "text": {
           "color": {
@@ -931,110 +1035,6 @@
             "color": {
               "value": "{alias.brand.toast.info.background.color}",
               "type": "color"
-            }
-          }
-        }
-      },
-      "border": {
-        "button": {
-          "default": {
-            "value": "{alias.brand.border.button.default}",
-            "type": "border"
-          },
-          "hover": {
-            "value": "{alias.brand.border.button.hover}",
-            "type": "border"
-          },
-          "focus": {
-            "value": "{alias.brand.border.button.focus}",
-            "type": "border"
-          },
-          "disabled": {
-            "value": "{alias.brand.border.button.disabled}",
-            "type": "border"
-          },
-          "inverted": {
-            "value": "{alias.brand.border.button.inverted}",
-            "type": "border"
-          },
-          "none": {
-            "value": "{alias.brand.border.button.none}",
-            "type": "border"
-          }
-        },
-        "iconButton": {
-          "color": {
-            "none": {
-              "value": "{alias.brand.border.iconButton.color.none}",
-              "type": "border"
-            },
-            "focus": {
-              "value": "{alias.brand.border.iconButton.color.focus}",
-              "type": "border"
-            }
-          }
-        },
-        "navItem": {
-          "none": {
-            "value": "{alias.brand.border.navItem.none}",
-            "type": "border"
-          },
-          "focus": {
-            "value": "{alias.brand.border.navItem.focus}",
-            "type": "border"
-          }
-        },
-        "singleCard": {
-          "image": {
-            "border": {
-              "color": {
-                "value": "{alias.brand.border.singleCard.image.color}",
-                "type": "border"
-              }
-            }
-          }
-        },
-        "showcaseContentBlock": {
-          "content": {
-            "color": {
-              "value": "{alias.brand.border.showcaseContentBlock.content.color}",
-              "type": "border"
-            }
-          }
-        },
-        "teaser": {
-          "singleCard": {
-            "image": {
-              "color": {
-                "value": "{alias.brand.border.teaser.singleCard.image.color}",
-                "type": "border"
-              }
-            }
-          }
-        }
-      },
-      "profileMenu": {
-        "background": {
-          "color": {
-            "default": {
-              "value": "{alias.brand.profileMenu.background.color.default}",
-              "type": "color"
-            }
-          }
-        },
-        "text": {
-          "color": {
-            "title": {
-              "default": {
-                "value": "{alias.brand.profileMenu.text.color.title.default}",
-                "type": "color"
-              }
-            },
-            "subtitle": {
-              "default": {
-                "value": "{alias.brand.profileMenu.text.color.subtitle.default}",
-                "type": "color"
-              }
             }
           }
         }
