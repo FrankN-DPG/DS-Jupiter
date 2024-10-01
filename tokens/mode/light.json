@@ -1038,6 +1038,24 @@
             }
           }
         }
+      },
+      "uspBlock": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.uspBlock.background.color.default}",
+              "type": "color"
+            }
+          }
+        },
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.uspBlock.icon.color.default}",
+              "type": "color"
+            }
+          }
+        }
       }
     }
   }

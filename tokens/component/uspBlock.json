@@ -19,6 +19,42 @@
           "type": "spacing"
         }
       }
+    },
+    "text": {
+      "typography": {
+        "title": {
+          "default": {
+            "value": "{alias.brand.typography.component.uspBlock.title}",
+            "type": "typography"
+          }
+        },
+        "body": {
+          "default": {
+            "value": "{alias.brand.typography.textStyles.body.s}",
+            "type": "typography"
+          }
+        }
+      }
+    },
+    "borderRadius": {
+      "value": "{alias.brand.uspBlock.borderRadius}",
+      "type": "borderRadius"
+    },
+    "background": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.uspBlock.background.color.default}",
+          "type": "color"
+        }
+      }
+    },
+    "icon": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.uspBlock.icon.color.default}",
+          "type": "color"
+        }
+      }
     }
   }
 }

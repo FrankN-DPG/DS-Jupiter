@@ -214,8 +214,7 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled",
-      "component/uspBlock": "disabled"
+      "mode/light": "enabled"
     },
     "group": "mode"
   }
