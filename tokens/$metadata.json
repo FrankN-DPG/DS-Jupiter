@@ -17,6 +17,7 @@
     "component/tabItem",
     "component/teaser",
     "component/toast",
+    "component/uspBlock",
     "mode/light",
     "alias/businesswise",
     "alias/deondernemer",

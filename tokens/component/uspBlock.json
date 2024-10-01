@@ -1,0 +1,24 @@
+{
+  "uspBlock": {
+    "spacing": {
+      "vertical": {
+        "default": {
+          "value": "{alias.brand.uspBlock.spacing.vertical.default}",
+          "type": "spacing"
+        }
+      },
+      "horizontal": {
+        "default": {
+          "value": "{alias.brand.uspBlock.spacing.horizontal.default}",
+          "type": "spacing"
+        }
+      },
+      "gap": {
+        "default": {
+          "value": "{alias.brand.uspBlock.spacing.gap.default}",
+          "type": "spacing"
+        }
+      }
+    }
+  }
+}

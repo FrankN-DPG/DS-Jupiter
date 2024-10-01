@@ -2438,6 +2438,28 @@
             }
           }
         }
+      },
+      "uspBlock": {
+        "spacing": {
+          "vertical": {
+            "default": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            }
+          },
+          "horizontal": {
+            "default": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            }
+          },
+          "gap": {
+            "default": {
+              "value": "{core.spacing.100}",
+              "type": "spacing"
+            }
+          }
+        }
       }
     }
   }
