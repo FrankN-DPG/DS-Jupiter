@@ -851,12 +851,12 @@
           },
           "content": {
             "gap": {
-              "value": "{core.spacing.200}",
+              "value": "{core.spacing.300}",
               "type": "spacing"
             }
           },
           "gap": {
-            "value": "{core.spacing.400}",
+            "value": "{core.spacing.500}",
             "type": "spacing"
           }
         }
