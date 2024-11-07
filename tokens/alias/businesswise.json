@@ -1274,7 +1274,7 @@
         "fade": {
           "color": {
             "default": {
-              "value": "linear-gradient (90deg, rgba( {core.color.neutral.100} , 0.0) 0%, rgba( {core.color.neutral.100} , 1) 100%)",
+              "value": "linear-gradient (90deg, rgba( {core.businesswiseCore.color.galleryWhite.700} , 0.0) 0%, rgba( {core.businesswiseCore.color.galleryWhite.700} , 1) 100%)",
               "type": "color"
             }
           }
@@ -1616,7 +1616,7 @@
         "fade": {
           "color": {
             "default": {
-              "value": "linear-gradient (90deg, rgba( {core.color.neutral.100} , 0.0) 0%, rgba( {core.color.neutral.100} , 1) 100%)",
+              "value": "linear-gradient (90deg, rgba( {core.businesswiseCore.color.galleryWhite.700} , 0.0) 0%, rgba( {core.businesswiseCore.color.galleryWhite.700} , 1) 100%)",
               "type": "color"
             }
           }
