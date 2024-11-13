@@ -86,40 +86,26 @@
             "type": "color"
           }
         }
-      },
+      }
+    },
+    "donaldduckCore": {
       "fontWeight": {
-        "300": {
-          "value": "Light",
-          "type": "fontWeights"
-        },
-        "400": {
-          "value": "Regular",
+        "500": {
+          "value": "Medium",
           "type": "fontWeights"
         },
         "700": {
           "value": "Bold",
           "type": "fontWeights"
-        },
-        "primary": {
-          "600": {
-            "value": "Semibold",
-            "type": "fontWeights"
-          }
-        },
-        "accent": {
-          "600": {
-            "value": "SemiBold",
-            "type": "fontWeights"
-          }
         }
       },
       "font": {
         "primary": {
-          "value": "Proxima Nova",
+          "value": "Burbank Big Regular",
           "type": "fontFamilies"
         },
         "accent": {
-          "value": "Noto Serif",
+          "value": "Burbank Big Regular",
           "type": "fontFamilies"
         }
       }
