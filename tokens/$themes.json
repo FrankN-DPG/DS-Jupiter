@@ -23,7 +23,9 @@
       "component/subNav": "enabled",
       "component/iconButton": "enabled",
       "component/navBar": "enabled",
-      "component/navMenu": "enabled"
+      "component/navMenu": "enabled",
+      "alias/donaldduck": "disabled",
+      "core/donaldduckCore": "disabled"
     },
     "group": "brand"
   },
@@ -51,7 +53,9 @@
       "component/subNav": "enabled",
       "component/iconButton": "enabled",
       "component/navBar": "enabled",
-      "component/navMenu": "enabled"
+      "component/navMenu": "enabled",
+      "alias/donaldduck": "disabled",
+      "core/donaldduckCore": "disabled"
     },
     "group": "brand"
   },
@@ -79,7 +83,9 @@
       "component/subNav": "enabled",
       "component/iconButton": "enabled",
       "component/navBar": "enabled",
-      "component/navMenu": "enabled"
+      "component/navMenu": "enabled",
+      "alias/donaldduck": "disabled",
+      "core/donaldduckCore": "disabled"
     },
     "group": "brand"
   },
@@ -107,7 +113,9 @@
       "component/subNav": "enabled",
       "component/iconButton": "enabled",
       "component/navBar": "enabled",
-      "component/navMenu": "enabled"
+      "component/navMenu": "enabled",
+      "alias/donaldduck": "disabled",
+      "core/donaldduckCore": "disabled"
     },
     "group": "brand"
   },
@@ -135,7 +143,9 @@
       "component/subNav": "enabled",
       "component/iconButton": "enabled",
       "component/navBar": "enabled",
-      "component/navMenu": "enabled"
+      "component/navMenu": "enabled",
+      "alias/donaldduck": "disabled",
+      "core/donaldduckCore": "disabled"
     },
     "group": "brand"
   },
@@ -163,7 +173,9 @@
       "component/subNav": "enabled",
       "component/iconButton": "enabled",
       "component/navBar": "enabled",
-      "component/navMenu": "enabled"
+      "component/navMenu": "enabled",
+      "alias/donaldduck": "disabled",
+      "core/donaldduckCore": "disabled"
     },
     "group": "brand"
   },
@@ -191,7 +203,9 @@
       "component/subNav": "enabled",
       "component/iconButton": "enabled",
       "component/navBar": "enabled",
-      "component/navMenu": "enabled"
+      "component/navMenu": "enabled",
+      "alias/donaldduck": "disabled",
+      "core/donaldduckCore": "disabled"
     },
     "group": "brand"
   },
@@ -200,7 +214,9 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled"
+      "mode/light": "enabled",
+      "alias/donaldduck": "disabled",
+      "core/donaldduckCore": "disabled"
     },
     "group": "mode"
   }
