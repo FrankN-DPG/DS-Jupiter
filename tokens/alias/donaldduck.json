@@ -1266,7 +1266,7 @@
           }
         },
         "borderRadius": {
-          "value": "{core.shape.radius.0}",
+          "value": "{core.shape.radius.200}",
           "type": "borderRadius"
         }
       },
@@ -1327,12 +1327,12 @@
         },
         "image": {
           "border": {
-            "value": "{core.shape.borderWidth.0}",
+            "value": "{core.shape.borderWidth.100}",
             "type": "borderWidth"
           }
         },
         "borderRadius": {
-          "value": "{core.shape.radius.0}",
+          "value": "{core.shape.radius.200}",
           "type": "borderRadius"
         }
       },
