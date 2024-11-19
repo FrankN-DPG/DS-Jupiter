@@ -253,6 +253,48 @@
             "value": "#154a62",
             "type": "color"
           }
+        },
+        "pencilDark": {
+          "100": {
+            "value": "#e8e8e9",
+            "type": "color"
+          },
+          "200": {
+            "value": "#b8b9ba",
+            "type": "color"
+          },
+          "300": {
+            "value": "#969799",
+            "type": "color"
+          },
+          "400": {
+            "value": "#66686a",
+            "type": "color"
+          },
+          "500": {
+            "value": "#494a4d",
+            "type": "color"
+          },
+          "600": {
+            "value": "#1b1d21",
+            "type": "color"
+          },
+          "700": {
+            "value": "#191a1e",
+            "type": "color"
+          },
+          "800": {
+            "value": "#131517",
+            "type": "color"
+          },
+          "900": {
+            "value": "#0f1012",
+            "type": "color"
+          },
+          "1000": {
+            "value": "#0b0c0e",
+            "type": "color"
+          }
         }
       },
       "fontWeight": {
