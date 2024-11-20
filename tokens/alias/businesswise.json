@@ -826,7 +826,7 @@
         "background": {
           "color": {
             "default": {
-              "value": "{core.businesswiseCore.color.galleryWhite.800}",
+              "value": "{core.businesswiseCore.color.galleryWhite.700}",
               "type": "color"
             }
           }
