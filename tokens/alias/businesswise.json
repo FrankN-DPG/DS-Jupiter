@@ -1354,6 +1354,12 @@
         "borderRadius": {
           "value": "{core.shape.radius.0}",
           "type": "borderRadius"
+        },
+        "content": {
+          "border": {
+            "value": "{core.shape.borderWidth.0}",
+            "type": "borderWidth"
+          }
         }
       },
       "singleShoppingCard": {

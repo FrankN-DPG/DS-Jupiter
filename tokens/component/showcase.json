@@ -216,6 +216,12 @@
         "type": "border"
       }
     },
+    "content": {
+      "border": {
+        "value": "{alias.brand.singleCard.content.border}",
+        "type": "borderWidth"
+      }
+    },
     "borderRadius": {
       "value": "{alias.brand.singleCard.borderRadius}",
       "type": "borderRadius"

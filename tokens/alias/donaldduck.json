@@ -1355,6 +1355,12 @@
         "borderRadius": {
           "value": "{core.shape.radius.200}",
           "type": "borderRadius"
+        },
+        "content": {
+          "border": {
+            "value": "{core.shape.borderWidth.100}",
+            "type": "borderWidth"
+          }
         }
       },
       "singleShoppingCard": {
@@ -2020,7 +2026,7 @@
             "default": {
               "value": {
                 "fontFamily": "{core.donaldduckCore.font.accent}",
-                "fontSize": "{core.typography.fontSize.100}",
+                "fontSize": "{core.typography.fontSize.110}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "fontWeight": "{core.donaldduckCore.fontWeight.700}",

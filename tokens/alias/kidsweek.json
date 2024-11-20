@@ -1365,6 +1365,12 @@
           "value": "16px 8px 16px 8px",
           "type": "borderRadius",
           "description": "Four values: This will apply top-left | top-right | bottom-right | bottom-left"
+        },
+        "content": {
+          "border": {
+            "value": "{core.shape.borderWidth.0}",
+            "type": "borderWidth"
+          }
         }
       },
       "singleShoppingCard": {
