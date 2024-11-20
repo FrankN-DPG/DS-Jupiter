@@ -34,6 +34,14 @@
           "value": "{alias.brand.blockHeader.spacing.sliderNavigation.gap}",
           "type": "spacing"
         }
+      },
+      "vertical": {
+        "value": "{alias.brand.blockHeader.spacing.vertical}",
+        "type": "spacing"
+      },
+      "horizontal": {
+        "value": "{alias.brand.blockHeader.spacing.horizontal}",
+        "type": "spacing"
       }
     },
     "decoDivider": {

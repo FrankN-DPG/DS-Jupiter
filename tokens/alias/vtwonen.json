@@ -26,6 +26,14 @@
               "value": "{core.spacing.100}",
               "type": "spacing"
             }
+          },
+          "vertical": {
+            "value": "{core.spacing.0}",
+            "type": "spacing"
+          },
+          "horizontal": {
+            "value": "{core.spacing.0}",
+            "type": "spacing"
           }
         },
         "decoDivider": {
