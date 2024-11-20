@@ -50,6 +50,14 @@
           "value": "8px 8px 0px 0px",
           "type": "borderRadius",
           "description": "Four values: This will apply top-left | top-right | bottom-right | bottom-left"
+        },
+        "background": {
+          "color": {
+            "default": {
+              "value": "{core.donaldduckCore.color.pencilDark.600}",
+              "type": "color"
+            }
+          }
         }
       },
       "button": {

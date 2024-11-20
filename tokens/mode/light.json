@@ -17,6 +17,14 @@
               "type": "color"
             }
           }
+        },
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.blockHeader.background.color.default}",
+              "type": "color"
+            }
+          }
         }
       },
       "button": {

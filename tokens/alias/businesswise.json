@@ -49,6 +49,14 @@
         "borderRadius": {
           "value": "{core.shape.radius.0)",
           "type": "borderRadius"
+        },
+        "background": {
+          "color": {
+            "default": {
+              "value": "none",
+              "type": "color"
+            }
+          }
         }
       },
       "button": {

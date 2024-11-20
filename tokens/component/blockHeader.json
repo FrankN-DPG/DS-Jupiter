@@ -57,6 +57,14 @@
     "borderRadius": {
       "value": "{alias.brand.blockHeader.borderRadius}",
       "type": "borderRadius"
+    },
+    "background": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.blockHeader.background.color.default}",
+          "type": "color"
+        }
+      }
     }
   }
 }
