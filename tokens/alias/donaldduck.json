@@ -5,7 +5,7 @@
         "text": {
           "color": {
             "default": {
-              "value": "{core.color.neutral.1000}",
+              "value": "{core.color.neutral.100}",
               "type": "color"
             }
           }
@@ -2082,20 +2082,22 @@
             "l": {
               "value": {
                 "fontFamily": "{core.donaldduckCore.font.primary}",
-                "fontSize": "{core.typography.fontSize.180}",
+                "fontSize": "{core.typography.fontSize.140}",
                 "lineHeight": "{core.typography.lineHeight.130}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.donaldduckCore.fontWeight.700}"
+                "fontWeight": "{core.donaldduckCore.fontWeight.700}",
+                "textCase": "{core.typography.textCase.uppercase}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
                 "fontFamily": "{core.donaldduckCore.font.primary}",
-                "fontSize": "{core.typography.fontSize.140}",
+                "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.130}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.donaldduckCore.fontWeight.700}"
+                "fontWeight": "{core.donaldduckCore.fontWeight.700}",
+                "textCase": "{core.typography.textCase.uppercase}"
               },
               "type": "typography"
             }
@@ -2329,15 +2331,15 @@
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.underline}",
-                "fontWeight": "{core.donaldduckCore.fontWeight.700}"
+                "fontWeight": "{core.donaldduckCore.fontWeight.500}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
                 "fontFamily": "{core.donaldduckCore.font.primary}",
-                "fontWeight": "{core.donaldduckCore.fontWeight.700}",
-                "fontSize": "{core.typography.fontSize.80}",
+                "fontWeight": "{core.donaldduckCore.fontWeight.500}",
+                "fontSize": "{core.typography.fontSize.110}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.underline}"
               },
