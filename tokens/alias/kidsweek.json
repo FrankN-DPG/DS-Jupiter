@@ -1806,6 +1806,14 @@
               "value": "none",
               "type": "border"
             }
+          },
+          "content": {
+            "color": {
+              "value": {
+                "color": ""
+              },
+              "type": "border"
+            }
           }
         },
         "showcaseContentBlock": {

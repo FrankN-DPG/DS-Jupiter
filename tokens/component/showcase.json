@@ -220,6 +220,10 @@
       "border": {
         "value": "{alias.brand.singleCard.content.border}",
         "type": "borderWidth"
+      },
+      "color": {
+        "value": "{alias.mode.border.singleCard.content.color}",
+        "type": "border"
       }
     },
     "borderRadius": {

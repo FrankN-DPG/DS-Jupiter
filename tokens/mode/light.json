@@ -1000,6 +1000,12 @@
                 "type": "border"
               }
             }
+          },
+          "content": {
+            "color": {
+              "value": "{alias.brand.border.singleCard.content.color}",
+              "type": "border"
+            }
           }
         },
         "showcaseContentBlock": {

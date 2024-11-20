@@ -1798,6 +1798,14 @@
               },
               "type": "border"
             }
+          },
+          "content": {
+            "color": {
+              "value": {
+                "color": "{core.donaldduckCore.color.pencilDark.600}"
+              },
+              "type": "border"
+            }
           }
         },
         "showcaseContentBlock": {
