@@ -53,6 +53,10 @@
           "type": "color"
         }
       }
+    },
+    "borderRadius": {
+      "value": "{alias.brand.blockHeader.borderRadius}",
+      "type": "borderRadius"
     }
   }
 }

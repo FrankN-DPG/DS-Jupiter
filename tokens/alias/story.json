@@ -45,6 +45,10 @@
               "type": "color"
             }
           }
+        },
+        "borderRadius": {
+          "value": "{core.shape.radius.0)",
+          "type": "borderRadius"
         }
       },
       "button": {
