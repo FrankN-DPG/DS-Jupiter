@@ -2036,6 +2036,16 @@
               },
               "type": "typography"
             }
+          },
+          "singleCard": {
+            "default": {
+              "value": "{alias.brand.typography.textStyles.body.s}",
+              "type": "typography"
+            },
+            "md": {
+              "value": "{alias.brand.typography.textStyles.body.s}",
+              "type": "typography"
+            }
           }
         },
         "textStyles": {

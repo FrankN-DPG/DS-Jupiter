@@ -194,7 +194,7 @@
         }
       },
       "typography": {
-        "value": "{alias.brand.typography.textStyles.body.s}",
+        "value": "{alias.brand.typography.component.singleCard.default}",
         "type": "typography"
       }
     },
