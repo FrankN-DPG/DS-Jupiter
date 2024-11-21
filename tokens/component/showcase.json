@@ -232,6 +232,16 @@
     }
   },
   "singleShoppingCard": {
+    "content": {
+      "border": {
+        "value": "{alias.brand.singleShoppingCard.content.border}",
+        "type": "borderWidth"
+      },
+      "color": {
+        "value": "{alias.mode.border.singleShoppingCard.content.color}",
+        "type": "border"
+      }
+    },
     "spacing": {
       "vertical": {
         "value": "{alias.brand.singleShoppingCard.spacing.vertical}",

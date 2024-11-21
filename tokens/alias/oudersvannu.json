@@ -1354,6 +1354,12 @@
         }
       },
       "singleShoppingCard": {
+        "content": {
+          "border": {
+            "value": "{core.shape.borderWidth.0}",
+            "type": "borderWidth"
+          }
+        },
         "spacing": {
           "vertical": {
             "value": "{core.spacing.100}",
@@ -1787,6 +1793,16 @@
               "type": "border"
             }
           },
+          "content": {
+            "color": {
+              "value": {
+                "color": ""
+              },
+              "type": "border"
+            }
+          }
+        },
+        "singleShoppingCard": {
           "content": {
             "color": {
               "value": {
