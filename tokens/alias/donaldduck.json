@@ -1230,7 +1230,7 @@
             }
           },
           "gap": {
-            "value": "{core.spacing.100}",
+            "value": "{core.spacing.200}",
             "type": "spacing"
           }
         }
@@ -1389,13 +1389,13 @@
         "background": {
           "color": {
             "default": {
-              "value": "{core.donaldduckCore.color.rubyRed.100}",
+              "value": "{core.color.neutral.100}",
               "type": "color"
             }
           }
         },
         "borderRadius": {
-          "value": "{core.shape.radius.0}",
+          "value": "{core.shape.radius.100}",
           "type": "borderRadius"
         }
       },
