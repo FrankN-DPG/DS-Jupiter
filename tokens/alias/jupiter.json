@@ -1214,6 +1214,14 @@
           }
         }
       },
+      "showcaseImageBlock": {
+        "image": {
+          "border": {
+            "value": "{core.shape.borderWidth.0}",
+            "type": "borderWidth"
+          }
+        }
+      },
       "showcaseList": {
         "spacing": {
           "list": {
@@ -1825,6 +1833,16 @@
           "content": {
             "color": {
               "value": "none",
+              "type": "border"
+            }
+          }
+        },
+        "showcaseImageBlock": {
+          "image": {
+            "color": {
+              "value": {
+                "color": "none"
+              },
               "type": "border"
             }
           }
