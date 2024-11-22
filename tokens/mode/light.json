@@ -1033,6 +1033,14 @@
               }
             }
           }
+        },
+        "showcaseImageBlock": {
+          "image": {
+            "color": {
+              "value": "{alias.brand.border.showcaseImageBlock.image.color}",
+              "type": "border"
+            }
+          }
         }
       }
     }
