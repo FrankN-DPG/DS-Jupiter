@@ -1574,7 +1574,7 @@
       "teaserMinimalList": {
         "spacing": {
           "gap": {
-            "value": "{core.spacing.100}",
+            "value": "{core.spacing.200}",
             "type": "spacing"
           },
           "content": {
@@ -1590,7 +1590,7 @@
       "teaserSelection": {
         "spacing": {
           "gap": {
-            "value": "{core.spacing.100}",
+            "value": "{core.spacing.200}",
             "type": "spacing"
           },
           "content": {
@@ -1610,7 +1610,7 @@
       "teaserSingleFocus": {
         "spacing": {
           "gap": {
-            "value": "{core.spacing.100}",
+            "value": "{core.spacing.200}",
             "type": "spacing"
           },
           "content": {
@@ -1638,7 +1638,7 @@
       "teaserSlider": {
         "spacing": {
           "gap": {
-            "value": "{core.spacing.100}",
+            "value": "{core.spacing.200}",
             "type": "spacing"
           },
           "content": {
