@@ -1148,7 +1148,7 @@
           "background": {
             "color": {
               "default": {
-                "value": "{core.donaldduckCore.color.skyBlue.500}",
+                "value": "{core.donaldduckCore.color.skyBlue.600}",
                 "type": "color"
               }
             }
