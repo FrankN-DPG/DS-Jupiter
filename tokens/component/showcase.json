@@ -206,8 +206,10 @@
         }
       },
       "typography": {
-        "value": "{alias.brand.typography.component.singleCard.default}",
-        "type": "typography"
+        "default": {
+          "value": "{alias.brand.typography.component.singleCard.default}",
+          "type": "typography"
+        }
       }
     },
     "background": {
