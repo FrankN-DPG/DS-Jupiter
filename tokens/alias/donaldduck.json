@@ -1503,7 +1503,7 @@
         "singleCard": {
           "image": {
             "border": {
-              "value": "{core.shape.borderWidth.0}",
+              "value": "{core.shape.borderWidth.100}",
               "type": "borderWidth"
             }
           }
@@ -1526,7 +1526,7 @@
         },
         "image": {
           "borderRadius": {
-            "value": "{core.shape.radius.0}",
+            "value": "{core.shape.radius.200}",
             "type": "borderRadius"
           }
         }
@@ -1846,7 +1846,9 @@
           "singleCard": {
             "image": {
               "color": {
-                "value": "none",
+                "value": {
+                  "color": "{core.donaldduckCore.color.pencilDark.600}"
+                },
                 "type": "border"
               }
             }
@@ -1867,7 +1869,14 @@
         "component": {
           "teaser": {
             "default": {
-              "value": "{alias.brand.typography.textStyles.heading4.s}",
+              "value": {
+                "fontFamily": "{core.donaldduckCore.font.accent}",
+                "fontSize": "{core.typography.fontSize.110}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.donaldduckCore.fontWeight.700}",
+                "textCase": "{core.typography.textCase.default}"
+              },
               "type": "typography"
             },
             "md": {
