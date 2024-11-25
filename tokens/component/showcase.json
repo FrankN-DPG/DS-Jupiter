@@ -209,6 +209,10 @@
         "default": {
           "value": "{alias.brand.typography.component.singleCard.default}",
           "type": "typography"
+        },
+        "md": {
+          "value": "{alias.brand.typography.component.singleCard.md}",
+          "type": "typography"
         }
       }
     },
