@@ -2106,7 +2106,7 @@
               "value": {
                 "fontFamily": "{core.donaldduckCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.240}",
-                "lineHeight": "{core.typography.lineHeight.130}",
+                "lineHeight": "{core.typography.lineHeight.120}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "fontWeight": "{core.donaldduckCore.fontWeight.700}"
               },
@@ -2116,7 +2116,7 @@
               "value": {
                 "fontFamily": "{core.donaldduckCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.220}",
-                "lineHeight": "{core.typography.lineHeight.130}",
+                "lineHeight": "{core.typography.lineHeight.120}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "fontWeight": "{core.donaldduckCore.fontWeight.700}"
               },
@@ -2128,7 +2128,7 @@
               "value": {
                 "fontFamily": "{core.donaldduckCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.220}",
-                "lineHeight": "{core.typography.lineHeight.130}",
+                "lineHeight": "{core.typography.lineHeight.120}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "fontWeight": "{core.donaldduckCore.fontWeight.700}",
                 "textCase": "{core.typography.textCase.default}"
@@ -2139,7 +2139,7 @@
               "value": {
                 "fontFamily": "{core.donaldduckCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.180}",
-                "lineHeight": "{core.typography.lineHeight.130}",
+                "lineHeight": "{core.typography.lineHeight.120}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "fontWeight": "{core.donaldduckCore.fontWeight.700}",
                 "textCase": "{core.typography.textCase.default}"
@@ -2152,7 +2152,7 @@
               "value": {
                 "fontFamily": "{core.donaldduckCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.180}",
-                "lineHeight": "{core.typography.lineHeight.130}",
+                "lineHeight": "{core.typography.lineHeight.120}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "fontWeight": "{core.donaldduckCore.fontWeight.700}"
               },
@@ -2162,7 +2162,7 @@
               "value": {
                 "fontFamily": "{core.donaldduckCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.140}",
-                "lineHeight": "{core.typography.lineHeight.130}",
+                "lineHeight": "{core.typography.lineHeight.120}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "fontWeight": "{core.donaldduckCore.fontWeight.700}"
               },
@@ -2174,7 +2174,7 @@
               "value": {
                 "fontFamily": "{core.donaldduckCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.140}",
-                "lineHeight": "{core.typography.lineHeight.130}",
+                "lineHeight": "{core.typography.lineHeight.120}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "fontWeight": "{core.donaldduckCore.fontWeight.700}",
                 "textCase": "{core.typography.textCase.uppercase}"
@@ -2185,7 +2185,7 @@
               "value": {
                 "fontFamily": "{core.donaldduckCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.120}",
-                "lineHeight": "{core.typography.lineHeight.130}",
+                "lineHeight": "{core.typography.lineHeight.120}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "fontWeight": "{core.donaldduckCore.fontWeight.700}",
                 "textCase": "{core.typography.textCase.uppercase}"
@@ -2198,7 +2198,7 @@
               "value": {
                 "fontFamily": "{core.donaldduckCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.140}",
-                "lineHeight": "{core.typography.lineHeight.140}",
+                "lineHeight": "{core.typography.lineHeight.130}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "fontWeight": "{core.donaldduckCore.fontWeight.700}"
               },
@@ -2208,7 +2208,7 @@
               "value": {
                 "fontFamily": "{core.donaldduckCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.120}",
-                "lineHeight": "{core.typography.lineHeight.140}",
+                "lineHeight": "{core.typography.lineHeight.130}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "fontWeight": "{core.donaldduckCore.fontWeight.700}"
               },
@@ -2376,7 +2376,7 @@
               "value": {
                 "fontFamily": "{core.donaldduckCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.220}",
-                "lineHeight": "{core.typography.lineHeight.130}",
+                "lineHeight": "{core.typography.lineHeight.120}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "fontWeight": "{core.donaldduckCore.fontWeight.700}"
               },
@@ -2386,7 +2386,7 @@
               "value": {
                 "fontFamily": "{core.donaldduckCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.180}",
-                "lineHeight": "{core.typography.lineHeight.130}",
+                "lineHeight": "{core.typography.lineHeight.110}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "fontWeight": "{core.donaldduckCore.fontWeight.700}"
               },
