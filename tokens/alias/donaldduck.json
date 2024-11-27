@@ -66,6 +66,16 @@
               "type": "color"
             }
           }
+        },
+        "description": {
+          "text": {
+            "color": {
+              "default": {
+                "value": "{core.donaldduckCore.color.pencilDark.600}",
+                "type": "color"
+              }
+            }
+          }
         }
       },
       "button": {

@@ -65,6 +65,16 @@
               "type": "color"
             }
           }
+        },
+        "description": {
+          "text": {
+            "color": {
+              "default": {
+                "value": "{core.color.neutral.1000}",
+                "type": "color"
+              }
+            }
+          }
         }
       },
       "button": {

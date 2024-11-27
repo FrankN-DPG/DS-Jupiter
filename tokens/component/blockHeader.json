@@ -18,6 +18,26 @@
         }
       }
     },
+    "description": {
+      "text": {
+        "typography": {
+          "default": {
+            "value": "{alias.brand.typography.textStyles.body.s}",
+            "type": "typography"
+          },
+          "md": {
+            "value": "{alias.brand.typography.textStyles.body.l}",
+            "type": "typography"
+          }
+        },
+        "color": {
+          "default": {
+            "value": "{alias.mode.blockHeader.description.text.color.default}",
+            "type": "color"
+          }
+        }
+      }
+    },
     "spacing": {
       "gap": {
         "value": "{alias.brand.blockHeader.spacing.gap}",
