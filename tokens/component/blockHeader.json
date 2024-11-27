@@ -43,6 +43,12 @@
         "value": "{alias.brand.blockHeader.spacing.gap}",
         "type": "spacing"
       },
+      "description": {
+        "gap": {
+          "value": "{alias.brand.blockHeader.spacing.description.gap}",
+          "type": "spacing"
+        }
+      },
       "content": {
         "gap": {
           "value": "{alias.brand.blockHeader.spacing.content.gap}",

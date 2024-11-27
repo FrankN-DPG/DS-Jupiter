@@ -34,6 +34,12 @@
           "horizontal": {
             "value": "{core.spacing.200}",
             "type": "spacing"
+          },
+          "description": {
+            "gap": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            }
           }
         },
         "decoDivider": {
