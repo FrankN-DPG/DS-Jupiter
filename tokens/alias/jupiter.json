@@ -1760,13 +1760,13 @@
         "button": {
           "default": {
             "value": {
-              "color": "{core.donaldduckCore.color.rubyRed.600}"
+              "color": "{core.jupiterCore.color.matisse.600}"
             },
             "type": "border"
           },
           "hover": {
             "value": {
-              "color": "{core.donaldduckCore.color.rubyRed.800}"
+              "color": "{core.jupiterCore.color.matisse.800}"
             },
             "type": "border"
           },
