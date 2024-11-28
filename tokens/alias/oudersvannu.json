@@ -1143,7 +1143,7 @@
         "spacing": {
           "vertical": {
             "default": {
-              "value": "{core.spacing.600}",
+              "value": "{core.spacing.400}",
               "type": "spacing"
             },
             "md": {
@@ -1162,18 +1162,18 @@
             }
           },
           "gap": {
-            "value": "{core.spacing.500}",
+            "value": "{core.spacing.300}",
             "type": "spacing"
           },
           "content": {
             "gap": {
-              "value": "{core.spacing.200}",
+              "value": "{core.spacing.100}",
               "type": "spacing"
             }
           },
           "serie": {
             "gap": {
-              "value": "{core.spacing.200}",
+              "value": "{core.spacing.100}",
               "type": "spacing"
             }
           }
