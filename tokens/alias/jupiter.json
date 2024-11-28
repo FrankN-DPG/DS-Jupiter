@@ -1904,33 +1904,33 @@
             "navBar": {
               "default": {
                 "value": {
-                  "fontFamily": "{core.donaldduckCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.default}",
-                  "fontWeight": "{core.donaldduckCore.fontWeight.500}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.400}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
               },
               "underline": {
                 "value": {
-                  "fontFamily": "{core.donaldduckCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.underline}",
-                  "fontWeight": "{core.donaldduckCore.fontWeight.500}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.400}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
               },
               "bold": {
                 "value": {
-                  "fontFamily": "{core.donaldduckCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.default}",
-                  "fontWeight": "{core.donaldduckCore.fontWeight.primary.600}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.primary.600}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
@@ -1939,33 +1939,33 @@
             "firstLevel": {
               "default": {
                 "value": {
-                  "fontFamily": "{core.donaldduckCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.default}",
-                  "fontWeight": "{core.donaldduckCore.fontWeight.500}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.400}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
               },
               "underline": {
                 "value": {
-                  "fontFamily": "{core.donaldduckCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.underline}",
-                  "fontWeight": "{core.donaldduckCore.fontWeight.500}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.400}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
               },
               "bold": {
                 "value": {
-                  "fontFamily": "{core.donaldduckCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.default}",
-                  "fontWeight": "{core.donaldduckCore.fontWeight.primary.600}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.primary.600}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
@@ -1974,33 +1974,33 @@
             "secondLevel": {
               "default": {
                 "value": {
-                  "fontFamily": "{core.donaldduckCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.default}",
-                  "fontWeight": "{core.donaldduckCore.fontWeight.500}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.400}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
               },
               "underline": {
                 "value": {
-                  "fontFamily": "{core.donaldduckCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.underline}",
-                  "fontWeight": "{core.donaldduckCore.fontWeight.500}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.400}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
               },
               "bold": {
                 "value": {
-                  "fontFamily": "{core.donaldduckCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.default}",
-                  "fontWeight": "{core.donaldduckCore.fontWeight.primary.600}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.primary.600}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
@@ -2009,33 +2009,33 @@
             "footer": {
               "default": {
                 "value": {
-                  "fontFamily": "{core.donaldduckCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.default}",
-                  "fontWeight": "{core.donaldduckCore.fontWeight.500}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.400}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
               },
               "underline": {
                 "value": {
-                  "fontFamily": "{core.donaldduckCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.underline}",
-                  "fontWeight": "{core.donaldduckCore.fontWeight.500}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.400}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
               },
               "bold": {
                 "value": {
-                  "fontFamily": "{core.donaldduckCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.default}",
-                  "fontWeight": "{core.donaldduckCore.fontWeight.primary.600}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.primary.600}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
@@ -2045,33 +2045,33 @@
           "tabItem": {
             "default": {
               "value": {
-                "fontFamily": "{core.donaldduckCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.donaldduckCore.fontWeight.500}",
+                "fontWeight": "{core.jupiterCore.fontWeight.400}",
                 "textCase": "{core.typography.textCase.uppercase}"
               },
               "type": "typography"
             },
             "hover": {
               "value": {
-                "fontFamily": "{core.donaldduckCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.donaldduckCore.fontWeight.500}",
+                "fontWeight": "{core.jupiterCore.fontWeight.400}",
                 "textCase": "{core.typography.textCase.uppercase}"
               },
               "type": "typography"
             },
             "active": {
               "value": {
-                "fontFamily": "{core.donaldduckCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.donaldduckCore.fontWeight.primary.600}",
+                "fontWeight": "{core.jupiterCore.fontWeight.primary.600}",
                 "textCase": "{core.typography.textCase.uppercase}"
               },
               "type": "typography"
