@@ -845,7 +845,7 @@
             "type": "sizing"
           },
           "m": {
-            "value": "{core.sizing.350}",
+            "value": "{core.sizing.300}",
             "type": "sizing"
           },
           "l": {
