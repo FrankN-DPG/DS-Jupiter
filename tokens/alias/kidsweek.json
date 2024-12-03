@@ -846,23 +846,23 @@
       "logo": {
         "size": {
           "xs": {
-            "value": "{core.sizing.500}",
-            "type": "sizing"
-          },
-          "s": {
             "value": "{core.sizing.600}",
             "type": "sizing"
           },
-          "m": {
+          "s": {
             "value": "{core.sizing.700}",
             "type": "sizing"
           },
-          "l": {
+          "m": {
             "value": "{core.sizing.800}",
             "type": "sizing"
           },
-          "xl": {
+          "l": {
             "value": "{core.sizing.900}",
+            "type": "sizing"
+          },
+          "xl": {
+            "value": "{core.sizing.1000}",
             "type": "sizing"
           }
         }
