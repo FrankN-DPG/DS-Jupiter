@@ -203,5 +203,33 @@
       "mode/light": "enabled"
     },
     "group": "mode"
+  },
+  {
+    "id": "b8e59a127b8c150140e3142a8b0cbadf749b883a",
+    "name": "donaldduck",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component/blockHeader": "enabled",
+      "component/button": "enabled",
+      "component/divider": "enabled",
+      "component/icon": "enabled",
+      "component/iconButton": "enabled",
+      "component/label": "enabled",
+      "component/logo": "enabled",
+      "component/navBar": "enabled",
+      "component/navItem": "enabled",
+      "component/navMenu": "enabled",
+      "component/overlay": "enabled",
+      "component/showcase": "enabled",
+      "component/subNav": "enabled",
+      "component/tabItem": "enabled",
+      "component/teaser": "enabled",
+      "component/toast": "enabled",
+      "mode/light": "enabled",
+      "alias/donaldduck": "enabled",
+      "core/donaldduckCore": "source",
+      "core/core": "source"
+    },
+    "group": "brand"
   }
 ]

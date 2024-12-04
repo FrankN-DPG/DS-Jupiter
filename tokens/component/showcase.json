@@ -71,6 +71,18 @@
       }
     }
   },
+  "showcaseImageBlock": {
+    "image": {
+      "border": {
+        "value": "{alias.brand.showcaseImageBlock.image.border}",
+        "type": "borderWidth"
+      },
+      "color": {
+        "value": "{alias.mode.border.showcaseImageBlock.image.color}",
+        "type": "border"
+      }
+    }
+  },
   "showcaseList": {
     "spacing": {
       "list": {
@@ -194,8 +206,14 @@
         }
       },
       "typography": {
-        "value": "{alias.brand.typography.textStyles.body.s}",
-        "type": "typography"
+        "default": {
+          "value": "{alias.brand.typography.component.singleCard.default}",
+          "type": "typography"
+        },
+        "md": {
+          "value": "{alias.brand.typography.component.singleCard.md}",
+          "type": "typography"
+        }
       }
     },
     "background": {
@@ -216,12 +234,32 @@
         "type": "border"
       }
     },
+    "content": {
+      "border": {
+        "value": "{alias.brand.singleCard.content.border}",
+        "type": "borderWidth"
+      },
+      "color": {
+        "value": "{alias.mode.border.singleCard.content.color}",
+        "type": "border"
+      }
+    },
     "borderRadius": {
       "value": "{alias.brand.singleCard.borderRadius}",
       "type": "borderRadius"
     }
   },
   "singleShoppingCard": {
+    "content": {
+      "border": {
+        "value": "{alias.brand.singleShoppingCard.content.border}",
+        "type": "borderWidth"
+      },
+      "color": {
+        "value": "{alias.mode.border.singleShoppingCard.content.color}",
+        "type": "border"
+      }
+    },
     "spacing": {
       "vertical": {
         "value": "{alias.brand.singleShoppingCard.spacing.vertical}",
