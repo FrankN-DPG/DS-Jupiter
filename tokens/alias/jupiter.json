@@ -61,7 +61,7 @@
           }
         },
         "borderRadius": {
-          "value": "{core.shape.radius.0)",
+          "value": "{core.shape.radius.0}",
           "type": "borderRadius"
         },
         "background": {
