@@ -135,12 +135,12 @@
         "gap": {
           "value": "{alias.brand.footer.bottomFooter.spacing.gap}",
           "type": "spacing"
-        }
-      },
-      "content": {
-        "gap": {
-          "value": "{alias.brand.footer.bottomFooter.content.gap}",
-          "type": "spacing"
+        },
+        "content": {
+          "gap": {
+            "value": "{alias.brand.footer.bottomFooter.spacing.content.gap}",
+            "type": "spacing"
+          }
         }
       },
       "background": {
@@ -166,7 +166,7 @@
         },
         "typography": {
           "default": {
-            "value": "{alias.brand.typography.textStyles.body.s}",
+            "value": "{alias.brand.typography.textStyles.bodySmall.s}",
             "type": "typography"
           },
           "md": {
