@@ -1,0 +1,48 @@
+{
+  "footer": {
+    "topFooter": {
+      "spacing": {
+        "vertical": {
+          "default": {
+            "value": "{alias.brand.footer.topFooter.spacing.vertical.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.footer.topFooter.spacing.vertical.md}",
+            "type": "spacing"
+          },
+          "gap": {
+            "default": {
+              "value": "{alias.brand.footer.topFooter.spacing.vertical.gap.default}",
+              "type": "spacing"
+            },
+            "md": {
+              "value": "{alias.brand.footer.topFooter.spacing.vertical.gap.md}",
+              "type": "spacing"
+            }
+          }
+        },
+        "horizontal": {
+          "gap": {
+            "default": {
+              "value": "{alias.brand.footer.topFooter.spacing.horizontal.gap.default}",
+              "type": "spacing"
+            },
+            "md": {
+              "value": "{alias.brand.footer.topFooter.spacing.horizontal.gap.md}",
+              "type": "spacing"
+            }
+          },
+          "default": {
+            "value": "{alias.brand.footer.topFooter.spacing.horizontal.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.footer.topFooter.spacing.horizontal.md}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  }
+}
