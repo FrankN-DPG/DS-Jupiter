@@ -63,6 +63,44 @@
           }
         }
       },
+      "text": {
+        "color": {
+          "title": {
+            "default": {
+              "value": "{alias.mode.footer.topFooter.text.color.title.default}",
+              "type": "color"
+            }
+          },
+          "sectionTitle": {
+            "default": {
+              "value": "{alias.mode.footer.topFooter.text.color.sectionTitle.default}",
+              "type": "color"
+            }
+          }
+        },
+        "typography": {
+          "title": {
+            "default": {
+              "value": "{alias.brand.typography.textStyles.heading1.s}",
+              "type": "typography"
+            },
+            "md": {
+              "value": "{alias.brand.typography.textStyles.heading1.l}",
+              "type": "typography"
+            }
+          },
+          "sectionTitle": {
+            "default": {
+              "value": "{alias.brand.typography.textStyles.heading3.s}",
+              "type": "typography"
+            },
+            "md": {
+              "value": "{alias.brand.typography.textStyles.heading4.l}",
+              "type": "typography"
+            }
+          }
+        }
+      },
       "icon": {
         "color": {
           "default": {

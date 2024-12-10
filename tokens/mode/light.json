@@ -1070,6 +1070,22 @@
                 "type": "color"
               }
             }
+          },
+          "text": {
+            "color": {
+              "title": {
+                "default": {
+                  "value": "{alias.brand.footer.topFooter.text.color.title.default}",
+                  "type": "color"
+                }
+              },
+              "sectionTitle": {
+                "default": {
+                  "value": "{alias.brand.footer.topFooter.text.color.sectionTitle.default}",
+                  "type": "color"
+                }
+              }
+            }
           }
         }
       }

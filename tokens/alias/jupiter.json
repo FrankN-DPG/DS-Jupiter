@@ -2518,6 +2518,22 @@
                 "type": "color"
               }
             }
+          },
+          "text": {
+            "color": {
+              "title": {
+                "default": {
+                  "value": "{core.color.neutral.1000}",
+                  "type": "color"
+                }
+              },
+              "sectionTitle": {
+                "default": {
+                  "value": "{core.color.neutral.1000}",
+                  "type": "color"
+                }
+              }
+            }
           }
         }
       }
