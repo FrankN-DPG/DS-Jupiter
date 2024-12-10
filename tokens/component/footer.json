@@ -163,6 +163,26 @@
               "type": "color"
             }
           }
+        },
+        "typography": {
+          "default": {
+            "value": "{alias.brand.typography.textStyles.body.s}",
+            "type": "typography"
+          },
+          "md": {
+            "value": "{alias.brand.typography.textStyles.body.l}",
+            "type": "typography"
+          },
+          "link": {
+            "default": {
+              "value": "{alias.brand.typography.textStyles.body.s}",
+              "type": "typography"
+            },
+            "md": {
+              "value": "{alias.brand.typography.textStyles.body.l}",
+              "type": "typography"
+            }
+          }
         }
       }
     }
