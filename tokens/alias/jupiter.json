@@ -2057,6 +2057,36 @@
                   "type": "typography"
                 }
               }
+            },
+            "bottomFooter": {
+              "text": {
+                "typography": {
+                  "default": {
+                    "value": {
+                      "fontFamily": "{core.jupiterCore.font.primary}",
+                      "fontSize": "{core.typography.fontSize.120}",
+                      "lineHeight": "{core.typography.lineHeight.140}",
+                      "textDecoration": "{core.typography.textDecoration.default}",
+                      "fontWeight": "{core.jupiterCore.fontWeight.700}",
+                      "textCase": "{core.typography.textCase.default}"
+                    },
+                    "type": "typography"
+                  },
+                  "link": {
+                    "default": {
+                      "value": {
+                        "fontFamily": "{core.jupiterCore.font.primary}",
+                        "fontSize": "{core.typography.fontSize.120}",
+                        "lineHeight": "{core.typography.lineHeight.140}",
+                        "textDecoration": "{core.typography.textDecoration.default}",
+                        "fontWeight": "{core.jupiterCore.fontWeight.700}",
+                        "textCase": "{core.typography.textCase.default}"
+                      },
+                      "type": "typography"
+                    }
+                  }
+                }
+              }
             }
           },
           "tabItem": {
@@ -2597,7 +2627,7 @@
           "text": {
             "color": {
               "default": {
-                "value": "{core.color.neutral.600}",
+                "value": "{core.color.neutral.700}",
                 "type": "color"
               },
               "link": {

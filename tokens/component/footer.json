@@ -166,7 +166,7 @@
         },
         "typography": {
           "default": {
-            "value": "{alias.brand.typography.textStyles.bodySmall.s}",
+            "value": "{alias.brand.typography.component.footer.bottomFooter.text.typography.default}",
             "type": "typography"
           },
           "md": {
@@ -175,7 +175,7 @@
           },
           "link": {
             "default": {
-              "value": "{alias.brand.typography.textStyles.body.s}",
+              "value": "{alias.brand.typography.component.footer.bottomFooter.text.typography.link.default}",
               "type": "typography"
             },
             "md": {
