@@ -2535,6 +2535,62 @@
               }
             }
           }
+        },
+        "bottomFooter": {
+          "spacing": {
+            "vertical": {
+              "default": {
+                "value": "{core.spacing.200}",
+                "type": "spacing"
+              },
+              "md": {
+                "value": "{core.spacing.200}",
+                "type": "spacing"
+              }
+            },
+            "content": {
+              "gap": {
+                "value": "{core.spacing.200}",
+                "type": "spacing"
+              }
+            },
+            "gap": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            },
+            "horizontal": {
+              "default": {
+                "value": "{core.spacing.200}",
+                "type": "spacing"
+              },
+              "md": {
+                "value": "{core.spacing.200}",
+                "type": "spacing"
+              }
+            }
+          },
+          "background": {
+            "color": {
+              "default": {
+                "value": "{core.color.neutral.100}",
+                "type": "color"
+              }
+            }
+          },
+          "text": {
+            "color": {
+              "default": {
+                "value": "{core.color.neutral.1000}",
+                "type": "color"
+              },
+              "link": {
+                "default": {
+                  "value": "{core.color.neutral.1000}",
+                  "type": "color"
+                }
+              }
+            }
+          }
         }
       }
     }
