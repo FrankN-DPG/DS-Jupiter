@@ -2042,6 +2042,23 @@
               }
             }
           },
+          "footer": {
+            "topFooter": {
+              "sectionTitle": {
+                "default": {
+                  "value": {
+                    "fontFamily": "{core.jupiterCore.font.primary}",
+                    "fontSize": "{core.typography.fontSize.120}",
+                    "lineHeight": "{core.typography.lineHeight.140}",
+                    "textDecoration": "{core.typography.textDecoration.default}",
+                    "fontWeight": "{core.jupiterCore.fontWeight.700}",
+                    "textCase": "{core.typography.textCase.default}"
+                  },
+                  "type": "typography"
+                }
+              }
+            }
+          },
           "tabItem": {
             "default": {
               "value": {
@@ -2457,7 +2474,7 @@
               },
               "gap": {
                 "default": {
-                  "value": "{core.spacing.200}",
+                  "value": "{core.spacing.300}",
                   "type": "spacing"
                 },
                 "md": {

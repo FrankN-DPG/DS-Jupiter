@@ -91,11 +91,11 @@
           },
           "sectionTitle": {
             "default": {
-              "value": "{alias.brand.typography.textStyles.heading3.s}",
+              "value": "{alias.brand.typography.component.footer.topFooter.sectionTitle.default}",
               "type": "typography"
             },
             "md": {
-              "value": "{alias.brand.typography.textStyles.heading4.l}",
+              "value": "{alias.brand.typography.component.footer.topFooter.sectionTitle.default}",
               "type": "typography"
             }
           }
