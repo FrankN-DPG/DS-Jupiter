@@ -109,6 +109,20 @@
           }
         }
       }
+    },
+    "bottomFooter": {
+      "spacing": {
+        "vertical": {
+          "default": {
+            "value": "{alias.brand.footer.bottomFooter.spacing.vertical.default}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{alias.brand.footer.bottomFooter.spacing.vertical.md}",
+            "type": "spacing"
+          }
+        }
+      }
     }
   }
 }
