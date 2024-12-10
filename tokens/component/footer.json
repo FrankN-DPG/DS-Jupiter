@@ -41,6 +41,34 @@
             "value": "{alias.brand.footer.topFooter.spacing.horizontal.md}",
             "type": "spacing"
           }
+        },
+        "content": {
+          "gap": {
+            "value": "{alias.brand.footer.topFooter.spacing.content.gap}",
+            "type": "spacing"
+          }
+        },
+        "icon": {
+          "gap": {
+            "value": "{alias.brand.footer.topFooter.spacing.icon.gap}",
+            "type": "spacing"
+          }
+        }
+      },
+      "background": {
+        "color": {
+          "default": {
+            "value": "{alias.mode.footer.topFooter.background.color.default}",
+            "type": "color"
+          }
+        }
+      },
+      "icon": {
+        "color": {
+          "default": {
+            "value": "{alias.mode.footer.topFooter.icon.color.default}",
+            "type": "color"
+          }
         }
       }
     }

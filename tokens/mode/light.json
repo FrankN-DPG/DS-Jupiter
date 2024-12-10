@@ -1052,6 +1052,26 @@
             }
           }
         }
+      },
+      "footer": {
+        "topFooter": {
+          "background": {
+            "color": {
+              "default": {
+                "value": "{alias.brand.footer.topFooter.background.color.default}",
+                "type": "color"
+              }
+            }
+          },
+          "icon": {
+            "color": {
+              "default": {
+                "value": "{alias.brand.footer.topFooter.icon.color.default}",
+                "type": "color"
+              }
+            }
+          }
+        }
       }
     }
   }
