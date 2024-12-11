@@ -2504,7 +2504,7 @@
               },
               "gap": {
                 "default": {
-                  "value": "{core.spacing.300}",
+                  "value": "{core.spacing.400}",
                   "type": "spacing"
                 },
                 "md": {
