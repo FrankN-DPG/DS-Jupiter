@@ -81,11 +81,11 @@
         "typography": {
           "title": {
             "default": {
-              "value": "{alias.brand.typography.textStyles.heading1.s}",
+              "value": "{alias.brand.typography.textStyles.heading2.s}",
               "type": "typography"
             },
             "md": {
-              "value": "{alias.brand.typography.textStyles.heading1.l}",
+              "value": "{alias.brand.typography.textStyles.heading2.l}",
               "type": "typography"
             }
           },
