@@ -3,6 +3,7 @@
     "component/blockHeader",
     "component/button",
     "component/divider",
+    "component/footer",
     "component/icon",
     "component/iconButton",
     "component/label",
