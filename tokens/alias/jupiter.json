@@ -2513,7 +2513,7 @@
                 }
               },
               "md": {
-                "value": "{core.spacing.400}",
+                "value": "{core.spacing.600}",
                 "type": "spacing"
               }
             },
@@ -2524,7 +2524,7 @@
                   "type": "spacing"
                 },
                 "md": {
-                  "value": "{core.spacing.200}",
+                  "value": "{core.spacing.300}",
                   "type": "spacing"
                 }
               },
@@ -2533,7 +2533,7 @@
                 "type": "spacing"
               },
               "md": {
-                "value": "{core.spacing.300}",
+                "value": "{core.spacing.1200}",
                 "type": "spacing"
               }
             },
@@ -2591,7 +2591,7 @@
                 "type": "spacing"
               },
               "md": {
-                "value": "{core.spacing.200}",
+                "value": "{core.spacing.600}",
                 "type": "spacing"
               }
             },
