@@ -2054,7 +2054,7 @@
                       "fontSize": "{core.typography.fontSize.100}",
                       "lineHeight": "{core.typography.lineHeight.140}",
                       "textDecoration": "{core.typography.textDecoration.default}",
-                      "fontWeight": "{core.jupiterCore.fontWeight.400}",
+                      "fontWeight": "{core.donaldduckCore.fontWeight.400}",
                       "textCase": "{core.typography.textCase.default}"
                     },
                     "type": "typography"
@@ -2066,7 +2066,7 @@
                         "fontSize": "{core.typography.fontSize.100}",
                         "lineHeight": "{core.typography.lineHeight.140}",
                         "textDecoration": "{core.typography.textDecoration.underline}",
-                        "fontWeight": "{core.jupiterCore.fontWeight.400}",
+                        "fontWeight": "{core.donaldduckCore.fontWeight.400}",
                         "textCase": "{core.typography.textCase.default}"
                       },
                       "type": "typography"
