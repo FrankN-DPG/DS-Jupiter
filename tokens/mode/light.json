@@ -1112,6 +1112,18 @@
             }
           }
         }
+      },
+      "carousel": {
+        "imageContainer": {
+          "background": {
+            "color": {
+              "default": {
+                "value": "{alias.brand.carousel.imageContainer.background.color.default}",
+                "type": "color"
+              }
+            }
+          }
+        }
       }
     }
   }

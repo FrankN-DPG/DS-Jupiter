@@ -2639,6 +2639,44 @@
             }
           }
         }
+      },
+      "carousel": {
+        "spacing": {
+          "vertical": {
+            "content": {
+              "gap": {
+                "default": {
+                  "value": "{core.spacing.200}",
+                  "type": "spacing"
+                },
+                "md": {
+                  "value": "{core.spacing.300}",
+                  "type": "spacing"
+                }
+              }
+            }
+          },
+          "horizontal": {
+            "content": {
+              "gap": {
+                "md": {
+                  "value": "{core.spacing.600}",
+                  "type": "spacing"
+                }
+              }
+            }
+          }
+        },
+        "imageContainer": {
+          "background": {
+            "color": {
+              "default": {
+                "value": "{core.jupiterCore.color.matisse.100}",
+                "type": "color"
+              }
+            }
+          }
+        }
       }
     }
   }
