@@ -2,6 +2,7 @@
   "tokenSetOrder": [
     "component/blockHeader",
     "component/button",
+    "component/carousel",
     "component/divider",
     "component/footer",
     "component/icon",

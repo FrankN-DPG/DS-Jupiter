@@ -24,7 +24,8 @@
       "component/iconButton": "enabled",
       "component/navBar": "enabled",
       "component/navMenu": "enabled",
-      "component/footer": "enabled"
+      "component/footer": "enabled",
+      "component/carousel": "enabled"
     },
     "group": "brand"
   },
@@ -53,7 +54,8 @@
       "component/iconButton": "enabled",
       "component/navBar": "enabled",
       "component/navMenu": "enabled",
-      "component/footer": "enabled"
+      "component/footer": "enabled",
+      "component/carousel": "enabled"
     },
     "group": "brand"
   },
@@ -82,7 +84,8 @@
       "component/iconButton": "enabled",
       "component/navBar": "enabled",
       "component/navMenu": "enabled",
-      "component/footer": "enabled"
+      "component/footer": "enabled",
+      "component/carousel": "enabled"
     },
     "group": "brand"
   },
@@ -111,7 +114,8 @@
       "component/iconButton": "enabled",
       "component/navBar": "enabled",
       "component/navMenu": "enabled",
-      "component/footer": "enabled"
+      "component/footer": "enabled",
+      "component/carousel": "enabled"
     },
     "group": "brand"
   },
@@ -140,7 +144,8 @@
       "component/iconButton": "enabled",
       "component/navBar": "enabled",
       "component/navMenu": "enabled",
-      "component/footer": "enabled"
+      "component/footer": "enabled",
+      "component/carousel": "enabled"
     },
     "group": "brand"
   },
@@ -169,7 +174,8 @@
       "component/iconButton": "enabled",
       "component/navBar": "enabled",
       "component/navMenu": "enabled",
-      "component/footer": "enabled"
+      "component/footer": "enabled",
+      "component/carousel": "enabled"
     },
     "group": "brand"
   },
@@ -198,7 +204,8 @@
       "component/iconButton": "enabled",
       "component/navBar": "enabled",
       "component/navMenu": "enabled",
-      "component/footer": "enabled"
+      "component/footer": "enabled",
+      "component/carousel": "enabled"
     },
     "group": "brand"
   },
@@ -207,7 +214,8 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled"
+      "mode/light": "enabled",
+      "component/carousel": "disabled"
     },
     "group": "mode"
   },
@@ -236,7 +244,8 @@
       "alias/donaldduck": "enabled",
       "core/donaldduckCore": "source",
       "core/core": "source",
-      "component/footer": "enabled"
+      "component/footer": "enabled",
+      "component/carousel": "enabled"
     },
     "group": "brand"
   }
