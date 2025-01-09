@@ -2690,6 +2690,14 @@
             },
             "type": "border"
           }
+        },
+        "wrapper": {
+          "maxWidth": {
+            "md": {
+              "value": "1016px",
+              "type": "sizing"
+            }
+          }
         }
       }
     }

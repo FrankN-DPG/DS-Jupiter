@@ -61,6 +61,14 @@
           }
         }
       }
+    },
+    "wrapper": {
+      "maxWidth": {
+        "md": {
+          "value": "{alias.brand.carousel.wrapper.maxWidth.md}",
+          "type": "sizing"
+        }
+      }
     }
   }
 }
