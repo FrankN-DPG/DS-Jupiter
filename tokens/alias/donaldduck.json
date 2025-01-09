@@ -748,7 +748,7 @@
           "background": {
             "color": {
               "default": {
-                "value": "{core.color.neutral.100}",
+                "value": "{core.color.neutral.1000}",
                 "type": "color"
               }
             }
