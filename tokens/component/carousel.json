@@ -1,0 +1,74 @@
+{
+  "carousel": {
+    "spacing": {
+      "vertical": {
+        "content": {
+          "gap": {
+            "default": {
+              "value": "{alias.brand.carousel.spacing.vertical.content.gap.default}",
+              "type": "spacing"
+            },
+            "md": {
+              "value": "{alias.brand.carousel.spacing.vertical.content.gap.md}",
+              "type": "spacing"
+            }
+          }
+        }
+      },
+      "horizontal": {
+        "content": {
+          "gap": {
+            "md": {
+              "value": "{alias.brand.carousel.spacing.horizontal.content.gap.md}",
+              "type": "spacing"
+            }
+          }
+        }
+      }
+    },
+    "imageContainer": {
+      "background": {
+        "color": {
+          "default": {
+            "value": "{alias.mode.carousel.imageContainer.background.color.default}",
+            "type": "color"
+          }
+        }
+      },
+      "borderRadius": {
+        "value": "{alias.brand.carousel.imageContainer.borderRadius}",
+        "type": "borderRadius"
+      },
+      "borderWidth": {
+        "value": "{alias.brand.carousel.imageContainer.borderWidth}",
+        "type": "borderWidth"
+      },
+      "borderColor": {
+        "value": "{alias.mode.carousel.imageContainer.borderColor}",
+        "type": "border"
+      }
+    },
+    "text": {
+      "typography": {
+        "imageNumber": {
+          "default": {
+            "value": "{alias.brand.typography.textStyles.body.s}",
+            "type": "typography"
+          },
+          "md": {
+            "value": "{alias.brand.typography.textStyles.body.l}",
+            "type": "typography"
+          }
+        }
+      }
+    },
+    "wrapper": {
+      "maxWidth": {
+        "md": {
+          "value": "{alias.brand.carousel.wrapper.maxWidth.md}",
+          "type": "sizing"
+        }
+      }
+    }
+  }
+}
