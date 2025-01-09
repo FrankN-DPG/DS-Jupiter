@@ -34,6 +34,32 @@
             "type": "color"
           }
         }
+      },
+      "borderRadius": {
+        "value": "{alias.brand.carousel.imageContainer.borderRadius}",
+        "type": "borderRadius"
+      },
+      "borderWidth": {
+        "value": "{alias.brand.carousel.imageContainer.borderWidth}",
+        "type": "borderWidth"
+      },
+      "borderColor": {
+        "value": "{alias.mode.carousel.imageContainer.borderColor}",
+        "type": "border"
+      }
+    },
+    "text": {
+      "typography": {
+        "imageNumber": {
+          "default": {
+            "value": "{alias.brand.typography.textStyles.body.s}",
+            "type": "typography"
+          },
+          "md": {
+            "value": "{alias.brand.typography.textStyles.body.l}",
+            "type": "typography"
+          }
+        }
       }
     }
   }
