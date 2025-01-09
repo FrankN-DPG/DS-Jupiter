@@ -2671,7 +2671,7 @@
           "background": {
             "color": {
               "default": {
-                "value": "{core.jupiterCore.color.matisse.100}",
+                "value": "{core.color.neutral.300}",
                 "type": "color"
               }
             }
