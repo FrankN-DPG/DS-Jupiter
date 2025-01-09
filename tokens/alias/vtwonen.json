@@ -753,7 +753,7 @@
             }
           },
           "borderRadius": {
-            "value": "{core.shape.radius.100}",
+            "value": "{core.shape.radius.0}",
             "type": "borderRadius"
           },
           "borderWidth": {
