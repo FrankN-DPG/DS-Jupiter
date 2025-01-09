@@ -707,6 +707,66 @@
           }
         }
       },
+      "carousel": {
+        "spacing": {
+          "vertical": {
+            "content": {
+              "gap": {
+                "default": {
+                  "value": "{core.spacing.200}",
+                  "type": "spacing"
+                },
+                "md": {
+                  "value": "{core.spacing.300}",
+                  "type": "spacing"
+                }
+              }
+            }
+          },
+          "horizontal": {
+            "content": {
+              "gap": {
+                "md": {
+                  "value": "{core.spacing.600}",
+                  "type": "spacing"
+                }
+              }
+            }
+          }
+        },
+        "imageContainer": {
+          "background": {
+            "color": {
+              "default": {
+                "value": "{core.color.neutral.300}",
+                "type": "color"
+              }
+            }
+          },
+          "borderRadius": {
+            "value": "{core.shape.radius.100}",
+            "type": "borderRadius"
+          },
+          "borderWidth": {
+            "value": "{core.shape.borderWidth.0}",
+            "type": "borderWidth"
+          },
+          "borderColor": {
+            "value": {
+              "color": "none"
+            },
+            "type": "border"
+          }
+        },
+        "wrapper": {
+          "maxWidth": {
+            "md": {
+              "value": "1016px",
+              "type": "sizing"
+            }
+          }
+        }
+      },
       "divider": {
         "color": {
           "default": {
