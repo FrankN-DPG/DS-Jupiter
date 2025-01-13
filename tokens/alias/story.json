@@ -83,6 +83,124 @@
           }
         }
       },
+      "border": {
+        "button": {
+          "default": {
+            "value": {
+              "color": "{core.storyCore.color.alizarinCrimson.600}"
+            },
+            "type": "border"
+          },
+          "hover": {
+            "value": {
+              "color": "{core.storyCore.color.alizarinCrimson.800}"
+            },
+            "type": "border"
+          },
+          "focus": {
+            "value": {
+              "color": "{core.color.semantic.focus}"
+            },
+            "type": "border"
+          },
+          "disabled": {
+            "value": {
+              "color": "{core.color.neutral.500}"
+            },
+            "type": "border"
+          },
+          "inverted": {
+            "value": {
+              "color": "{core.color.neutral.100}"
+            },
+            "type": "border"
+          },
+          "none": {
+            "value": {
+              "color": "none"
+            },
+            "type": "border"
+          }
+        },
+        "iconButton": {
+          "color": {
+            "none": {
+              "value": {
+                "color": "none"
+              },
+              "type": "border"
+            },
+            "focus": {
+              "value": "{core.color.semantic.focus}",
+              "type": "border"
+            }
+          }
+        },
+        "navItem": {
+          "none": {
+            "value": "none",
+            "type": "border"
+          },
+          "focus": {
+            "value": "{core.color.semantic.focus}",
+            "type": "border"
+          }
+        },
+        "singleCard": {
+          "image": {
+            "color": {
+              "value": "{core.storyCore.color.turbo.600}",
+              "type": "border"
+            }
+          },
+          "content": {
+            "color": {
+              "value": {
+                "color": ""
+              },
+              "type": "border"
+            }
+          }
+        },
+        "singleShoppingCard": {
+          "content": {
+            "color": {
+              "value": {
+                "color": ""
+              },
+              "type": "border"
+            }
+          }
+        },
+        "showcaseContentBlock": {
+          "content": {
+            "color": {
+              "value": "{core.storyCore.color.cornflower.800}",
+              "type": "border"
+            }
+          }
+        },
+        "showcaseImageBlock": {
+          "image": {
+            "color": {
+              "value": {
+                "color": "none"
+              },
+              "type": "border"
+            }
+          }
+        },
+        "teaser": {
+          "singleCard": {
+            "image": {
+              "color": {
+                "value": "none",
+                "type": "border"
+              }
+            }
+          }
+        }
+      },
       "button": {
         "spacing": {
           "gap": {
@@ -1958,124 +2076,6 @@
             "color": {
               "value": "{core.color.neutral.100}",
               "type": "color"
-            }
-          }
-        }
-      },
-      "border": {
-        "button": {
-          "default": {
-            "value": {
-              "color": "{core.storyCore.color.alizarinCrimson.600}"
-            },
-            "type": "border"
-          },
-          "hover": {
-            "value": {
-              "color": "{core.storyCore.color.alizarinCrimson.800}"
-            },
-            "type": "border"
-          },
-          "focus": {
-            "value": {
-              "color": "{core.color.semantic.focus}"
-            },
-            "type": "border"
-          },
-          "disabled": {
-            "value": {
-              "color": "{core.color.neutral.500}"
-            },
-            "type": "border"
-          },
-          "inverted": {
-            "value": {
-              "color": "{core.color.neutral.100}"
-            },
-            "type": "border"
-          },
-          "none": {
-            "value": {
-              "color": "none"
-            },
-            "type": "border"
-          }
-        },
-        "iconButton": {
-          "color": {
-            "none": {
-              "value": {
-                "color": "none"
-              },
-              "type": "border"
-            },
-            "focus": {
-              "value": "{core.color.semantic.focus}",
-              "type": "border"
-            }
-          }
-        },
-        "navItem": {
-          "none": {
-            "value": "none",
-            "type": "border"
-          },
-          "focus": {
-            "value": "{core.color.semantic.focus}",
-            "type": "border"
-          }
-        },
-        "singleCard": {
-          "image": {
-            "color": {
-              "value": "{core.storyCore.color.turbo.600}",
-              "type": "border"
-            }
-          },
-          "content": {
-            "color": {
-              "value": {
-                "color": ""
-              },
-              "type": "border"
-            }
-          }
-        },
-        "singleShoppingCard": {
-          "content": {
-            "color": {
-              "value": {
-                "color": ""
-              },
-              "type": "border"
-            }
-          }
-        },
-        "showcaseContentBlock": {
-          "content": {
-            "color": {
-              "value": "{core.storyCore.color.cornflower.800}",
-              "type": "border"
-            }
-          }
-        },
-        "showcaseImageBlock": {
-          "image": {
-            "color": {
-              "value": {
-                "color": "none"
-              },
-              "type": "border"
-            }
-          }
-        },
-        "teaser": {
-          "singleCard": {
-            "image": {
-              "color": {
-                "value": "none",
-                "type": "border"
-              }
             }
           }
         }

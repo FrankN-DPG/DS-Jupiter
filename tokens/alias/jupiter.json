@@ -2339,6 +2339,16 @@
               }
             }
           },
+          "singleCard": {
+            "default": {
+              "value": "{alias.brand.typography.textStyles.body.s}",
+              "type": "typography"
+            },
+            "md": {
+              "value": "{alias.brand.typography.textStyles.body.s}",
+              "type": "typography"
+            }
+          },
           "tabItem": {
             "default": {
               "value": {
@@ -2371,16 +2381,6 @@
                 "fontWeight": "{core.jupiterCore.fontWeight.primary.600}",
                 "textCase": "{core.typography.textCase.uppercase}"
               },
-              "type": "typography"
-            }
-          },
-          "singleCard": {
-            "default": {
-              "value": "{alias.brand.typography.textStyles.body.s}",
-              "type": "typography"
-            },
-            "md": {
-              "value": "{alias.brand.typography.textStyles.body.s}",
               "type": "typography"
             }
           },
