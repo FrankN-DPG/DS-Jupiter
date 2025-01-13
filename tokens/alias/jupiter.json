@@ -2730,6 +2730,12 @@
               "value": "{core.spacing.50}",
               "type": "spacing"
             }
+          },
+          "direction": {
+            "default": {
+              "value": "{core.spacing.300}",
+              "type": "spacing"
+            }
           }
         },
         "borderRadius": {
