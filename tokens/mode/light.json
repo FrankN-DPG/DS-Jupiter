@@ -1130,6 +1130,24 @@
             "type": "border"
           }
         }
+      },
+      "toggletip": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.toggletip.background.color.default}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.toggletip.text.color.default}",
+              "type": "color"
+            }
+          }
+        }
       }
     }
   }

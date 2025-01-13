@@ -1,0 +1,40 @@
+{
+  "toggletip": {
+    "spacing": {
+      "vertical": {
+        "value": "{alias.brand.toggletip.spacing.vertical}",
+        "type": "spacing"
+      },
+      "horizontal": {
+        "value": "{alias.brand.toggletip.spacing.horizontal}",
+        "type": "spacing"
+      },
+      "content": {
+        "gap": {
+          "value": "{alias.brand.toggletip.spacing.content.gap}",
+          "type": "spacing"
+        }
+      }
+    },
+    "borderRadius": {
+      "value": "{alias.brand.toggletip.borderRadius}",
+      "type": "borderRadius"
+    },
+    "background": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.toggletip.background.color.default}",
+          "type": "color"
+        }
+      }
+    },
+    "text": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.toggletip.text.color.default}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
