@@ -18,6 +18,7 @@
     "component/tabItem",
     "component/teaser",
     "component/toast",
+    "component/toggletip",
     "mode/light",
     "alias/businesswise",
     "alias/deondernemer",

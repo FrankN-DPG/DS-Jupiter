@@ -83,6 +83,124 @@
           }
         }
       },
+      "border": {
+        "button": {
+          "default": {
+            "value": {
+              "color": "{core.jupiterCore.color.matisse.600}"
+            },
+            "type": "border"
+          },
+          "hover": {
+            "value": {
+              "color": "{core.jupiterCore.color.matisse.800}"
+            },
+            "type": "border"
+          },
+          "focus": {
+            "value": {
+              "color": "{core.color.semantic.focus}"
+            },
+            "type": "border"
+          },
+          "disabled": {
+            "value": {
+              "color": "{core.color.neutral.500}"
+            },
+            "type": "border"
+          },
+          "inverted": {
+            "value": {
+              "color": "{core.color.neutral.100}"
+            },
+            "type": "border"
+          },
+          "none": {
+            "value": {
+              "color": "none"
+            },
+            "type": "border"
+          }
+        },
+        "iconButton": {
+          "color": {
+            "none": {
+              "value": {
+                "color": "none"
+              },
+              "type": "border"
+            },
+            "focus": {
+              "value": "{core.color.semantic.focus}",
+              "type": "border"
+            }
+          }
+        },
+        "navItem": {
+          "none": {
+            "value": "none",
+            "type": "border"
+          },
+          "focus": {
+            "value": "{core.color.semantic.focus}",
+            "type": "border"
+          }
+        },
+        "singleCard": {
+          "image": {
+            "color": {
+              "value": "none",
+              "type": "border"
+            }
+          },
+          "content": {
+            "color": {
+              "value": {
+                "color": ""
+              },
+              "type": "border"
+            }
+          }
+        },
+        "singleShoppingCard": {
+          "content": {
+            "color": {
+              "value": {
+                "color": ""
+              },
+              "type": "border"
+            }
+          }
+        },
+        "showcaseContentBlock": {
+          "content": {
+            "color": {
+              "value": "none",
+              "type": "border"
+            }
+          }
+        },
+        "showcaseImageBlock": {
+          "image": {
+            "color": {
+              "value": {
+                "color": "none"
+              },
+              "type": "border"
+            }
+          }
+        },
+        "teaser": {
+          "singleCard": {
+            "image": {
+              "color": {
+                "value": "none",
+                "type": "border"
+              }
+            }
+          }
+        }
+      },
       "button": {
         "spacing": {
           "gap": {
@@ -91,7 +209,7 @@
           },
           "vertical": {
             "s": {
-              "value": "{core.spacing.100}",
+              "value": "{core.spacing.150}",
               "type": "spacing"
             },
             "m": {
@@ -101,7 +219,7 @@
           },
           "horizontal": {
             "s": {
-              "value": "{core.spacing.100}",
+              "value": "{core.spacing.150}",
               "type": "spacing"
             },
             "m": {
@@ -1962,120 +2080,46 @@
           }
         }
       },
-      "border": {
-        "button": {
-          "default": {
-            "value": {
-              "color": "{core.jupiterCore.color.matisse.600}"
-            },
-            "type": "border"
+      "toggletip": {
+        "spacing": {
+          "vertical": {
+            "value": "{core.spacing.200}",
+            "type": "spacing"
           },
-          "hover": {
-            "value": {
-              "color": "{core.jupiterCore.color.matisse.800}"
-            },
-            "type": "border"
+          "horizontal": {
+            "value": "{core.spacing.200}",
+            "type": "spacing"
           },
-          "focus": {
-            "value": {
-              "color": "{core.color.semantic.focus}"
-            },
-            "type": "border"
+          "content": {
+            "gap": {
+              "value": "{core.spacing.50}",
+              "type": "spacing"
+            }
           },
-          "disabled": {
-            "value": {
-              "color": "{core.color.neutral.500}"
-            },
-            "type": "border"
-          },
-          "inverted": {
-            "value": {
-              "color": "{core.color.neutral.100}"
-            },
-            "type": "border"
-          },
-          "none": {
-            "value": {
-              "color": "none"
-            },
-            "type": "border"
+          "direction": {
+            "default": {
+              "value": "{core.spacing.300}",
+              "type": "spacing"
+            }
           }
         },
-        "iconButton": {
+        "borderRadius": {
+          "value": "{core.shape.radius.200}",
+          "type": "borderRadius"
+        },
+        "background": {
           "color": {
-            "none": {
-              "value": {
-                "color": "none"
-              },
-              "type": "border"
-            },
-            "focus": {
-              "value": "{core.color.semantic.focus}",
-              "type": "border"
+            "default": {
+              "value": "{core.jupiterCore.color.matisse.600}",
+              "type": "color"
             }
           }
         },
-        "navItem": {
-          "none": {
-            "value": "none",
-            "type": "border"
-          },
-          "focus": {
-            "value": "{core.color.semantic.focus}",
-            "type": "border"
-          }
-        },
-        "singleCard": {
-          "image": {
-            "color": {
-              "value": "none",
-              "type": "border"
-            }
-          },
-          "content": {
-            "color": {
-              "value": {
-                "color": ""
-              },
-              "type": "border"
-            }
-          }
-        },
-        "singleShoppingCard": {
-          "content": {
-            "color": {
-              "value": {
-                "color": ""
-              },
-              "type": "border"
-            }
-          }
-        },
-        "showcaseContentBlock": {
-          "content": {
-            "color": {
-              "value": "none",
-              "type": "border"
-            }
-          }
-        },
-        "showcaseImageBlock": {
-          "image": {
-            "color": {
-              "value": {
-                "color": "none"
-              },
-              "type": "border"
-            }
-          }
-        },
-        "teaser": {
-          "singleCard": {
-            "image": {
-              "color": {
-                "value": "none",
-                "type": "border"
-              }
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
             }
           }
         }
@@ -2295,6 +2339,16 @@
               }
             }
           },
+          "singleCard": {
+            "default": {
+              "value": "{alias.brand.typography.textStyles.body.s}",
+              "type": "typography"
+            },
+            "md": {
+              "value": "{alias.brand.typography.textStyles.body.s}",
+              "type": "typography"
+            }
+          },
           "tabItem": {
             "default": {
               "value": {
@@ -2330,14 +2384,19 @@
               "type": "typography"
             }
           },
-          "singleCard": {
-            "default": {
-              "value": "{alias.brand.typography.textStyles.body.s}",
-              "type": "typography"
-            },
-            "md": {
-              "value": "{alias.brand.typography.textStyles.body.s}",
-              "type": "typography"
+          "toggletip": {
+            "title": {
+              "default": {
+                "value": {
+                  "fontFamily": "{core.jupiterCore.font.primary}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.primary.600}",
+                  "fontSize": "{core.typography.fontSize.120}",
+                  "lineHeight": "{core.typography.lineHeight.140}",
+                  "textCase": "{core.typography.textCase.default}",
+                  "textDecoration": "{core.typography.textDecoration.default}"
+                },
+                "type": "typography"
+              }
             }
           }
         },
@@ -2647,7 +2706,7 @@
               "value": {
                 "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontWeight": "{core.jupiterCore.fontWeight.700}",
-                "fontSize": "{core.typography.fontSize.80}",
+                "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.default}"
               },
@@ -2669,7 +2728,7 @@
               "value": {
                 "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontWeight": "{core.jupiterCore.fontWeight.700}",
-                "fontSize": "{core.typography.fontSize.80}",
+                "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.underline}"
               },
