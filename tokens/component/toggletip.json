@@ -34,6 +34,20 @@
           "value": "{alias.mode.toggletip.text.color.default}",
           "type": "color"
         }
+      },
+      "typography": {
+        "description": {
+          "default": {
+            "value": "{alias.brand.typography.textStyles.body.s}",
+            "type": "typography"
+          }
+        },
+        "title": {
+          "default": {
+            "value": "{alias.brand.typography.component.toggletip.title.default}",
+            "type": "typography"
+          }
+        }
       }
     }
   }

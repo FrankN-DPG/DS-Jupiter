@@ -2339,6 +2339,21 @@
               "value": "{alias.brand.typography.textStyles.body.s}",
               "type": "typography"
             }
+          },
+          "toggletip": {
+            "title": {
+              "default": {
+                "value": {
+                  "fontFamily": "{core.jupiterCore.font.primary}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.primary.600}",
+                  "fontSize": "{core.typography.fontSize.120}",
+                  "lineHeight": "{core.typography.lineHeight.140}",
+                  "textCase": "{core.typography.textCase.default}",
+                  "textDecoration": "{core.typography.textDecoration.default}"
+                },
+                "type": "typography"
+              }
+            }
           }
         },
         "textStyles": {
