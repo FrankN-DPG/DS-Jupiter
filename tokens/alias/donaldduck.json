@@ -2087,6 +2087,50 @@
           }
         }
       },
+      "toggletip": {
+        "spacing": {
+          "vertical": {
+            "value": "{core.spacing.200}",
+            "type": "spacing"
+          },
+          "horizontal": {
+            "value": "{core.spacing.200}",
+            "type": "spacing"
+          },
+          "content": {
+            "gap": {
+              "value": "{core.spacing.50}",
+              "type": "spacing"
+            }
+          },
+          "direction": {
+            "default": {
+              "value": "{core.spacing.300}",
+              "type": "spacing"
+            }
+          }
+        },
+        "borderRadius": {
+          "value": "{core.shape.radius.200}",
+          "type": "borderRadius"
+        },
+        "background": {
+          "color": {
+            "default": {
+              "value": "{core.donaldduckCore.color.skyBlue.600}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.donaldduckCore.color.pencilDark.600}",
+              "type": "color"
+            }
+          }
+        }
+      },
       "typography": {
         "component": {
           "footer": {
@@ -2134,37 +2178,6 @@
                   }
                 }
               }
-            }
-          },
-          "teaser": {
-            "default": {
-              "value": {
-                "fontFamily": "{core.donaldduckCore.font.accent}",
-                "fontSize": "{core.typography.fontSize.110}",
-                "lineHeight": "{core.typography.lineHeight.140}",
-                "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.donaldduckCore.fontWeight.700}",
-                "textCase": "{core.typography.textCase.default}"
-              },
-              "type": "typography"
-            },
-            "md": {
-              "value": "{alias.brand.typography.textStyles.heading3.l}",
-              "type": "typography"
-            },
-            "category": {
-              "value": "{alias.brand.typography.textStyles.captionAlt.s}",
-              "type": "typography"
-            }
-          },
-          "showcaseSingle": {
-            "default": {
-              "value": "{alias.brand.typography.textStyles.heading1.s}",
-              "type": "typography"
-            },
-            "md": {
-              "value": "{alias.brand.typography.textStyles.heading1.l}",
-              "type": "typography"
             }
           },
           "navItem": {
@@ -2309,6 +2322,40 @@
               }
             }
           },
+          "showcaseSingle": {
+            "default": {
+              "value": "{alias.brand.typography.textStyles.heading1.s}",
+              "type": "typography"
+            },
+            "md": {
+              "value": "{alias.brand.typography.textStyles.heading1.l}",
+              "type": "typography"
+            }
+          },
+          "singleCard": {
+            "default": {
+              "value": {
+                "fontFamily": "{core.donaldduckCore.font.accent}",
+                "fontSize": "{core.typography.fontSize.110}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.donaldduckCore.fontWeight.700}",
+                "textCase": "{core.typography.textCase.uppercase}"
+              },
+              "type": "typography"
+            },
+            "md": {
+              "value": {
+                "fontFamily": "{core.donaldduckCore.font.accent}",
+                "fontSize": "{core.typography.fontSize.120}",
+                "lineHeight": "{core.typography.lineHeight.130}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.donaldduckCore.fontWeight.700}",
+                "textCase": "{core.typography.textCase.uppercase}"
+              },
+              "type": "typography"
+            }
+          },
           "tabItem": {
             "default": {
               "value": {
@@ -2344,7 +2391,7 @@
               "type": "typography"
             }
           },
-          "singleCard": {
+          "teaser": {
             "default": {
               "value": {
                 "fontFamily": "{core.donaldduckCore.font.accent}",
@@ -2352,20 +2399,32 @@
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "fontWeight": "{core.donaldduckCore.fontWeight.700}",
-                "textCase": "{core.typography.textCase.uppercase}"
+                "textCase": "{core.typography.textCase.default}"
               },
               "type": "typography"
             },
             "md": {
-              "value": {
-                "fontFamily": "{core.donaldduckCore.font.accent}",
-                "fontSize": "{core.typography.fontSize.120}",
-                "lineHeight": "{core.typography.lineHeight.130}",
-                "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.donaldduckCore.fontWeight.700}",
-                "textCase": "{core.typography.textCase.uppercase}"
-              },
+              "value": "{alias.brand.typography.textStyles.heading3.l}",
               "type": "typography"
+            },
+            "category": {
+              "value": "{alias.brand.typography.textStyles.captionAlt.s}",
+              "type": "typography"
+            }
+          },
+          "toggletip": {
+            "title": {
+              "default": {
+                "value": {
+                  "fontFamily": "{core.donaldduckCore.font.primary}",
+                  "fontWeight": "{core.donaldduckCore.fontWeight.700}",
+                  "fontSize": "{core.typography.fontSize.120}",
+                  "lineHeight": "{core.typography.lineHeight.140}",
+                  "textCase": "{core.typography.textCase.default}",
+                  "textDecoration": "{core.typography.textDecoration.default}"
+                },
+                "type": "typography"
+              }
             }
           }
         },
