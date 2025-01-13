@@ -209,7 +209,7 @@
           },
           "vertical": {
             "s": {
-              "value": "{core.spacing.100}",
+              "value": "{core.spacing.150}",
               "type": "spacing"
             },
             "m": {
@@ -219,7 +219,7 @@
           },
           "horizontal": {
             "s": {
-              "value": "{core.spacing.100}",
+              "value": "{core.spacing.150}",
               "type": "spacing"
             },
             "m": {
@@ -2730,7 +2730,7 @@
               "value": {
                 "fontFamily": "{core.kidsweekCore.font.accent}",
                 "fontWeight": "{core.kidsweekCore.fontWeight.400}",
-                "fontSize": "{core.typography.fontSize.80}",
+                "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.default}"
               },
@@ -2752,7 +2752,7 @@
               "value": {
                 "fontFamily": "{core.kidsweekCore.font.accent}",
                 "fontWeight": "{core.kidsweekCore.fontWeight.400}",
-                "fontSize": "{core.typography.fontSize.80}",
+                "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.underline}"
               },
