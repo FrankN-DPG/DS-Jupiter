@@ -170,7 +170,7 @@
             "type": "typography"
           },
           "md": {
-            "value": "{alias.brand.typography.textStyles.body.l}",
+            "value": "{alias.brand.typography.component.footer.bottomFooter.text.typography.default}",
             "type": "typography"
           },
           "link": {
@@ -179,7 +179,7 @@
               "type": "typography"
             },
             "md": {
-              "value": "{alias.brand.typography.textStyles.body.l}",
+              "value": "{alias.brand.typography.component.footer.bottomFooter.text.typography.link.default}",
               "type": "typography"
             }
           }
