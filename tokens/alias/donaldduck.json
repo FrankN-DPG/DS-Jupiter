@@ -1113,7 +1113,7 @@
           }
         },
         "borderRadius": {
-          "value": "1000px",
+          "value": "40px",
           "type": "borderRadius"
         }
       },
