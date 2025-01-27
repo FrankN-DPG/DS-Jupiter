@@ -17,6 +17,48 @@
         "value": "{alias.brand.icon.size.xl}",
         "type": "sizing"
       }
+    },
+    "spacing": {
+      "vertical": {
+        "s": {
+          "value": "{alias.brand.icon.spacing.vertical.s}",
+          "type": "spacing"
+        },
+        "m": {
+          "value": "{alias.brand.icon.spacing.vertical.m}",
+          "type": "spacing"
+        },
+        "l": {
+          "value": "{alias.brand.icon.spacing.vertical.l}",
+          "type": "spacing"
+        },
+        "xl": {
+          "value": "{alias.brand.icon.spacing.vertical.xl}",
+          "type": "spacing"
+        }
+      },
+      "horizontal": {
+        "s": {
+          "value": "{alias.brand.icon.spacing.horizontal.s}",
+          "type": "spacing"
+        },
+        "m": {
+          "value": "{alias.brand.icon.spacing.horizontal.m}",
+          "type": "spacing"
+        },
+        "l": {
+          "value": "{alias.brand.icon.spacing.horizontal.l}",
+          "type": "spacing"
+        },
+        "xl": {
+          "value": "{alias.brand.icon.spacing.horizontal.xl}",
+          "type": "spacing"
+        }
+      }
+    },
+    "borderRadius": {
+      "value": "{alias.brand.icon.borderRadius}",
+      "type": "borderRadius"
     }
   }
 }
