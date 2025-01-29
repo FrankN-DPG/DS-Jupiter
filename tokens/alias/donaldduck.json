@@ -1257,7 +1257,7 @@
               "type": "spacing"
             },
             "md": {
-              "value": "{core.spacing.200}",
+              "value": "{core.spacing.600}",
               "type": "spacing"
             }
           },
