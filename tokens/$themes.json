@@ -26,7 +26,9 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled"
+      "component/toggletip": "enabled",
+      "core/flairCore": "disabled",
+      "alias/flair": "disabled"
     },
     "group": "brand"
   },
@@ -57,7 +59,9 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled"
+      "component/toggletip": "enabled",
+      "core/flairCore": "disabled",
+      "alias/flair": "disabled"
     },
     "group": "brand"
   },
@@ -88,7 +92,9 @@
       "core/core": "source",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled"
+      "component/toggletip": "enabled",
+      "core/flairCore": "disabled",
+      "alias/flair": "disabled"
     },
     "group": "brand"
   },
@@ -119,7 +125,9 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled"
+      "component/toggletip": "enabled",
+      "core/flairCore": "disabled",
+      "alias/flair": "disabled"
     },
     "group": "brand"
   },
@@ -150,7 +158,9 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled"
+      "component/toggletip": "enabled",
+      "core/flairCore": "disabled",
+      "alias/flair": "disabled"
     },
     "group": "brand"
   },
@@ -181,7 +191,9 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled"
+      "component/toggletip": "enabled",
+      "core/flairCore": "disabled",
+      "alias/flair": "disabled"
     },
     "group": "brand"
   },
@@ -212,7 +224,9 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled"
+      "component/toggletip": "enabled",
+      "core/flairCore": "disabled",
+      "alias/flair": "disabled"
     },
     "group": "brand"
   },
@@ -243,7 +257,9 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled"
+      "component/toggletip": "enabled",
+      "core/flairCore": "disabled",
+      "alias/flair": "disabled"
     },
     "group": "brand"
   },
@@ -252,8 +268,41 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled"
+      "mode/light": "enabled",
+      "core/flairCore": "disabled",
+      "alias/flair": "disabled"
     },
     "group": "mode"
+  },
+  {
+    "id": "10e080a4e72c842027568c713705f0d9e3e19a3d",
+    "name": "flair",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component/blockHeader": "enabled",
+      "component/button": "enabled",
+      "component/carousel": "enabled",
+      "component/divider": "enabled",
+      "component/footer": "enabled",
+      "component/icon": "enabled",
+      "component/iconButton": "enabled",
+      "component/label": "enabled",
+      "component/logo": "enabled",
+      "component/navBar": "enabled",
+      "component/navItem": "enabled",
+      "component/navMenu": "enabled",
+      "component/overlay": "enabled",
+      "component/showcase": "enabled",
+      "component/subNav": "enabled",
+      "component/tabItem": "enabled",
+      "component/teaser": "enabled",
+      "component/toast": "enabled",
+      "component/toggletip": "enabled",
+      "mode/light": "enabled",
+      "core/core": "source",
+      "core/flairCore": "source",
+      "alias/flair": "enabled"
+    },
+    "group": "brand"
   }
 ]
