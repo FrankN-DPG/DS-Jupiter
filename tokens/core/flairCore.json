@@ -87,6 +87,28 @@
           }
         }
       },
+      "fontWeight": {
+        "300": {
+          "value": "Light",
+          "type": "fontWeights"
+        },
+        "400": {
+          "value": "Regular",
+          "type": "fontWeights"
+        },
+        "600": {
+          "value": "SemiBold",
+          "type": "fontWeights"
+        },
+        "700": {
+          "value": "Bold",
+          "type": "fontWeights"
+        },
+        "800": {
+          "value": "Black",
+          "type": "fontWeights"
+        }
+      },
       "font": {
         "primary": {
           "value": "Acumin Pro",
@@ -107,34 +129,6 @@
         "quinary": {
           "value": "Acumin Pro Condensed",
           "type": "fontFamilies"
-        }
-      }
-    },
-    "jupiterCore": {
-      "fontWeight": {
-        "300": {
-          "value": "Light",
-          "type": "fontWeights"
-        },
-        "400": {
-          "value": "Regular",
-          "type": "fontWeights"
-        },
-        "700": {
-          "value": "Bold",
-          "type": "fontWeights"
-        },
-        "primary": {
-          "600": {
-            "value": "Semibold",
-            "type": "fontWeights"
-          }
-        },
-        "accent": {
-          "600": {
-            "value": "SemiBold",
-            "type": "fontWeights"
-          }
         }
       }
     }

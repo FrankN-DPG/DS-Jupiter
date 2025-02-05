@@ -28,7 +28,8 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled"
     },
-    "group": "brand"
+    "group": "brand",
+    "$figmaVariableReferences": {}
   },
   {
     "id": "040757937cd7ae91815c777ee8b25bdd38f6f430",
@@ -59,7 +60,8 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled"
     },
-    "group": "brand"
+    "group": "brand",
+    "$figmaVariableReferences": {}
   },
   {
     "id": "b8e59a127b8c150140e3142a8b0cbadf749b883a",
@@ -90,7 +92,8 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled"
     },
-    "group": "brand"
+    "group": "brand",
+    "$figmaVariableReferences": {}
   },
   {
     "id": "a8c5b2af70f92cad804c5aec857fb8c1b627a149",
@@ -121,7 +124,8 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled"
     },
-    "group": "brand"
+    "group": "brand",
+    "$figmaVariableReferences": {}
   },
   {
     "id": "fdb2387857da92adea0b447d1f594bddcbdada07",
@@ -152,7 +156,8 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled"
     },
-    "group": "brand"
+    "group": "brand",
+    "$figmaVariableReferences": {}
   },
   {
     "id": "104d80b78836beeefc00d4dc563585722ef1e530",
@@ -183,7 +188,8 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled"
     },
-    "group": "brand"
+    "group": "brand",
+    "$figmaVariableReferences": {}
   },
   {
     "id": "69bc91387361c8500429f6c504d23f9e1e835388",
@@ -214,7 +220,8 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled"
     },
-    "group": "brand"
+    "group": "brand",
+    "$figmaVariableReferences": {}
   },
   {
     "id": "3aa804b84803a0a68ea1c52eb704062eb42dfea8",
@@ -245,7 +252,8 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled"
     },
-    "group": "brand"
+    "group": "brand",
+    "$figmaVariableReferences": {}
   },
   {
     "id": "c7498735bb2ddec524d181b38efffd7c98f3d883",
@@ -254,7 +262,8 @@
     "selectedTokenSets": {
       "mode/light": "enabled"
     },
-    "group": "mode"
+    "group": "mode",
+    "$figmaVariableReferences": {}
   },
   {
     "id": "10e080a4e72c842027568c713705f0d9e3e19a3d",
@@ -285,6 +294,7 @@
       "core/flairCore": "source",
       "alias/flair": "enabled"
     },
-    "group": "brand"
+    "group": "brand",
+    "$figmaVariableReferences": {}
   }
 ]
