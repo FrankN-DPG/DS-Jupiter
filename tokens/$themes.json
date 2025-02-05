@@ -26,9 +26,7 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled",
-      "core/flairCore": "disabled",
-      "alias/flair": "disabled"
+      "component/toggletip": "enabled"
     },
     "group": "brand"
   },
@@ -59,9 +57,7 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled",
-      "core/flairCore": "disabled",
-      "alias/flair": "disabled"
+      "component/toggletip": "enabled"
     },
     "group": "brand"
   },
@@ -92,9 +88,7 @@
       "core/core": "source",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled",
-      "core/flairCore": "disabled",
-      "alias/flair": "disabled"
+      "component/toggletip": "enabled"
     },
     "group": "brand"
   },
@@ -125,9 +119,7 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled",
-      "core/flairCore": "disabled",
-      "alias/flair": "disabled"
+      "component/toggletip": "enabled"
     },
     "group": "brand"
   },
@@ -158,9 +150,7 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled",
-      "core/flairCore": "disabled",
-      "alias/flair": "disabled"
+      "component/toggletip": "enabled"
     },
     "group": "brand"
   },
@@ -191,9 +181,7 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled",
-      "core/flairCore": "disabled",
-      "alias/flair": "disabled"
+      "component/toggletip": "enabled"
     },
     "group": "brand"
   },
@@ -224,9 +212,7 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled",
-      "core/flairCore": "disabled",
-      "alias/flair": "disabled"
+      "component/toggletip": "enabled"
     },
     "group": "brand"
   },
@@ -257,9 +243,7 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled",
-      "core/flairCore": "disabled",
-      "alias/flair": "disabled"
+      "component/toggletip": "enabled"
     },
     "group": "brand"
   },
@@ -268,9 +252,7 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled",
-      "core/flairCore": "disabled",
-      "alias/flair": "disabled"
+      "mode/light": "enabled"
     },
     "group": "mode"
   },
