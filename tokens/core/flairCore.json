@@ -107,6 +107,24 @@
         "800": {
           "value": "Black",
           "type": "fontWeights"
+        },
+        "tertiary": {
+          "300": {
+            "value": "45 Light",
+            "type": "fontWeights"
+          },
+          "400": {
+            "value": "55 Roman",
+            "type": "fontWeights"
+          },
+          "700": {
+            "value": "75 Bold",
+            "type": "fontWeights"
+          },
+          "800": {
+            "value": "85 Heavy",
+            "type": "fontWeights"
+          }
         }
       },
       "font": {
