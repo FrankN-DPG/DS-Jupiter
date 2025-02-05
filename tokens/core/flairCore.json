@@ -86,6 +86,28 @@
             "type": "color"
           }
         }
+      },
+      "font": {
+        "primary": {
+          "value": "Acumin Pro",
+          "type": "fontFamilies"
+        },
+        "secondary": {
+          "value": "Miamo",
+          "type": "fontFamilies"
+        },
+        "tertiary": {
+          "value": "Caecilia LT Std",
+          "type": "fontFamilies"
+        },
+        "quaternary": {
+          "value": "Acumin Pro Wide",
+          "type": "fontFamilies"
+        },
+        "quinary": {
+          "value": "Acumin Pro Condensed",
+          "type": "fontFamilies"
+        }
       }
     },
     "jupiterCore": {
@@ -113,16 +135,6 @@
             "value": "SemiBold",
             "type": "fontWeights"
           }
-        }
-      },
-      "font": {
-        "primary": {
-          "value": "Proxima Nova",
-          "type": "fontFamilies"
-        },
-        "accent": {
-          "value": "Noto Serif",
-          "type": "fontFamilies"
         }
       }
     }
