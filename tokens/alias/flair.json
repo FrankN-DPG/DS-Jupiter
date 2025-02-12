@@ -231,7 +231,7 @@
           }
         },
         "radius": {
-          "value": "{core.shape.radius.100}",
+          "value": "{core.shape.radius.0}",
           "type": "borderRadius"
         },
         "border": {
@@ -250,19 +250,19 @@
           "background": {
             "color": {
               "default": {
-                "value": "{core.flairCore.color.softCream.600}",
+                "value": "{core.flairCore.color.jadeGreen.600}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.flairCore.color.softCream.800}",
+                "value": "{core.flairCore.color.jadeGreen.800}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.flairCore.color.softCream.800}",
+                "value": "{core.flairCore.color.jadeGreen.800}",
                 "type": "color"
               },
               "focus": {
-                "value": "{core.flairCore.color.softCream.600}",
+                "value": "{core.flairCore.color.jadeGreen.600}",
                 "type": "color"
               },
               "disabled": {
@@ -2740,21 +2740,23 @@
           "button": {
             "l": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.flairCore.font.quinary}",
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.800}"
+                "fontWeight": "{core.flairCore.fontWeight.800}",
+                "textCase": "{core.typography.textCase.uppercase}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.flairCore.font.quinary}",
                 "fontWeight": "{core.flairCore.fontWeight.800}",
                 "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.100}",
-                "textDecoration": "{core.typography.textDecoration.default}"
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "textCase": "{core.typography.textCase.uppercase}"
               },
               "type": "typography"
             }
@@ -2762,21 +2764,23 @@
           "buttonAlt": {
             "l": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.flairCore.font.quinary}",
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.underline}",
-                "fontWeight": "{core.flairCore.fontWeight.800}"
+                "fontWeight": "{core.flairCore.fontWeight.800}",
+                "textCase": "{core.typography.textCase.uppercase}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.flairCore.font.quinary}",
                 "fontWeight": "{core.flairCore.fontWeight.800}",
                 "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.100}",
-                "textDecoration": "{core.typography.textDecoration.underline}"
+                "textDecoration": "{core.typography.textDecoration.underline}",
+                "textCase": "{core.typography.textCase.uppercase}"
               },
               "type": "typography"
             }
