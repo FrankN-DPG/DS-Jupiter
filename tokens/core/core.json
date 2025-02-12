@@ -234,6 +234,52 @@
           "value": "underline",
           "type": "textDecoration"
         }
+      },
+      "letterSpacing": {
+        "50": {
+          "value": "0.5%",
+          "type": "letterSpacing"
+        },
+        "100": {
+          "value": "1%",
+          "type": "letterSpacing"
+        },
+        "200": {
+          "value": "2%",
+          "type": "letterSpacing"
+        },
+        "300": {
+          "value": "3%",
+          "type": "letterSpacing"
+        },
+        "400": {
+          "value": "4%",
+          "type": "letterSpacing"
+        },
+        "500": {
+          "value": "5%",
+          "type": "letterSpacing"
+        },
+        "600": {
+          "value": "6%",
+          "type": "letterSpacing"
+        },
+        "700": {
+          "value": "7%",
+          "type": "letterSpacing"
+        },
+        "800": {
+          "value": "8%",
+          "type": "letterSpacing"
+        },
+        "900": {
+          "value": "9%",
+          "type": "letterSpacing"
+        },
+        "1000": {
+          "value": "10%",
+          "type": "letterSpacing"
+        }
       }
     },
     "spacing": {
