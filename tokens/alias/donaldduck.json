@@ -28,7 +28,7 @@
             }
           },
           "vertical": {
-            "value": "{core.spacing.0}",
+            "value": "{core.spacing.150}",
             "type": "spacing"
           },
           "horizontal": {
