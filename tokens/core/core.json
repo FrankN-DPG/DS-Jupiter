@@ -140,6 +140,18 @@
           "value": "44px",
           "type": "fontSizes"
         },
+        "250": {
+          "value": "46px",
+          "type": "fontSizes"
+        },
+        "260": {
+          "value": "48px",
+          "type": "fontSizes"
+        },
+        "300": {
+          "value": "56px",
+          "type": "fontSizes"
+        },
         "340": {
           "value": "64px",
           "type": "fontSizes"
