@@ -201,6 +201,14 @@
               }
             }
           }
+        },
+        "label": {
+          "color": {
+            "value": {
+              "color": "{core.color.neutral.1000}"
+            },
+            "type": "border"
+          }
         }
       },
       "button": {
@@ -873,7 +881,7 @@
             }
           },
           "borderRadius": {
-            "value": "{core.shape.radius.100}",
+            "value": "{core.shape.radius.0}",
             "type": "borderRadius"
           },
           "borderWidth": {
@@ -1200,6 +1208,10 @@
             "value": "{core.spacing.50}",
             "type": "spacing"
           }
+        },
+        "border": {
+          "value": "{core.shape.borderWidth.100}",
+          "type": "borderWidth"
         }
       },
       "logo": {

@@ -1051,6 +1051,12 @@
               "type": "border"
             }
           }
+        },
+        "label": {
+          "color": {
+            "value": "{alias.brand.border.label.color}",
+            "type": "border"
+          }
         }
       },
       "footer": {

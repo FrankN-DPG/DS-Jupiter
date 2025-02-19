@@ -29,6 +29,14 @@
         "value": "{alias.brand.typography.textStyles.label.s}",
         "type": "typography"
       }
+    },
+    "border": {
+      "value": "{alias.brand.label.border}",
+      "type": "borderWidth"
+    },
+    "borderColor": {
+      "value": "{alias.mode.border.label.color}",
+      "type": "border"
     }
   }
 }
