@@ -138,6 +138,14 @@
             }
           }
         },
+        "label": {
+          "color": {
+            "value": {
+              "color": "none"
+            },
+            "type": "border"
+          }
+        },
         "navItem": {
           "none": {
             "value": "none",
@@ -1209,6 +1217,10 @@
             "value": "{core.spacing.100}",
             "type": "spacing"
           }
+        },
+        "border": {
+          "value": "{core.shape.borderWidth.0}",
+          "type": "borderWidth"
         }
       },
       "logo": {

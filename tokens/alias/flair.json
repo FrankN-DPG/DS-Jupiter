@@ -138,6 +138,14 @@
             }
           }
         },
+        "label": {
+          "color": {
+            "value": {
+              "color": "{core.color.neutral.1000}"
+            },
+            "type": "border"
+          }
+        },
         "navItem": {
           "none": {
             "value": "none",
@@ -200,14 +208,6 @@
                 "type": "border"
               }
             }
-          }
-        },
-        "label": {
-          "color": {
-            "value": {
-              "color": "{core.color.neutral.1000}"
-            },
-            "type": "border"
           }
         }
       },
