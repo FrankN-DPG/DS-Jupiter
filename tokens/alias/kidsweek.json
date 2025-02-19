@@ -2207,6 +2207,16 @@
                   },
                   "type": "typography"
                 }
+              },
+              "title": {
+                "default": {
+                  "value": "{alias.brand.typography.textStyles.heading2.s}",
+                  "type": "typography"
+                },
+                "md": {
+                  "value": "{alias.brand.typography.textStyles.heading2.l}",
+                  "type": "typography"
+                }
               }
             },
             "bottomFooter": {
