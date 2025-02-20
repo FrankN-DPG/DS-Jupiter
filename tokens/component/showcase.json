@@ -226,8 +226,14 @@
     },
     "image": {
       "border": {
-        "value": "{alias.brand.singleCard.image.border}",
-        "type": "borderWidth"
+        "horizontal": {
+          "value": "{alias.brand.singleCard.image.border.horizontal}",
+          "type": "borderWidth"
+        },
+        "vertical": {
+          "value": "{alias.brand.singleCard.image.border.vertical}",
+          "type": "borderWidth"
+        }
       },
       "color": {
         "value": "{alias.mode.border.singleCard.image.border.color}",
@@ -236,8 +242,14 @@
     },
     "content": {
       "border": {
-        "value": "{alias.brand.singleCard.content.border}",
-        "type": "borderWidth"
+        "horizontal": {
+          "value": "{alias.brand.singleCard.content.border.horizontal}",
+          "type": "borderWidth"
+        },
+        "vertical": {
+          "value": "{alias.brand.singleCard.content.border.vertical}",
+          "type": "borderWidth"
+        }
       },
       "color": {
         "value": "{alias.mode.border.singleCard.content.color}",

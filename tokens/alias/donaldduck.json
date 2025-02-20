@@ -1758,8 +1758,14 @@
         },
         "image": {
           "border": {
-            "value": "{core.shape.borderWidth.100}",
-            "type": "borderWidth"
+            "horizontal": {
+              "value": "{core.shape.borderWidth.100}",
+              "type": "borderWidth"
+            },
+            "vertical": {
+              "value": "{core.shape.borderWidth.100}",
+              "type": "borderWidth"
+            }
           }
         },
         "borderRadius": {
@@ -1768,8 +1774,14 @@
         },
         "content": {
           "border": {
-            "value": "{core.shape.borderWidth.100}",
-            "type": "borderWidth"
+            "horizontal": {
+              "value": "{core.shape.borderWidth.100}",
+              "type": "borderWidth"
+            },
+            "vertical": {
+              "value": "{core.shape.borderWidth.100}",
+              "type": "borderWidth"
+            }
           }
         }
       },
