@@ -159,14 +159,16 @@
         "singleCard": {
           "image": {
             "color": {
-              "value": "none",
+              "value": {
+                "color": "{core.color.neutral.1000}"
+              },
               "type": "border"
             }
           },
           "content": {
             "color": {
               "value": {
-                "color": ""
+                "color": "{core.color.neutral.1000}"
               },
               "type": "border"
             }
@@ -1744,14 +1746,14 @@
         "background": {
           "color": {
             "default": {
-              "value": "{core.flairCore.color.softCream.100}",
+              "value": "{core.color.neutral.100}",
               "type": "color"
             }
           }
         },
         "image": {
           "border": {
-            "value": "{core.shape.borderWidth.0}",
+            "value": "{core.shape.borderWidth.200}",
             "type": "borderWidth"
           }
         },
@@ -1761,7 +1763,7 @@
         },
         "content": {
           "border": {
-            "value": "{core.shape.borderWidth.0}",
+            "value": "{core.shape.borderWidth.200}",
             "type": "borderWidth"
           }
         }
@@ -2430,11 +2432,25 @@
           },
           "singleCard": {
             "default": {
-              "value": "{alias.brand.typography.textStyles.body.s}",
+              "value": {
+                "fontFamily": "{core.flairCore.font.quinary}",
+                "fontSize": "{core.typography.fontSize.140}",
+                "lineHeight": "{core.typography.lineHeight.120}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.flairCore.fontWeight.400}",
+                "textCase": "{core.typography.textCase.default}"
+              },
               "type": "typography"
             },
             "md": {
-              "value": "{alias.brand.typography.textStyles.body.s}",
+              "value": {
+                "fontFamily": "{core.flairCore.font.quinary}",
+                "fontSize": "{core.typography.fontSize.140}",
+                "lineHeight": "{core.typography.lineHeight.120}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.flairCore.fontWeight.400}",
+                "textCase": "{core.typography.textCase.default}"
+              },
               "type": "typography"
             }
           },
