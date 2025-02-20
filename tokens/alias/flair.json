@@ -2160,13 +2160,13 @@
           }
         },
         "borderRadius": {
-          "value": "{core.shape.radius.200}",
+          "value": "{core.shape.radius.0}",
           "type": "borderRadius"
         },
         "background": {
           "color": {
             "default": {
-              "value": "{core.flairCore.color.softCream.600}",
+              "value": "{core.color.neutral.1000}",
               "type": "color"
             }
           }
@@ -2478,11 +2478,12 @@
               "default": {
                 "value": {
                   "fontFamily": "{core.flairCore.font.primary}",
-                  "fontWeight": "{core.flairCore.fontWeight.600}",
+                  "fontWeight": "{core.flairCore.fontWeight.700}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textCase": "{core.typography.textCase.default}",
-                  "textDecoration": "{core.typography.textDecoration.default}"
+                  "textDecoration": "{core.typography.textDecoration.default}",
+                  "letterSpacing": "{core.typography.letterSpacing.200}"
                 },
                 "type": "typography"
               }
