@@ -1479,7 +1479,7 @@
             },
             "vertical": {
               "default": {
-                "value": "{core.spacing.200}",
+                "value": "{core.spacing.150}",
                 "type": "spacing"
               },
               "md": {
