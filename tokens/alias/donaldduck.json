@@ -208,6 +208,16 @@
               "type": "border"
             }
           }
+        },
+        "carousel": {
+          "imageContainer": {
+            "borderColor": {
+              "value": {
+                "color": "none"
+              },
+              "type": "border"
+            }
+          }
         }
       },
       "button": {
@@ -886,12 +896,6 @@
           "borderWidth": {
             "value": "{core.shape.borderWidth.0}",
             "type": "borderWidth"
-          },
-          "borderColor": {
-            "value": {
-              "color": "none"
-            },
-            "type": "border"
           }
         },
         "wrapper": {
