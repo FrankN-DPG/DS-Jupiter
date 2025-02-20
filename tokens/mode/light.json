@@ -1130,9 +1130,7 @@
             }
           },
           "borderColor": {
-            "value": {
-              "color": "{alias.brand.carousel.imageContainer.borderColor}"
-            },
+            "value": "{alias.brand.carousel.imageContainer.borderColor}",
             "type": "border"
           }
         }

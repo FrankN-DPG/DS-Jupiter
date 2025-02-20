@@ -1543,7 +1543,7 @@
           "background": {
             "color": {
               "default": {
-                "value": "{core.flairCore.color.softCream.100}",
+                "value": "{core.flairCore.color.softCream.600}",
                 "type": "color"
               }
             }
