@@ -62,8 +62,14 @@
     },
     "content": {
       "border": {
-        "value": "{alias.brand.showcaseContentBlock.content.border}",
-        "type": "borderWidth"
+        "horizontal": {
+          "value": "{alias.brand.showcaseContentBlock.content.border.horizontal}",
+          "type": "borderWidth"
+        },
+        "vertical": {
+          "value": "{alias.brand.showcaseContentBlock.content.border.vertical}",
+          "type": "borderWidth"
+        }
       },
       "color": {
         "value": "{alias.mode.border.showcaseContentBlock.content.color}",

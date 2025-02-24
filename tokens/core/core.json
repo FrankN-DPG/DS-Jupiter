@@ -534,6 +534,10 @@
           "value": "4px",
           "type": "borderWidth"
         },
+        "600": {
+          "value": "6px",
+          "type": "borderWidth"
+        },
         "800": {
           "value": "8px",
           "type": "borderWidth"

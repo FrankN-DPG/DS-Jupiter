@@ -1605,8 +1605,14 @@
         },
         "content": {
           "border": {
-            "value": "{core.shape.borderWidth.200}",
-            "type": "borderWidth"
+            "horizontal": {
+              "value": "{core.shape.borderWidth.200}",
+              "type": "borderWidth"
+            },
+            "vertical": {
+              "value": "{core.shape.borderWidth.200}",
+              "type": "borderWidth"
+            }
           }
         }
       },
