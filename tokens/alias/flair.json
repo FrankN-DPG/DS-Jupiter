@@ -17,7 +17,7 @@
           },
           "content": {
             "gap": {
-              "value": "{core.spacing.400}",
+              "value": "{core.spacing.300}",
               "type": "spacing"
             }
           },
@@ -1746,7 +1746,7 @@
         "background": {
           "color": {
             "default": {
-              "value": "{core.color.neutral.100}",
+              "value": "{core.flairCore.color.softCream.600}",
               "type": "color"
             }
           }
