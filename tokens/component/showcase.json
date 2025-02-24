@@ -80,8 +80,14 @@
   "showcaseImageBlock": {
     "image": {
       "border": {
-        "value": "{alias.brand.showcaseImageBlock.image.border}",
-        "type": "borderWidth"
+        "horizontal": {
+          "value": "{alias.brand.showcaseImageBlock.image.border.horizontal}",
+          "type": "borderWidth"
+        },
+        "vertical": {
+          "value": "{alias.brand.showcaseImageBlock.image.border.vertical}",
+          "type": "borderWidth"
+        }
       },
       "color": {
         "value": "{alias.mode.border.showcaseImageBlock.image.color}",

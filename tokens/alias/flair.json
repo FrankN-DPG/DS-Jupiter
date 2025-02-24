@@ -187,7 +187,9 @@
         "showcaseContentBlock": {
           "content": {
             "color": {
-              "value": "none",
+              "value": {
+                "color": "{core.color.neutral.1000}"
+              },
               "type": "border"
             }
           }
@@ -196,7 +198,7 @@
           "image": {
             "color": {
               "value": {
-                "color": "none"
+                "color": "{core.color.neutral.1000}"
               },
               "type": "border"
             }
@@ -1621,8 +1623,14 @@
       "showcaseImageBlock": {
         "image": {
           "border": {
-            "value": "{core.shape.borderWidth.0}",
-            "type": "borderWidth"
+            "horizontal": {
+              "value": "{core.shape.borderWidth.100}",
+              "type": "borderWidth"
+            },
+            "vertical": {
+              "value": "{core.shape.borderWidth.600}",
+              "type": "borderWidth"
+            }
           }
         }
       },
