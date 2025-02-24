@@ -178,7 +178,7 @@
           "content": {
             "color": {
               "value": {
-                "color": ""
+                "color": "{core.color.neutral.1000}"
               },
               "type": "border"
             }
@@ -1797,7 +1797,7 @@
       "singleShoppingCard": {
         "content": {
           "border": {
-            "value": "{core.shape.borderWidth.0}",
+            "value": "{core.shape.borderWidth.100}",
             "type": "borderWidth"
           }
         },
@@ -1826,7 +1826,7 @@
         "background": {
           "color": {
             "default": {
-              "value": "{core.flairCore.color.softCream.100}",
+              "value": "{core.flairCore.color.softCream.600}",
               "type": "color"
             }
           }
@@ -2487,6 +2487,19 @@
                 "fontFamily": "{core.flairCore.font.quinary}",
                 "fontSize": "{core.typography.fontSize.140}",
                 "lineHeight": "{core.typography.lineHeight.120}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.flairCore.fontWeight.400}",
+                "textCase": "{core.typography.textCase.default}"
+              },
+              "type": "typography"
+            }
+          },
+          "singleShoppingCard": {
+            "default": {
+              "value": {
+                "fontFamily": "{core.flairCore.font.quinary}",
+                "fontSize": "{core.typography.fontSize.120}",
+                "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "fontWeight": "{core.flairCore.fontWeight.400}",
                 "textCase": "{core.typography.textCase.default}"

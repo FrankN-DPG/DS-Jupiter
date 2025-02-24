@@ -300,7 +300,7 @@
     },
     "text": {
       "typography": {
-        "value": "{alias.brand.typography.textStyles.body.s}",
+        "value": "{alias.brand.typography.component.singleShoppingCard.default}",
         "type": "typography"
       },
       "color": {

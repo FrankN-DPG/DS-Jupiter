@@ -2474,6 +2474,12 @@
               "type": "typography"
             }
           },
+          "singleShoppingCard": {
+            "default": {
+              "value": "{alias.brand.typography.textStyles.body.s}",
+              "type": "typography"
+            }
+          },
           "toggletip": {
             "title": {
               "default": {
