@@ -1205,7 +1205,7 @@
         },
         "spacing": {
           "vertical": {
-            "value": "{core.spacing.100}",
+            "value": "{core.spacing.75}",
             "type": "spacing"
           },
           "horizontal": {
@@ -2930,7 +2930,8 @@
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "fontWeight": "{core.flairCore.fontWeight.800}",
-                "textCase": "{core.typography.textCase.uppercase}"
+                "textCase": "{core.typography.textCase.uppercase}",
+                "letterSpacing": "{core.typography.letterSpacing.100}"
               },
               "type": "typography"
             },
@@ -2941,7 +2942,8 @@
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "fontWeight": "{core.flairCore.fontWeight.800}",
-                "textCase": "{core.typography.textCase.uppercase}"
+                "textCase": "{core.typography.textCase.uppercase}",
+                "letterSpacing": "{core.typography.letterSpacing.100}"
               },
               "type": "typography"
             }
