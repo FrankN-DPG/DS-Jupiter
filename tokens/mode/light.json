@@ -588,6 +588,10 @@
           "default": {
             "value": "{alias.brand.divider.color.default}",
             "type": "color"
+          },
+          "alt": {
+            "value": "{alias.brand.divider.color.alt}",
+            "type": "color"
           }
         }
       },

@@ -28,6 +28,10 @@
       "default": {
         "value": "{alias.mode.divider.color.default}",
         "type": "color"
+      },
+      "alt": {
+        "value": "{alias.mode.divider.color.alt}",
+        "type": "color"
       }
     }
   }

@@ -909,6 +909,10 @@
           "default": {
             "value": "{core.color.neutral.700}",
             "type": "color"
+          },
+          "alt": {
+            "value": "{core.color.neutral.500}",
+            "type": "color"
           }
         }
       },
