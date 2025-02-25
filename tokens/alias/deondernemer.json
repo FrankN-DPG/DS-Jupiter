@@ -2501,11 +2501,11 @@
           },
           "teaserGrid": {
             "default": {
-              "value": "{alias.brand.typography.textStyles.heading4.s}",
+              "value": "{alias.brand.typography.textStyles.heading3.s}",
               "type": "typography"
             },
             "md": {
-              "value": "{alias.brand.typography.textStyles.heading4.l}",
+              "value": "{alias.brand.typography.textStyles.heading3.l}",
               "type": "typography"
             },
             "category": {
