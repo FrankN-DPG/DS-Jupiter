@@ -79,6 +79,24 @@
           }
         }
       }
+    },
+    "text": {
+      "typography": {
+        "title": {
+          "default": {
+            "value": "{alias.brand.typography.component.teaserGrid.default}",
+            "type": "typography"
+          },
+          "md": {
+            "value": "{alias.brand.typography.component.teaserGrid.md}",
+            "type": "typography"
+          },
+          "category": {
+            "value": "{alias.brand.typography.component.teaserGrid.category}",
+            "type": "typography"
+          }
+        }
+      }
     }
   },
   "teaserList": {

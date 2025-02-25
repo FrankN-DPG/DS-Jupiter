@@ -248,6 +248,10 @@
         }
       },
       "letterSpacing": {
+        "0": {
+          "value": "0%",
+          "type": "letterSpacing"
+        },
         "50": {
           "value": "0.5%",
           "type": "letterSpacing"

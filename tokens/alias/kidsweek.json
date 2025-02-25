@@ -2522,6 +2522,33 @@
                 "type": "typography"
               }
             }
+          },
+          "teaserGrid": {
+            "default": {
+              "value": "{alias.brand.typography.textStyles.heading3.s}",
+              "type": "typography"
+            },
+            "md": {
+              "value": {
+                "fontFamily": "{core.kidsweekCore.font.primary}",
+                "fontSize": "{core.typography.fontSize.130}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
+              },
+              "type": "typography"
+            },
+            "category": {
+              "value": {
+                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontSize": "{core.typography.fontSize.80}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.kidsweekCore.fontWeight.400}",
+                "textCase": "{core.typography.textCase.uppercase}"
+              },
+              "type": "typography"
+            }
           }
         },
         "textStyles": {

@@ -2526,6 +2526,27 @@
                 "type": "typography"
               }
             }
+          },
+          "teaserGrid": {
+            "default": {
+              "value": {
+                "fontFamily": "{core.donaldduckCore.font.accent}",
+                "fontSize": "{core.typography.fontSize.110}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.donaldduckCore.fontWeight.700}",
+                "textCase": "{core.typography.textCase.default}"
+              },
+              "type": "typography"
+            },
+            "md": {
+              "value": "{alias.brand.typography.textStyles.heading3.l}",
+              "type": "typography"
+            },
+            "category": {
+              "value": "{alias.brand.typography.textStyles.captionAlt.s}",
+              "type": "typography"
+            }
           }
         },
         "textStyles": {
