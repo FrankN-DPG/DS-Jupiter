@@ -2806,7 +2806,8 @@
                 "lineHeight": "{core.typography.lineHeight.130}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "fontWeight": "{core.flairCore.fontWeight.800}",
-                "textCase": "{core.typography.textCase.default}"
+                "textCase": "{core.typography.textCase.default}",
+                "letterSpacing": "{core.typography.letterSpacing.200}"
               },
               "type": "typography"
             },
@@ -2817,7 +2818,8 @@
                 "lineHeight": "{core.typography.lineHeight.130}",
                 "textDecoration": "{core.typography.textDecoration.default}",
                 "fontWeight": "{core.flairCore.fontWeight.800}",
-                "textCase": "{core.typography.textCase.default}"
+                "textCase": "{core.typography.textCase.default}",
+                "letterSpacing": "{core.typography.letterSpacing.200}"
               },
               "type": "typography"
             }
