@@ -1209,7 +1209,7 @@
         },
         "spacing": {
           "vertical": {
-            "value": "{core.spacing.75}",
+            "value": "{core.spacing.50}",
             "type": "spacing"
           },
           "horizontal": {
