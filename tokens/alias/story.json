@@ -1218,6 +1218,20 @@
           "type": "borderWidth"
         }
       },
+      "labelPremium": {
+        "background": {
+          "color": {
+            "value": "{core.storyCore.color.alizarinCrimson.600}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "color": {
+            "value": "{core.color.neutral.100}",
+            "type": "color"
+          }
+        }
+      },
       "logo": {
         "size": {
           "xs": {

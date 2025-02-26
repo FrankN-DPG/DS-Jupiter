@@ -1222,6 +1222,20 @@
           "type": "borderWidth"
         }
       },
+      "labelPremium": {
+        "background": {
+          "color": {
+            "value": "{core.color.neutral.1000}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "color": {
+            "value": "{core.color.neutral.100}",
+            "type": "color"
+          }
+        }
+      },
       "logo": {
         "size": {
           "xs": {
@@ -2979,20 +2993,6 @@
               },
               "type": "typography"
             }
-          }
-        }
-      },
-      "labelPremium": {
-        "background": {
-          "color": {
-            "value": "{core.color.neutral.1000}",
-            "type": "color"
-          }
-        },
-        "text": {
-          "color": {
-            "value": "{core.color.neutral.100}",
-            "type": "color"
           }
         }
       }
