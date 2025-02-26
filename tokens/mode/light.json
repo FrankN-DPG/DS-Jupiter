@@ -1156,6 +1156,20 @@
             }
           }
         }
+      },
+      "labelPremium": {
+        "background": {
+          "color": {
+            "value": "{alias.brand.labelPremium.background.color}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "color": {
+            "value": "{alias.brand.labelPremium.text.color}",
+            "type": "color"
+          }
+        }
       }
     }
   }

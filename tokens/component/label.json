@@ -38,5 +38,19 @@
       "value": "{alias.mode.border.label.color}",
       "type": "border"
     }
+  },
+  "labelPremium": {
+    "background": {
+      "color": {
+        "value": "{alias.mode.labelPremium.background.color}",
+        "type": "color"
+      }
+    },
+    "text": {
+      "color": {
+        "value": "{alias.mode.labelPremium.text.color}",
+        "type": "color"
+      }
+    }
   }
 }

@@ -2981,6 +2981,20 @@
             }
           }
         }
+      },
+      "labelPremium": {
+        "background": {
+          "color": {
+            "value": "{core.color.neutral.1000}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "color": {
+            "value": "{core.color.neutral.100}",
+            "type": "color"
+          }
+        }
       }
     }
   }
