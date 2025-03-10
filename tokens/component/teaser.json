@@ -39,6 +39,16 @@
             "value": "{alias.brand.typography.component.teaser.category}",
             "type": "typography"
           }
+        },
+        "focusTitle": {
+          "default": {
+            "value": "{alias.brand.typography.component.teaser.focusTitle.default}",
+            "type": "typography"
+          },
+          "md": {
+            "value": "{alias.brand.typography.component.teaser.focusTitle.md}",
+            "type": "typography"
+          }
         }
       },
       "color": {
