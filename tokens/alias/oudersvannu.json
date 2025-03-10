@@ -2480,6 +2480,16 @@
               "value": "{alias.brand.typography.textStyles.heading3.s}",
               "type": "typography"
             },
+            "focusTitle": {
+              "default": {
+                "value": "{alias.brand.typography.component.teaser.default}",
+                "type": "typography"
+              },
+              "md": {
+                "value": "{alias.brand.typography.component.teaser.md}",
+                "type": "typography"
+              }
+            },
             "md": {
               "value": "{alias.brand.typography.textStyles.heading3.l}",
               "type": "typography"
