@@ -87,13 +87,13 @@
         "button": {
           "default": {
             "value": {
-              "color": "{core.flairCore.color.softCream.600}"
+              "color": "{core.jupiterCore.color.matisse.600}"
             },
             "type": "border"
           },
           "hover": {
             "value": {
-              "color": "{core.flairCore.color.softCream.800}"
+              "color": "{core.jupiterCore.color.matisse.800}"
             },
             "type": "border"
           },
@@ -258,19 +258,19 @@
           "background": {
             "color": {
               "default": {
-                "value": "{core.flairCore.color.softCream.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.flairCore.color.softCream.800}",
+                "value": "{core.jupiterCore.color.matisse.800}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.flairCore.color.softCream.800}",
+                "value": "{core.jupiterCore.color.matisse.800}",
                 "type": "color"
               },
               "focus": {
-                "value": "{core.flairCore.color.softCream.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "disabled": {
@@ -335,11 +335,11 @@
                   "type": "color"
                 },
                 "hover": {
-                  "value": "{core.flairCore.color.softCream.100}",
+                  "value": "{core.jupiterCore.color.matisse.100}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{core.flairCore.color.softCream.100}",
+                  "value": "{core.jupiterCore.color.matisse.100}",
                   "type": "color"
                 },
                 "focus": {
@@ -351,19 +351,19 @@
             "text": {
               "color": {
                 "default": {
-                  "value": "{core.flairCore.color.softCream.600}",
+                  "value": "{core.jupiterCore.color.matisse.600}",
                   "type": "color"
                 },
                 "hover": {
-                  "value": "{core.flairCore.color.softCream.800}",
+                  "value": "{core.jupiterCore.color.matisse.800}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{core.flairCore.color.softCream.800}",
+                  "value": "{core.jupiterCore.color.matisse.800}",
                   "type": "color"
                 },
                 "focus": {
-                  "value": "{core.flairCore.color.softCream.600}",
+                  "value": "{core.jupiterCore.color.matisse.600}",
                   "type": "color"
                 }
               }
@@ -371,19 +371,19 @@
             "icon": {
               "color": {
                 "default": {
-                  "value": "{core.flairCore.color.softCream.600}",
+                  "value": "{core.jupiterCore.color.matisse.600}",
                   "type": "color"
                 },
                 "hover": {
-                  "value": "{core.flairCore.color.softCream.800}",
+                  "value": "{core.jupiterCore.color.matisse.800}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{core.flairCore.color.softCream.800}",
+                  "value": "{core.jupiterCore.color.matisse.800}",
                   "type": "color"
                 },
                 "focus": {
-                  "value": "{core.flairCore.color.softCream.600}",
+                  "value": "{core.jupiterCore.color.matisse.600}",
                   "type": "color"
                 }
               }
@@ -394,19 +394,19 @@
           "background": {
             "color": {
               "default": {
-                "value": "{core.flairCore.color.jadeGreen.600}",
+                "value": "{core.jupiterCore.color.stiletto.600}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.flairCore.color.jadeGreen.800}",
+                "value": "{core.jupiterCore.color.stiletto.800}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.flairCore.color.jadeGreen.800}",
+                "value": "{core.jupiterCore.color.stiletto.800}",
                 "type": "color"
               },
               "focus": {
-                "value": "{core.flairCore.color.jadeGreen.600}",
+                "value": "{core.jupiterCore.color.stiletto.600}",
                 "type": "color"
               },
               "disabled": {
@@ -471,11 +471,11 @@
                   "type": "color"
                 },
                 "hover": {
-                  "value": "{core.flairCore.color.softCream.100}",
+                  "value": "{core.jupiterCore.color.matisse.100}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{core.flairCore.color.softCream.100}",
+                  "value": "{core.jupiterCore.color.matisse.100}",
                   "type": "color"
                 },
                 "focus": {
@@ -487,19 +487,19 @@
             "text": {
               "color": {
                 "default": {
-                  "value": "{core.flairCore.color.jadeGreen.600}",
+                  "value": "{core.jupiterCore.color.stiletto.600}",
                   "type": "color"
                 },
                 "hover": {
-                  "value": "{core.flairCore.color.jadeGreen.800}",
+                  "value": "{core.jupiterCore.color.stiletto.800}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{core.flairCore.color.jadeGreen.800}",
+                  "value": "{core.jupiterCore.color.stiletto.800}",
                   "type": "color"
                 },
                 "focus": {
-                  "value": "{core.flairCore.color.jadeGreen.600}",
+                  "value": "{core.jupiterCore.color.stiletto.600}",
                   "type": "color"
                 }
               }
@@ -507,19 +507,19 @@
             "icon": {
               "color": {
                 "default": {
-                  "value": "{core.flairCore.color.jadeGreen.600}",
+                  "value": "{core.jupiterCore.color.stiletto.600}",
                   "type": "color"
                 },
                 "hover": {
-                  "value": "{core.flairCore.color.jadeGreen.800}",
+                  "value": "{core.jupiterCore.color.stiletto.800}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{core.flairCore.color.jadeGreen.800}",
+                  "value": "{core.jupiterCore.color.stiletto.800}",
                   "type": "color"
                 },
                 "focus": {
-                  "value": "{core.flairCore.color.jadeGreen.600}",
+                  "value": "{core.jupiterCore.color.stiletto.600}",
                   "type": "color"
                 }
               }
@@ -534,11 +534,11 @@
                 "type": "color"
               },
               "hover": {
-                "value": "{core.flairCore.color.softCream.100}",
+                "value": "{core.jupiterCore.color.matisse.100}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.flairCore.color.softCream.100}",
+                "value": "{core.jupiterCore.color.matisse.100}",
                 "type": "color"
               },
               "focus": {
@@ -554,19 +554,19 @@
           "text": {
             "color": {
               "default": {
-                "value": "{core.flairCore.color.softCream.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.flairCore.color.softCream.800}",
+                "value": "{core.jupiterCore.color.matisse.800}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.flairCore.color.softCream.800}",
+                "value": "{core.jupiterCore.color.matisse.800}",
                 "type": "color"
               },
               "focus": {
-                "value": "{core.flairCore.color.softCream.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "disabled": {
@@ -578,19 +578,19 @@
           "icon": {
             "color": {
               "default": {
-                "value": "{core.flairCore.color.softCream.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.flairCore.color.softCream.800}",
+                "value": "{core.jupiterCore.color.matisse.800}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.flairCore.color.softCream.800}",
+                "value": "{core.jupiterCore.color.matisse.800}",
                 "type": "color"
               },
               "focus": {
-                "value": "{core.flairCore.color.softCream.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "disabled": {
@@ -688,7 +688,7 @@
                 "type": "color"
               },
               "hover": {
-                "value": "{core.flairCore.color.softCream.500}",
+                "value": "{core.jupiterCore.color.matisse.500}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -701,7 +701,7 @@
                 }
               },
               "pressed": {
-                "value": "{core.flairCore.color.softCream.100}",
+                "value": "{core.jupiterCore.color.matisse.100}",
                 "type": "color"
               },
               "focus": {
@@ -717,19 +717,19 @@
           "text": {
             "color": {
               "default": {
-                "value": "{core.flairCore.color.softCream.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.flairCore.color.softCream.800}",
+                "value": "{core.jupiterCore.color.matisse.800}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.flairCore.color.softCream.800}",
+                "value": "{core.jupiterCore.color.matisse.800}",
                 "type": "color"
               },
               "focus": {
-                "value": "{core.flairCore.color.softCream.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "disabled": {
@@ -741,19 +741,19 @@
           "icon": {
             "color": {
               "default": {
-                "value": "{core.flairCore.color.softCream.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.flairCore.color.softCream.800}",
+                "value": "{core.jupiterCore.color.matisse.800}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.flairCore.color.softCream.800}",
+                "value": "{core.jupiterCore.color.matisse.800}",
                 "type": "color"
               },
               "focus": {
-                "value": "{core.flairCore.color.softCream.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "disabled": {
@@ -1131,11 +1131,11 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.flairCore.color.softCream.600}",
+            "value": "{core.jupiterCore.color.matisse.600}",
             "type": "color"
           },
           "pressed": {
-            "value": "{core.flairCore.color.softCream.600}",
+            "value": "{core.jupiterCore.color.matisse.600}",
             "type": "color"
           },
           "focus": {
@@ -1152,11 +1152,11 @@
               "type": "color"
             },
             "hover": {
-              "value": "{core.flairCore.color.softCream.600}",
+              "value": "{core.jupiterCore.color.matisse.600}",
               "type": "color"
             },
             "pressed": {
-              "value": "{core.flairCore.color.softCream.600}",
+              "value": "{core.jupiterCore.color.matisse.600}",
               "type": "color"
             },
             "focus": {
@@ -1319,15 +1319,15 @@
                 "type": "color"
               },
               "hover": {
-                "value": "{core.flairCore.color.softCream.700}",
+                "value": "{core.jupiterCore.color.matisse.700}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.flairCore.color.softCream.700}",
+                "value": "{core.jupiterCore.color.matisse.700}",
                 "type": "color"
               },
               "active": {
-                "value": "{core.flairCore.color.softCream.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "subdued": {
@@ -1341,15 +1341,15 @@
                 "type": "color"
               },
               "hover": {
-                "value": "{core.flairCore.color.softCream.700}",
+                "value": "{core.jupiterCore.color.matisse.700}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.flairCore.color.softCream.700}",
+                "value": "{core.jupiterCore.color.matisse.700}",
                 "type": "color"
               },
               "active": {
-                "value": "{core.flairCore.color.softCream.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "subdued": {
@@ -1363,15 +1363,15 @@
                 "type": "color"
               },
               "hover": {
-                "value": "{core.flairCore.color.softCream.700}",
+                "value": "{core.jupiterCore.color.matisse.700}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.flairCore.color.softCream.700}",
+                "value": "{core.jupiterCore.color.matisse.700}",
                 "type": "color"
               },
               "active": {
-                "value": "{core.flairCore.color.softCream.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "subdued": {
@@ -1385,15 +1385,15 @@
                 "type": "color"
               },
               "hover": {
-                "value": "{core.flairCore.color.softCream.700}",
+                "value": "{core.jupiterCore.color.matisse.700}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.flairCore.color.softCream.700}",
+                "value": "{core.jupiterCore.color.matisse.700}",
                 "type": "color"
               },
               "active": {
-                "value": "{core.flairCore.color.softCream.600}",
+                "value": "{core.jupiterCore.color.matisse.600}",
                 "type": "color"
               },
               "subdued": {
@@ -1414,7 +1414,7 @@
         "icon": {
           "color": {
             "default": {
-              "value": "{core.flairCore.color.softCream.600}",
+              "value": "{core.jupiterCore.color.matisse.600}",
               "type": "color"
             },
             "subdued": {
@@ -1561,7 +1561,7 @@
           "background": {
             "color": {
               "default": {
-                "value": "{core.flairCore.color.softCream.100}",
+                "value": "{core.jupiterCore.color.matisse.100}",
                 "type": "color"
               }
             }
@@ -1774,7 +1774,7 @@
         "background": {
           "color": {
             "default": {
-              "value": "{core.flairCore.color.softCream.100}",
+              "value": "{core.jupiterCore.color.matisse.100}",
               "type": "color"
             }
           }
@@ -1840,7 +1840,7 @@
         "background": {
           "color": {
             "default": {
-              "value": "{core.flairCore.color.softCream.100}",
+              "value": "{core.jupiterCore.color.matisse.100}",
               "type": "color"
             }
           }
@@ -1862,11 +1862,11 @@
         "bottomBorder": {
           "color": {
             "default": {
-              "value": "{core.flairCore.color.softCream.600}",
+              "value": "{core.jupiterCore.color.matisse.600}",
               "type": "color"
             },
             "active": {
-              "value": "{core.flairCore.color.softCream.600}",
+              "value": "{core.jupiterCore.color.matisse.600}",
               "type": "color"
             }
           },
@@ -1894,11 +1894,11 @@
               "type": "color"
             },
             "hover": {
-              "value": "{core.flairCore.color.softCream.500}",
+              "value": "{core.jupiterCore.color.matisse.500}",
               "type": "color"
             },
             "active": {
-              "value": "{core.flairCore.color.softCream.500}",
+              "value": "{core.jupiterCore.color.matisse.500}",
               "type": "color"
             }
           }
@@ -2208,7 +2208,7 @@
         "background": {
           "color": {
             "default": {
-              "value": "{core.flairCore.color.softCream.600}",
+              "value": "{core.jupiterCore.color.matisse.600}",
               "type": "color"
             }
           }
@@ -2262,33 +2262,33 @@
             "navBar": {
               "default": {
                 "value": {
-                  "fontFamily": "{core.flairCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.default}",
-                  "fontWeight": "{core.flairCore.fontWeight.400}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.400}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
               },
               "underline": {
                 "value": {
-                  "fontFamily": "{core.flairCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.underline}",
-                  "fontWeight": "{core.flairCore.fontWeight.400}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.400}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
               },
               "bold": {
                 "value": {
-                  "fontFamily": "{core.flairCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.default}",
-                  "fontWeight": "{core.flairCore.fontWeight.600}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.primary.600}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
@@ -2297,33 +2297,33 @@
             "firstLevel": {
               "default": {
                 "value": {
-                  "fontFamily": "{core.flairCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.default}",
-                  "fontWeight": "{core.flairCore.fontWeight.400}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.400}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
               },
               "underline": {
                 "value": {
-                  "fontFamily": "{core.flairCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.underline}",
-                  "fontWeight": "{core.flairCore.fontWeight.400}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.400}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
               },
               "bold": {
                 "value": {
-                  "fontFamily": "{core.flairCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.default}",
-                  "fontWeight": "{core.flairCore.fontWeight.600}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.primary.600}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
@@ -2332,33 +2332,33 @@
             "secondLevel": {
               "default": {
                 "value": {
-                  "fontFamily": "{core.flairCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.default}",
-                  "fontWeight": "{core.flairCore.fontWeight.400}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.400}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
               },
               "underline": {
                 "value": {
-                  "fontFamily": "{core.flairCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.underline}",
-                  "fontWeight": "{core.flairCore.fontWeight.400}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.400}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
               },
               "bold": {
                 "value": {
-                  "fontFamily": "{core.flairCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.default}",
-                  "fontWeight": "{core.flairCore.fontWeight.600}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.primary.600}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
@@ -2367,33 +2367,33 @@
             "footer": {
               "default": {
                 "value": {
-                  "fontFamily": "{core.flairCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.default}",
-                  "fontWeight": "{core.flairCore.fontWeight.400}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.400}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
               },
               "underline": {
                 "value": {
-                  "fontFamily": "{core.flairCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.underline}",
-                  "fontWeight": "{core.flairCore.fontWeight.400}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.400}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
               },
               "bold": {
                 "value": {
-                  "fontFamily": "{core.flairCore.font.primary}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textDecoration": "{core.typography.textDecoration.default}",
-                  "fontWeight": "{core.flairCore.fontWeight.600}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.primary.600}",
                   "textCase": "{core.typography.textCase.default}"
                 },
                 "type": "typography"
@@ -2405,11 +2405,11 @@
               "sectionTitle": {
                 "default": {
                   "value": {
-                    "fontFamily": "{core.flairCore.font.primary}",
+                    "fontFamily": "{core.jupiterCore.font.primary}",
                     "fontSize": "{core.typography.fontSize.120}",
                     "lineHeight": "{core.typography.lineHeight.140}",
                     "textDecoration": "{core.typography.textDecoration.default}",
-                    "fontWeight": "{core.flairCore.fontWeight.700}",
+                    "fontWeight": "{core.jupiterCore.fontWeight.700}",
                     "textCase": "{core.typography.textCase.default}"
                   },
                   "type": "typography"
@@ -2435,7 +2435,7 @@
                       "fontSize": "{core.typography.fontSize.100}",
                       "lineHeight": "{core.typography.lineHeight.140}",
                       "textDecoration": "{core.typography.textDecoration.default}",
-                      "fontWeight": "{core.flairCore.fontWeight.400}",
+                      "fontWeight": "{core.jupiterCore.fontWeight.400}",
                       "textCase": "{core.typography.textCase.default}"
                     },
                     "type": "typography"
@@ -2447,7 +2447,7 @@
                         "fontSize": "{core.typography.fontSize.100}",
                         "lineHeight": "{core.typography.lineHeight.140}",
                         "textDecoration": "{core.typography.textDecoration.underline}",
-                        "fontWeight": "{core.flairCore.fontWeight.400}",
+                        "fontWeight": "{core.jupiterCore.fontWeight.400}",
                         "textCase": "{core.typography.textCase.default}"
                       },
                       "type": "typography"
@@ -2476,33 +2476,33 @@
           "tabItem": {
             "default": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.400}",
+                "fontWeight": "{core.jupiterCore.fontWeight.400}",
                 "textCase": "{core.typography.textCase.uppercase}"
               },
               "type": "typography"
             },
             "hover": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.400}",
+                "fontWeight": "{core.jupiterCore.fontWeight.400}",
                 "textCase": "{core.typography.textCase.uppercase}"
               },
               "type": "typography"
             },
             "active": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.600}",
+                "fontWeight": "{core.jupiterCore.fontWeight.primary.600}",
                 "textCase": "{core.typography.textCase.uppercase}"
               },
               "type": "typography"
@@ -2512,8 +2512,8 @@
             "title": {
               "default": {
                 "value": {
-                  "fontFamily": "{core.flairCore.font.primary}",
-                  "fontWeight": "{core.flairCore.fontWeight.600}",
+                  "fontFamily": "{core.jupiterCore.font.primary}",
+                  "fontWeight": "{core.jupiterCore.fontWeight.primary.600}",
                   "fontSize": "{core.typography.fontSize.120}",
                   "lineHeight": "{core.typography.lineHeight.140}",
                   "textCase": "{core.typography.textCase.default}",
@@ -2542,7 +2542,7 @@
           "display": {
             "l": {
               "value": {
-                "fontFamily": "{core.flairCore.font.secondary}",
+                "fontFamily": "{core.jupiterCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.240}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
@@ -2552,7 +2552,7 @@
             },
             "s": {
               "value": {
-                "fontFamily": "{core.flairCore.font.secondary}",
+                "fontFamily": "{core.jupiterCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.220}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
@@ -2564,7 +2564,7 @@
           "heading1": {
             "l": {
               "value": {
-                "fontFamily": "{core.flairCore.font.secondary}",
+                "fontFamily": "{core.jupiterCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.220}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
@@ -2575,7 +2575,7 @@
             },
             "s": {
               "value": {
-                "fontFamily": "{core.flairCore.font.secondary}",
+                "fontFamily": "{core.jupiterCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.180}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
@@ -2588,21 +2588,21 @@
           "heading2": {
             "l": {
               "value": {
-                "fontFamily": "{core.flairCore.font.secondary}",
+                "fontFamily": "{core.jupiterCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.180}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.300}"
+                "fontWeight": "{core.jupiterCore.fontWeight.300}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.flairCore.font.secondary}",
+                "fontFamily": "{core.jupiterCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.140}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.300}"
+                "fontWeight": "{core.jupiterCore.fontWeight.300}"
               },
               "type": "typography"
             }
@@ -2610,21 +2610,21 @@
           "heading2Alt": {
             "l": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.180}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.300}"
+                "fontWeight": "{core.jupiterCore.fontWeight.300}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.140}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.300}"
+                "fontWeight": "{core.jupiterCore.fontWeight.300}"
               },
               "type": "typography"
             }
@@ -2632,7 +2632,7 @@
           "heading3": {
             "l": {
               "value": {
-                "fontFamily": "{core.flairCore.font.secondary}",
+                "fontFamily": "{core.jupiterCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.140}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
@@ -2642,7 +2642,7 @@
             },
             "s": {
               "value": {
-                "fontFamily": "{core.flairCore.font.secondary}",
+                "fontFamily": "{core.jupiterCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
@@ -2654,7 +2654,7 @@
           "heading4": {
             "l": {
               "value": {
-                "fontFamily": "{core.flairCore.font.secondary}",
+                "fontFamily": "{core.jupiterCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
@@ -2664,7 +2664,7 @@
             },
             "s": {
               "value": {
-                "fontFamily": "{core.flairCore.font.secondary}",
+                "fontFamily": "{core.jupiterCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
@@ -2676,21 +2676,21 @@
           "intro": {
             "l": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.140}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.300}"
+                "fontWeight": "{core.jupiterCore.fontWeight.300}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.140}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.300}"
+                "fontWeight": "{core.jupiterCore.fontWeight.300}"
               },
               "type": "typography"
             }
@@ -2698,21 +2698,21 @@
           "body": {
             "l": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.400}"
+                "fontWeight": "{core.jupiterCore.fontWeight.400}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.400}"
+                "fontWeight": "{core.jupiterCore.fontWeight.400}"
               },
               "type": "typography"
             }
@@ -2720,21 +2720,21 @@
           "bodySmall": {
             "l": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.400}"
+                "fontWeight": "{core.jupiterCore.fontWeight.400}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.400}"
+                "fontWeight": "{core.jupiterCore.fontWeight.400}"
               },
               "type": "typography"
             }
@@ -2742,21 +2742,21 @@
           "caption": {
             "l": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.80}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.400}"
+                "fontWeight": "{core.jupiterCore.fontWeight.400}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.80}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.400}"
+                "fontWeight": "{core.jupiterCore.fontWeight.400}"
               },
               "type": "typography"
             }
@@ -2764,22 +2764,22 @@
           "captionAlt": {
             "l": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.80}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.400}",
+                "fontWeight": "{core.jupiterCore.fontWeight.400}",
                 "textCase": "{core.typography.textCase.uppercase}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.80}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.400}",
+                "fontWeight": "{core.jupiterCore.fontWeight.400}",
                 "textCase": "{core.typography.textCase.uppercase}"
               },
               "type": "typography"
@@ -2788,21 +2788,21 @@
           "textLink": {
             "l": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.underline}",
-                "fontWeight": "{core.flairCore.fontWeight.700}"
+                "fontWeight": "{core.jupiterCore.fontWeight.700}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.underline}",
-                "fontWeight": "{core.flairCore.fontWeight.700}"
+                "fontWeight": "{core.jupiterCore.fontWeight.700}"
               },
               "type": "typography"
             }
@@ -2810,21 +2810,21 @@
           "quote": {
             "l": {
               "value": {
-                "fontFamily": "{core.flairCore.font.secondary}",
+                "fontFamily": "{core.jupiterCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.180}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.700}"
+                "fontWeight": "{core.jupiterCore.fontWeight.700}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.flairCore.font.secondary}",
+                "fontFamily": "{core.jupiterCore.font.accent}",
                 "fontSize": "{core.typography.fontSize.180}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.700}"
+                "fontWeight": "{core.jupiterCore.fontWeight.700}"
               },
               "type": "typography"
             }
@@ -2832,18 +2832,18 @@
           "button": {
             "l": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.700}"
+                "fontWeight": "{core.jupiterCore.fontWeight.700}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
-                "fontWeight": "{core.flairCore.fontWeight.700}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
+                "fontWeight": "{core.jupiterCore.fontWeight.700}",
                 "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.default}"
@@ -2854,18 +2854,18 @@
           "buttonAlt": {
             "l": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.120}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.underline}",
-                "fontWeight": "{core.flairCore.fontWeight.700}"
+                "fontWeight": "{core.jupiterCore.fontWeight.700}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
-                "fontWeight": "{core.flairCore.fontWeight.700}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
+                "fontWeight": "{core.jupiterCore.fontWeight.700}",
                 "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.underline}"
@@ -2876,21 +2876,21 @@
           "label": {
             "l": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.80}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.400}"
+                "fontWeight": "{core.jupiterCore.fontWeight.400}"
               },
               "type": "typography"
             },
             "s": {
               "value": {
-                "fontFamily": "{core.flairCore.font.primary}",
+                "fontFamily": "{core.jupiterCore.font.primary}",
                 "fontSize": "{core.typography.fontSize.80}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.400}"
+                "fontWeight": "{core.jupiterCore.fontWeight.400}"
               },
               "type": "typography"
             }
