@@ -23,7 +23,7 @@
           },
           "sliderNavigation": {
             "gap": {
-              "value": "{core.spacing.100}",
+              "value": "{core.spacing.400}",
               "type": "spacing"
             }
           },
