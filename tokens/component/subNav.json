@@ -5,6 +5,14 @@
         "value": "{alias.brand.subNav.spacing.gap}",
         "type": "spacing"
       }
+    },
+    "background": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.subNav.background.color.default}",
+          "type": "color"
+        }
+      }
     }
   }
 }
