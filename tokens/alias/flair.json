@@ -1860,17 +1860,25 @@
             "value": "{core.spacing.200}",
             "type": "spacing"
           }
+        },
+        "background": {
+          "color": {
+            "default": {
+              "value": "none",
+              "type": "color"
+            }
+          }
         }
       },
       "tabItem": {
         "bottomBorder": {
           "color": {
             "default": {
-              "value": "{core.flairCore.color.softCream.600}",
+              "value": "{core.color.neutral.1000}",
               "type": "color"
             },
             "active": {
-              "value": "{core.flairCore.color.softCream.600}",
+              "value": "{core.color.neutral.1000}",
               "type": "color"
             }
           },
@@ -1898,11 +1906,11 @@
               "type": "color"
             },
             "hover": {
-              "value": "{core.flairCore.color.softCream.500}",
+              "value": "{core.flairCore.color.jadeGreen.600}",
               "type": "color"
             },
             "active": {
-              "value": "{core.flairCore.color.softCream.500}",
+              "value": "{core.color.neutral.1000}",
               "type": "color"
             }
           }
@@ -2580,8 +2588,9 @@
                 "fontSize": "{core.typography.fontSize.100}",
                 "lineHeight": "{core.typography.lineHeight.100}",
                 "textDecoration": "{core.typography.textDecoration.default}",
-                "fontWeight": "{core.flairCore.fontWeight.600}",
-                "textCase": "{core.typography.textCase.uppercase}"
+                "fontWeight": "{core.flairCore.fontWeight.800}",
+                "textCase": "{core.typography.textCase.uppercase}",
+                "letterSpacing": "{core.typography.letterSpacing.100}"
               },
               "type": "typography"
             }

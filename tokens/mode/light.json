@@ -1170,6 +1170,16 @@
             "type": "color"
           }
         }
+      },
+      "subNav": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.subNav.background.color.default}",
+              "type": "color"
+            }
+          }
+        }
       }
     }
   }

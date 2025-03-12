@@ -1867,6 +1867,14 @@
             "value": "{core.spacing.200}",
             "type": "spacing"
           }
+        },
+        "background": {
+          "color": {
+            "default": {
+              "value": "none",
+              "type": "color"
+            }
+          }
         }
       },
       "tabItem": {
