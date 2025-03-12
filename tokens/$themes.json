@@ -28,6 +28,7 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled"
     },
+    "$figmaVariableReferences": {},
     "group": "brand"
   },
   {
@@ -59,6 +60,7 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled"
     },
+    "$figmaVariableReferences": {},
     "group": "brand"
   },
   {
@@ -90,6 +92,39 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled"
     },
+    "$figmaVariableReferences": {},
+    "group": "brand"
+  },
+  {
+    "id": "10e080a4e72c842027568c713705f0d9e3e19a3d",
+    "name": "flair",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component/blockHeader": "enabled",
+      "component/button": "enabled",
+      "component/carousel": "enabled",
+      "component/divider": "enabled",
+      "component/footer": "enabled",
+      "component/icon": "enabled",
+      "component/iconButton": "enabled",
+      "component/label": "enabled",
+      "component/logo": "enabled",
+      "component/navBar": "enabled",
+      "component/navItem": "enabled",
+      "component/navMenu": "enabled",
+      "component/overlay": "enabled",
+      "component/showcase": "enabled",
+      "component/subNav": "enabled",
+      "component/tabItem": "enabled",
+      "component/teaser": "enabled",
+      "component/toast": "enabled",
+      "component/toggletip": "enabled",
+      "mode/light": "enabled",
+      "core/core": "source",
+      "core/flairCore": "source",
+      "alias/flair": "enabled"
+    },
+    "$figmaVariableReferences": {},
     "group": "brand"
   },
   {
@@ -121,6 +156,7 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled"
     },
+    "$figmaVariableReferences": {},
     "group": "brand"
   },
   {
@@ -152,6 +188,7 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled"
     },
+    "$figmaVariableReferences": {},
     "group": "brand"
   },
   {
@@ -183,6 +220,7 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled"
     },
+    "$figmaVariableReferences": {},
     "group": "brand"
   },
   {
@@ -214,6 +252,7 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled"
     },
+    "$figmaVariableReferences": {},
     "group": "brand"
   },
   {
@@ -245,6 +284,7 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled"
     },
+    "$figmaVariableReferences": {},
     "group": "brand"
   },
   {
@@ -254,6 +294,7 @@
     "selectedTokenSets": {
       "mode/light": "enabled"
     },
+    "$figmaVariableReferences": {},
     "group": "mode"
   }
 ]

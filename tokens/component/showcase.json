@@ -62,8 +62,14 @@
     },
     "content": {
       "border": {
-        "value": "{alias.brand.showcaseContentBlock.content.border}",
-        "type": "borderWidth"
+        "horizontal": {
+          "value": "{alias.brand.showcaseContentBlock.content.border.horizontal}",
+          "type": "borderWidth"
+        },
+        "vertical": {
+          "value": "{alias.brand.showcaseContentBlock.content.border.vertical}",
+          "type": "borderWidth"
+        }
       },
       "color": {
         "value": "{alias.mode.border.showcaseContentBlock.content.color}",
@@ -74,8 +80,14 @@
   "showcaseImageBlock": {
     "image": {
       "border": {
-        "value": "{alias.brand.showcaseImageBlock.image.border}",
-        "type": "borderWidth"
+        "horizontal": {
+          "value": "{alias.brand.showcaseImageBlock.image.border.horizontal}",
+          "type": "borderWidth"
+        },
+        "vertical": {
+          "value": "{alias.brand.showcaseImageBlock.image.border.vertical}",
+          "type": "borderWidth"
+        }
       },
       "color": {
         "value": "{alias.mode.border.showcaseImageBlock.image.color}",
@@ -226,8 +238,14 @@
     },
     "image": {
       "border": {
-        "value": "{alias.brand.singleCard.image.border}",
-        "type": "borderWidth"
+        "horizontal": {
+          "value": "{alias.brand.singleCard.image.border.horizontal}",
+          "type": "borderWidth"
+        },
+        "vertical": {
+          "value": "{alias.brand.singleCard.image.border.vertical}",
+          "type": "borderWidth"
+        }
       },
       "color": {
         "value": "{alias.mode.border.singleCard.image.border.color}",
@@ -236,8 +254,14 @@
     },
     "content": {
       "border": {
-        "value": "{alias.brand.singleCard.content.border}",
-        "type": "borderWidth"
+        "horizontal": {
+          "value": "{alias.brand.singleCard.content.border.horizontal}",
+          "type": "borderWidth"
+        },
+        "vertical": {
+          "value": "{alias.brand.singleCard.content.border.vertical}",
+          "type": "borderWidth"
+        }
       },
       "color": {
         "value": "{alias.mode.border.singleCard.content.color}",
@@ -276,7 +300,7 @@
     },
     "text": {
       "typography": {
-        "value": "{alias.brand.typography.textStyles.body.s}",
+        "value": "{alias.brand.typography.component.singleShoppingCard.default}",
         "type": "typography"
       },
       "color": {

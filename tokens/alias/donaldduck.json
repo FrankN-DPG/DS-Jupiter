@@ -139,6 +139,14 @@
             }
           }
         },
+        "label": {
+          "color": {
+            "value": {
+              "color": "none"
+            },
+            "type": "border"
+          }
+        },
         "navItem": {
           "none": {
             "value": "none",
@@ -912,6 +920,10 @@
           "default": {
             "value": "{core.color.neutral.500}",
             "type": "color"
+          },
+          "alt": {
+            "value": "{core.color.neutral.500}",
+            "type": "color"
           }
         }
       },
@@ -1210,6 +1222,24 @@
           "horizontal": {
             "value": "{core.spacing.100}",
             "type": "spacing"
+          }
+        },
+        "border": {
+          "value": "{core.shape.borderWidth.0}",
+          "type": "borderWidth"
+        }
+      },
+      "labelPremium": {
+        "background": {
+          "color": {
+            "value": "{core.donaldduckCore.color.rubyRed.600}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "color": {
+            "value": "{core.color.neutral.100}",
+            "type": "color"
           }
         }
       },
@@ -1604,16 +1634,28 @@
         },
         "content": {
           "border": {
-            "value": "{core.shape.borderWidth.100}",
-            "type": "borderWidth"
+            "horizontal": {
+              "value": "{core.shape.borderWidth.100}",
+              "type": "borderWidth"
+            },
+            "vertical": {
+              "value": "{core.shape.borderWidth.100}",
+              "type": "borderWidth"
+            }
           }
         }
       },
       "showcaseImageBlock": {
         "image": {
           "border": {
-            "value": "{core.shape.borderWidth.100}",
-            "type": "borderWidth"
+            "horizontal": {
+              "value": "{core.shape.borderWidth.100}",
+              "type": "borderWidth"
+            },
+            "vertical": {
+              "value": "{core.shape.borderWidth.100}",
+              "type": "borderWidth"
+            }
           }
         }
       },
@@ -1750,8 +1792,14 @@
         },
         "image": {
           "border": {
-            "value": "{core.shape.borderWidth.100}",
-            "type": "borderWidth"
+            "horizontal": {
+              "value": "{core.shape.borderWidth.100}",
+              "type": "borderWidth"
+            },
+            "vertical": {
+              "value": "{core.shape.borderWidth.100}",
+              "type": "borderWidth"
+            }
           }
         },
         "borderRadius": {
@@ -1760,8 +1808,14 @@
         },
         "content": {
           "border": {
-            "value": "{core.shape.borderWidth.100}",
-            "type": "borderWidth"
+            "horizontal": {
+              "value": "{core.shape.borderWidth.100}",
+              "type": "borderWidth"
+            },
+            "vertical": {
+              "value": "{core.shape.borderWidth.100}",
+              "type": "borderWidth"
+            }
           }
         }
       },
@@ -2195,6 +2249,16 @@
                   },
                   "type": "typography"
                 }
+              },
+              "title": {
+                "default": {
+                  "value": "{alias.brand.typography.textStyles.heading2.s}",
+                  "type": "typography"
+                },
+                "md": {
+                  "value": "{alias.brand.typography.textStyles.heading2.l}",
+                  "type": "typography"
+                }
               }
             },
             "bottomFooter": {
@@ -2404,6 +2468,12 @@
               "type": "typography"
             }
           },
+          "singleShoppingCard": {
+            "default": {
+              "value": "{alias.brand.typography.textStyles.body.s}",
+              "type": "typography"
+            }
+          },
           "tabItem": {
             "default": {
               "value": {
@@ -2451,6 +2521,16 @@
               },
               "type": "typography"
             },
+            "focusTitle": {
+              "default": {
+                "value": "{alias.brand.typography.component.teaser.default}",
+                "type": "typography"
+              },
+              "md": {
+                "value": "{alias.brand.typography.component.teaser.md}",
+                "type": "typography"
+              }
+            },
             "md": {
               "value": "{alias.brand.typography.textStyles.heading3.l}",
               "type": "typography"
@@ -2473,6 +2553,27 @@
                 },
                 "type": "typography"
               }
+            }
+          },
+          "teaserGrid": {
+            "default": {
+              "value": {
+                "fontFamily": "{core.donaldduckCore.font.accent}",
+                "fontSize": "{core.typography.fontSize.110}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.donaldduckCore.fontWeight.700}",
+                "textCase": "{core.typography.textCase.default}"
+              },
+              "type": "typography"
+            },
+            "md": {
+              "value": "{alias.brand.typography.textStyles.heading3.l}",
+              "type": "typography"
+            },
+            "category": {
+              "value": "{alias.brand.typography.textStyles.captionAlt.s}",
+              "type": "typography"
             }
           }
         },

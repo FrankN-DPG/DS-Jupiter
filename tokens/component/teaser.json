@@ -39,6 +39,16 @@
             "value": "{alias.brand.typography.component.teaser.category}",
             "type": "typography"
           }
+        },
+        "focusTitle": {
+          "default": {
+            "value": "{alias.brand.typography.component.teaser.focusTitle.default}",
+            "type": "typography"
+          },
+          "md": {
+            "value": "{alias.brand.typography.component.teaser.focusTitle.md}",
+            "type": "typography"
+          }
         }
       },
       "color": {
@@ -76,6 +86,24 @@
           "md": {
             "value": "{alias.brand.teaserGrid.spacing.gap.horizontal.md}",
             "type": "spacing"
+          }
+        }
+      }
+    },
+    "text": {
+      "typography": {
+        "title": {
+          "default": {
+            "value": "{alias.brand.typography.component.teaserGrid.default}",
+            "type": "typography"
+          },
+          "md": {
+            "value": "{alias.brand.typography.component.teaserGrid.md}",
+            "type": "typography"
+          },
+          "category": {
+            "value": "{alias.brand.typography.component.teaserGrid.category}",
+            "type": "typography"
           }
         }
       }

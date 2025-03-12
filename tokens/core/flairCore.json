@@ -1,0 +1,154 @@
+{
+  "core": {
+    "flairCore": {
+      "color": {
+        "softCream": {
+          "100": {
+            "value": "#fefefe",
+            "type": "color"
+          },
+          "200": {
+            "value": "#fdfcfa",
+            "type": "color"
+          },
+          "300": {
+            "value": "#fcfaf8",
+            "type": "color"
+          },
+          "400": {
+            "value": "#fbf8f5",
+            "type": "color"
+          },
+          "500": {
+            "value": "#faf6f3",
+            "type": "color"
+          },
+          "600": {
+            "value": "#f9f4f0",
+            "type": "color"
+          },
+          "700": {
+            "value": "#e3deda",
+            "type": "color"
+          },
+          "800": {
+            "value": "#b1adaa",
+            "type": "color"
+          },
+          "900": {
+            "value": "#898684",
+            "type": "color"
+          },
+          "1000": {
+            "value": "#696665",
+            "type": "color"
+          }
+        },
+        "jadeGreen": {
+          "100": {
+            "value": "#e8f3ee",
+            "type": "color"
+          },
+          "200": {
+            "value": "#b8daca",
+            "type": "color"
+          },
+          "300": {
+            "value": "#96c8b0",
+            "type": "color"
+          },
+          "400": {
+            "value": "#66af8c",
+            "type": "color"
+          },
+          "500": {
+            "value": "#499f75",
+            "type": "color"
+          },
+          "600": {
+            "value": "#1b8753",
+            "type": "color"
+          },
+          "700": {
+            "value": "#197b4c",
+            "type": "color"
+          },
+          "800": {
+            "value": "#13603b",
+            "type": "color"
+          },
+          "900": {
+            "value": "#0f4a2e",
+            "type": "color"
+          },
+          "1000": {
+            "value": "#0b3923",
+            "type": "color"
+          }
+        }
+      },
+      "fontWeight": {
+        "300": {
+          "value": "Light",
+          "type": "fontWeights"
+        },
+        "400": {
+          "value": "Regular",
+          "type": "fontWeights"
+        },
+        "600": {
+          "value": "SemiBold",
+          "type": "fontWeights"
+        },
+        "700": {
+          "value": "Bold",
+          "type": "fontWeights"
+        },
+        "800": {
+          "value": "Black",
+          "type": "fontWeights"
+        },
+        "tertiary": {
+          "300": {
+            "value": "45 Light",
+            "type": "fontWeights"
+          },
+          "400": {
+            "value": "55 Roman",
+            "type": "fontWeights"
+          },
+          "700": {
+            "value": "75 Bold",
+            "type": "fontWeights"
+          },
+          "800": {
+            "value": "85 Heavy",
+            "type": "fontWeights"
+          }
+        }
+      },
+      "font": {
+        "primary": {
+          "value": "Acumin Pro",
+          "type": "fontFamilies"
+        },
+        "secondary": {
+          "value": "Miamo",
+          "type": "fontFamilies"
+        },
+        "tertiary": {
+          "value": "Caecilia LT Std",
+          "type": "fontFamilies"
+        },
+        "quaternary": {
+          "value": "Acumin Pro Wide",
+          "type": "fontFamilies"
+        },
+        "quinary": {
+          "value": "Acumin Pro Condensed",
+          "type": "fontFamilies"
+        }
+      }
+    }
+  }
+}

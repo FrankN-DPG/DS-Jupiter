@@ -138,6 +138,14 @@
             }
           }
         },
+        "label": {
+          "color": {
+            "value": {
+              "color": "none"
+            },
+            "type": "border"
+          }
+        },
         "navItem": {
           "none": {
             "value": "none",
@@ -914,6 +922,10 @@
           "default": {
             "value": "{core.color.neutral.500}",
             "type": "color"
+          },
+          "alt": {
+            "value": "{core.color.neutral.500}",
+            "type": "color"
           }
         }
       },
@@ -1212,6 +1224,24 @@
           "horizontal": {
             "value": "{core.spacing.100}",
             "type": "spacing"
+          }
+        },
+        "border": {
+          "value": "{core.shape.borderWidth.0}",
+          "type": "borderWidth"
+        }
+      },
+      "labelPremium": {
+        "background": {
+          "color": {
+            "value": "{core.kidsweekCore.color.redRibbon.600}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "color": {
+            "value": "{core.color.neutral.100}",
+            "type": "color"
           }
         }
       },
@@ -1606,16 +1636,28 @@
         },
         "content": {
           "border": {
-            "value": "{core.shape.borderWidth.0}",
-            "type": "borderWidth"
+            "horizontal": {
+              "value": "{core.shape.borderWidth.0}",
+              "type": "borderWidth"
+            },
+            "vertical": {
+              "value": "{core.shape.borderWidth.0}",
+              "type": "borderWidth"
+            }
           }
         }
       },
       "showcaseImageBlock": {
         "image": {
           "border": {
-            "value": "{core.shape.borderWidth.0}",
-            "type": "borderWidth"
+            "horizontal": {
+              "value": "{core.shape.borderWidth.0}",
+              "type": "borderWidth"
+            },
+            "vertical": {
+              "value": "{core.shape.borderWidth.0}",
+              "type": "borderWidth"
+            }
           }
         }
       },
@@ -1753,8 +1795,14 @@
         },
         "image": {
           "border": {
-            "value": "{core.shape.borderWidth.0}",
-            "type": "borderWidth"
+            "horizontal": {
+              "value": "{core.shape.borderWidth.0}",
+              "type": "borderWidth"
+            },
+            "vertical": {
+              "value": "{core.shape.borderWidth.0}",
+              "type": "borderWidth"
+            }
           }
         },
         "borderRadius": {
@@ -1764,8 +1812,14 @@
         },
         "content": {
           "border": {
-            "value": "{core.shape.borderWidth.0}",
-            "type": "borderWidth"
+            "horizontal": {
+              "value": "{core.shape.borderWidth.0}",
+              "type": "borderWidth"
+            },
+            "vertical": {
+              "value": "{core.shape.borderWidth.0}",
+              "type": "borderWidth"
+            }
           }
         }
       },
@@ -2199,6 +2253,16 @@
                   },
                   "type": "typography"
                 }
+              },
+              "title": {
+                "default": {
+                  "value": "{alias.brand.typography.textStyles.heading2.s}",
+                  "type": "typography"
+                },
+                "md": {
+                  "value": "{alias.brand.typography.textStyles.heading2.l}",
+                  "type": "typography"
+                }
               }
             },
             "bottomFooter": {
@@ -2394,6 +2458,12 @@
               "type": "typography"
             }
           },
+          "singleShoppingCard": {
+            "default": {
+              "value": "{alias.brand.typography.textStyles.body.s}",
+              "type": "typography"
+            }
+          },
           "tabItem": {
             "default": {
               "value": {
@@ -2434,6 +2504,16 @@
               "value": "{alias.brand.typography.textStyles.heading3.s}",
               "type": "typography"
             },
+            "focusTitle": {
+              "default": {
+                "value": "{alias.brand.typography.component.teaser.default}",
+                "type": "typography"
+              },
+              "md": {
+                "value": "{alias.brand.typography.component.teaser.md}",
+                "type": "typography"
+              }
+            },
             "md": {
               "value": {
                 "fontFamily": "{core.kidsweekCore.font.primary}",
@@ -2469,6 +2549,33 @@
                 },
                 "type": "typography"
               }
+            }
+          },
+          "teaserGrid": {
+            "default": {
+              "value": "{alias.brand.typography.textStyles.heading3.s}",
+              "type": "typography"
+            },
+            "md": {
+              "value": {
+                "fontFamily": "{core.kidsweekCore.font.primary}",
+                "fontSize": "{core.typography.fontSize.130}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.kidsweekCore.fontWeight.700}"
+              },
+              "type": "typography"
+            },
+            "category": {
+              "value": {
+                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontSize": "{core.typography.fontSize.80}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.kidsweekCore.fontWeight.400}",
+                "textCase": "{core.typography.textCase.uppercase}"
+              },
+              "type": "typography"
             }
           }
         },
