@@ -216,6 +216,16 @@
               "type": "border"
             }
           }
+        },
+        "carousel": {
+          "imageContainer": {
+            "borderColor": {
+              "value": {
+                "color": "none"
+              },
+              "type": "border"
+            }
+          }
         }
       },
       "button": {
@@ -882,7 +892,7 @@
           "background": {
             "color": {
               "default": {
-                "value": "{core.color.neutral.1000}",
+                "value": "{core.color.neutral.300}",
                 "type": "color"
               }
             }
@@ -894,12 +904,6 @@
           "borderWidth": {
             "value": "{core.shape.borderWidth.0}",
             "type": "borderWidth"
-          },
-          "borderColor": {
-            "value": {
-              "color": "none"
-            },
-            "type": "border"
           }
         },
         "wrapper": {
