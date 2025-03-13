@@ -26,7 +26,8 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled"
+      "component/toggletip": "enabled",
+      "component/sharedArticle": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "brand"
@@ -58,7 +59,8 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled"
+      "component/toggletip": "enabled",
+      "component/sharedArticle": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "brand"
@@ -90,7 +92,8 @@
       "core/core": "source",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled"
+      "component/toggletip": "enabled",
+      "component/sharedArticle": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "brand"
@@ -122,7 +125,8 @@
       "mode/light": "enabled",
       "core/core": "source",
       "core/flairCore": "source",
-      "alias/flair": "enabled"
+      "alias/flair": "enabled",
+      "component/sharedArticle": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "brand"
@@ -154,7 +158,8 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled"
+      "component/toggletip": "enabled",
+      "component/sharedArticle": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "brand"
@@ -186,7 +191,8 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled"
+      "component/toggletip": "enabled",
+      "component/sharedArticle": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "brand"
@@ -218,7 +224,8 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled"
+      "component/toggletip": "enabled",
+      "component/sharedArticle": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "brand"
@@ -250,7 +257,8 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled"
+      "component/toggletip": "enabled",
+      "component/sharedArticle": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "brand"
@@ -282,7 +290,8 @@
       "component/navMenu": "enabled",
       "component/footer": "enabled",
       "component/carousel": "enabled",
-      "component/toggletip": "enabled"
+      "component/toggletip": "enabled",
+      "component/sharedArticle": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "brand"
@@ -292,7 +301,8 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled"
+      "mode/light": "enabled",
+      "component/sharedArticle": "disabled"
     },
     "$figmaVariableReferences": {},
     "group": "mode"

@@ -13,6 +13,7 @@
     "component/navItem",
     "component/navMenu",
     "component/overlay",
+    "component/sharedArticle",
     "component/showcase",
     "component/subNav",
     "component/tabItem",
