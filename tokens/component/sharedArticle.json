@@ -1,1 +1,24 @@
-{}
+{
+  "sharedArticle": {
+    "spacing": {
+      "vertical": {
+        "default": {
+          "value": "{alias.brand.sharedArticle.spacing.vertical.default}",
+          "type": "spacing"
+        }
+      },
+      "horizontal": {
+        "default": {
+          "value": "{alias.brand.sharedArticle.spacing.horizontal.default}",
+          "type": "spacing"
+        }
+      },
+      "content": {
+        "gap": {
+          "value": "{alias.brand.sharedArticle.spacing.content.gap}",
+          "type": "spacing"
+        }
+      }
+    }
+  }
+}
