@@ -19,6 +19,34 @@
           "type": "spacing"
         }
       }
+    },
+    "background": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.sharedArticle.background.color.default}",
+          "type": "color"
+        }
+      }
+    },
+    "imageContainer": {
+      "borderRadius": {
+        "value": "{alias.brand.sharedArticle.imageContainer.borderRadius}",
+        "type": "borderRadius"
+      },
+      "border": {
+        "horizontal": {
+          "value": "{alias.brand.sharedArticle.imageContainer.border.horizontal}",
+          "type": "borderWidth"
+        },
+        "vertical": {
+          "value": "{alias.brand.sharedArticle.imageContainer.border.vertical}",
+          "type": "borderWidth"
+        }
+      },
+      "borderColor": {
+        "value": "{alias.mode.border.sharedArticle.imageContainer.borderColor}",
+        "type": "border"
+      }
     }
   }
 }

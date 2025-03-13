@@ -1061,6 +1061,14 @@
             "value": "{alias.brand.border.label.color}",
             "type": "border"
           }
+        },
+        "sharedArticle": {
+          "imageContainer": {
+            "borderColor": {
+              "value": "{alias.brand.border.sharedArticle.imageContainer.borderColor}",
+              "type": "border"
+            }
+          }
         }
       },
       "footer": {
@@ -1176,6 +1184,16 @@
           "color": {
             "default": {
               "value": "{alias.brand.subNav.background.color.default}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "sharedArticle": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.sharedArticle.background.color.default}",
               "type": "color"
             }
           }

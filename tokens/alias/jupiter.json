@@ -219,6 +219,16 @@
               "type": "border"
             }
           }
+        },
+        "sharedArticle": {
+          "imageContainer": {
+            "borderColor": {
+              "value": {
+                "color": "{core.color.neutral.1000}"
+              },
+              "type": "border"
+            }
+          }
         }
       },
       "button": {
@@ -2927,6 +2937,30 @@
             "gap": {
               "value": "{core.spacing.100}",
               "type": "spacing"
+            }
+          }
+        },
+        "background": {
+          "color": {
+            "default": {
+              "value": "none",
+              "type": "color"
+            }
+          }
+        },
+        "imageContainer": {
+          "borderRadius": {
+            "value": "{core.shape.radius.0}",
+            "type": "borderRadius"
+          },
+          "border": {
+            "horizontal": {
+              "value": "{core.shape.borderWidth.100}",
+              "type": "borderWidth"
+            },
+            "vertical": {
+              "value": "{core.shape.borderWidth.100}",
+              "type": "borderWidth"
             }
           }
         }
