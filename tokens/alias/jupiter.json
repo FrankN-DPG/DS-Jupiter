@@ -2558,6 +2558,14 @@
               "value": "{alias.brand.typography.textStyles.captionAlt.s}",
               "type": "typography"
             }
+          },
+          "sharedArticle": {
+            "text": {
+              "default": {
+                "value": "{alias.brand.typography.textStyles.body.s}",
+                "type": "typography"
+              }
+            }
           }
         },
         "textStyles": {
@@ -2961,6 +2969,14 @@
             "vertical": {
               "value": "{core.shape.borderWidth.100}",
               "type": "borderWidth"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
             }
           }
         }

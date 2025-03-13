@@ -28,6 +28,20 @@
         }
       }
     },
+    "text": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.sharedArticle.text.color.default}",
+          "type": "color"
+        }
+      },
+      "typography": {
+        "default": {
+          "value": "{alias.brand.typography.component.sharedArticle.text.default}",
+          "type": "typography"
+        }
+      }
+    },
     "imageContainer": {
       "borderRadius": {
         "value": "{alias.brand.sharedArticle.imageContainer.borderRadius}",

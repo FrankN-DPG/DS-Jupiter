@@ -1197,6 +1197,14 @@
               "type": "color"
             }
           }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.sharedArticle.text.color.default}",
+              "type": "color"
+            }
+          }
         }
       }
     }
