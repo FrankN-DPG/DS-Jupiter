@@ -2199,7 +2199,7 @@
           },
           "direction": {
             "default": {
-              "value": "{core.spacing.300}",
+              "value": "{core.spacing.250}",
               "type": "spacing"
             }
           }

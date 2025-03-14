@@ -2218,7 +2218,7 @@
           },
           "direction": {
             "default": {
-              "value": "{core.spacing.300}",
+              "value": "{core.spacing.250}",
               "type": "spacing"
             }
           }
@@ -2562,7 +2562,7 @@
           "sharedArticle": {
             "text": {
               "default": {
-                "value": "{alias.brand.typography.textStyles.body.s}",
+                "value": "{alias.brand.typography.textStyles.bodySmall.s}",
                 "type": "typography"
               }
             }
