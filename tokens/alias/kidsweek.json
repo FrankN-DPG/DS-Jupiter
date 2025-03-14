@@ -1595,6 +1595,58 @@
           }
         }
       },
+      "sharedArticle": {
+        "spacing": {
+          "vertical": {
+            "default": {
+              "value": "{core.spacing.100}",
+              "type": "spacing"
+            }
+          },
+          "horizontal": {
+            "default": {
+              "value": "{core.spacing.200}",
+              "type": "spacing"
+            }
+          },
+          "content": {
+            "gap": {
+              "value": "{core.spacing.100}",
+              "type": "spacing"
+            }
+          }
+        },
+        "background": {
+          "color": {
+            "default": {
+              "value": "none",
+              "type": "color"
+            }
+          }
+        },
+        "borderRadius": {
+          "value": "{core.shape.radius.0}",
+          "type": "borderRadius"
+        },
+        "border": {
+          "horizontal": {
+            "value": "{core.shape.borderWidth.100}",
+            "type": "borderWidth"
+          },
+          "vertical": {
+            "value": "{core.shape.borderWidth.100}",
+            "type": "borderWidth"
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            }
+          }
+        }
+      },
       "showcaseContentBlock": {
         "spacing": {
           "vertical": {
