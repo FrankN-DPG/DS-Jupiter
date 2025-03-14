@@ -42,25 +42,23 @@
         }
       }
     },
-    "imageContainer": {
-      "borderRadius": {
-        "value": "{alias.brand.sharedArticle.imageContainer.borderRadius}",
-        "type": "borderRadius"
+    "borderRadius": {
+      "value": "{alias.brand.sharedArticle.borderRadius}",
+      "type": "borderRadius"
+    },
+    "border": {
+      "horizontal": {
+        "value": "{alias.brand.sharedArticle.border.horizontal}",
+        "type": "borderWidth"
       },
-      "border": {
-        "horizontal": {
-          "value": "{alias.brand.sharedArticle.imageContainer.border.horizontal}",
-          "type": "borderWidth"
-        },
-        "vertical": {
-          "value": "{alias.brand.sharedArticle.imageContainer.border.vertical}",
-          "type": "borderWidth"
-        }
-      },
-      "borderColor": {
-        "value": "{alias.mode.border.sharedArticle.imageContainer.borderColor}",
-        "type": "border"
+      "vertical": {
+        "value": "{alias.brand.sharedArticle.border.vertical}",
+        "type": "borderWidth"
       }
+    },
+    "borderColor": {
+      "value": "{alias.mode.border.sharedArticle.borderColor}",
+      "type": "border"
     }
   }
 }

@@ -1063,11 +1063,9 @@
           }
         },
         "sharedArticle": {
-          "imageContainer": {
-            "borderColor": {
-              "value": "{alias.brand.border.sharedArticle.imageContainer.borderColor}",
-              "type": "border"
-            }
+          "borderColor": {
+            "value": "{alias.brand.border.sharedArticle.borderColor}",
+            "type": "border"
           }
         }
       },
@@ -1140,11 +1138,11 @@
                 "type": "color"
               }
             }
-          },
-          "borderColor": {
-            "value": "{alias.brand.carousel.imageContainer.borderColor}",
-            "type": "border"
           }
+        },
+        "borderColor": {
+          "value": "{alias.brand.carousel.imageContainer.borderColor}",
+          "type": "border"
         }
       },
       "toggletip": {
