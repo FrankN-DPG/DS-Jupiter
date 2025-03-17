@@ -165,9 +165,7 @@
           },
           "content": {
             "color": {
-              "value": {
-                "color": ""
-              },
+              "value": "none",
               "type": "border"
             }
           }
