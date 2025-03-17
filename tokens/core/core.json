@@ -296,9 +296,11 @@
           "value": "10%",
           "type": "letterSpacing"
         },
-        "-200": {
-          "value": "-2%",
-          "type": "letterSpacing"
+        "minus": {
+          "200": {
+            "value": "-2%",
+            "type": "letterSpacing"
+          }
         }
       }
     },
