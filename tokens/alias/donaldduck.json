@@ -1982,7 +1982,7 @@
         },
         "image": {
           "borderRadius": {
-            "value": "{core.shape.radius.200}",
+            "value": "{core.shape.radius.0}",
             "type": "borderRadius"
           }
         }
