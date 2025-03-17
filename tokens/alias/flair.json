@@ -1625,7 +1625,7 @@
             "type": "borderWidth"
           },
           "vertical": {
-            "value": "{core.shape.borderWidth.100}",
+            "value": "{core.shape.borderWidth.0}",
             "type": "borderWidth"
           }
         },
