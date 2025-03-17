@@ -1134,7 +1134,7 @@
             }
           },
           "borderColor": {
-            "value": "{alias.brand.carousel.imageContainer.borderColor}",
+            "value": "{alias.brand.border.carousel.imageContainer.borderColor}",
             "type": "border"
           }
         }
