@@ -412,11 +412,11 @@
                 "type": "color"
               },
               "hover": {
-                "value": "{core.color.neutral.700}",
+                "value": "{core.flairCore.color.jadeGreen.600}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{core.color.neutral.700}",
+                "value": "{core.flairCore.color.jadeGreen.600}",
                 "type": "color"
               },
               "focus": {
