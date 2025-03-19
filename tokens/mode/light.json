@@ -1073,6 +1073,10 @@
             "default": {
               "value": "{alias.brand.border.breadcrumb.color.default}",
               "type": "border"
+            },
+            "focus": {
+              "value": "{alias.brand.border.breadcrumb.color.focus}",
+              "type": "border"
             }
           }
         }

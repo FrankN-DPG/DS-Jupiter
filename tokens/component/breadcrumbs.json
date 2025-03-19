@@ -8,6 +8,10 @@
       "horizontal": {
         "value": "{alias.brand.breadcrumb.spacing.horizontal}",
         "type": "spacing"
+      },
+      "gap": {
+        "value": "{alias.brand.breadcrumb.spacing.gap}",
+        "type": "spacing"
       }
     },
     "radius": {
@@ -26,6 +30,10 @@
       "color": {
         "default": {
           "value": "{alias.mode.border.breadcrumb.color.default}",
+          "type": "border"
+        },
+        "focus": {
+          "value": "{alias.mode.border.breadcrumb.color.focus}",
           "type": "border"
         }
       }
