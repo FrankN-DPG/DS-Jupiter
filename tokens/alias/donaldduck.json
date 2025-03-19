@@ -228,6 +228,68 @@
           }
         }
       },
+      "breadcrumb": {
+        "spacing": {
+          "vertical": {
+            "value": "{core.spacing.0}",
+            "type": "spacing"
+          },
+          "horizontal": {
+            "value": "{core.spacing.0}",
+            "type": "spacing"
+          },
+          "gap": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          }
+        },
+        "radius": {
+          "default": {
+            "value": "{core.shape.radius.100}",
+            "type": "borderRadius"
+          }
+        },
+        "border": {
+          "width": {
+            "default": {
+              "value": "{core.shape.borderWidth.0}",
+              "type": "borderWidth"
+            },
+            "focus": {
+              "value": "{core.shape.borderWidth.200}",
+              "type": "borderWidth"
+            }
+          }
+        },
+        "background": {
+          "color": {
+            "default": {
+              "value": "none",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.donaldduckCore.color.rubyRed.700}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{core.donaldduckCore.color.rubyRed.700}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            }
+          }
+        }
+      },
       "button": {
         "spacing": {
           "gap": {
@@ -2633,6 +2695,19 @@
             },
             "category": {
               "value": "{alias.brand.typography.textStyles.captionAlt.s}",
+              "type": "typography"
+            }
+          },
+          "breadcrumb": {
+            "default": {
+              "value": {
+                "fontFamily": "{core.donaldduckCore.font.primary}",
+                "fontSize": "{core.typography.fontSize.100}",
+                "lineHeight": "{core.typography.lineHeight.100}",
+                "textDecoration": "{core.typography.textDecoration.underline}",
+                "fontWeight": "{core.donaldduckCore.fontWeight.500}",
+                "textCase": "{core.typography.textCase.uppercase}"
+              },
               "type": "typography"
             }
           }
