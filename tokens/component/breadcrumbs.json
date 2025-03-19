@@ -1,1 +1,48 @@
-{}
+{
+  "breadcrumb": {
+    "spacing": {
+      "vertical": {
+        "value": "{alias.brand.breadcrumb.spacing.vertical}",
+        "type": "spacing"
+      },
+      "horizontal": {
+        "value": "{alias.brand.breadcrumb.spacing.horizontal}",
+        "type": "spacing"
+      }
+    },
+    "radius": {
+      "default": {
+        "value": "{alias.brand.breadcrumb.radius.default}",
+        "type": "borderRadius"
+      }
+    },
+    "border": {
+      "width": {
+        "default": {
+          "value": "{alias.brand.breadcrumb.border.width.default}",
+          "type": "borderWidth"
+        }
+      },
+      "color": {
+        "default": {
+          "value": "{alias.mode.border.breadcrumb.color.default}",
+          "type": "border"
+        }
+      }
+    },
+    "background": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.breadcrumb.background.color.default}",
+          "type": "color"
+        }
+      }
+    },
+    "text": {
+      "typography": {
+        "value": "{alias.brand.typography.component.breadcrumb.default}",
+        "type": "typography"
+      }
+    }
+  }
+}

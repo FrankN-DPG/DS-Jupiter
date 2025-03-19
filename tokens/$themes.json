@@ -310,8 +310,7 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled",
-      "component/breadcrumbs": "disabled"
+      "mode/light": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "mode"

@@ -1067,6 +1067,14 @@
             "value": "{alias.brand.border.sharedArticle.borderColor}",
             "type": "border"
           }
+        },
+        "breadcrumb": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.border.breadcrumb.color.default}",
+              "type": "border"
+            }
+          }
         }
       },
       "footer": {
@@ -1200,6 +1208,16 @@
           "color": {
             "default": {
               "value": "{alias.brand.sharedArticle.text.color.default}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "breadcrumb": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.breadcrumb.background.color.default}",
               "type": "color"
             }
           }
