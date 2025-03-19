@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
     "component/blockHeader",
+    "component/breadcrumbs",
     "component/button",
     "component/carousel",
     "component/divider",
