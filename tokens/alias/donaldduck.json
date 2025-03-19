@@ -898,7 +898,7 @@
             }
           },
           "borderRadius": {
-            "value": "{core.shape.radius.100}",
+            "value": "{core.shape.radius.200}",
             "type": "borderRadius"
           },
           "borderWidth": {
@@ -1982,7 +1982,7 @@
         },
         "image": {
           "borderRadius": {
-            "value": "{core.shape.radius.0}",
+            "value": "{core.shape.radius.200}",
             "type": "borderRadius"
           }
         }
