@@ -269,11 +269,11 @@
               "type": "color"
             },
             "hover": {
-              "value": "{core.deondernemerCore.color.cinnabar.600}",
+              "value": "{core.deondernemerCore.color.cinnabar.800}",
               "type": "color"
             },
             "pressed": {
-              "value": "{core.deondernemerCore.color.cinnabar.600}",
+              "value": "{core.deondernemerCore.color.cinnabar.800}",
               "type": "color"
             },
             "focus": {
