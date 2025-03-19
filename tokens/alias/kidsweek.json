@@ -221,6 +221,68 @@
           }
         }
       },
+      "breadcrumb": {
+        "spacing": {
+          "vertical": {
+            "value": "{core.spacing.50}",
+            "type": "spacing"
+          },
+          "horizontal": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          },
+          "gap": {
+            "value": "{core.spacing.100}",
+            "type": "spacing"
+          }
+        },
+        "radius": {
+          "default": {
+            "value": "4px 8px 4px 8px",
+            "type": "borderRadius"
+          }
+        },
+        "border": {
+          "width": {
+            "default": {
+              "value": "{core.shape.borderWidth.0}",
+              "type": "borderWidth"
+            },
+            "focus": {
+              "value": "{core.shape.borderWidth.200}",
+              "type": "borderWidth"
+            }
+          }
+        },
+        "background": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.100}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.kidsweekCore.color.redRibbon.600}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{core.kidsweekCore.color.redRibbon.600}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            }
+          }
+        }
+      },
       "button": {
         "spacing": {
           "gap": {
@@ -2632,6 +2694,19 @@
                 "fontSize": "{core.typography.fontSize.80}",
                 "lineHeight": "{core.typography.lineHeight.140}",
                 "textDecoration": "{core.typography.textDecoration.default}",
+                "fontWeight": "{core.kidsweekCore.fontWeight.400}",
+                "textCase": "{core.typography.textCase.uppercase}"
+              },
+              "type": "typography"
+            }
+          },
+          "breadcrumb": {
+            "default": {
+              "value": {
+                "fontFamily": "{core.kidsweekCore.font.accent}",
+                "fontSize": "{core.typography.fontSize.90}",
+                "lineHeight": "{core.typography.lineHeight.100}",
+                "textDecoration": "{core.typography.textDecoration.underline}",
                 "fontWeight": "{core.kidsweekCore.fontWeight.400}",
                 "textCase": "{core.typography.textCase.uppercase}"
               },
