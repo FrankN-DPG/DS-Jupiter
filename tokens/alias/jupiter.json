@@ -2635,7 +2635,14 @@
           },
           "breadcrumb": {
             "default": {
-              "value": "{alias.brand.typography.textStyles.body.s}",
+              "value": {
+                "fontFamily": "{core.jupiterCore.font.primary}",
+                "fontSize": "{core.typography.fontSize.120}",
+                "lineHeight": "{core.typography.lineHeight.140}",
+                "textDecoration": "{core.typography.textDecoration.underline}",
+                "fontWeight": "{core.jupiterCore.fontWeight.400}",
+                "textCase": "{core.typography.textCase.uppercase}"
+              },
               "type": "typography"
             }
           }

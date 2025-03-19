@@ -25,6 +25,10 @@
         "default": {
           "value": "{alias.brand.breadcrumb.border.width.default}",
           "type": "borderWidth"
+        },
+        "focus": {
+          "value": "{alias.brand.breadcrumb.border.width.focus}",
+          "type": "borderWidth"
         }
       },
       "color": {
