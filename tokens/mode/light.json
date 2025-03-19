@@ -1221,6 +1221,26 @@
               "type": "color"
             }
           }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.breadcrumb.text.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.brand.breadcrumb.text.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.brand.breadcrumb.text.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.brand.breadcrumb.text.color.focus}",
+              "type": "color"
+            }
+          }
         }
       }
     }

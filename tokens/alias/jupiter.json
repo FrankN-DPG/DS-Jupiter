@@ -3025,6 +3025,26 @@
               "type": "color"
             }
           }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.jupiterCore.color.matisse.600}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{core.jupiterCore.color.matisse.600}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{core.color.neutral.1000}",
+              "type": "color"
+            }
+          }
         }
       }
     }
