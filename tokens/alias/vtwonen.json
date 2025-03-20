@@ -219,6 +219,34 @@
               "type": "border"
             }
           }
+        },
+        "dossier": {
+          "color": {
+            "default": {
+              "value": {
+                "color": "{core.color.neutral.1000}"
+              },
+              "type": "border"
+            },
+            "hover": {
+              "value": {
+                "color": "{core.vtwonenCore.color.redRibbon.800}"
+              },
+              "type": "border"
+            },
+            "pressed": {
+              "value": {
+                "color": "{core.vtwonenCore.color.redRibbon.800}"
+              },
+              "type": "border"
+            },
+            "focus": {
+              "value": {
+                "color": "{core.color.semantic.focus}"
+              },
+              "type": "border"
+            }
+          }
         }
       },
       "breadcrumb": {
