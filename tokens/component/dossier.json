@@ -1,0 +1,106 @@
+{
+  "dossier": {
+    "spacing": {
+      "vertical": {
+        "value": "{alias.brand.dossier.spacing.vertical}",
+        "type": "spacing"
+      },
+      "horizontal": {
+        "value": "{alias.brand.dossier.spacing.horizontal}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{alias.brand.dossier.spacing.gap}",
+        "type": "spacing"
+      }
+    },
+    "radius": {
+      "default": {
+        "value": "{alias.brand.dossier.radius.default}",
+        "type": "borderRadius"
+      }
+    },
+    "border": {
+      "width": {
+        "default": {
+          "value": "{alias.brand.dossier.border.width.default}",
+          "type": "borderWidth"
+        },
+        "focus": {
+          "value": "{alias.brand.dossier.border.width.focus}",
+          "type": "borderWidth"
+        }
+      },
+      "color": {
+        "default": {
+          "value": "{alias.mode.border.dossier.color.default}",
+          "type": "border"
+        },
+        "hover": {
+          "value": "{alias.mode.border.dossier.color.hover}",
+          "type": "border"
+        },
+        "pressed": {
+          "value": "{alias.mode.border.dossier.color.pressed}",
+          "type": "border"
+        },
+        "focus": {
+          "value": "{alias.mode.border.dossier.color.focus}",
+          "type": "border"
+        }
+      }
+    },
+    "background": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.dossier.background.color.default}",
+          "type": "color"
+        }
+      }
+    },
+    "text": {
+      "typography": {
+        "value": "{alias.brand.typography.component.dossier.default}",
+        "type": "typography"
+      },
+      "color": {
+        "default": {
+          "value": "{alias.mode.dossier.text.color.default}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{alias.mode.dossier.text.color.hover}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{alias.mode.dossier.text.color.pressed}",
+          "type": "color"
+        },
+        "focus": {
+          "value": "{alias.mode.dossier.text.color.focus}",
+          "type": "color"
+        }
+      }
+    },
+    "icon": {
+      "color": {
+        "default": {
+          "value": "{alias.mode.dossier.text.color.default}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{alias.mode.dossier.text.color.hover}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{alias.mode.dossier.text.color.pressed}",
+          "type": "color"
+        },
+        "focus": {
+          "value": "{alias.mode.dossier.text.color.focus}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

@@ -28,7 +28,8 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled",
       "component/sharedArticle": "enabled",
-      "component/breadcrumbs": "enabled"
+      "component/breadcrumbs": "enabled",
+      "component/dossier": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "brand"
@@ -62,7 +63,8 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled",
       "component/sharedArticle": "enabled",
-      "component/breadcrumbs": "enabled"
+      "component/breadcrumbs": "enabled",
+      "component/dossier": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "brand"
@@ -96,7 +98,8 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled",
       "component/sharedArticle": "enabled",
-      "component/breadcrumbs": "enabled"
+      "component/breadcrumbs": "enabled",
+      "component/dossier": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "brand"
@@ -130,7 +133,8 @@
       "core/flairCore": "source",
       "alias/flair": "enabled",
       "component/sharedArticle": "enabled",
-      "component/breadcrumbs": "enabled"
+      "component/breadcrumbs": "enabled",
+      "component/dossier": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "brand"
@@ -164,7 +168,8 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled",
       "component/sharedArticle": "enabled",
-      "component/breadcrumbs": "enabled"
+      "component/breadcrumbs": "enabled",
+      "component/dossier": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "brand"
@@ -198,7 +203,8 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled",
       "component/sharedArticle": "enabled",
-      "component/breadcrumbs": "enabled"
+      "component/breadcrumbs": "enabled",
+      "component/dossier": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "brand"
@@ -232,7 +238,8 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled",
       "component/sharedArticle": "enabled",
-      "component/breadcrumbs": "enabled"
+      "component/breadcrumbs": "enabled",
+      "component/dossier": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "brand"
@@ -266,7 +273,8 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled",
       "component/sharedArticle": "enabled",
-      "component/breadcrumbs": "enabled"
+      "component/breadcrumbs": "enabled",
+      "component/dossier": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "brand"
@@ -300,7 +308,8 @@
       "component/carousel": "enabled",
       "component/toggletip": "enabled",
       "component/sharedArticle": "enabled",
-      "component/breadcrumbs": "enabled"
+      "component/breadcrumbs": "enabled",
+      "component/dossier": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "brand"

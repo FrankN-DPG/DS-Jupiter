@@ -5,6 +5,7 @@
     "component/button",
     "component/carousel",
     "component/divider",
+    "component/dossier",
     "component/footer",
     "component/icon",
     "component/iconButton",

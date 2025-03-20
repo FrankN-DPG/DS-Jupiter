@@ -1079,6 +1079,26 @@
               "type": "border"
             }
           }
+        },
+        "dossier": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.border.dossier.color.default}",
+              "type": "border"
+            },
+            "hover": {
+              "value": "{alias.brand.border.dossier.color.hover}",
+              "type": "border"
+            },
+            "pressed": {
+              "value": "{alias.brand.border.dossier.color.pressed}",
+              "type": "border"
+            },
+            "focus": {
+              "value": "{alias.brand.border.dossier.color.focus}",
+              "type": "border"
+            }
+          }
         }
       },
       "footer": {
@@ -1242,6 +1262,56 @@
             },
             "focus": {
               "value": "{alias.brand.breadcrumb.text.color.focus}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "dossier": {
+        "background": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.dossier.background.color.default}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.dossier.text.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.brand.dossier.text.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.brand.dossier.text.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.brand.dossier.text.color.focus}",
+              "type": "color"
+            }
+          }
+        },
+        "icon": {
+          "color": {
+            "default": {
+              "value": "{alias.brand.dossier.icon.color.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alias.brand.dossier.icon.color.hover}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{alias.brand.dossier.icon.color.pressed}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{alias.brand.dossier.icon.color.focus}",
               "type": "color"
             }
           }
